@@ -1,0 +1,18 @@
+title: Data Engineer
+summary: Every concept a data engineer meets, from collecting events to serving trusted tables, in the order you actually need it.
+levels:
+  - id: junior
+    title: Junior
+    summary: Build and fix pipelines from clear specs; write correct SQL.
+  - id: mid-level
+    title: Mid-level
+    summary: Own pipelines and models end to end, including their quality.
+  - id: senior
+    title: Senior
+    summary: Design the platform's storage, processing and modeling choices.
+  - id: staff
+    title: Staff
+    summary: Shape how the whole organization produces and uses data.
+  - id: principal
+    title: Principal
+    summary: Set data strategy and architecture across the company.
