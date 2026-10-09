@@ -1,0 +1,101 @@
+---
+import { loadGlossary, outlineTerms } from '../lib/glossary';
+
+// Book-style outline: domains → topics → concepts. Every page carries domains and topics; only the
+// current topic's concepts are inlined. Other topics fetch /outline/<topic>.json when first expanded.
+const { domains, topics, terms, tracks, termById } = await loadGlossary();
+
+const path = Astro.url.pathname.replace(/\/$/, '');
+const [, section, slug] = path.split('/');
+const currentTerm = section === 't' ? termById.get(slug) : undefined;
+const currentTopicId = currentTerm?.topic ?? (section === 'topics' ? slug : undefined);
+const currentDomainId =
+  currentTerm?.domain ??
+  (currentTopicId ? topics.find((t) => t.id === currentTopicId)?.domain : section === 'domains' ? slug : undefined);
+const currentTopicTerms = currentTopicId ? outlineTerms(terms, tracks, currentTopicId) : [];
+---
+
+<details class="toc" id="toc" open>
+  <summary class="toc-toggle">Contents</summary>
+  <nav aria-label="Outline">
+    <ul class="toc-domains">
+      {domains.map((domain) => (
+        <li>
+          <details open={domain.id === currentDomainId}>
+            <summary>
+              <a href={`/domains/${domain.id}`} aria-current={section === 'domains' && slug === domain.id ? 'page' : undefined}>
+                {domain.data.title}
+              </a>
+            </summary>
+            <ul class="toc-topics">
+              {topics.filter((t) => t.domain === domain.id).map((topic) => {
+                const current = topic.id === currentTopicId;
+                return (
+                  <li>
+                    <details open={current} data-topic={current ? undefined : topic.id}>
+                      <summary>
+                        <a href={`/topics/${topic.id}`} aria-current={section === 'topics' && slug === topic.id ? 'page' : undefined}>
+                          {topic.data.title}
+                        </a>
+                      </summary>
+                      <ul class="toc-terms">
+                        {current &&
+                          currentTopicTerms.map((t) => (
+                            <li>
+                              <a href={`/t/${t.id}`} aria-current={t.id === currentTerm?.id ? 'page' : undefined}>
+                                {t.data.title}
+                              </a>
+                            </li>
+                          ))}
+                      </ul>
+                    </details>
+                  </li>
+                );
+              })}
+            </ul>
+          </details>
+        </li>
+      ))}
+    </ul>
+  </nav>
+</details>
+
+<script is:inline>
+  (function () {
+    var toc = document.getElementById('toc');
+    // Narrow screens start with the outline folded behind the "Contents" button.
+    if (window.matchMedia('(max-width: 1023px)').matches) toc.open = false;
+
+    // Bring the current page's entry into view inside the sidebar without scrolling the page.
+    var current = toc.querySelector('.toc-terms [aria-current="page"]') || toc.querySelector('[aria-current="page"]');
+    var scroller = toc.querySelector('nav');
+    if (current && scroller) scroller.scrollTop = current.offsetTop - scroller.clientHeight / 3;
+
+    // Topics other than the current one load their concept list on first expand.
+    toc.addEventListener('toggle', function (e) {
+      var d = e.target;
+      if (!d.open || !d.dataset || !d.dataset.topic) return;
+      var id = d.dataset.topic;
+      delete d.dataset.topic;
+      var list = d.querySelector('.toc-terms');
+      list.innerHTML = '<li class="toc-loading">Loading…</li>';
+      fetch('/outline/' + id + '.json')
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (items) {
+          list.innerHTML = '';
+          items.forEach(function (t) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.href = '/t/' + t.id;
+            a.textContent = t.title;
+            li.appendChild(a);
+            list.appendChild(li);
+          });
+        })
+        .catch(function () {
+          d.dataset.topic = id;
+          list.innerHTML = '<li class="toc-loading">Couldn’t load. <a href="/topics/' + id + '">Open topic</a></li>';
+        });
+    }, true);
+  })();
+</script>

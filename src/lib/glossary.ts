@@ -102,6 +102,19 @@ export function termsInTopic(terms: Term[], topicId: string) {
   return terms.filter((t) => t.topic === topicId || t.data.also.includes(topicId));
 }
 
+/** A topic's concepts in reading order: earliest level in any track first, then by title. */
+export function outlineTerms(terms: Term[], tracks: Track[], topicId: string) {
+  const rank = (t: Term) =>
+    Math.min(
+      ...Object.entries(t.data.levels).map(([trackId, level]) => {
+        const track = tracks.find((tr) => tr.id === trackId);
+        const i = track ? track.data.levels.findIndex((l) => l.id === level) : -1;
+        return i < 0 ? 99 : i;
+      }),
+    );
+  return termsInTopic(terms, topicId).sort((a, b) => rank(a) - rank(b) || a.data.title.localeCompare(b.data.title));
+}
+
 export function isCore(term: Term, track: Track) {
   return term.data.core.includes(track.id);
 }

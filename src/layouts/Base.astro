@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Search from '../components/Search.astro';
+import Sidebar from '../components/Sidebar.astro';
 
 interface Props {
   title?: string;
@@ -32,8 +33,11 @@ const pageTitle = title ? `${title} · Annotated Mind` : 'Annotated Mind';
         <a href="/domains">Domains</a>
       </nav>
     </header>
-    <main data-pagefind-body={indexed ? '' : undefined}>
-      <slot />
-    </main>
+    <div class="shell">
+      <Sidebar />
+      <main data-pagefind-body={indexed ? '' : undefined}>
+        <slot />
+      </main>
+    </div>
   </body>
 </html>
