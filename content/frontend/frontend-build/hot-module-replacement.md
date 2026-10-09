@@ -13,4 +13,4 @@ The benefit shows up when you're working on a screen. Suppose you've filled in a
 
 The classic mistake is assuming state always survives an update. HMR depends on the tool and the framework. When a change can't be applied safely in place, the tool falls back to a full reload, and the state in memory is lost. You won't always know from the code alone which case you're in, so check the terminal and the browser console when something resets unexpectedly.
 
-HMR is a development-only feature. Production builds don't include it, so don't test state-preservation rules only in development. See [Vite](/t/vite), which provides HMR in its dev server.
+HMR exists only in development. In production, every deploy is a full page load, so never rely on HMR-style state preservation in your app's behaviour. Keep anything that must survive a reload in storage or the URL. See [Vite](/t/vite), which provides HMR in its dev server.

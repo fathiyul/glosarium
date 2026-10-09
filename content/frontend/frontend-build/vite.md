@@ -6,7 +6,7 @@ prereqs: ["dev-server"]
 related: ["dev-server", "hot-module-replacement", "bundle-size", "build-artifact"]
 ---
 
-Vite is a build tool for frontend projects. In development it runs a [dev server](/t/dev-server) that serves your source files directly, so it starts quickly and updates as you edit. For production it bundles the app, and it uses Rollup for that step.
+Vite is a build tool for frontend projects. In development it runs a [dev server](/t/dev-server) that serves your source files directly, so it starts quickly and updates as you edit. For production it bundles and optimizes the app into static files.
 
 ```sh
 npm create vite@latest my-app   # scaffold a new project
