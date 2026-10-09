@@ -1,0 +1,18 @@
+title: Frontend Engineer
+summary: Every concept a frontend engineer meets, in the order you actually need it. Start at Junior; ignore the rest until it comes up at work.
+levels:
+  - id: junior
+    title: Junior
+    summary: Build UI that works, ship small changes safely, ask good questions.
+  - id: mid-level
+    title: Mid-level
+    summary: Own a feature end to end without hand-holding.
+  - id: senior
+    title: Senior
+    summary: Own an app's architecture, performance, and failure modes.
+  - id: staff
+    title: Staff
+    summary: Shape how many teams build, across apps.
+  - id: principal
+    title: Principal
+    summary: Set technical direction for the organization.

@@ -1,0 +1,66 @@
+---
+import { groupByLevel, isCore, type Term, type Topic, type Track } from '../lib/glossary';
+import TermList from './TermList.astro';
+
+// A track's terms grouped by level. Within a level, core terms come first and the rest are
+// collapsed, so each level has a short "start here" list. Levels without core terms show everything.
+interface Props {
+  track: Track;
+  terms: Term[];
+  topics: Topic[];
+  groupByTopic?: boolean;
+}
+const { track, terms, topics, groupByTopic = true } = Astro.props;
+const groups = groupByLevel(track, terms).map(({ level, terms }) => {
+  const core = terms.filter((t) => isCore(t, track));
+  return core.length > 0
+    ? { level, primary: core, rest: terms.filter((t) => !isCore(t, track)) }
+    : { level, primary: terms, rest: [] };
+});
+const byTopic = (list: Term[]) =>
+  topics.filter((topic) => list.some((t) => t.topic === topic.id)).map((topic) => ({
+    topic,
+    terms: list.filter((t) => t.topic === topic.id),
+  }));
+---
+
+{groups.map(({ level, primary, rest }) => (
+  <section>
+    <div class="level-head">
+      <h2 id={level.id}>{level.title}</h2>
+      <p>{level.summary}</p>
+    </div>
+    {primary.length === 0 ? (
+      <p class="empty">Nothing here yet.</p>
+    ) : (
+      <>
+        {rest.length > 0 && <p class="core-label">Core: start here</p>}
+        {groupByTopic ? (
+          byTopic(primary).map(({ topic, terms }) => (
+            <>
+              <p class="topic-label"><a href={`/topics/${topic.id}`}>{topic.data.title}</a></p>
+              <TermList terms={terms} />
+            </>
+          ))
+        ) : (
+          <TermList terms={primary} />
+        )}
+      </>
+    )}
+    {rest.length > 0 && (
+      <details class="more">
+        <summary>{rest.length} more {level.title.toLowerCase()} concepts</summary>
+        {groupByTopic ? (
+          byTopic(rest).map(({ topic, terms }) => (
+            <>
+              <p class="topic-label"><a href={`/topics/${topic.id}`}>{topic.data.title}</a></p>
+              <TermList terms={terms} />
+            </>
+          ))
+        ) : (
+          <TermList terms={rest} />
+        )}
+      </details>
+    )}
+  </section>
+))}

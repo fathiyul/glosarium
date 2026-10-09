@@ -1,0 +1,66 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import TermList from '../../components/TermList.astro';
+import { isCore, levelTitle, loadGlossary, type Term } from '../../lib/glossary';
+
+export async function getStaticPaths() {
+  const { terms } = await loadGlossary();
+  return terms.map((term) => ({ params: { term: term.id }, props: { term } }));
+}
+
+const { term } = Astro.props as { term: Term };
+const { terms, termById, topicById, domainById, trackById } = await loadGlossary();
+const topic = topicById.get(term.topic)!;
+const domain = domainById.get(term.domain)!;
+const { Content } = await render(term);
+
+const lookup = (ids: string[]) => ids.map((id) => termById.get(id)!);
+const prereqs = lookup(term.data.prereqs);
+const related = lookup(term.data.related);
+const shown = new Set([term.id, ...term.data.prereqs, ...term.data.related]);
+const backlinks = terms.filter(
+  (t) => !shown.has(t.id) && (t.data.related.includes(term.id) || t.data.prereqs.includes(term.id)),
+);
+// Same topic and same level in at least one track: the natural "what to read next".
+const sameLevel = (t: Term) => Object.entries(term.data.levels).some(([track, level]) => t.data.levels[track] === level);
+const sameTopic = terms
+  .filter((t) => t.topic === term.topic && !shown.has(t.id) && !backlinks.includes(t) && sameLevel(t))
+  .slice(0, 8);
+const topicSize = terms.filter((t) => t.topic === term.topic).length;
+---
+
+<Base title={term.data.title} description={term.data.summary}>
+  <div class="term-layout">
+  <article class="prose">
+  <p class="crumbs">
+    <a href={`/domains/${domain.id}`}>{domain.data.title}</a>{' › '}
+    <a href={`/topics/${topic.id}`}>{topic.data.title}</a>
+  </p>
+  <h1>{term.data.title}</h1>
+  <p class="lede">{term.data.summary}</p>
+  <div class="meta">
+    {Object.entries(term.data.levels).map(([trackId, level]) => {
+      const track = trackById.get(trackId)!;
+      return (
+        <a href={`/tracks/${trackId}#${level}`} class={`level level-${level}`}>
+          {track.data.title} · {levelTitle(track, level)}{isCore(term, track) && ' · core'}
+        </a>
+      );
+    })}
+    {term.data.aliases.length > 0 && <span>Also: {term.data.aliases.join(', ')}</span>}
+  </div>
+
+  {term.written ? <Content /> : <p class="notice">Not written yet. Only the summary above exists so far.</p>}
+  </article>
+
+  <aside class="aside">
+    {prereqs.length > 0 && (<><h2>Learn first</h2><TermList compact terms={prereqs} /></>)}
+    {related.length > 0 && (<><h2>Related</h2><TermList compact terms={related} /></>)}
+    {backlinks.length > 0 && (<><h2>Mentioned by</h2><TermList compact terms={backlinks} /></>)}
+    <h2>More in {topic.data.title}</h2>
+    {sameTopic.length > 0 && <TermList compact terms={sameTopic} />}
+    <p><a href={`/topics/${topic.id}`}>All {topicSize} concepts →</a></p>
+  </aside>
+  </div>
+</Base>

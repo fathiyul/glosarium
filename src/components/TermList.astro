@@ -1,0 +1,19 @@
+---
+import type { Term } from '../lib/glossary';
+
+interface Props {
+  terms: Term[];
+  // Titles only, for sidebars.
+  compact?: boolean;
+}
+const { terms, compact = false } = Astro.props;
+---
+
+<ul class:list={["term-list", { compact }]}>
+  {terms.map((t) => (
+    <li>
+      <a href={`/t/${t.id}`} title={compact ? t.data.summary : undefined}>{t.data.title}</a>
+      {compact ? null : <span class="summary">{t.data.summary}</span>}
+    </li>
+  ))}
+</ul>

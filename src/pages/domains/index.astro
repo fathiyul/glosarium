@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadGlossary } from '../../lib/glossary';
+
+const { domains, topics, terms } = await loadGlossary();
+---
+
+<Base title="Domains">
+  <h1>Domains</h1>
+  <p class="lede">Every concept lives in one domain and topic, whichever tracks use it.</p>
+  <ul class="card-list">
+    {domains.map((d) => (
+      <li>
+        <a href={`/domains/${d.id}`}><strong>{d.data.title}</strong></a>
+        <p>{d.data.summary}</p>
+        <p>
+          {topics.filter((t) => t.domain === d.id).length} topics ·
+          {terms.filter((t) => t.domain === d.id).length} concepts
+        </p>
+      </li>
+    ))}
+  </ul>
+</Base>

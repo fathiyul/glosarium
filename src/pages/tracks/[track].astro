@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import TrackView from '../../components/TrackView.astro';
+import { loadGlossary, type Track } from '../../lib/glossary';
+
+export async function getStaticPaths() {
+  const { tracks } = await loadGlossary();
+  return tracks.map((track) => ({ params: { track: track.id }, props: { track } }));
+}
+
+const { track } = Astro.props as { track: Track };
+---
+
+<Base title={track.data.title} description={track.data.summary}>
+  <TrackView track={track} />
+</Base>

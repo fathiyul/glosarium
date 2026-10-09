@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import { groupByLevel, isCore, loadGlossary } from '../lib/glossary';
+
+const { tracks, terms, domains, topics } = await loadGlossary();
+const coreLabel = (core: number, total: number) => (core > 0 ? `${core} core of ${total}` : `${total}`);
+---
+
+<Base>
+  <h1>Annotated Mind</h1>
+  <p class="lede">
+    Every concept in a field, ordered by when you actually need it. Pick a track, start at the
+    first level, and ignore the rest until it comes up.
+  </p>
+
+  <h2>Tracks</h2>
+  <ul class="card-list track-cards">
+    {tracks.map((track) => {
+      const trackTerms = terms.filter((t) => track.id in t.data.levels);
+      return (
+        <li>
+          <a href={`/tracks/${track.id}`}><strong>{track.data.title}</strong></a>
+          <p>{track.data.summary}</p>
+          <div class="level-counts">
+            {groupByLevel(track, trackTerms).map(({ level, terms }) => (
+              <a href={`/tracks/${track.id}#${level.id}`} class={`level level-${level.id}`}>
+                {level.title} · {coreLabel(terms.filter((t) => isCore(t, track)).length, terms.length)}
+              </a>
+            ))}
+          </div>
+        </li>
+      );
+    })}
+  </ul>
+
+  <h2>Domains</h2>
+  <ul class="card-list">
+    {domains.map((d) => (
+      <li>
+        <a href={`/domains/${d.id}`}><strong>{d.data.title}</strong></a>
+        <p>{d.data.summary}</p>
+        <p>
+          {topics.filter((t) => t.domain === d.id).map((t) => t.data.title).join(' · ')}
+        </p>
+      </li>
+    ))}
+  </ul>
+</Base>
