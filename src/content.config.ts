@@ -43,6 +43,8 @@ const terms = defineCollection({
     levels: z.record(z.string(), z.string()),
     // Tracks where this is a must-know at its level. Core terms are listed first; the rest are collapsed.
     core: z.array(z.string()).default([]),
+    // Other topics this concept also belongs to. It's listed on those topic pages too; its page stays in one place.
+    also: z.array(z.string()).default([]),
     aliases: z.array(z.string()).default([]),
     prereqs: z.array(z.string()).default([]),
     related: z.array(z.string()).default([]),

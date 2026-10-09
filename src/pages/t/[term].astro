@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import TermList from '../../components/TermList.astro';
-import { isCore, levelTitle, loadGlossary, type Term } from '../../lib/glossary';
+import { isCore, levelTitle, loadGlossary, termsInTopic, type Term } from '../../lib/glossary';
 
 export async function getStaticPaths() {
   const { terms } = await loadGlossary();
@@ -27,7 +27,8 @@ const sameLevel = (t: Term) => Object.entries(term.data.levels).some(([track, le
 const sameTopic = terms
   .filter((t) => t.topic === term.topic && !shown.has(t.id) && !backlinks.includes(t) && sameLevel(t))
   .slice(0, 8);
-const topicSize = terms.filter((t) => t.topic === term.topic).length;
+const topicSize = termsInTopic(terms, term.topic).length;
+const alsoIn = term.data.also.map((id) => topicById.get(id)!);
 ---
 
 <Base title={term.data.title} description={term.data.summary}>
@@ -36,6 +37,12 @@ const topicSize = terms.filter((t) => t.topic === term.topic).length;
   <p class="crumbs">
     <a href={`/domains/${domain.id}`}>{domain.data.title}</a>{' › '}
     <a href={`/topics/${topic.id}`}>{topic.data.title}</a>
+    {alsoIn.length > 0 && (
+      <span class="also-in">
+        {' · also in '}
+        {alsoIn.map((t, i) => (<>{i > 0 && ', '}<a href={`/topics/${t.id}`}>{t.data.title}</a></>))}
+      </span>
+    )}
   </p>
   <h1>{term.data.title}</h1>
   <p class="lede">{term.data.summary}</p>

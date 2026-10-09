@@ -4,6 +4,7 @@ summary: A small piece of data the server asks the browser to store and send bac
 levels: { backend: junior, frontend: junior }
 related: [session, csrf, samesite-cookie]
 core: [frontend]
+also: [http, browsers]
 ---
 
 The server sets a cookie with a response header:

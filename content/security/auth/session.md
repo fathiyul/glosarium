@@ -6,6 +6,7 @@ aliases: [Server-side session]
 prereqs: [authentication-vs-authorization]
 related: [cookie, jwt, session-fixation, csrf]
 core: [backend]
+also: [backend-basics]
 ---
 
 HTTP is stateless: each request arrives with no memory of the previous one. A **session**

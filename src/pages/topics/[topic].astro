@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import LevelSections from '../../components/LevelSections.astro';
-import { loadGlossary, type Topic } from '../../lib/glossary';
+import { loadGlossary, termsInTopic, type Topic } from '../../lib/glossary';
 
 export async function getStaticPaths() {
   const { topics } = await loadGlossary();
@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 const { topic } = Astro.props as { topic: Topic };
 const { terms, tracks, domainById } = await loadGlossary();
 const domain = domainById.get(topic.domain)!;
-const topicTerms = terms.filter((t) => t.topic === topic.id);
+const topicTerms = termsInTopic(terms, topic.id);
 const { Content } = await render(topic);
 ---
 

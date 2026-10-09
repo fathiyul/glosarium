@@ -73,6 +73,10 @@ function validate(
       else if (!track.data.levels.some((l) => l.id === level))
         errors.push(`term "${term.id}": track "${trackId}" has no level "${level}"`);
     }
+    for (const topicId of term.data.also) {
+      if (!topicById.has(topicId)) errors.push(`term "${term.id}": unknown topic "${topicId}" in also`);
+      else if (topicId === term.topic) errors.push(`term "${term.id}": also lists its own topic "${topicId}"`);
+    }
     for (const trackId of term.data.core) {
       if (!(trackId in term.data.levels)) errors.push(`term "${term.id}": core in "${trackId}" but has no level there`);
     }
@@ -91,6 +95,11 @@ export function groupByLevel(track: Track, terms: Term[]) {
     level,
     terms: terms.filter((t) => t.data.levels[track.id] === level.id),
   }));
+}
+
+/** Terms that live in a topic or are cross-listed there via `also`. */
+export function termsInTopic(terms: Term[], topicId: string) {
+  return terms.filter((t) => t.topic === topicId || t.data.also.includes(topicId));
 }
 
 export function isCore(term: Term, track: Track) {
