@@ -44,7 +44,7 @@ const alsoIn = term.data.also.map((id) => topicById.get(id)!);
       </span>
     )}
   </p>
-  <h1>{term.data.title}</h1>
+  <h1 data-pagefind-weight="10">{term.data.title}</h1>
   <p class="lede">{term.data.summary}</p>
   <div class="meta">
     {Object.entries(term.data.levels).map(([trackId, level]) => {
@@ -55,8 +55,10 @@ const alsoIn = term.data.also.map((id) => topicById.get(id)!);
         </a>
       );
     })}
-    {term.data.aliases.length > 0 && <span>Also: {term.data.aliases.join(', ')}</span>}
   </div>
+  {term.data.aliases.length > 0 && (
+    <p class="aliases" data-pagefind-weight="7">Also known as: {term.data.aliases.join(', ')}</p>
+  )}
 
   {term.written ? <Content /> : <p class="notice">Not written yet. Only the summary above exists so far.</p>}
   </article>

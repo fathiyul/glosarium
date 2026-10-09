@@ -154,3 +154,4 @@ th, td { border-bottom: 1px solid var(--border); padding: 0.4rem 0.6rem; text-al
   .search { flex-basis: 100%; max-width: none; order: 3; }
   .search .pagefind-ui__drawer { left: 16px; right: 16px; }
 }
+.aliases { margin: -1rem 0 1.5rem; font-size: 0.9rem; color: var(--muted); }

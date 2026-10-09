@@ -30,6 +30,9 @@ const dev = import.meta.env.DEV;
           showImages: false,
           showSubResults: false,
           resetStyles: false,
+          // Written concepts are much longer than stubs; without this the default length
+          // penalty ranks e.g. the main JWT page below its stub siblings.
+          ranking: { pageLength: 0.1 },
           translations: { placeholder: 'Search concepts  ( / )' },
         });
       }).catch(function () { box.hidden = true; });
