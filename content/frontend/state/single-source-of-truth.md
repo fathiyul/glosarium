@@ -26,4 +26,6 @@ const [total, setTotal] = useState(0);
 
 Now every place that adds or removes an item has to update both values. Sooner or later one update gets forgotten and the total no longer matches the list.
 
+The same rule applies on the backend. The database is usually the source of truth; [caches](/t/caching), [read replicas](/t/read-replica) and search indexes are copies that must be kept in sync with it, and when they disagree, the database wins. Two services that each store their own copy of a customer's address will eventually disagree too, so decide which one owns it.
+
 Derive what you can. Use [derived state](/t/derived-state) for values computed from other values. When the same data comes from a server, keep one cache of it rather than copying it into several components. See [server state vs client state](/t/server-state-vs-client-state). Copying a prop into local state is the same mistake, because the prop and the copy can disagree.
