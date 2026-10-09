@@ -1,11 +1,11 @@
 ---
 title: "Rebase"
 summary: "Replaying commits on top of another base for a linear history."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git rebase", "rebasing"]
 prereqs: ["branch", "commit", "merge"]
 related: ["merge-vs-rebase", "interactive-rebase", "merge-conflict", "force-push", "rewriting-history"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 `git rebase` takes the commits on your branch and **replays them on top of a different

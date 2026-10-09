@@ -1,5 +1,5 @@
 ---
 title: "Right to Erasure"
 summary: "Deleting a user's data on request, across every system."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

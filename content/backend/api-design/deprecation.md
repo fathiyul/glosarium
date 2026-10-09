@@ -1,5 +1,5 @@
 ---
 title: "Deprecation"
 summary: "Marking something for removal and giving users time to migrate."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 ---

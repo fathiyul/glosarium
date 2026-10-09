@@ -1,5 +1,5 @@
 ---
 title: "Docstrings / JSDoc"
 summary: "Documenting functions and modules right next to the code."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

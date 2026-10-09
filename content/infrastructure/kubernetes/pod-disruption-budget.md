@@ -1,5 +1,5 @@
 ---
 title: "Pod Disruption Budget"
 summary: "Limiting how many pods can be down during maintenance."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

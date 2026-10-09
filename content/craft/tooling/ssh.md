@@ -1,11 +1,11 @@
 ---
 title: "SSH"
 summary: "Securely logging into and running commands on remote machines."
-levels: { backend: junior, frontend: mid-level }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior }
 aliases: ["Secure Shell", "ssh client", "remote login"]
 prereqs: ["terminal", "shell"]
 related: ["ssh-keys", "port", "firewall", "dev-containers"]
-core: [backend]
+core: [backend, data-engineer]
 ---
 
 **SSH** (Secure Shell) lets you log in to another machine, and run commands there, over an

@@ -1,5 +1,5 @@
 ---
 title: "Chaos Engineering"
 summary: "Injecting failures on purpose to find weaknesses."
-levels: { backend: staff }
+levels: { backend: staff, data-engineer: staff }
 ---

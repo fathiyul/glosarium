@@ -1,5 +1,5 @@
 ---
 title: "User Empathy"
 summary: "Remembering a real person uses what you build."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

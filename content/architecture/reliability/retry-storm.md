@@ -1,5 +1,5 @@
 ---
 title: "Retry Storm"
 summary: "Retries multiplying the load on an already failing system."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 ---

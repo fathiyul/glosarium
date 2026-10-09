@@ -1,5 +1,5 @@
 ---
 title: "Security Group"
 summary: "A virtual firewall around cloud resources."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

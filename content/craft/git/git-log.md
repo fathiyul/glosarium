@@ -1,11 +1,11 @@
 ---
 title: "Log and History"
 summary: "Browsing and filtering commit history."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git log", "commit history", "history"]
 prereqs: ["commit"]
 related: ["git-diff", "git-blame", "git-bisect", "commit-message", "branch"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 `git log` lists the commits in your history, newest first. It's how you answer "what

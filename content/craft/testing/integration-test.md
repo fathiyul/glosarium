@@ -1,11 +1,11 @@
 ---
 title: "Integration Test"
 summary: "A test of several components working together."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["integration testing", "integration tests"]
 prereqs: ["unit-test"]
 related: ["unit-test", "end-to-end-test", "test-database", "api-testing", "testcontainers", "testing-pyramid"]
-core: [backend]
+core: [backend, data-engineer]
 ---
 
 An integration test checks that **several pieces work together**: your code and the

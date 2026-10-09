@@ -1,7 +1,7 @@
 ---
 title: "Promise / Future"
 summary: "An object representing a value that will be available later."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["Promises", "Future", "promise object", "Promise API"]
 prereqs: ["callback", "function"]
 related: ["async-await", "callback-hell", "promise-combinators", "event-loop", "cancellation"]

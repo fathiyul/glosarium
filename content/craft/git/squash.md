@@ -1,5 +1,5 @@
 ---
 title: "Squash"
 summary: "Combining several commits into one."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

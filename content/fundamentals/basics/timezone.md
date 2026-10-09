@@ -1,7 +1,7 @@
 ---
 title: "Time Zone"
 summary: "Offsets from UTC that change with location and daylight saving."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: [TZ, time zones, IANA time zone, tz database]
 prereqs: [date-time-handling]
 related: [date-time-handling, iso-8601, unix-timestamp]

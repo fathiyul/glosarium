@@ -1,5 +1,5 @@
 ---
 title: "Deadlock"
 summary: "Two or more tasks waiting on each other forever."
-levels: { backend: mid-level, frontend: senior }
+levels: { backend: mid-level, frontend: senior, data-engineer: mid-level }
 ---

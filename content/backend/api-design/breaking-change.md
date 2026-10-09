@@ -1,5 +1,5 @@
 ---
 title: "Breaking Change"
 summary: "A change that forces clients to update."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

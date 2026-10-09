@@ -1,7 +1,7 @@
 ---
 title: "Port"
 summary: "A number identifying a specific service on a host."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["port number", "network port", "TCP port", "listening port"]
 prereqs: ["ip-address"]
 related: ["ip-address", "localhost", "socket", "firewall", "tcp", "inspecting-connections"]

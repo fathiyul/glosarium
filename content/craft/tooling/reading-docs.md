@@ -1,10 +1,10 @@
 ---
 title: "Reading Documentation"
 summary: "Going to the official docs first, and knowing how to navigate them."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["documentation reading", "RTFM", "reading the docs", "official documentation"]
 related: ["reading-source-code", "searching-effectively", "reading-error-messages", "debugging"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 When you're stuck or learning a tool, the official documentation should usually be your first

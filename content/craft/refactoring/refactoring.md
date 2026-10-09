@@ -1,11 +1,11 @@
 ---
 title: "Refactoring"
 summary: "Changing code's structure without changing its behavior."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["refactor", "code refactoring", "restructuring code"]
 prereqs: ["unit-test", "clean-code"]
 related: ["extract-function", "rename-refactoring", "code-smell", "characterization-test", "legacy-code", "technical-debt"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **Refactoring** means improving the structure of code **without changing what it does**.

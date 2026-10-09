@@ -1,5 +1,5 @@
 ---
 title: "Polyglot Persistence"
 summary: "Using different databases for different needs in one system."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

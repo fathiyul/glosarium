@@ -1,5 +1,5 @@
 ---
 title: "Communicating with Executives"
 summary: "Short, decision-focused updates for leadership."
-levels: { backend: staff, frontend: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff }
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consensus"
 summary: "Getting nodes to agree on a value despite failures."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

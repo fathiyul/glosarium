@@ -1,11 +1,11 @@
 ---
 title: "Mock"
 summary: "A test double that verifies how it was called."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["mock object", "mocking", "mocks", "test mock"]
 prereqs: ["unit-test"]
 related: ["test-double", "stub-double", "fake", "spy", "over-mocking"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **mock** is a fake stand-in for a real dependency (an email sender, a payment client)

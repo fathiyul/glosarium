@@ -1,11 +1,11 @@
 ---
 title: "Small Pull Requests"
 summary: "Keeping changes small so they're reviewed faster and better."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["small pull requests", "small changes", "PR size"]
 prereqs: ["pull-request"]
 related: ["code-review", "atomic-commit", "stacked-prs", "self-review", "pr-description"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A small pull request is easier to review, quicker to merge and less risky to ship. There's

@@ -1,7 +1,7 @@
 ---
 title: "Stack Trace"
 summary: "The chain of function calls that led to an error."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["traceback", "stack traces", "call stack trace", "backtrace"]
 prereqs: ["function", "exception"]
 related: ["reading-error-messages", "debugger", "exception", "try-catch", "error-handling"]

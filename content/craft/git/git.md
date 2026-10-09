@@ -1,10 +1,10 @@
 ---
 title: "Git"
 summary: "The distributed version control system almost everyone uses."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["version control system", "git vcs", "DVCS"]
 related: ["version-control", "repository", "commit", "branch", "remote", "gitignore"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 Git is a tool that records the history of your files. Every saved snapshot is a

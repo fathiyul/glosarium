@@ -1,11 +1,11 @@
 ---
 title: ".gitignore"
 summary: "Files Git should never track, like build output and .env."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: [".gitignore file", "gitignore", "ignore file"]
 prereqs: ["git", "repository"]
 related: ["removing-secrets-from-history", "git-config", "staging-area", "repository"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A `.gitignore` file lists files and folders Git should pretend don't exist, so they never

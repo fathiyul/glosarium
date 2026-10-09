@@ -1,5 +1,5 @@
 ---
 title: "Guardrails"
 summary: "Checks on model inputs and outputs for safety and correctness."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 ---

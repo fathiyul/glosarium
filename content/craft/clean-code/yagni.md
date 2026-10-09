@@ -1,11 +1,11 @@
 ---
 title: "YAGNI (You Aren't Gonna Need It)"
 summary: "Don't build things before you need them."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["You Aren't Gonna Need It", "You Ain't Gonna Need It"]
 prereqs: ["kiss"]
 related: ["kiss", "premature-abstraction", "premature-optimization", "dry", "framework-independence"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **YAGNI** ("You Aren't Gonna Need It") says: don't build something because you *might* need it

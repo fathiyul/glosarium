@@ -1,5 +1,5 @@
 ---
 title: "Degraded Modes"
 summary: "Serving reduced functionality when dependencies fail."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 ---

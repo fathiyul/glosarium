@@ -1,5 +1,5 @@
 ---
 title: "Encapsulation"
 summary: "Hiding internal state behind a public interface."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dogfooding"
 summary: "Using your own product."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 ---

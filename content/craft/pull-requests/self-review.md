@@ -1,11 +1,11 @@
 ---
 title: "Self-Review"
 summary: "Reading your own diff before asking others to."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["reviewing your own PR", "self review"]
 prereqs: ["git-diff", "pull-request"]
 related: ["code-review", "pr-description", "small-prs", "pull-request", "git-diff"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **Self-review** means reading your own change as if someone else wrote it, before you ask

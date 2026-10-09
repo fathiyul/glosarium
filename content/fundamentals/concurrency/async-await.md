@@ -1,7 +1,7 @@
 ---
 title: "async / await"
 summary: "Syntax for writing asynchronous code that reads like synchronous code."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["async await", "async functions", "async/await"]
 prereqs: ["promise"]
 related: ["promise", "promise-combinators", "event-loop", "try-catch", "blocking-vs-non-blocking"]

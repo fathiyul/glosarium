@@ -1,5 +1,6 @@
 ---
 title: "Stream Windowing"
 summary: "Grouping events by time windows: tumbling, sliding and session windows."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: mid-level }
+also: [streaming-data]
 ---

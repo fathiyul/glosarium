@@ -1,11 +1,11 @@
 ---
 title: "KISS (Keep It Simple)"
 summary: "Prefer the simplest solution that works."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["Keep It Simple", "Keep It Simple Stupid", "keep it simple"]
 prereqs: ["clean-code"]
 related: ["yagni", "premature-abstraction", "dry", "readability", "principle-of-least-astonishment"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **KISS** ("Keep It Simple, Stupid") means: of the solutions that work, pick the simplest one.

@@ -1,5 +1,5 @@
 ---
 title: "Lost Update"
 summary: "Two writers overwriting each other's changes."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

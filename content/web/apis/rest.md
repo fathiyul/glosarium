@@ -1,7 +1,7 @@
 ---
 title: "REST"
 summary: "An API style built on resources, URLs and HTTP methods."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["RESTful", "REST API", "Representational State Transfer", "RESTful API"]
 prereqs: ["http-methods", "endpoint"]
 related: ["rest-constraints", "restful-resource-naming", "richardson-maturity-model", "rest-vs-graphql-vs-grpc", "openapi", "http-status-codes"]

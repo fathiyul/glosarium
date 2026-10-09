@@ -1,5 +1,5 @@
 ---
 title: "CRUD"
 summary: "Create, Read, Update, Delete: the four basic data operations."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

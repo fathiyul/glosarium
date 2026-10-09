@@ -1,5 +1,5 @@
 ---
 title: "HTTP Response"
 summary: "A status code, headers and a body."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

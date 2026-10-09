@@ -1,5 +1,5 @@
 ---
 title: "Cloud Cost Management (FinOps)"
 summary: "Understanding and controlling cloud spending."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Technical Debt"
 summary: "The future cost of shortcuts taken now."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["tech debt", "code debt"]
 prereqs: ["clean-code"]
 related: ["refactoring", "code-smell", "legacy-code", "yagni", "broken-windows"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **Technical debt** is the future cost of shortcuts taken today. Like financial debt, it lets

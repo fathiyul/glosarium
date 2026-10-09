@@ -1,11 +1,11 @@
 ---
 title: "Reading Error Messages"
 summary: "Actually reading the error: the first and most skipped debugging step."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["error messages", "reading errors", "understanding errors"]
 prereqs: ["stack-trace"]
 related: ["stack-trace", "debugging", "exception", "minimal-reproducible-example", "print-debugging"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 The most common debugging mistake is not reading the error carefully. Most error messages

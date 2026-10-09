@@ -1,11 +1,11 @@
 ---
 title: "PR Description"
 summary: "Explaining what changed, why, and how to test it."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["pull request description", "PR template", "PR body"]
 prereqs: ["pull-request"]
 related: ["commit-message", "code-review", "small-prs", "self-review", "draft-pr"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 The description is the first thing a reviewer reads. A good one saves them from reverse

@@ -1,7 +1,7 @@
 ---
 title: "Pass by Value vs Reference"
 summary: "Whether a function receives a copy or a reference to the caller's data."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["call by value", "call by reference", "pass by reference", "call by sharing"]
 prereqs: ["variable", "function", "mutable-vs-immutable"]
 related: ["mutable-vs-immutable", "shallow-vs-deep-copy", "equality-vs-identity", "pointer"]

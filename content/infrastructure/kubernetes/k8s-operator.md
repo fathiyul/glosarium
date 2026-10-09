@@ -1,5 +1,5 @@
 ---
 title: "Operator"
 summary: "A custom controller that automates running complex software."
-levels: { backend: staff }
+levels: { backend: staff, data-engineer: staff }
 ---

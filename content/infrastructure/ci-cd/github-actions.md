@@ -1,5 +1,5 @@
 ---
 title: "GitHub Actions"
 summary: "GitHub's built-in CI/CD."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

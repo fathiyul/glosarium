@@ -1,5 +1,5 @@
 ---
 title: "UTF-8"
 summary: "The dominant variable-length encoding of Unicode."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Development Environment Setup"
 summary: "Getting a project running locally from a fresh machine."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["dev setup", "local setup", "onboarding setup", "local development environment"]
 prereqs: ["git-clone", "package-manager"]
 related: ["environment-variable", "version-manager", "virtual-environment", "dev-containers", "lockfile", "reading-docs"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 Setting up a development environment means getting a project running on your own machine:

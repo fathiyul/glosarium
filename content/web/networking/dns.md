@@ -1,7 +1,7 @@
 ---
 title: "DNS"
 summary: "The internet's phone book, turning names into IP addresses."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["Domain Name System", "name resolution", "domain name system"]
 prereqs: ["domain-name", "ip-address"]
 related: ["dns-record-types", "dns-ttl", "domain-name", "ip-address", "localhost"]

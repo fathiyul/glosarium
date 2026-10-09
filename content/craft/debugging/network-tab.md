@@ -1,7 +1,7 @@
 ---
 title: "Network Tab"
 summary: "Inspecting every HTTP request a page makes."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["Network panel", "network inspector", "DevTools network"]
 prereqs: ["browser-devtools", "http-request"]
 related: ["browser-devtools", "http-status-codes", "http-headers", "cors", "fetch-api", "http-caching"]

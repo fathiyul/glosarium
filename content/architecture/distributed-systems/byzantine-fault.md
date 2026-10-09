@@ -1,5 +1,5 @@
 ---
 title: "Byzantine Fault"
 summary: "Nodes that behave arbitrarily or maliciously."
-levels: { backend: principal }
+levels: { backend: principal, data-engineer: principal }
 ---

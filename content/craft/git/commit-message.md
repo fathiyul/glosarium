@@ -1,11 +1,11 @@
 ---
 title: "Commit Message"
 summary: "A summary line plus a body explaining why a change was made."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git commit message", "commit messages", "commit subject"]
 prereqs: ["commit"]
 related: ["conventional-commits", "atomic-commit", "git-log", "pr-description", "squash"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A commit message explains a change to the person reading history later, which is often you

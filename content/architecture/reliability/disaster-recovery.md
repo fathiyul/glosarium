@@ -1,5 +1,5 @@
 ---
 title: "Disaster Recovery"
 summary: "Restoring service after a catastrophic failure."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

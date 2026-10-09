@@ -1,5 +1,5 @@
 ---
 title: "Protected Branch"
 summary: "A branch that requires reviews and passing checks before merging."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

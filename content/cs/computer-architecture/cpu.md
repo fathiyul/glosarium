@@ -1,5 +1,5 @@
 ---
 title: "CPU"
 summary: "The processor that executes instructions."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

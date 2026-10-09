@@ -1,5 +1,5 @@
 ---
 title: "Deployment"
 summary: "Declares how many replicas of a pod should run and how to update them."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

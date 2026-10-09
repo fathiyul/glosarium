@@ -1,11 +1,11 @@
 ---
 title: "Pull Request"
 summary: "A proposal to merge a branch, with discussion and review."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["PR", "pull requests", "merge request", "MR"]
 prereqs: ["branch", "git"]
 related: ["code-review", "pr-description", "small-prs", "draft-pr", "merge-strategies", "remote"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **pull request** (PR) is a request to merge your branch into another one, usually `main`.

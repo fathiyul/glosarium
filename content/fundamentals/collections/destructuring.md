@@ -1,7 +1,7 @@
 ---
 title: "Destructuring"
 summary: "Unpacking values from arrays or objects into variables."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["destructuring assignment", "unpacking", "tuple unpacking"]
 prereqs: ["variable", "array"]
 related: ["spread-operator", "default-parameter", "tuple", "undefined"]

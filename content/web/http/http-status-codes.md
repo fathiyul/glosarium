@@ -1,7 +1,7 @@
 ---
 title: "HTTP Status Codes"
 summary: "Three-digit codes grouped 1xx\u20135xx describing the result."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["status codes", "HTTP response codes", "HTTP errors", "404", "500"]
 prereqs: ["http"]
 related: ["http-2xx", "http-3xx", "http-4xx", "http-5xx", "http-401-vs-403", "endpoint"]

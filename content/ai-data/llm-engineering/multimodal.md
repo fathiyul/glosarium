@@ -1,5 +1,5 @@
 ---
 title: "Multimodal Models"
 summary: "Models that handle images, audio and text together."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 ---

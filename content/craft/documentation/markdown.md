@@ -1,10 +1,10 @@
 ---
 title: "Markdown"
 summary: "The plain-text formatting syntax used for READMEs, docs and PRs."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["Markdown syntax", ".md", "GitHub Flavored Markdown", "GFM"]
 related: ["readme", "docs-as-code", "technical-writing", "pr-description"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **Markdown** is a lightweight way to write formatted text in plain characters. It's used for

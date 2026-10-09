@@ -1,11 +1,11 @@
 ---
 title: "Formatter"
 summary: "A tool that rewrites code to a consistent style automatically."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["code formatter", "auto formatter", "Prettier", "Black", "gofmt"]
 prereqs: ["readability"]
 related: ["linter", "code-style-consistency", "pre-commit-hooks", "editorconfig", "static-analysis"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **formatter** rewrites your code into one consistent layout (indentation, spacing, line

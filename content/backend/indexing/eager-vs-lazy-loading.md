@@ -1,5 +1,5 @@
 ---
 title: "Eager vs Lazy Loading"
 summary: "Loading related data upfront vs on first access."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

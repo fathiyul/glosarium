@@ -1,11 +1,11 @@
 ---
 title: "Branch"
 summary: "A movable pointer to a line of commits, for isolated work."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git branch", "branches", "feature branch"]
 prereqs: ["commit", "repository"]
 related: ["head", "merge", "rebase", "branch-naming", "pull-request", "remote"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **branch** is a movable label that points to a commit. As you commit, the label moves

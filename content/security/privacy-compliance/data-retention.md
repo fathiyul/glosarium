@@ -1,5 +1,7 @@
 ---
 title: "Data Retention"
 summary: "How long to keep data, and when to delete it."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: mid-level }
+core: [data-engineer]
+also: [data-governance]
 ---

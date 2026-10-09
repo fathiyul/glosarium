@@ -1,11 +1,11 @@
 ---
 title: "Amend"
 summary: "Changing the most recent commit's content or message."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git commit --amend", "amend commit", "amend last commit"]
 prereqs: ["commit"]
 related: ["rebase", "force-push", "git-reflog", "commit-message", "rewriting-history"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 `git commit --amend` replaces your **most recent commit** with a corrected one. Use it for a

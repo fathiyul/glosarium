@@ -1,6 +1,6 @@
 ---
 title: "Deploying Schema and Code Together"
 summary: "Ordering migrations and code changes so neither breaks the other."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 also: [migrations]
 ---

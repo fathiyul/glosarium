@@ -1,5 +1,5 @@
 ---
 title: "Magic Number"
 summary: "An unexplained literal in code that should be a named constant."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

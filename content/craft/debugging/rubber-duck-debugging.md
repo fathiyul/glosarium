@@ -1,11 +1,11 @@
 ---
 title: "Rubber Duck Debugging"
 summary: "Explaining the problem out loud until you spot the bug."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["rubber duck", "rubber ducking", "rubber duck method"]
 prereqs: ["debugging"]
 related: ["debugging", "minimal-reproducible-example", "pairing", "print-debugging"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **Rubber duck debugging** means explaining your code, line by line and out loud, to a

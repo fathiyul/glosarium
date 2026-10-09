@@ -1,11 +1,11 @@
 ---
 title: "Lockfile"
 summary: "A record of exact dependency versions so every install is identical."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["lock file", "package-lock.json", "yarn.lock", "poetry.lock", "pnpm-lock.yaml", "Cargo.lock"]
 prereqs: ["package-manager"]
 related: ["package-manager", "dependency", "transitive-dependency", "dependency-hell", "dev-environment-setup"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 Your project's dependency list says what you want: `"express": "^4.18.0"` means "any

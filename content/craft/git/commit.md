@@ -1,11 +1,11 @@
 ---
 title: "Commit"
 summary: "A snapshot of changes with a message explaining them."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git commit", "commits", "commit snapshot"]
 prereqs: ["git", "staging-area"]
 related: ["commit-message", "atomic-commit", "staging-area", "git-log", "branch", "git-amend"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **commit** is a saved snapshot of your project, with a message saying why you made the

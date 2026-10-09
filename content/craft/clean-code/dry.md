@@ -1,11 +1,11 @@
 ---
 title: "DRY (Don't Repeat Yourself)"
 summary: "Every piece of knowledge should have one authoritative place."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["Don't Repeat Yourself", "DRY principle", "don't repeat yourself"]
 prereqs: ["function", "clean-code"]
 related: ["wet-code", "premature-abstraction", "single-responsibility-principle", "kiss"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 **DRY** (Don't Repeat Yourself) says every piece of *knowledge* should live in one place. If

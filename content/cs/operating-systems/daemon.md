@@ -1,5 +1,5 @@
 ---
 title: "Daemon / Service"
 summary: "A background process, usually managed by systemd."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

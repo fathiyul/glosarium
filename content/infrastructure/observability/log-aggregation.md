@@ -1,5 +1,5 @@
 ---
 title: "Log Aggregation"
 summary: "Collecting logs from every server into one searchable place."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

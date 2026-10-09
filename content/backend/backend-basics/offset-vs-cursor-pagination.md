@@ -1,7 +1,7 @@
 ---
 title: "Offset vs Cursor Pagination"
 summary: "Simple page numbers vs stable, scalable cursors."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 core: [backend]
 also: [api-design, sql]
 ---

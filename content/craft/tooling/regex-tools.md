@@ -1,5 +1,5 @@
 ---
 title: "Regex Testers"
 summary: "Tools for building and testing regular expressions interactively."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

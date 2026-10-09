@@ -1,5 +1,5 @@
 ---
 title: "Consumer Group"
 summary: "Consumers sharing the work from a topic."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: mid-level }
 ---

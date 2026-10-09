@@ -1,5 +1,5 @@
 ---
 title: "PCI DSS"
 summary: "Rules for handling payment card data."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

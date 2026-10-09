@@ -1,5 +1,5 @@
 ---
 title: "Keep-Alive Connections"
 summary: "Reusing one connection for many requests."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 ---

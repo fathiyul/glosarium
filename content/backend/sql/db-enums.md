@@ -1,5 +1,5 @@
 ---
 title: "Enums in the Database"
 summary: "Storing fixed sets of values safely."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

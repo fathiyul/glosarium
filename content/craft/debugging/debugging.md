@@ -1,11 +1,11 @@
 ---
 title: "Debugging"
 summary: "Systematically finding why code doesn't do what you expect."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["debug", "bug fixing", "troubleshooting code"]
 prereqs: ["reading-error-messages"]
 related: ["reproduce-bug", "minimal-reproducible-example", "debugger", "print-debugging", "rubber-duck-debugging", "root-cause-analysis"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 Debugging is finding out *why* your program doesn't do what you expect, and then fixing the

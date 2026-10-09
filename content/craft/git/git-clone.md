@@ -1,11 +1,11 @@
 ---
 title: "Clone"
 summary: "Copying a remote repository, with its full history, to your machine."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git clone", "clone a repository", "cloning"]
 prereqs: ["git", "repository"]
 related: ["remote", "push-pull-fetch", "fork", "branch", "repository"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 `git clone` copies a repository from somewhere else (usually GitHub or GitLab) onto your

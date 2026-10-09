@@ -1,7 +1,7 @@
 ---
 title: "IP Address"
 summary: "A numeric address identifying a device on a network."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["IP", "internet protocol address", "IPv4 address", "IPv6 address"]
 related: ["port", "dns", "private-ip", "ipv4-vs-ipv6", "localhost", "subnet"]
 core: [backend]

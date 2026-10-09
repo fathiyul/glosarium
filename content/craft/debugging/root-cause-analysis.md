@@ -1,6 +1,6 @@
 ---
 title: "Root Cause Analysis"
 summary: "Finding the underlying reason, not just the symptom."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 core: [backend, frontend]
 ---

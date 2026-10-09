@@ -1,5 +1,5 @@
 ---
 title: "HTTP Request"
 summary: "A method, URL, headers and an optional body."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

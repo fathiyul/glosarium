@@ -1,7 +1,7 @@
 ---
 title: "Browser DevTools"
 summary: "The browser's built-in tools for inspecting DOM, network, console and performance."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["DevTools", "developer tools", "Chrome DevTools", "browser developer tools", "inspector"]
 prereqs: ["dom-manipulation"]
 related: ["network-tab", "debugger", "breakpoint", "flame-graph", "profiler"]

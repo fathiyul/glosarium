@@ -1,7 +1,7 @@
 ---
 title: "Configuration"
 summary: "Settings that change between environments, kept out of code."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["configuration", "config", "application config", "config files", "settings"]
 prereqs: ["environment-variable"]
 related: ["twelve-factor-app", "environments", "feature-flags", "dev-environment-setup", "input-validation"]

@@ -1,7 +1,7 @@
 ---
 title: "Environments (dev, staging, prod)"
 summary: "Separate deployments for development, testing and real users."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["dev staging prod", "development environment", "staging environment", "production environment", "deployment environments"]
 prereqs: ["app-configuration"]
 related: ["app-configuration", "twelve-factor-app", "feature-flags", "dev-environment-setup"]

@@ -1,11 +1,11 @@
 ---
 title: "Test Runner / Test Framework"
 summary: "Tools like pytest, JUnit, Jest or Vitest that find, run and report tests."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["test framework", "testing framework", "pytest", "JUnit", "Jest", "Vitest"]
 prereqs: ["unit-test"]
 related: ["test-case-suite", "unit-test", "test-coverage", "test-fixture", "tdd"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **test runner** (or test framework) is the tool that finds your tests, runs them, and

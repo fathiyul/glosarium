@@ -1,5 +1,5 @@
 ---
 title: "Phantom Read"
 summary: "Rows appearing or vanishing between reads in one transaction."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

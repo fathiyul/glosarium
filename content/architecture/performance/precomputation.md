@@ -1,5 +1,5 @@
 ---
 title: "Precomputation"
 summary: "Computing results ahead of time."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

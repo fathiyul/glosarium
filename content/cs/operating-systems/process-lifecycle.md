@@ -1,5 +1,5 @@
 ---
 title: "Process Lifecycle"
 summary: "How processes are created, run, wait and exit."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

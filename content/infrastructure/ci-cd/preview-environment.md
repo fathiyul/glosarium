@@ -1,5 +1,5 @@
 ---
 title: "Preview Environment"
 summary: "A temporary deployment for each pull request."
-levels: { backend: mid-level, frontend: junior }
+levels: { backend: mid-level, frontend: junior, data-engineer: mid-level }
 ---

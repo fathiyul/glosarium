@@ -1,11 +1,11 @@
 ---
 title: "Clean Code"
 summary: "Code that's easy to read, change and trust."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["clean code principles", "readable code"]
 prereqs: ["readability", "naming"]
 related: ["code-smell", "dry", "kiss", "single-responsibility-principle", "refactoring", "technical-debt"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 Clean code is code that's easy to read, easy to change and easy to trust. It's measured by

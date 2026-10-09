@@ -1,5 +1,5 @@
 ---
 title: "Junior Engineer"
 summary: "Learning to deliver well-defined tasks with guidance."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

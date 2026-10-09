@@ -1,11 +1,11 @@
 ---
 title: "Regression Test"
 summary: "A test ensuring a fixed bug doesn't come back."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["regression testing", "regression tests"]
 prereqs: ["unit-test", "debugging"]
 related: ["reproduce-bug", "unit-test", "test-coverage", "flaky-test"]
-core: [backend]
+core: [backend, data-engineer]
 ---
 
 A **regression** is something that used to work and now doesn't. A regression test is a test

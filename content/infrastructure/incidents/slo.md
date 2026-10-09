@@ -1,7 +1,7 @@
 ---
 title: "SLO"
 summary: "A service level objective: the target for an SLI."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 core: [backend, frontend]
 also: [observability]
 ---

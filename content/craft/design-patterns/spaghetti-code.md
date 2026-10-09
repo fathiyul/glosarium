@@ -1,5 +1,5 @@
 ---
 title: "Spaghetti Code"
 summary: "Tangled control flow that's impossible to follow."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Data Migration"
 summary: "Moving or transforming existing data."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

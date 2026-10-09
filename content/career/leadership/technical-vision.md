@@ -1,5 +1,5 @@
 ---
 title: "Technical Vision"
 summary: "A picture of where the technology should be in a few years."
-levels: { backend: staff, frontend: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff }
 ---

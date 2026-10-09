@@ -1,6 +1,6 @@
 ---
 title: "Blast Radius"
 summary: "How much breaks when something fails."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 core: [backend]
 ---

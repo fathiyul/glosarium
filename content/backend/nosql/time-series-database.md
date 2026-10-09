@@ -1,5 +1,5 @@
 ---
 title: "Time-Series Database"
 summary: "Databases optimized for timestamped measurements."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

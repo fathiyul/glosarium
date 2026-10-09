@@ -1,11 +1,11 @@
 ---
 title: "Unit Test"
 summary: "A fast test of one small piece of code in isolation."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["unit testing", "unit tests"]
 prereqs: ["function"]
 related: ["test-runner", "arrange-act-assert", "mock", "integration-test", "tdd", "testing-pyramid"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A unit test checks one small piece of code (usually a function or a class) **in isolation**,

@@ -1,11 +1,11 @@
 ---
 title: "Code Review"
 summary: "Teammates reading your change to catch bugs and share knowledge."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["code reviews", "peer review", "reviewing code"]
 prereqs: ["pull-request"]
 related: ["giving-code-review", "receiving-code-review", "self-review", "small-prs", "pr-description"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 In **code review**, a teammate reads your change before it's merged. The aim is to catch bugs,

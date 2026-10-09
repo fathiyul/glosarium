@@ -1,5 +1,5 @@
 ---
 title: "Custom Resource Definition"
 summary: "Teaching Kubernetes new kinds of objects."
-levels: { backend: staff }
+levels: { backend: staff, data-engineer: staff }
 ---

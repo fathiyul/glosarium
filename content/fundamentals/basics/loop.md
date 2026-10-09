@@ -1,5 +1,5 @@
 ---
 title: "Loop"
 summary: "Repeating code with for, while, do-while or for-each."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

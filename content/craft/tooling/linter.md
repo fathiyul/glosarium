@@ -1,11 +1,11 @@
 ---
 title: "Linter"
 summary: "A tool that flags likely bugs and style issues."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["linting", "lint", "ESLint", "Ruff", "Pylint", "flake8"]
 prereqs: ["readability"]
 related: ["formatter", "static-analysis", "pre-commit-hooks", "code-smell", "code-style-consistency"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **linter** reads your code *without running it* and flags likely bugs, risky patterns and

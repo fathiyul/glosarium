@@ -1,5 +1,5 @@
 ---
 title: "Container Orchestration"
 summary: "Automating the deployment, scaling and healing of containers."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

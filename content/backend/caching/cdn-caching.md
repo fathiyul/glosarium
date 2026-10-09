@@ -1,6 +1,6 @@
 ---
 title: "CDN Caching"
 summary: "Caching content on edge servers near users."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 also: [web-performance]
 ---

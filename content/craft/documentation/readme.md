@@ -1,11 +1,11 @@
 ---
 title: "README"
 summary: "The front page of a project: what it is, how to run it, how to contribute."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["README.md", "readme file", "project readme"]
 prereqs: ["markdown"]
 related: ["markdown", "onboarding-docs", "dev-environment-setup", "contributing-guide", "technical-writing"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 The README is the front page of a project. It's the first file people read, so it answers:

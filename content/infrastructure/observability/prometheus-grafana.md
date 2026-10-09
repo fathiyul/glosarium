@@ -1,5 +1,5 @@
 ---
 title: "Prometheus and Grafana"
 summary: "A common open-source stack for metrics and dashboards."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inline Function / Variable"
 summary: "Replacing an unnecessary indirection with its body."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

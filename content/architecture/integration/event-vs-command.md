@@ -1,5 +1,5 @@
 ---
 title: "Event vs Command"
 summary: "\"This happened\" vs \"please do this\"."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

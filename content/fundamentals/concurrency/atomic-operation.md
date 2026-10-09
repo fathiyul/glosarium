@@ -1,5 +1,5 @@
 ---
 title: "Atomic Operation"
 summary: "An operation that completes entirely or not at all, with no interleaving."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

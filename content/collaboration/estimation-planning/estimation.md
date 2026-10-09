@@ -1,6 +1,6 @@
 ---
 title: "Estimation"
 summary: "Predicting how long work will take, and communicating the uncertainty."
-levels: { backend: junior, frontend: junior }
-core: [backend, frontend]
+levels: { backend: junior, frontend: junior, data-engineer: junior }
+core: [backend, frontend, data-engineer]
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Searching Effectively"
 summary: "Finding answers fast in error messages, issues, docs and forums."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["googling", "searching for answers", "how to search", "search skills"]
 prereqs: ["reading-error-messages"]
 related: ["reading-docs", "debugging", "minimal-reproducible-example", "reading-source-code"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 Developers look things up all day. Searching *well* is a skill, and it often decides whether

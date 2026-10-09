@@ -1,5 +1,5 @@
 ---
 title: "Graph Database"
 summary: "Databases like Neo4j built around relationships."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

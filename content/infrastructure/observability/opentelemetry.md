@@ -1,5 +1,5 @@
 ---
 title: "OpenTelemetry"
 summary: "The vendor-neutral standard for collecting telemetry."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hash Table"
 summary: "Key-value storage with average O(1) lookup via a hash function."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["hash map", "hashmap", "dictionary", "hash", "associative array"]
 prereqs: ["array", "hash-function"]
 related: ["hash-function", "hash-collision", "dictionary", "set", "big-o-notation", "lru-cache-structure"]

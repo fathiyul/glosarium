@@ -1,5 +1,5 @@
 ---
 title: "Build Caching"
 summary: "Reusing previous build outputs to make CI fast."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 ---

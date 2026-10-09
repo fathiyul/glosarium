@@ -1,7 +1,7 @@
 ---
 title: "Guard Clause"
 summary: "Returning early on invalid cases to avoid deep nesting."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["early return", "guard clauses", "bouncer pattern"]
 prereqs: ["conditional", "return-value"]
 related: ["fail-fast", "defensive-programming", "readability", "assertion"]

@@ -1,11 +1,11 @@
 ---
 title: "Reproducing a Bug"
 summary: "Getting the bug to happen reliably before trying to fix it."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["reproducing a bug", "repro steps", "steps to reproduce", "reproduce the issue"]
 prereqs: ["debugging"]
 related: ["minimal-reproducible-example", "debugging", "binary-search-debugging", "heisenbug", "debugging-production"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 Before you try to fix a bug, make it happen **on demand**. If you can trigger it reliably,

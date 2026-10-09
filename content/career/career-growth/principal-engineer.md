@@ -1,5 +1,5 @@
 ---
 title: "Principal Engineer"
 summary: "Technical direction for a whole organization."
-levels: { backend: principal, frontend: principal }
+levels: { backend: principal, frontend: principal, data-engineer: principal }
 ---

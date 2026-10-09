@@ -1,11 +1,11 @@
 ---
 title: "Debugger"
 summary: "A tool to pause code, inspect variables and step through execution."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["interactive debugger", "debug mode", "step debugger"]
 prereqs: ["debugging"]
 related: ["breakpoint", "conditional-breakpoint", "step-over-into-out", "print-debugging", "browser-devtools"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 A **debugger** lets you pause a running program, look at the values of its variables and run

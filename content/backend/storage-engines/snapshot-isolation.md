@@ -1,5 +1,5 @@
 ---
 title: "Snapshot Isolation"
 summary: "Each transaction reads from a consistent snapshot of the database."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

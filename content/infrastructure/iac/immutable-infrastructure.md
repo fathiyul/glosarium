@@ -1,5 +1,5 @@
 ---
 title: "Immutable Infrastructure"
 summary: "Replacing servers instead of changing them."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

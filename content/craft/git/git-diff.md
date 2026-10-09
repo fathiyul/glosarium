@@ -1,11 +1,11 @@
 ---
 title: "Diff"
 summary: "Seeing exactly what changed between commits, branches or your working copy."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["git diff", "diff", "differences"]
 prereqs: ["commit", "staging-area"]
 related: ["git-log", "staging-area", "commit", "code-review", "merge-conflict"]
-core: [backend, frontend]
+core: [backend, frontend, data-engineer]
 ---
 
 `git diff` shows exactly what changed between two states of your code. It's how you check

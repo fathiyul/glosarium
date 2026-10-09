@@ -1,5 +1,5 @@
 ---
 title: "Ternary Operator"
 summary: "A compact inline if/else expression."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

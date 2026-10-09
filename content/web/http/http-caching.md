@@ -1,7 +1,7 @@
 ---
 title: "HTTP Caching"
 summary: "Cache-Control, ETag and Last-Modified for reusing responses."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 core: [backend, frontend]
 also: [caching]
 ---

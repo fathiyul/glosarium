@@ -1,7 +1,7 @@
 ---
 title: "Spread / Rest Syntax"
 summary: "Expanding or collecting elements with ... (or * and ** in Python)."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["spread syntax", "rest parameters", "rest syntax", "unpacking operator", "star args"]
 prereqs: ["array", "destructuring"]
 related: ["destructuring", "shallow-vs-deep-copy", "immutability", "default-parameter"]

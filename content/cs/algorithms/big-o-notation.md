@@ -1,7 +1,7 @@
 ---
 title: "Big O Notation"
 summary: "Describing how runtime or memory grows with input size."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["Big O", "O(n)", "time complexity notation", "asymptotic notation", "Big-O"]
 prereqs: ["function", "loop"]
 related: ["time-complexity", "space-complexity", "best-worst-average-case", "hash-table", "sorting-algorithms"]

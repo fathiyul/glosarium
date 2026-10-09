@@ -1,6 +1,6 @@
 ---
 title: "Restore Testing"
 summary: "Actually restoring backups regularly to prove they work."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 also: [database-operations]
 ---

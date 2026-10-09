@@ -1,5 +1,5 @@
 ---
 title: "Stub"
 summary: "A test double that returns canned answers."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 ---

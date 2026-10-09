@@ -1,5 +1,5 @@
 ---
 title: "Resolving Conflict"
 summary: "Working through disagreements productively."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior }
 ---

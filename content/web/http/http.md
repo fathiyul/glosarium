@@ -1,7 +1,7 @@
 ---
 title: "HTTP"
 summary: "The request-response protocol of the web."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["HyperText Transfer Protocol", "HTTP protocol"]
 prereqs: ["url"]
 related: ["http-request", "http-response", "http-methods", "http-status-codes", "http-headers", "https"]

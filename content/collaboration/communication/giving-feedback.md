@@ -1,6 +1,6 @@
 ---
 title: "Giving Feedback"
 summary: "Feedback that's specific, timely, kind and actionable."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
 core: [backend, frontend]
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Data Consistency Across Services"
 summary: "Keeping data correct when each service owns its own database."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---

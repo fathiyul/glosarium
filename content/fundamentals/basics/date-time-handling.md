@@ -1,7 +1,7 @@
 ---
 title: "Dates and Times"
 summary: "Time zones, UTC, ISO 8601, and why date bugs are everywhere."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior }
 aliases: ["datetime", "date and time handling"]
 prereqs: []
 related: ["timezone", "iso-8601", "unix-timestamp", "money-precision"]

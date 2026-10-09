@@ -1,5 +1,5 @@
 ---
 title: "Pod"
 summary: "The smallest deployable unit in Kubernetes: one or more containers."
-levels: { backend: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level }
 ---

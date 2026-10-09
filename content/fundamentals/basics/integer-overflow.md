@@ -1,5 +1,5 @@
 ---
 title: "Integer Overflow"
 summary: "A value exceeding its type's range and wrapping around or failing."
-levels: { backend: mid-level, frontend: senior }
+levels: { backend: mid-level, frontend: senior, data-engineer: mid-level }
 ---

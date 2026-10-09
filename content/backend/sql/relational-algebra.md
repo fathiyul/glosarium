@@ -1,5 +1,5 @@
 ---
 title: "Relational Algebra"
 summary: "The operations (select, project, join) that SQL queries compile to."
-levels: { backend: senior }
+levels: { backend: senior, data-engineer: senior }
 ---
