@@ -4,7 +4,7 @@ summary: "A virtual server in the cloud."
 levels: { backend: junior, data-engineer: junior }
 aliases: ["EC2", "virtual server", "cloud VM", "VM instance"]
 prereqs: ["virtual-machine"]
-related: ["virtual-machine", "cloud-computing", "security-group", "regions-azs", "iam", "compute-instance", "server"]
+related: ["virtual-machine", "cloud-computing", "security-group", "regions-azs", "iam", "server"]
 ---
 
 A compute instance is a virtual server you rent from a cloud provider. Amazon calls its version EC2; Google's is Compute Engine; Azure calls them Virtual Machines. You pick an operating system image and a size, and a few minutes later you have a machine you can log into. It is a [virtual machine](/t/virtual-machine) running on the provider's hardware.
