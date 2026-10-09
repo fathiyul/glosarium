@@ -2,9 +2,9 @@
 title: "Dates and Times"
 summary: "Time zones, UTC, ISO 8601, and why date bugs are everywhere."
 levels: { backend: junior, frontend: junior }
-aliases: [datetime, date and time handling]
+aliases: ["datetime", "date and time handling"]
 prereqs: []
-related: [timezone, iso-8601, unix-timestamp, money-precision]
+related: ["timezone", "iso-8601", "unix-timestamp", "money-precision"]
 core: [backend]
 ---
 
@@ -21,7 +21,7 @@ edges**, when showing something to a person or reading what they typed.
 from datetime import datetime, timezone
 
 created_at = datetime.now(timezone.utc)   # timezone-aware, in UTC
-created_at.isoformat()                    # '2024-06-01T12:00:00+00:00'
+created_at.isoformat()                    # e.g. '2024-06-01T12:00:00+00:00'
 ```
 
 Use a machine-friendly format between systems: [ISO 8601](/t/iso-8601) strings (with an
