@@ -5,8 +5,11 @@ A glossary of concepts, ordered by when you actually need them. Built with Astro
 ```sh
 npm install
 npm run dev     # http://localhost:4321
-npm run build   # static site in dist/
+npm run build   # static site in dist/, plus the Pagefind search index
+npm run preview # serve dist/; search only works here, not under `npm run dev`
 ```
+
+Search is [Pagefind](https://pagefind.app), generated after the Astro build. To test it, use `npm run build && npm run preview`; the box is disabled under `npm run dev`. Concept, topic and domain pages are indexed (`indexed` prop on `Base.astro`, decided by URL); `pagefind.yml` lists what is excluded.
 
 ## Adding content
 
@@ -28,6 +31,7 @@ levels: { backend: mid-level }      # track → level; a term can sit at differe
 aliases: []
 prereqs: [jwt]                      # term ids to learn first
 related: [access-token]
+also: [messaging]             # other topic ids this concept is also listed under
 ---
 
 Explanation in plain Markdown. Link other terms with [text](/t/term-id).

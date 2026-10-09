@@ -1,0 +1,9 @@
+site: dist
+# Left out of the index: breadcrumbs, term lists (they repeat other concepts' titles and summaries)
+# and the "not written yet" notice, so a hit means the page itself is about the query.
+exclude_selectors:
+  - ".crumbs"
+  - ".term-list"
+  - ".aside"
+  - ".notice"
+  - ".meta"

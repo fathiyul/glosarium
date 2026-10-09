@@ -1,0 +1,46 @@
+---
+// Pagefind search box. The index only exists after `npm run build`, so dev shows a disabled box.
+const dev = import.meta.env.DEV;
+---
+
+<div class="search" id="search">
+  {dev && <input type="search" disabled placeholder="Search (run build + preview)" aria-label="Search" />}
+</div>
+
+{!dev && (
+  <script is:inline>
+    (function () {
+      var box = document.getElementById('search');
+      function load(tag, attrs) {
+        return new Promise(function (resolve, reject) {
+          var el = document.createElement(tag);
+          for (var k in attrs) el[k] = attrs[k];
+          el.onload = resolve;
+          el.onerror = reject;
+          document.head.appendChild(el);
+        });
+      }
+      Promise.all([
+        load('link', { rel: 'stylesheet', href: '/pagefind/pagefind-ui.css' }),
+        load('script', { src: '/pagefind/pagefind-ui.js' }),
+      ]).then(function () {
+        new PagefindUI({
+          element: '#search',
+          pageSize: 8,
+          showImages: false,
+          showSubResults: false,
+          resetStyles: false,
+          translations: { placeholder: 'Search concepts  ( / )' },
+        });
+      }).catch(function () { box.hidden = true; });
+
+      document.addEventListener('keydown', function (e) {
+        if (e.key !== '/' || e.ctrlKey || e.metaKey || e.altKey) return;
+        var t = e.target;
+        if (t && (t.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName))) return;
+        var input = box.querySelector('input');
+        if (input && !input.disabled) { e.preventDefault(); input.focus(); }
+      });
+    })();
+  </script>
+)}
