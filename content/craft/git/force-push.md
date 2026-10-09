@@ -29,7 +29,7 @@ Anyone who already pulled the old commits now has history that doesn't match. Th
 - **Never force-push `main`** or other shared branches. Teams usually protect them to block it.
 - **Tell people** if others use the branch.
 - **Look before you push**: `git log origin/feature..HEAD` and `git diff origin/feature` show what will change.
-- If you do overwrite something by mistake, the old commits may still exist in someone's clone, or in the host's reflog, so act quickly.
+- If you do overwrite something by mistake, the old commits may still exist in someone's clone, or your Git host's support may be able to help, so act quickly.
 
 ## Alternatives
 
