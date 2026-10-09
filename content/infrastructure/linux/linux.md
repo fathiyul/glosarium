@@ -18,8 +18,8 @@ Deploying, debugging and operating software means working on Linux machines, usu
 - **Everything is a file** (almost). Devices, processes and settings are exposed through the file system, so the same tools work on all of them. See [the directory structure](/t/linux-directory-structure).
 - **The shell is the main interface.** You combine small commands with pipes: `grep ERROR app.log | sort | uniq -c`. See [shell](/t/shell).
 - **Permissions control everything.** Every file has an owner and read/write/execute bits. See [file permissions](/t/file-permissions) and [sudo and root](/t/sudo-root).
-- **Software comes from a package manager** rather than downloaded installers. See [OS package managers](/t/os-package-managers).
-- **Services are run by an init system**, most often [systemd](/t/systemd).
+- Software comes from a package manager rather than downloaded installers. See [OS package managers](/t/os-package-managers).
+- Services are run by an init system, most often [systemd](/t/systemd).
 
 ## Starter commands
 

@@ -24,6 +24,6 @@ Normal work happens as a regular user, and you borrow root only when needed. Thi
 - **Running destructive commands with sudo without reading them.** `sudo rm -rf $DIR/` with an empty `$DIR` becomes `rm -rf /`. Many modern versions of `rm` refuse to do that, but you shouldn't rely on it.
 - **Working in a root shell** (`sudo -i`) for hours.
 - **Running applications as root.** If the app is compromised, the attacker has root. Create a dedicated user. See [least privilege](/t/least-privilege).
-- **sudo with a redirect.** In `sudo echo x > /etc/file`, the redirect is done by your shell, not by sudo. Use `echo x | sudo tee /etc/file`.
+- sudo with a redirect. In `sudo echo x > /etc/file`, the redirect is done by your shell, not by sudo. Use `echo x | sudo tee /etc/file`.
 
 Who may use sudo is set by the system's sudoers configuration, edited with `visudo`, and tied to [users and groups](/t/users-groups). On servers, also see [server hardening](/t/server-hardening).

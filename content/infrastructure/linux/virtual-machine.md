@@ -24,6 +24,6 @@ A VM includes a whole operating system, so it is heavier: usually gigabytes in s
 
 ## Things to keep in mind
 
-- **A VM is a machine you maintain.** You patch the OS, manage users and watch the disk.
-- **Performance is shared.** A "noisy neighbour" on the same host can occasionally affect you, depending on the provider and instance type.
-- **Compared with [bare metal](/t/bare-metal)**, you give up a small amount of raw performance for flexibility.
+- A VM is a machine you maintain. You patch the OS, manage users and watch the disk.
+- Performance is shared. A "noisy neighbour" on the same host can occasionally affect you, depending on the provider and instance type.
+- Compared with [bare metal](/t/bare-metal), you give up a small amount of raw performance for flexibility.

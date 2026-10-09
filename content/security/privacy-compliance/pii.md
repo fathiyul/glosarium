@@ -23,9 +23,9 @@ The habits that cover most of it:
 
 - **Collect less.** If you don't need a birth date, don't ask. Data you never stored can't leak. See [data minimization](/t/data-minimization).
 - **Keep it out of logs, URLs and analytics events.** This is the most common accidental leak. See [no sensitive data in logs](/t/no-sensitive-data-in-logs).
-- **Know where it lives.** Databases, backups, caches, search indexes and exports all hold copies, which matters when someone asks you to delete theirs.
-- **Set retention limits.** See [data retention](/t/data-retention).
-- **Limit access** to people who need it.
+- Know where it lives. Databases, backups, caches, search indexes and exports all hold copies, which matters when someone asks you to delete theirs.
+- Set retention limits. See [data retention](/t/data-retention).
+- Limit access to people who need it.
 
 ```python
 # Wrong: the email ends up in every log line

@@ -33,7 +33,7 @@ Memory aid: `c`reate, `x`tract, `t`ist, `z` = gzip, `f` = the filename comes nex
 
 - **Extracting into the wrong place.** Run `tar -tzf` first to see whether the archive has a top-level folder or spills many files into the current directory.
 - **Forgetting `-r` with zip.** Without it, a directory is added empty.
-- **Only compressing what compresses.** Text, logs and JSON shrink a lot; JPEGs, videos and already-compressed archives barely shrink.
-- **Trusting archives from strangers.** Look at the paths inside before extracting.
+- Only compressing what compresses. Text, logs and JSON shrink a lot; JPEGs, videos and already-compressed archives barely shrink.
+- Trusting archives from strangers. Look at the paths inside before extracting.
 
 Compression trades CPU time for size, so it is useful for backups, log rotation and transfers over slow links. See [scp and rsync](/t/scp-rsync) for moving the result.
