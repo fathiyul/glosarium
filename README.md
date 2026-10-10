@@ -2,8 +2,6 @@
 
 A glossary of concepts, ordered by when you actually need them. Built with Astro.
 
-**Live at https://glosarium.pages.dev/**, deployed by Cloudflare Pages on every push to `master`.
-
 ```sh
 npm install
 npm run dev     # http://localhost:4321
