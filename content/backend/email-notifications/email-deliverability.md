@@ -1,7 +1,7 @@
 ---
 title: "Email Deliverability"
 summary: "Bounces, spam complaints, sender reputation and staying out of spam folders."
-levels: { backend: mid-level }
+levels: { backend: mid-level , tech-entrepreneur: growth }
 aliases: ["email deliverability", "deliverability", "inbox placement"]
 prereqs: ["sending-email", "spf-dkim-dmarc"]
 related: ["sending-email", "spf-dkim-dmarc", "transactional-vs-marketing-email"]

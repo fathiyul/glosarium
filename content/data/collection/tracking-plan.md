@@ -1,10 +1,11 @@
 ---
 title: "Tracking Plan"
 summary: "A shared spec of which events to track, their names and their properties."
-levels: { data-engineer: mid-level, backend: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level, backend: mid-level , data-analyst: mid-level , tech-entrepreneur: mvp }
 aliases: ["tracking plans", "event spec", "analytics spec"]
 prereqs: ["instrumentation"]
 related: ["instrumentation", "event-naming-conventions", "analytics-event-tracking", "client-vs-server-tracking", "data-contract", "event-schema-versioning"]
+core: [tech-entrepreneur]
 ---
 
 A tracking plan is a shared specification of the events you collect: for each event, its name, when it fires, its properties with types, and who owns it. It is the agreement between the people who add instrumentation and the people who analyze the data.

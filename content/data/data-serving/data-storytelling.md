@@ -1,7 +1,7 @@
 ---
 title: "Data Storytelling"
 summary: "Turning analysis into a narrative that drives action."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , tech-entrepreneur: pmf }
 core: [data-analyst]
 aliases: ["storytelling with data", "data narrative", "presenting findings"]
 prereqs: ["data-visualization", "chart-annotation"]
