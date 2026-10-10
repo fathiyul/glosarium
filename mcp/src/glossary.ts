@@ -39,7 +39,9 @@ export async function loadGlossary(site: string): Promise<Glossary> {
 	if (cache && Date.now() - cache.loadedAt < TTL_MS) return cache.glossary;
 	try {
 		const res = await fetch(`${site}/api/index.json`);
-		if (!res.ok) throw new Error(`index.json: HTTP ${res.status}`);
+		// Pages answers a missing file with an HTML page, so check the type, not just the status.
+		if (!res.ok || !res.headers.get("content-type")?.includes("json"))
+			throw new Error(`${site}/api/index.json isn't available (HTTP ${res.status}). Is the site deployed with the data exports?`);
 		const index = (await res.json()) as Index;
 		const glossary: Glossary = {
 			...index,

@@ -192,7 +192,7 @@ function createServer(env: Env) {
 				end < terms.length
 					? `\n\nShowing ${offset + 1}–${end} of ${terms.length}. Next page: offset ${end}.`
 					: `\n\n${terms.length} concepts in total.`;
-			return text(`# ${track.title}${level ? ` · ${levelTitle(track, level)}` : ""}${out.join("\n")}${footer}`);
+			return text([`# ${track.title}${level ? ` · ${levelTitle(track, level)}` : ""}`, ...out].join("\n") + footer);
 		},
 	);
 
