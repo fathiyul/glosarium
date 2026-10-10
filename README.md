@@ -2,6 +2,8 @@
 
 A glossary of concepts, ordered by when you actually need them. Built with Astro.
 
+**Live at https://glosarium.pages.dev/**, deployed by Cloudflare Pages on every push to `master`.
+
 ```sh
 npm install
 npm run dev     # http://localhost:4321
@@ -10,6 +12,13 @@ npm run preview # serve dist/; search only works here, not under `npm run dev`
 ```
 
 Search is [Pagefind](https://pagefind.app), generated after the Astro build. To test it, use `npm run build && npm run preview`; the box is disabled under `npm run dev`. Concept, topic and domain pages are indexed (`indexed` prop on `Base.astro`, decided by URL); `pagefind.yml` lists what is excluded.
+
+## For AI tools
+
+The build also publishes the glossary as data: `/api/index.json` (every concept's metadata, the tracks
+with their paths, topics), `/t/<id>.md` (one concept as Markdown) and `/llms.txt`. The MCP server in
+[`mcp/`](mcp/README.md) reads these. It's a separate Cloudflare Worker with its own `package.json`,
+deployed from that folder; Pages ignores it.
 
 ## Adding content
 

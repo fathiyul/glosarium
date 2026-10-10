@@ -1,0 +1,19 @@
+/**
+ * Glosarium MCP server. Reads the glossary from the deployed site's static exports
+ * (/api/index.json and /t/<id>.md), so content deploys reach it without redeploying this Worker.
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "glosarium-mcp",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-07-02",
+	"compatibility_flags": ["nodejs_compat"],
+	"vars": {
+		// Local testing against a built site: npm run dev -- --var SITE_URL:http://localhost:4321
+		"SITE_URL": "https://glosarium.pages.dev",
+	},
+	"observability": {
+		"enabled": true,
+	},
+}
