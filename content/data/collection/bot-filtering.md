@@ -1,7 +1,7 @@
 ---
 title: "Bot and Test Traffic Filtering"
 summary: "Keeping crawlers, monitoring checks and internal users out of the numbers."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["bot traffic filtering", "filtering bots", "test traffic filtering"]
 prereqs: ["instrumentation"]
 related: ["bot-protection", "analytics-event-tracking", "synthetic-monitoring", "real-user-monitoring", "user-agent", "client-vs-server-tracking"]

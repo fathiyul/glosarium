@@ -1,7 +1,7 @@
 ---
 title: "Data Transformation"
 summary: "Cleaning, joining and reshaping raw data into useful tables."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["data transformations", "transforming data", "data wrangling", "T in ETL", "transformation layer"]
 prereqs: ["data-cleaning", "sql"]
 related: ["etl-vs-elt", "sql-transformation-models", "staging-intermediate-marts", "medallion-architecture", "grain", "incremental-models"]

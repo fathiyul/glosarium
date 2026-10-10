@@ -1,11 +1,11 @@
 ---
 title: "Investigating Metric Discrepancies"
 summary: "Explaining why two numbers that should match don't."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["numbers don't match", "metric mismatch", "dashboard discrepancy", "why do two reports disagree", "data discrepancy investigation"]
 prereqs: ["metric-definitions", "data-reconciliation"]
 related: ["metric-definitions", "data-reconciliation", "semantic-layer", "data-lineage", "late-arriving-data", "grain"]
-core: [data-engineer]
+core: [data-engineer, data-analyst]
 ---
 
 "The finance dashboard says revenue was 1.84 M, and the product dashboard says 1.91 M. Which is right?" This happens constantly, and trust depends on how you handle it. The cause is almost always **a difference in definition, scope or timing**, not mysterious bad data, and you find it by **narrowing down systematically**.

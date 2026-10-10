@@ -1,0 +1,18 @@
+title: Data Analyst
+summary: Every concept a data analyst meets, from trusted SQL to experiment-driven recommendations, in the order you actually need it. Start at Junior; ignore the rest until it comes up at work.
+levels:
+  - id: junior
+    title: Junior
+    summary: Write correct SQL, build trusted dashboards, ask good questions.
+  - id: mid-level
+    title: Mid-level
+    summary: Own an analysis end to end, from vague question to recommendation.
+  - id: senior
+    title: Senior
+    summary: Own experimentation and metrics design; call out bad numbers.
+  - id: staff
+    title: Staff
+    summary: Shape how the organization measures and decides.
+  - id: principal
+    title: Principal
+    summary: Set measurement strategy across the company.

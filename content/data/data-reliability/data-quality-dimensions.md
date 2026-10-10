@@ -1,11 +1,11 @@
 ---
 title: "Data Quality Dimensions"
 summary: "Accuracy, completeness, consistency, timeliness, validity and uniqueness."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["data quality", "dimensions of data quality", "accuracy completeness consistency", "quality dimensions"]
 prereqs: ["data-profiling"]
 related: ["data-tests", "data-expectations", "data-observability", "data-freshness", "data-reconciliation", "data-anomaly-detection"]
-core: [data-engineer]
+core: [data-engineer, data-analyst]
 ---
 
 "Good data" is vague. **Data quality dimensions** break it into specific, checkable qualities. Frameworks list a few more or fewer, but

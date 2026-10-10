@@ -1,7 +1,7 @@
 ---
 title: "Incremental Models"
 summary: "Processing only new or changed rows instead of rebuilding a whole table."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["incremental materialization", "dbt incremental", "incremental tables", "incremental transformation"]
 prereqs: ["sql-transformation-models", "high-water-mark"]
 related: ["dbt", "high-water-mark", "append-vs-merge", "partitioned-runs", "idempotent-pipeline", "late-arriving-data"]

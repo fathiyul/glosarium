@@ -1,7 +1,7 @@
 ---
 title: "Data Catalog"
 summary: "A searchable inventory of datasets, their meaning and their owners."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["data catalogue", "data discovery", "dataset catalog", "metadata catalog", "data inventory"]
 prereqs: ["data-dictionary", "data-ownership"]
 related: ["data-dictionary", "data-lineage", "data-governance", "data-catalog-metastore", "data-classification", "metadata-types"]

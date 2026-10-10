@@ -1,10 +1,11 @@
 ---
 title: "BI Dashboard"
 summary: "A collection of charts answering a recurring business question."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: junior }
 aliases: ["BI dashboard", "analytics dashboard", "business dashboard"]
 prereqs: ["business-intelligence"]
 related: ["business-intelligence", "self-service-analytics", "semantic-layer", "metric-definitions", "data-serving", "aggregate-tables"]
+core: [data-analyst]
 ---
 
 A BI dashboard is a collection of charts and numbers that answers a recurring business question, such as "how are sales doing this week?" or "where are users dropping out of signup?". Built in tools like Looker, Tableau, Power BI or Metabase, it is the most common way the output of data engineering reaches people.

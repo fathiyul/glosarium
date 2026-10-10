@@ -1,7 +1,7 @@
 ---
 title: "Data Profiling"
 summary: "Summarizing a dataset's columns to understand what's really in it."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["profiling data", "data profile", "column profiling", "exploratory data analysis", "EDA"]
 prereqs: ["sql", "statistics-basics"]
 related: ["data-cleaning", "data-quality-dimensions", "statistics-basics", "percentile", "schema-drift", "sampling-data"]

@@ -1,7 +1,7 @@
 ---
 title: "Staging, Intermediate and Mart Layers"
 summary: "A conventional way to organize transformation code."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["staging layer", "marts", "dbt project layers", "staging models"]
 prereqs: ["sql-transformation-models"]
 related: ["dbt", "sql-transformation-models", "data-mart", "medallion-architecture", "incremental-models", "dimensional-modeling"]

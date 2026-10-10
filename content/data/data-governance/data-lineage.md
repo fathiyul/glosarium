@@ -1,7 +1,7 @@
 ---
 title: "Data Lineage"
 summary: "Where data came from and everything it flows into."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["lineage", "data provenance", "column-level lineage", "upstream and downstream", "data flow lineage"]
 prereqs: ["pipeline-dag"]
 related: ["data-catalog", "data-incident", "data-observability", "data-contract", "deprecating-tables", "data-governance"]

@@ -1,7 +1,7 @@
 ---
 title: "One Big Table (Wide Tables)"
 summary: "Denormalizing everything into one wide table for simple, fast queries."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["OBT", "one big table", "wide table", "denormalized table"]
 prereqs: ["star-schema", "denormalization"]
 related: ["dimensional-modeling", "star-vs-snowflake", "snowflake-schema", "columnar-storage", "query-cost", "data-mart"]

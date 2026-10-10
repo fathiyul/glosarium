@@ -1,7 +1,7 @@
 ---
 title: "Star vs Snowflake Schema"
 summary: "Simpler queries vs less duplication."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["star schema vs snowflake schema", "snowflake vs star", "star or snowflake", "normalized dimensions vs denormalized dimensions"]
 prereqs: ["star-schema", "normalization"]
 related: ["star-schema", "snowflake-schema", "normalization", "denormalization", "dimension-table", "one-big-table"]

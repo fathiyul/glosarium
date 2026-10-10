@@ -1,7 +1,7 @@
 ---
 title: "Data Lake"
 summary: "Cheap storage for raw data in any format."
-levels: { backend: senior, data-engineer: junior }
+levels: { backend: senior, data-engineer: junior , data-analyst: junior }
 aliases: ["data lakes", "lake", "object storage lake", "raw data lake"]
 prereqs: ["data-warehouse"]
 related: ["data-warehouse", "lakehouse", "landing-zone", "data-catalog-metastore", "open-table-format", "medallion-architecture"]

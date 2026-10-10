@@ -1,7 +1,7 @@
 ---
 title: "QUALIFY"
 summary: "Filtering on window function results without a subquery."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["QUALIFY clause", "filter window function", "QUALIFY ROW_NUMBER"]
 prereqs: ["window-function", "select-query"]
 related: ["window-function", "dedup-with-row-number", "cte", "subquery", "group-by"]

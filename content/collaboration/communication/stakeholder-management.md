@@ -1,7 +1,7 @@
 ---
 title: "Stakeholder Management"
 summary: "Keeping the people affected by your work informed and aligned."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level }
 ---
 
 Stakeholder management is identifying people affected by a project, understanding what they need, and keeping them involved at the right points. Stakeholders can include users, support, operations, security, finance, partner teams, and decision-makers—not only executives.

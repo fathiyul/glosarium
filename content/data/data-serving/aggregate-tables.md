@@ -1,7 +1,7 @@
 ---
 title: "Aggregate / Summary Tables"
 summary: "Precomputed rollups that make dashboards fast."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["summary tables", "rollup tables", "aggregates", "pre-aggregated tables", "data marts aggregates"]
 prereqs: ["group-by", "fact-table"]
 related: ["materialized-view", "dimensional-modeling", "olap-cube", "bi-dashboard", "query-cost", "semantic-layer"]

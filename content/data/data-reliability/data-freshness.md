@@ -1,7 +1,7 @@
 ---
 title: "Data Freshness"
 summary: "How recently a table was updated, and whether that's recent enough."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["freshness", "data staleness", "stale data", "data timeliness", "freshness check"]
 prereqs: ["scheduling-pipelines"]
 related: ["data-sla", "data-downtime", "data-observability", "data-quality-dimensions", "pipeline-retries", "real-time-vs-near-real-time"]

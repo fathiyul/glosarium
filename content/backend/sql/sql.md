@@ -1,7 +1,7 @@
 ---
 title: "SQL"
 summary: "The language for querying relational databases."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["Structured Query Language", "SQL language", "SQL queries", "sequel"]
 prereqs: ["relational-database"]
 related: ["select-query", "sql-sublanguages", "common-databases", "crud", "relational-model", "database"]

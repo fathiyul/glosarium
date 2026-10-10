@@ -1,7 +1,7 @@
 ---
 title: "Consent at Collection"
 summary: "Only collecting what users agreed to, and recording that they agreed."
-levels: { data-engineer: mid-level, backend: mid-level }
+levels: { data-engineer: mid-level, backend: mid-level , data-analyst: mid-level }
 aliases: ["collection-time consent", "consent capture", "consent recording"]
 prereqs: ["instrumentation", "tracking-plan"]
 related: ["cookie-consent", "gdpr", "privacy-by-design", "data-minimization", "pii", "right-to-erasure"]

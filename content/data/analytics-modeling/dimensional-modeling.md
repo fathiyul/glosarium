@@ -1,7 +1,7 @@
 ---
 title: "Dimensional Modeling"
 summary: "Kimball's approach: facts surrounded by descriptive dimensions."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["Kimball dimensional modeling", "Kimball method", "dimensional model", "dimensional modelling", "star schema design"]
 prereqs: ["fact-table", "dimension-table"]
 related: ["star-schema", "grain", "bus-matrix", "conformed-dimension", "scd-types", "inmon-vs-kimball"]

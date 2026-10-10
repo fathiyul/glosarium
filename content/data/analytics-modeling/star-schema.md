@@ -1,11 +1,11 @@
 ---
 title: "Star Schema"
 summary: "One fact table joined directly to its dimension tables."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["star schema", "star model", "dimensional star", "fact and dimension tables star"]
 prereqs: ["fact-table", "dimension-table"]
 related: ["snowflake-schema", "star-vs-snowflake", "dimensional-modeling", "grain", "conformed-dimension", "one-big-table"]
-core: [data-engineer]
+core: [data-engineer, data-analyst]
 ---
 
 A **star schema** has one central **fact table** surrounded by **dimension tables**, each joined directly to the fact through a key. Drawn out,

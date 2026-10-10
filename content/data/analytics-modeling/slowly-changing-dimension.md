@@ -1,7 +1,7 @@
 ---
 title: "Slowly Changing Dimension (SCD)"
 summary: "Handling attributes that change over time, like a customer's address."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["SCD", "slowly changing dimensions", "changing dimensions", "dimension history", "tracking dimension changes"]
 prereqs: ["dimension-table"]
 related: ["scd-types", "surrogate-key-dw", "dimension-table", "fact-table", "dimensional-modeling", "record-history"]

@@ -1,7 +1,7 @@
 ---
 title: "Fact Table"
 summary: "A table of measurable events, like orders or page views, at a fixed grain."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["fact tables", "fact", "fact_orders", "measures table"]
 prereqs: ["dimensional-modeling"]
 related: ["dimension-table", "grain", "fact-table-types", "degenerate-dimension", "factless-fact-table", "date-dimension"]

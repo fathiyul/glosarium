@@ -1,7 +1,7 @@
 ---
 title: "Customer Data Platform (CDP)"
 summary: "Tools like Segment that collect events once and route them to many destinations."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["CDP", "customer data platforms", "customer data hub"]
 prereqs: ["analytics-event-tracking"]
 related: ["data-ingestion", "reverse-etl", "identity-resolution", "analytics-event-tracking", "tracking-plan", "third-party-integration"]

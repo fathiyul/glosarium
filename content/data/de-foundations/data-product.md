@@ -1,7 +1,7 @@
 ---
 title: "Data Product"
 summary: "A dataset treated as a product, with an owner, documentation, quality guarantees and users."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-analyst: junior }
 aliases: ["data products", "data as a product", "dataset as a product", "data product thinking"]
 prereqs: ["data-ownership", "documenting-datasets"]
 related: ["data-mesh", "data-contract", "data-ownership", "documenting-datasets", "data-catalog", "data-sla"]

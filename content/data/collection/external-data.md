@@ -1,7 +1,7 @@
 ---
 title: "External and Third-Party Data"
 summary: "Data you buy, scrape or pull from partners, and the contracts and quality risks it brings."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["third-party data", "external data sources", "bought data"]
 prereqs: ["source-systems"]
 related: ["source-systems", "web-scraping", "api-ingestion", "file-ingestion", "data-quality", "data-governance"]

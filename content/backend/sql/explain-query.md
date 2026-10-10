@@ -1,7 +1,7 @@
 ---
 title: "EXPLAIN"
 summary: "Showing how the database plans to run a query."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-analyst: senior }
 aliases: ["EXPLAIN", "EXPLAIN ANALYZE", "query plan analysis", "reading query plans", "execution plan"]
 prereqs: ["select-query", "db-index"]
 related: ["query-plan", "seq-scan-vs-index-scan", "db-index", "table-statistics", "slow-query-log", "query-optimization"]

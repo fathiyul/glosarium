@@ -1,7 +1,7 @@
 ---
 title: "Data Masking"
 summary: "Hiding sensitive values while keeping data usable."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: senior }
 aliases: ["masking", "PII masking", "dynamic data masking", "static data masking", "obfuscation"]
 prereqs: ["pii", "data-classification"]
 related: ["anonymization", "tokenization-privacy", "column-level-security", "data-classification", "pii", "data-minimization"]

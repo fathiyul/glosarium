@@ -1,7 +1,7 @@
 ---
 title: "CASE Expression"
 summary: "Conditional logic inside a SQL query."
-levels: { backend: junior, data-engineer: junior }
+levels: { backend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["CASE WHEN", "SQL CASE", "conditional expression", "CASE statement", "searched case"]
 prereqs: ["select-query"]
 related: ["coalesce-nullif", "group-by", "pivot", "null-in-sql", "sql-functions"]

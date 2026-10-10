@@ -1,7 +1,7 @@
 ---
 title: "Date Dimension / Date Spine"
 summary: "A table with one row per day and its calendar attributes."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["date spine", "calendar table", "dim_date", "time dimension", "calendar dimension"]
 prereqs: ["dimension-table"]
 related: ["fact-table", "role-playing-dimension", "dimensional-modeling", "grain", "dimension-table"]

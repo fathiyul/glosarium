@@ -1,11 +1,11 @@
 ---
 title: "Subquery"
 summary: "A query nested inside another query."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: junior }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: junior , data-analyst: junior }
 aliases: ["nested query", "subselect", "inner query", "sub-select"]
 prereqs: ["select-query"]
 related: ["cte", "correlated-subquery", "join", "null-in-sql", "lateral-join", "window-function"]
-core: [data-engineer]
+core: [data-engineer, data-analyst]
 ---
 
 A **subquery** is a `SELECT` inside another query. The inner query produces a value, a list of values or a whole table

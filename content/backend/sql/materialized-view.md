@@ -1,7 +1,7 @@
 ---
 title: "Materialized View"
 summary: "A view whose results are stored and refreshed."
-levels: { backend: senior, data-engineer: mid-level }
+levels: { backend: senior, data-engineer: mid-level , data-analyst: senior }
 aliases: ["materialised view", "matview", "materialized views", "precomputed view", "REFRESH MATERIALIZED VIEW"]
 prereqs: ["view", "group-by"]
 related: ["view", "denormalization", "aggregate-tables", "cte", "db-index", "query-cost"]

@@ -1,7 +1,7 @@
 ---
 title: "OKRs"
 summary: "Objectives and key results for setting goals."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: junior }
 ---
 
 OKRs (Objectives and Key Results) are a framework for expressing an outcome an organization or team wants to achieve and a small set of measurable results that indicate progress. Objectives state direction in plain language; key results describe observable changes rather than lists of tasks.

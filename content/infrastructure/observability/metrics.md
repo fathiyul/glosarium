@@ -1,11 +1,11 @@
 ---
 title: "Metrics"
 summary: "Numeric measurements over time."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: junior }
 aliases: ["application metrics", "system metrics", "monitoring metrics", "time series metrics", "Prometheus metrics"]
 prereqs: ["logging"]
 related: ["metric-types", "cardinality", "prometheus-grafana", "red-method", "use-method", "golden-signals", "dashboard"]
-core: [backend]
+core: [backend, data-analyst]
 ---
 
 **Metrics** are **numeric measurements recorded over time**: requests per second, error rate, response time, queue depth, CPU usage, active users. They're compact and cheap to store and query, which makes them ideal for dashboards, trends and alerts.

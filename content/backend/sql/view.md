@@ -1,7 +1,7 @@
 ---
 title: "View"
 summary: "A saved query that acts like a table."
-levels: { backend: mid-level, data-engineer: junior }
+levels: { backend: mid-level, data-engineer: junior , data-analyst: junior }
 aliases: ["SQL view", "database view"]
 prereqs: ["crud"]
 related: ["table-row-column", "schema", "sql-sublanguages", "self-join"]

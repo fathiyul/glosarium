@@ -1,11 +1,11 @@
 ---
 title: "Common Table Expression (WITH)"
 summary: "Named subqueries that make complex SQL readable."
-levels: { backend: mid-level, data-engineer: junior }
+levels: { backend: mid-level, data-engineer: junior , data-analyst: junior }
 aliases: ["CTE", "WITH clause", "common table expressions", "WITH query"]
 prereqs: ["select-query", "subquery"]
 related: ["subquery", "recursive-cte", "view", "window-function", "join"]
-core: [data-engineer]
+core: [data-engineer, data-analyst]
 also: [transformation]
 ---
 

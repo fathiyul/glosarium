@@ -1,7 +1,7 @@
 ---
 title: "Self-Service Analytics"
 summary: "Letting non-engineers explore data safely on their own."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: junior }
 aliases: ["self-service BI", "self-serve analytics", "democratized analytics", "self-service reporting"]
 prereqs: ["business-intelligence", "data-warehouse"]
 related: ["semantic-layer", "metric-definitions", "data-catalog", "bi-dashboard", "self-serve-data-platform"]

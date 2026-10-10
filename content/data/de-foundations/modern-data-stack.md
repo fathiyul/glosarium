@@ -1,7 +1,7 @@
 ---
 title: "Modern Data Stack"
 summary: "Cloud warehouse, managed ingestion, SQL transformations and BI tools wired together."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: junior }
 aliases: ["MDS", "modern data platform", "cloud data stack"]
 prereqs: ["data-engineering", "data-warehouse"]
 related: ["data-engineering-lifecycle", "etl-vs-elt", "ingestion-connectors", "dbt", "build-vs-buy-data-tools", "lakehouse"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Vault"
 summary: "Modeling with hubs, links and satellites for auditable, change-friendly history."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-analyst: senior }
 aliases: ["Data Vault 2.0", "hubs links satellites", "DV modeling", "Linstedt data vault"]
 prereqs: ["dimensional-modeling", "surrogate-key-dw"]
 related: ["dimensional-modeling", "inmon-vs-kimball", "scd-types", "surrogate-key-dw", "medallion-architecture", "landing-zone"]

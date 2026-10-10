@@ -1,7 +1,7 @@
 ---
 title: "Data Science Hierarchy of Needs"
 summary: "Collect, move, store, clean, analyze, then learn: why reliable plumbing comes before AI."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: junior }
 aliases: ["data science hierarchy of needs", "AI hierarchy of needs", "DIKW pyramid"]
 prereqs: ["data-engineering"]
 related: ["data-engineering", "data-engineering-lifecycle", "data-pipeline", "data-quality-dimensions", "machine-learning", "business-intelligence"]

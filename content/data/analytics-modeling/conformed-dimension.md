@@ -1,7 +1,7 @@
 ---
 title: "Conformed Dimension"
 summary: "One shared dimension used by many fact tables so numbers line up."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-analyst: mid-level }
 aliases: ["conformed dimensions", "shared dimension", "conformed dimension in warehouse", "master dimension"]
 prereqs: ["dimension-table", "fact-table"]
 related: ["bus-matrix", "dimensional-modeling", "dimension-table", "master-data-management", "date-dimension", "role-playing-dimension"]

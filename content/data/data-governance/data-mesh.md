@@ -1,7 +1,7 @@
 ---
 title: "Data Mesh"
 summary: "Domain teams owning their data as products, on a self-serve platform."
-levels: { data-engineer: staff }
+levels: { data-engineer: staff , data-analyst: staff }
 aliases: ["data mesh", "domain-oriented data", "data as a product"]
 prereqs: ["data-governance", "data-platform-team", "data-warehouse"]
 related: ["data-fabric", "data-product", "self-serve-data-platform", "data-governance", "data-platform-team", "domain-model-pattern"]

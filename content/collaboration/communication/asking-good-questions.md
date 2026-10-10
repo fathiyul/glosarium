@@ -1,11 +1,11 @@
 ---
 title: "Asking Good Questions"
 summary: "Sharing what you tried, what you expected and what happened."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["how to ask questions", "asking for help well", "good questions", "asking questions"]
 prereqs: ["debugging"]
 related: ["when-to-ask-for-help", "minimal-reproducible-example", "rubber-duck-debugging", "searching-effectively", "async-communication", "clarifying-tickets"]
-core: [backend, frontend, data-engineer]
+core: [backend, frontend, data-engineer, data-analyst]
 ---
 
 How you ask determines how quickly (and whether) you get a useful answer. A good question respects the other person's time and shows you've made an

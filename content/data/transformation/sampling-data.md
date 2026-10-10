@@ -1,7 +1,7 @@
 ---
 title: "Sampling"
 summary: "Working on a representative subset to go faster."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["sampling data", "random sample", "TABLESAMPLE", "stratified sampling"]
 prereqs: ["select-query", "data-profiling"]
 related: ["data-profiling", "approximate-aggregates", "query-cost", "statistics-basics", "data-quality"]

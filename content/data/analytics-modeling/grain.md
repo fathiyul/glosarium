@@ -1,7 +1,7 @@
 ---
 title: "Grain"
 summary: "What one row of a table represents; the first decision in any model."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["grain of a fact table", "table grain", "declaring the grain", "granularity", "level of detail"]
 prereqs: ["fact-table"]
 related: ["fact-table", "dimensional-modeling", "dimension-table", "bus-matrix", "star-schema", "fact-table-types"]

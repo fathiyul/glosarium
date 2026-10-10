@@ -1,7 +1,7 @@
 ---
 title: "Data Expectations / Assertions"
 summary: "Declared rules data must satisfy, checked in the pipeline."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["data assertions", "pipeline assertions", "declarative data checks", "expectations"]
 prereqs: ["data-tests", "data-quality-dimensions"]
 related: ["data-tests", "data-quality-dimensions", "data-observability", "data-contract", "write-audit-publish", "circuit-breaker-data"]

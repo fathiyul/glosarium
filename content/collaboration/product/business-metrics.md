@@ -1,7 +1,7 @@
 ---
 title: "Business Metrics"
 summary: "Revenue, retention, conversion: what the business measures."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: junior }
 ---
 
 Business metrics are measures used to understand how an organization or product is performing, such as revenue, retention, conversion, or support cost. A metric becomes useful when its definition, source, time window, and intended decision are clear.

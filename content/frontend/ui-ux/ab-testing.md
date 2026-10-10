@@ -1,11 +1,12 @@
 ---
 title: "A/B Testing"
 summary: "Comparing two variants with real users to see which performs better."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 also: [data-serving]
 aliases: ["a/b testing", "ab testing", "split testing"]
 prereqs: ["product-analytics", "feature-flags"]
 related: ["product-analytics", "feature-flags", "user-research"]
+core: [data-analyst]
 ---
 
 **A/B testing** compares variants by random assignment: half the users see A, half see B, and a success metric decides. Done right it's causal evidence ("B lifts checkout 3%"); done casually it's noise worship — peeking, tiny samples and twelve metrics guarantee *something* "wins" by chance.

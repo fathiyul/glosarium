@@ -1,7 +1,7 @@
 ---
 title: "SCD Types 1, 2 and 3"
 summary: "Overwrite, add a versioned row, or keep a previous-value column."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["SCD Type 1", "SCD Type 2", "SCD Type 3", "slowly changing dimension types", "Type 2 dimension"]
 prereqs: ["slowly-changing-dimension", "dimension-table"]
 related: ["slowly-changing-dimension", "surrogate-key-dw", "dimension-table", "merge-statement", "fact-table", "append-vs-merge"]

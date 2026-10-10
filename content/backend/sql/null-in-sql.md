@@ -1,7 +1,7 @@
 ---
 title: "NULL in SQL"
 summary: "Three-valued logic, and why NULL = NULL isn't true."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["NULL", "IS NULL", "three-valued logic", "NULL handling", "NULL comparison"]
 prereqs: ["select-query"]
 related: ["coalesce-nullif", "case-expression", "group-by", "join-types", "constraint"]

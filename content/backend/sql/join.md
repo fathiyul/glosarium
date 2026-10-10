@@ -1,7 +1,7 @@
 ---
 title: "JOIN"
 summary: "Combining rows from several tables."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["SQL JOIN", "joining tables", "INNER JOIN", "join clause"]
 prereqs: ["foreign-key", "select-query"]
 related: ["join-types", "foreign-key", "group-by", "self-join", "cross-join", "junction-table"]

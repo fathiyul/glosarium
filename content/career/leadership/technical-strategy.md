@@ -1,7 +1,7 @@
 ---
 title: "Technical Strategy"
 summary: "A plan for reaching the vision under real constraints."
-levels: { backend: principal, frontend: principal, data-engineer: principal }
+levels: { backend: principal, frontend: principal, data-engineer: principal , data-analyst: staff }
 ---
 
 Technical strategy is a set of choices about how technology, teams, and investment will move toward a desired outcome under real constraints. It explains what to prioritize, what to defer, and why—not just which tools the organization plans to adopt.

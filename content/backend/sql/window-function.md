@@ -1,11 +1,11 @@
 ---
 title: "Window Functions"
 summary: "Calculations across related rows, like running totals and rankings."
-levels: { backend: mid-level, data-engineer: junior }
+levels: { backend: mid-level, data-engineer: junior , data-analyst: mid-level }
 aliases: ["window functions", "OVER clause", "analytic functions", "ROW_NUMBER", "RANK", "PARTITION BY"]
 prereqs: ["group-by", "select-query"]
 related: ["group-by", "cte", "subquery", "case-expression", "upsert"]
-core: [data-engineer]
+core: [data-engineer, data-analyst]
 also: [transformation]
 ---
 

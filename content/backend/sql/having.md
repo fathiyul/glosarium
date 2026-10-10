@@ -1,7 +1,7 @@
 ---
 title: "HAVING"
 summary: "Filtering groups after aggregation."
-levels: { backend: junior, frontend: mid-level, data-engineer: junior }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-analyst: junior }
 aliases: ["HAVING clause"]
 prereqs: ["crud"]
 related: ["sql-sublanguages", "constraint", "self-join"]

@@ -1,7 +1,7 @@
 ---
 title: "North Star Metric"
 summary: "The single metric that best captures the value you deliver."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: junior }
 ---
 
 A north-star metric is a prominent measure intended to represent the value a product delivers to customers over time. It can help teams connect local work to a shared outcome, but it is not a complete description of product health or a target every team should optimize directly.
