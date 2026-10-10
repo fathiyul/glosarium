@@ -4,3 +4,4 @@ dist/
 
 # Mailbox for coordinating non-Claude writer sessions (not part of the site)
 .comm_channel/
+.opencode/
