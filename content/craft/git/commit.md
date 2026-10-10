@@ -1,7 +1,7 @@
 ---
 title: "Commit"
 summary: "A snapshot of changes with a message explaining them."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["git commit", "commits", "commit snapshot"]
 prereqs: ["git", "staging-area"]
 related: ["commit-message", "atomic-commit", "staging-area", "git-log", "branch", "git-amend"]

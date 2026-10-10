@@ -1,7 +1,7 @@
 ---
 title: "How LLMs Work"
 summary: "Tokens in, next-token prediction out: a mental model of what's happening."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["how LLMs work", "large language models", "LLM internals"]
 prereqs: ["neural-network", "deep-learning"]
 related: ["llm-token", "temperature", "prompt-engineering"]

@@ -1,7 +1,7 @@
 ---
 title: "Correlated Subquery"
 summary: "A subquery that runs once per row of the outer query."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-analyst: senior }
 aliases: ["correlated subquery", "correlated subqueries", "outer reference"]
 prereqs: ["subquery", "join"]
 related: ["query-plan", "slow-query-log", "self-join"]

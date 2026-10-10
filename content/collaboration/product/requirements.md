@@ -1,7 +1,7 @@
 ---
 title: "Requirements"
 summary: "What the software must do."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["software requirements", "functional requirements"]
 prereqs: ["user-story"]
 related: ["user-story", "edge-cases", "acceptance-criteria", "user-empathy"]

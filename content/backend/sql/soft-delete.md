@@ -1,7 +1,7 @@
 ---
 title: "Soft Delete"
 summary: "Marking rows as deleted instead of removing them."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["soft delete", "soft deletes", "logical delete"]
 prereqs: ["schema", "constraint"]
 related: ["audit-columns", "record-history", "foreign-key"]

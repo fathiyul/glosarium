@@ -1,7 +1,7 @@
 ---
 title: "Pipeline Scheduling"
 summary: "Running pipelines on a time schedule or when upstream data arrives."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["pipeline scheduling", "cron for pipelines", "scheduled runs", "schedule interval", "triggering pipelines"]
 prereqs: ["pipeline-dag"]
 related: ["data-aware-scheduling", "sensors", "catchup-reruns", "partitioned-runs", "scheduled-jobs", "timezone"]

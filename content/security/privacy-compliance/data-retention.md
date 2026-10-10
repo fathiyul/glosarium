@@ -1,7 +1,7 @@
 ---
 title: "Data Retention"
 summary: "How long to keep data, and when to delete it."
-levels: { backend: senior, data-engineer: mid-level }
+levels: { backend: senior, data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["retention policy", "data retention policy", "retention periods", "data deletion policy", "data lifecycle"]
 prereqs: ["pii", "gdpr"]
 related: ["right-to-erasure", "data-minimization", "gdpr", "anonymization", "storage-lifecycle", "data-retention-tiers"]

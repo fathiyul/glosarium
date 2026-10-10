@@ -1,7 +1,7 @@
 ---
 title: "Unix Timestamp"
 summary: "Seconds since 1970-01-01 UTC; a simple, unambiguous point in time."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["epoch time", "POSIX time", "Unix time"]
 prereqs: ["date-time-handling"]
 related: ["iso-8601", "timezone", "date-time-handling", "integer-overflow"]

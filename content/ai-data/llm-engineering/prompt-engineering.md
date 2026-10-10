@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering"
 summary: "Writing instructions that get reliable results from a model."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["prompt engineering", "prompt design", "prompting"]
 prereqs: ["how-llms-work", "system-prompt"]
 related: ["system-prompt", "structured-output", "llm-evals"]

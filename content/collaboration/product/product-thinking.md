@@ -1,7 +1,7 @@
 ---
 title: "Product Thinking"
 summary: "Understanding the user problem behind the ticket."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["product mindset", "thinking like a product engineer", "product sense", "outcome thinking", "product-minded engineer"]
 prereqs: ["user-story", "clarifying-tickets"]
 related: ["user-empathy", "user-research", "requirements", "business-metrics", "edge-cases", "mvp"]

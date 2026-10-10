@@ -1,7 +1,7 @@
 ---
 title: "Technical Writing"
 summary: "Writing clearly for other engineers."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["writing for engineers", "documentation writing", "clear writing"]
 prereqs: ["markdown", "readme"]
 related: ["readme", "writing-clearly", "design-doc", "docs-as-code", "diataxis", "explaining-to-non-engineers"]

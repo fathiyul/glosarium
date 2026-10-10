@@ -1,7 +1,7 @@
 ---
 title: "Async Communication"
 summary: "Writing so people can respond on their own time."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: junior }
 ---
 
 Async communication is written or recorded communication that people can read and respond to without being present at the same time. It includes design notes, issue comments, decision records, and a clear project update—not just chat messages sent outside meeting hours.

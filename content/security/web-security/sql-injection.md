@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection"
 summary: "Attackers running SQL through unescaped input; prevented with parameterized queries."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior , data-analyst: mid-level }
 aliases: ["SQLi", "SQL injection attack", "injection attack"]
 prereqs: ["select-query", "input-validation"]
 related: ["parameterized-query", "prepared-statement", "orm", "input-sanitization", "least-privilege", "owasp-top-10"]

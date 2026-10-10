@@ -1,7 +1,7 @@
 ---
 title: "Parameterized Query"
 summary: "Passing values separately from SQL so they can't change its meaning."
-levels: { backend: junior }
+levels: { backend: junior , data-analyst: mid-level }
 aliases: ["prepared statement", "bind variables", "query parameters", "parametrized query"]
 prereqs: ["sql-injection"]
 related: ["sql-injection", "prepared-statement", "orm", "orm-vs-raw-sql", "input-sanitization"]

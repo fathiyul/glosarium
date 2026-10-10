@@ -1,7 +1,7 @@
 ---
 title: "Database Index"
 summary: "A lookup structure that speeds up queries at the cost of slower writes."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["index", "database indexes", "B-tree index", "indexing", "DB index"]
 prereqs: ["primary-key", "select-query"]
 related: ["composite-index", "covering-index", "index-selectivity", "explain-query", "query-plan", "seq-scan-vs-index-scan"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Observability"
 summary: "Monitoring freshness, volume, schema and distributions to catch silent breakage."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-analyst: senior }
 aliases: ["data monitoring", "data pipeline observability", "monitoring data quality", "data health monitoring"]
 prereqs: ["data-quality-dimensions", "observability"]
 related: ["data-freshness", "data-anomaly-detection", "data-lineage", "data-incident", "data-tests", "data-downtime"]

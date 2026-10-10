@@ -1,7 +1,7 @@
 ---
 title: "Remote"
 summary: "Another copy of the repository, usually \"origin\" on GitHub or GitLab."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["git remote", "origin", "upstream"]
 prereqs: ["repository"]
 related: ["git-clone", "push-pull-fetch", "fork", "branch", "repository"]

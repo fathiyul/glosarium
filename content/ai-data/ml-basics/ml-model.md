@@ -1,7 +1,7 @@
 ---
 title: "Model"
 summary: "The learned function that turns inputs into predictions."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["model", "trained model", "ML model"]
 prereqs: ["machine-learning", "training-vs-inference"]
 related: ["training-vs-inference", "model-serving", "overfitting"]

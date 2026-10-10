@@ -1,7 +1,7 @@
 ---
 title: "JSON"
 summary: "The text data format most APIs speak."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["JavaScript Object Notation", "JSON data", "JSON format"]
 related: ["request-response-body", "json-schema", "serialization", "rest", "xml", "yaml"]
 core: [backend, frontend]

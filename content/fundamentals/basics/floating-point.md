@@ -1,7 +1,7 @@
 ---
 title: "Floating-Point Number"
 summary: "A binary approximation of real numbers, and why 0.1 + 0.2 != 0.3."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: [float, double, IEEE 754, floating point]
 prereqs: [data-type]
 related: [integer, money-precision, integer-overflow]

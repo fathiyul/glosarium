@@ -1,7 +1,7 @@
 ---
 title: "Primary Key"
 summary: "A column that uniquely identifies each row."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["PK", "primary keys", "row identifier", "table key"]
 prereqs: ["table-row-column"]
 related: ["foreign-key", "natural-vs-surrogate-key", "uuid-vs-autoincrement", "constraint", "sequence", "relational-model"]

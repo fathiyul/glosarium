@@ -1,7 +1,7 @@
 ---
 title: "Working with Product Managers"
 summary: "Collaborating on what to build and why."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 ---
 
 Working with product managers means collaborating on which user problem to solve, what outcome matters, and what constraints shape a useful solution. Product management does not simply hand engineering a complete specification; engineers contribute evidence about feasibility, risk, and possible approaches.

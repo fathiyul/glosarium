@@ -1,7 +1,7 @@
 ---
 title: "Train / Test Split"
 summary: "Holding out data to evaluate a model honestly."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level }
 aliases: ["train test split", "held-out data", "validation split"]
 prereqs: ["machine-learning", "supervised-learning"]
 related: ["overfitting", "supervised-learning", "classification-vs-regression"]

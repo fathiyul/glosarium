@@ -1,7 +1,7 @@
 ---
 title: "Edge Cases"
 summary: "Unusual inputs and situations that break naive code."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["corner cases", "boundary cases"]
 prereqs: ["requirements"]
 related: ["requirements", "user-empathy", "writing-clearly"]

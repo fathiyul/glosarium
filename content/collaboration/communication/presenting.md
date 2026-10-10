@@ -1,7 +1,7 @@
 ---
 title: "Presenting"
 summary: "Communicating ideas to a group."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level }
 ---
 
 Presenting is organizing information so an audience can understand a topic, evaluate a choice, or take action. A technical presentation is not just a tour through slides or code; it should answer a question that matters to the people listening.

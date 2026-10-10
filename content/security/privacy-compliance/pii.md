@@ -1,7 +1,7 @@
 ---
 title: "PII"
 summary: "Personally identifiable information that needs special care."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 also: [data-governance]
 aliases: ["personal data", "personally identifiable information", "personal information"]
 prereqs: ["data-minimization"]

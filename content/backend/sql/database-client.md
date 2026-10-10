@@ -1,7 +1,7 @@
 ---
 title: "Database Client / GUI"
 summary: "Tools like psql, DBeaver or TablePlus for exploring databases."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["SQL client", "database GUI"]
 prereqs: ["database"]
 related: ["database", "sql-sublanguages", "schema", "crud"]

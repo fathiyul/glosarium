@@ -1,7 +1,7 @@
 ---
 title: "Off-by-One Error"
 summary: "A loop or index that runs one step too many or too few."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["OBOE", "fencepost error", "off by one"]
 prereqs: ["loop", "list"]
 related: ["loop", "iteration", "indexing", "slicing", "base-case"]

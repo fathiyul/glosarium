@@ -1,7 +1,7 @@
 ---
 title: "Foreign Key"
 summary: "A column referencing another table's primary key."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["FK", "foreign keys", "referential integrity", "REFERENCES"]
 prereqs: ["primary-key", "table-row-column"]
 related: ["primary-key", "join", "constraint", "junction-table", "relationship-types", "normalization"]

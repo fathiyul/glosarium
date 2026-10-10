@@ -1,7 +1,7 @@
 ---
 title: "Testing Your Own Work"
 summary: "Checking that your change works before calling it done."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["self-testing", "test your own changes", "verifying your change", "manual testing before review", "checking your work"]
 prereqs: ["unit-test", "self-review"]
 related: ["self-review", "unit-test", "manual-testing", "reproduce-bug", "definition-of-done", "code-review"]

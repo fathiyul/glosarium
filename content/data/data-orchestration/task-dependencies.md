@@ -1,7 +1,7 @@
 ---
 title: "Task Dependencies"
 summary: "Which steps must finish before others can start."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["task ordering", "upstream and downstream", "DAG dependencies"]
 prereqs: ["pipeline-dag"]
 related: ["pipeline-dag", "scheduling-pipelines", "idempotent-pipeline", "pipeline-retries", "sensors", "partitioned-runs"]

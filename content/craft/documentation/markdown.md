@@ -1,7 +1,7 @@
 ---
 title: "Markdown"
 summary: "The plain-text formatting syntax used for READMEs, docs and PRs."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["Markdown syntax", ".md", "GitHub Flavored Markdown", "GFM"]
 related: ["readme", "docs-as-code", "technical-writing", "pr-description"]
 core: [backend, frontend, data-engineer]

@@ -1,7 +1,7 @@
 ---
 title: "429 Too Many Requests"
 summary: "The status returned when a client goes over a rate limit."
-levels: { backend: junior, frontend: junior }
+levels: { backend: junior, frontend: junior , data-analyst: mid-level }
 aliases: ["Too Many Requests", "rate limit error"]
 prereqs: ["http-status-codes"]
 related: ["http-status-codes", "http-4xx", "jitter", "retry-with-backoff"]

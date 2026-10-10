@@ -1,7 +1,7 @@
 ---
 title: "Status Updates"
 summary: "Proactively telling people where things stand."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["progress updates", "status reports", "keeping people informed", "updating stakeholders", "standup updates"]
 prereqs: ["ticket"]
 related: ["standup", "remote-visibility", "stakeholder-management", "estimation", "async-communication", "writing-clearly"]

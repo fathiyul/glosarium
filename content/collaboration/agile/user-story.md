@@ -1,7 +1,7 @@
 ---
 title: "User Story"
 summary: "\"As a user, I want… so that…\": a requirement from the user's point of view."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["user stories", "story"]
 prereqs: ["requirements"]
 related: ["epic", "requirements", "backlog", "user-empathy"]

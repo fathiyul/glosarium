@@ -1,7 +1,7 @@
 ---
 title: "Pagination"
 summary: "Returning large result sets one page at a time."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["paging", "paginate", "limit and offset", "page size"]
 prereqs: ["select-query"]
 related: ["offset-vs-cursor-pagination", "unbounded-result-sets", "filtering-sorting", "rest", "api-design"]

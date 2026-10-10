@@ -1,7 +1,7 @@
 ---
 title: "Giving a Demo"
 summary: "Showing your work clearly to an audience."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["demo presentation", "showing your work"]
 prereqs: ["sprint-review"]
 related: ["sprint-review", "writing-clearly", "receiving-feedback"]

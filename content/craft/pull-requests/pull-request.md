@@ -1,7 +1,7 @@
 ---
 title: "Pull Request"
 summary: "A proposal to merge a branch, with discussion and review."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
 aliases: ["PR", "pull requests", "merge request", "MR"]
 prereqs: ["branch", "git"]
 related: ["code-review", "pr-description", "small-prs", "draft-pr", "merge-strategies", "remote"]

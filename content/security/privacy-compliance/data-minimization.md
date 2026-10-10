@@ -1,7 +1,7 @@
 ---
 title: "Data Minimization"
 summary: "Collecting only the data you actually need."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: senior }
 ---
 
 Data minimization means collecting, using, and retaining only the personal or sensitive data needed for a stated purpose. It reduces the amount of information that can be exposed in a breach, misused, or become expensive to govern.

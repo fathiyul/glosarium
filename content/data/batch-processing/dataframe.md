@@ -1,7 +1,7 @@
 ---
 title: "DataFrame"
 summary: "A table-like data structure with named columns, as in pandas, Polars and Spark."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["DataFrames", "pandas DataFrame", "Polars DataFrame", "Spark DataFrame", "df"]
 prereqs: ["pandas"]
 related: ["pandas", "apache-spark", "single-node-engines", "transformations-vs-actions", "notebooks", "udf"]

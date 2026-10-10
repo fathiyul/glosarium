@@ -1,7 +1,7 @@
 ---
 title: "Single-Node Engines (DuckDB, Polars)"
 summary: "Fast local processing that often makes a cluster unnecessary."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-analyst: mid-level }
 aliases: ["DuckDB", "Polars", "single-machine data processing", "local analytics engines", "in-process analytics"]
 prereqs: ["dataframe", "row-vs-columnar-formats"]
 related: ["apache-spark", "pandas", "distributed-query-engine", "batch-processing", "dataframe", "spill-to-disk"]

@@ -1,7 +1,7 @@
 ---
 title: "Bulk Operations"
 summary: "Endpoints that act on many items in one request."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior , data-analyst: mid-level }
 aliases: ["bulk operations", "batch api", "bulk endpoints"]
 prereqs: ["api-contract", "pagination"]
 related: ["rate-limiting", "idempotence", "unbounded-result-sets"]

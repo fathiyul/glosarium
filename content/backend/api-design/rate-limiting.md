@@ -1,7 +1,7 @@
 ---
 title: "Rate Limiting"
 summary: "Limiting how many requests a client can make."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
 aliases: ["throttling", "request limits", "API rate limits", "rate limiter", "usage limits"]
 prereqs: ["api-design", "http-status-codes"]
 related: ["rate-limit-algorithms", "http-429", "api-gateway", "login-rate-limiting", "retry-with-backoff", "ddos"]

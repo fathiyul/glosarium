@@ -1,7 +1,7 @@
 ---
 title: "Done Is Better Than Perfect"
 summary: "Shipping working software instead of polishing forever."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
 aliases: ["done is better than perfect", "shipping over perfection"]
 prereqs: ["requirements"]
 related: ["deep-work", "requirements", "timeboxing", "edge-cases"]
