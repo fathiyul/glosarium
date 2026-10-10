@@ -5,6 +5,7 @@ levels: { data-analyst: junior }
 aliases: ["exploratory data analysis", "EDA", "data exploration"]
 prereqs: ["descriptive-analysis", "data-profiling"]
 related: ["data-profiling", "descriptive-analysis", "data-visualization", "missing-data", "outliers"]
+core: [data-analyst]
 ---
 
 **Exploratory data analysis (EDA)** is the first date with a dataset: its size and shape, what is missing, what looks wrong, what might be interesting — before any model or dashboard commits to an interpretation. An hour of EDA routinely saves a week of modelling the wrong thing, because most datasets arrive with surprises their documentation never mentions.

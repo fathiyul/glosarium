@@ -5,6 +5,7 @@ levels: { data-analyst: mid-level }
 aliases: ["cohort analysis", "cohort table", "cohort retention"]
 prereqs: ["segmentation", "retention-analysis"]
 related: ["retention-analysis", "segmentation", "funnel-analysis", "survival-analysis"]
+core: [data-analyst]
 ---
 
 A **cohort** is a group sharing a starting event — signed up in March, installed v2.4, joined from a campaign — tracked forward along its own lifetime. **Cohort analysis** lays those lifetimes side by side: March signups at month 0, 1, 2 against April signups at month 0, 1, 2. Calendar date disappears; age does the comparing.
