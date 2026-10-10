@@ -41,5 +41,11 @@ A YouTube URL alone on its own line becomes an embedded video:
 https://www.youtube.com/watch?v=VIDEO_ID
 ```
 
+Concepts are read in a learning order: in the sidebar, and through the Previous/Next links at the bottom of every concept page, which run domain by domain and topic by topic. Within a topic the order is computed: lowest level first, each concept after its `prereqs` in the same topic. To set it by hand, list term ids in the topic's `index.md`. Listed ids come first, in that order, and the rest follow in computed order:
+
+```yaml
+sequence: [git, version-control, repository, commit, staging-area]
+```
+
 A term with no body is listed normally; its page shows the summary and "Not written yet".
 The build fails on unknown term ids in `prereqs`/`related`, or a level a track doesn't define.

@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import remarkEmbeds from './plugins/remark-embeds.mjs';
 
 export default defineConfig({
-  site: 'https://annotatedmind.com',
+  site: 'https://glosarium.pages.dev',
   markdown: {
     remarkPlugins: [remarkEmbeds],
   },

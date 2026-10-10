@@ -9,9 +9,15 @@ interface Props {
   terms: Term[];
   topics: Topic[];
   groupByTopic?: boolean;
+  /** Under a track heading (topic pages): levels become h3, empty levels are skipped, and anchors get the track id. */
+  nested?: boolean;
+  /** Concept links carry ?track=, so their Previous/Next follow this track instead of the site's reading path. */
+  linkTrack?: boolean;
 }
-const { track, terms, topics, groupByTopic = true } = Astro.props;
-const groups = groupByLevel(track, terms).map(({ level, terms }) => {
+const { track, terms, topics, groupByTopic = true, nested = false, linkTrack = false } = Astro.props;
+const via = linkTrack ? track.id : undefined;
+const Heading = nested ? 'h3' : 'h2';
+const groups = groupByLevel(track, terms).filter(({ terms }) => !nested || terms.length > 0).map(({ level, terms }) => {
   const core = terms.filter((t) => isCore(t, track));
   return core.length > 0
     ? { level, primary: core, rest: terms.filter((t) => !isCore(t, track)) }
@@ -25,9 +31,9 @@ const byTopic = (list: Term[]) =>
 ---
 
 {groups.map(({ level, primary, rest }) => (
-  <section>
+  <section data-level={level.id}>
     <div class="level-head">
-      <h2 id={level.id}>{level.title}</h2>
+      <Heading id={nested ? `${track.id}-${level.id}` : level.id}>{level.title}</Heading>
       <p>{level.summary}</p>
     </div>
     {primary.length === 0 ? (
@@ -39,11 +45,11 @@ const byTopic = (list: Term[]) =>
           byTopic(primary).map(({ topic, terms }) => (
             <>
               <p class="topic-label"><a href={`/topics/${topic.id}`}>{topic.data.title}</a></p>
-              <TermList terms={terms} />
+              <TermList terms={terms} track={via} />
             </>
           ))
         ) : (
-          <TermList terms={primary} />
+          <TermList terms={primary} track={via} />
         )}
       </>
     )}
@@ -54,11 +60,11 @@ const byTopic = (list: Term[]) =>
           byTopic(rest).map(({ topic, terms }) => (
             <>
               <p class="topic-label"><a href={`/topics/${topic.id}`}>{topic.data.title}</a></p>
-              <TermList terms={terms} />
+              <TermList terms={terms} track={via} />
             </>
           ))
         ) : (
-          <TermList terms={rest} />
+          <TermList terms={rest} track={via} />
         )}
       </details>
     )}

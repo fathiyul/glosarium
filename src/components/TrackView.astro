@@ -6,8 +6,8 @@ interface Props {
   track: Track;
 }
 const { track } = Astro.props;
-const { terms, topics, tracks } = await loadGlossary();
-const trackTerms = terms.filter((t) => track.id in t.data.levels);
+const { topics, tracks, trackOrder } = await loadGlossary();
+const trackTerms = trackOrder.get(track.id)!;
 ---
 
 {tracks.length > 1 && (
@@ -22,4 +22,4 @@ const trackTerms = terms.filter((t) => track.id in t.data.levels);
   {trackTerms.length} concepts, {trackTerms.filter((t) => isCore(t, track)).length} of them core · jump to
   {track.data.levels.map((l) => <a href={`#${l.id}`}>{l.title}</a>)}
 </p>
-<LevelSections track={track} terms={trackTerms} topics={topics} />
+<LevelSections track={track} terms={trackTerms} topics={topics} linkTrack />

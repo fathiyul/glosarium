@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 }
 
 const { term } = Astro.props as { term: Term };
-const { terms, termById, topicById, domainById, trackById } = await loadGlossary();
+const { terms, termById, topicById, domainById, trackById, readingOrder, readingIndex } = await loadGlossary();
 const topic = topicById.get(term.topic)!;
 const domain = domainById.get(term.domain)!;
 const { Content } = await render(term);
@@ -29,6 +29,14 @@ const sameTopic = terms
   .slice(0, 8);
 const topicSize = termsInTopic(terms, term.topic).length;
 const alsoIn = term.data.also.map((id) => topicById.get(id)!);
+
+// Previous/Next follow the site's reading path; at a topic boundary the label names the other topic.
+// With a "Viewing" track set, src/scripts/view.ts rebuilds them from that track's path.
+const at = readingIndex.get(term.id)!;
+const side = (t: Term | undefined) =>
+  t && { href: `/t/${t.id}`, title: t.data.title, note: t.topic === term.topic ? undefined : topicById.get(t.topic)!.data.title };
+const prev = side(readingOrder[at - 1]);
+const next = side(readingOrder[at + 1]);
 ---
 
 <Base title={term.data.title} description={term.data.summary}>
@@ -61,6 +69,21 @@ const alsoIn = term.data.also.map((id) => topicById.get(id)!);
   )}
 
   {term.written ? <Content /> : <p class="notice">Not written yet. Only the summary above exists so far.</p>}
+
+  <nav class="pager" aria-label="Reading order" data-term={term.id}>
+    {prev ? (
+      <a href={prev.href} class="pager-prev" rel="prev">
+        <span class="pager-label">← Previous{prev.note && ` · ${prev.note}`}</span>
+        <span class="pager-title">{prev.title}</span>
+      </a>
+    ) : <span />}
+    {next ? (
+      <a href={next.href} class="pager-next" rel="next">
+        <span class="pager-label">Next{next.note && ` · ${next.note}`} →</span>
+        <span class="pager-title">{next.title}</span>
+      </a>
+    ) : <span />}
+  </nav>
   </article>
 
   <aside class="aside">

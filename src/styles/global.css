@@ -146,6 +146,17 @@ th, td { border-bottom: 1px solid var(--border); padding: 0.4rem 0.6rem; text-al
 .aside h2 { font-size: 1rem; margin: 1.5rem 0 0.5rem; }
 .notice { background: var(--chip); border-radius: 8px; padding: 0.75rem 1rem; color: var(--muted); }
 
+/* Prev/next along the reading path, at the bottom of a concept page. */
+.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 3rem; }
+.pager[hidden] { display: none; }
+.pager a { display: flex; flex-direction: column; gap: 0.15rem; padding: 0.75rem 1rem;
+  border: 1px solid var(--border); border-radius: 10px; }
+.pager a:hover { border-color: var(--accent); text-decoration: none; }
+.pager-next { text-align: right; }
+.pager-label { font-size: 0.82rem; color: var(--muted); }
+.pager-title { font-weight: 600; }
+@media (max-width: 600px) { .pager { grid-template-columns: 1fr; } }
+
 .embed { position: relative; aspect-ratio: 16 / 9; margin: 1.5rem 0; }
 .embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 8px; }
 
@@ -234,6 +245,32 @@ main { min-width: 0; }
 .toc-terms li { padding: 0.12rem 0; line-height: 1.35; }
 .toc-terms a { color: var(--muted); }
 .toc-loading { color: var(--muted); font-style: italic; }
+
+/* "Viewing" picker and the track path that replaces the domain tree when a view is set. */
+.view-picker { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.5rem;
+  padding-bottom: 0.75rem; margin-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+.view-picker label { font-size: 0.8rem; color: var(--muted); }
+.view-picker select { font: inherit; font-size: 0.85rem; padding: 0.2rem 0.35rem; max-width: 100%;
+  color: var(--text); background: var(--bg); border: 1px solid var(--border); border-radius: 6px; }
+.view-group { display: flex; align-items: center; gap: 0; flex-basis: 100%; font-size: 0.8rem; }
+.view-group span { color: var(--muted); margin-right: 0.5rem; }
+.view-group button { font: inherit; padding: 0.15rem 0.6rem; color: var(--muted); background: var(--bg);
+  border: 1px solid var(--border); cursor: pointer; }
+.view-group button:first-of-type { border-radius: 6px 0 0 6px; }
+.view-group button:last-of-type { border-radius: 0 6px 6px 0; border-left: 0; }
+.view-group button[aria-pressed="true"] { color: var(--text); background: var(--chip); font-weight: 600; }
+.view-picker select[hidden], .view-group[hidden], .toc-path[hidden], .toc-domains[hidden] { display: none; }
+.toc-path .toc-topics summary { font-weight: 400; }
+.path-level > summary { font-weight: 600; margin-top: 0.35rem; }
+.path-count { font-weight: 400; color: var(--muted); font-size: 0.8rem; }
+.path-topic { margin: 0.5rem 0 0.1rem 0.35rem; font-size: 0.72rem; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--muted); }
+.path-more { margin: 0.3rem 0 0 0.35rem; }
+.path-more > summary { color: var(--accent); font-size: 0.85rem; }
+.view-note { margin-top: 3rem; font-size: 0.9rem; color: var(--muted); }
+.view-note + .pager { margin-top: 0.75rem; }
+.linkish { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; }
+.linkish:hover { text-decoration: underline; }
 
 @media (min-width: 1024px) {
   .shell { display: grid; grid-template-columns: 16rem minmax(0, 1fr); gap: 3rem; }

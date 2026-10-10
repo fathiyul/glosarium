@@ -26,6 +26,8 @@ const topics = defineCollection({
     title: z.string(),
     summary: z.string(),
     order: z.number().default(100),
+    // Curated learning order of this topic's term ids. Unlisted terms follow, ordered by prereqs, then level, then title.
+    sequence: z.array(z.string()).default([]),
   }),
 });
 

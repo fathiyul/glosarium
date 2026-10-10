@@ -5,14 +5,17 @@ interface Props {
   terms: Term[];
   // Titles only, for sidebars.
   compact?: boolean;
+  // Track id to carry in links (?track=), so the concept page's Previous/Next follow that track.
+  track?: string;
 }
-const { terms, compact = false } = Astro.props;
+const { terms, compact = false, track } = Astro.props;
+const query = track ? `?track=${track}` : '';
 ---
 
 <ul class:list={["term-list", { compact }]}>
   {terms.map((t) => (
     <li>
-      <a href={`/t/${t.id}`} title={compact ? t.data.summary : undefined}>{t.data.title}</a>
+      <a href={`/t/${t.id}${query}`} title={compact ? t.data.summary : undefined}>{t.data.title}</a>
       {compact ? null : <span class="summary">{t.data.summary}</span>}
     </li>
   ))}

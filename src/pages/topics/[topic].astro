@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import LevelSections from '../../components/LevelSections.astro';
-import { loadGlossary, termsInTopic, type Topic } from '../../lib/glossary';
+import { loadGlossary, type Topic } from '../../lib/glossary';
 
 export async function getStaticPaths() {
   const { topics } = await loadGlossary();
@@ -10,9 +10,9 @@ export async function getStaticPaths() {
 }
 
 const { topic } = Astro.props as { topic: Topic };
-const { terms, tracks, domainById } = await loadGlossary();
+const { tracks, domainById, outline } = await loadGlossary();
 const domain = domainById.get(topic.domain)!;
-const topicTerms = termsInTopic(terms, topic.id);
+const topicTerms = outline.get(topic.id)!;
 const { Content } = await render(topic);
 ---
 
@@ -24,10 +24,10 @@ const { Content } = await render(topic);
   {tracks.map((track) => {
     const inTrack = topicTerms.filter((t) => track.id in t.data.levels);
     return inTrack.length > 0 && (
-      <>
-        {tracks.length > 1 && <p class="topic-label">{track.data.title} track</p>}
-        <LevelSections track={track} terms={inTrack} topics={[]} groupByTopic={false} />
-      </>
+      <section class="track-section" data-track={track.id}>
+        <h2 id={track.id}><a href={`/tracks/${track.id}`}>{track.data.title}</a></h2>
+        <LevelSections track={track} terms={inTrack} topics={[]} groupByTopic={false} nested />
+      </section>
     );
   })}
 </Base>
