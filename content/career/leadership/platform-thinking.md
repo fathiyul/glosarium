@@ -1,7 +1,7 @@
 ---
 title: "Platform Thinking"
 summary: "Building shared capabilities that make other teams faster."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff }
 ---
 
 Platform thinking is designing shared capabilities as products for the teams that use them. A platform might provide deployment workflows, identity services, data tooling, or observability, with a clear interface and support model that lets product teams focus on their own outcomes.

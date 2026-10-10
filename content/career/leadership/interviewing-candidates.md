@@ -1,7 +1,7 @@
 ---
 title: "Interviewing Candidates"
 summary: "Running fair interviews that produce real signal."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: senior }
 ---
 
 Interviewing candidates is a structured way to gather evidence about whether someone can do the role's work and how they approach unfamiliar problems. The interview should give the candidate a realistic chance to show relevant skills, not reward guessing what an interviewer wants to hear.
