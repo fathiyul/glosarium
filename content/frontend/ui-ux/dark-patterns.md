@@ -1,7 +1,7 @@
 ---
 title: "Dark Patterns"
 summary: "Deceptive UI that tricks users, and why to refuse to build it."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , tech-entrepreneur: pmf }
 aliases: ["dark patterns", "deceptive design", "dark ux"]
 prereqs: ["visual-hierarchy", "gdpr"]
 related: ["gdpr", "ab-testing", "user-research"]

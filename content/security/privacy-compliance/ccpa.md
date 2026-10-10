@@ -1,7 +1,7 @@
 ---
 title: "CCPA"
 summary: "California's consumer privacy law."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , tech-entrepreneur: growth }
 ---
 
 The California Consumer Privacy Act (CCPA), as amended, is a California privacy law that gives covered consumers rights concerning certain personal information and places obligations on covered businesses. Its scope, definitions, exceptions, and operational requirements depend on the organization and processing; teams should check current regulations and legal guidance.

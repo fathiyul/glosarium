@@ -1,7 +1,7 @@
 ---
 title: "Multi-Tenancy"
 summary: "Serving many customers from one system while keeping their data apart."
-levels: { backend: senior }
+levels: { backend: senior , tech-entrepreneur: mvp }
 also: [product-features, architecture-styles]
 aliases: ["multi-tenancy", "multitenancy", "tenants"]
 prereqs: ["database", "rbac"]

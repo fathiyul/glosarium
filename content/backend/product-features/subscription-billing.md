@@ -1,7 +1,7 @@
 ---
 title: "Subscription Billing"
 summary: "Plans, trials, renewals, failed payments and dunning."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , tech-entrepreneur: mvp }
 aliases: ["subscription billing", "recurring billing", "subscriptions"]
 prereqs: ["payment-integration", "invoices-receipts"]
 related: ["payment-integration", "invoices-receipts", "proration", "entitlements"]

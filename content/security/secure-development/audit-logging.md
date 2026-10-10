@@ -1,7 +1,7 @@
 ---
 title: "Audit Logging"
 summary: "Recording who did what and when, for accountability."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , tech-entrepreneur: growth }
 ---
 
 Audit logging records security-relevant actions with enough context to answer who did what, when, and to which resource. Examples include permission changes, account recovery, access to sensitive records, key operations, and administrative actions. It supports investigations and accountability; it is different from application debug logging.

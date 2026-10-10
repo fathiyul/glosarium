@@ -1,7 +1,7 @@
 ---
 title: "Multi-Currency Handling"
 summary: "Storing, converting and displaying money in several currencies."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior , tech-entrepreneur: growth }
 aliases: ["multi-currency", "multiple currencies", "currency handling"]
 prereqs: ["payment-integration", "ledger"]
 related: ["payment-integration", "ledger", "sales-tax-vat", "proration"]

@@ -1,7 +1,7 @@
 ---
 title: "Sales Tax and VAT"
 summary: "Charging the right tax for each customer's location."
-levels: { backend: senior }
+levels: { backend: senior , tech-entrepreneur: pmf }
 aliases: ["sales tax", "VAT", "tax computation"]
 prereqs: ["invoices-receipts", "payment-integration"]
 related: ["invoices-receipts", "payment-integration", "multi-currency", "third-party-integration"]

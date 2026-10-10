@@ -1,10 +1,11 @@
 ---
 title: "Giving a Demo"
 summary: "Showing your work clearly to an audience."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level , tech-entrepreneur: mvp }
 aliases: ["demo presentation", "showing your work"]
 prereqs: ["sprint-review"]
 related: ["sprint-review", "writing-clearly", "receiving-feedback"]
+core: [tech-entrepreneur]
 ---
 
 A demo shows people what you built, so they can see it work. The audience usually includes teammates, product people or stakeholders who weren't close to the code. Your job is to make the change easy to understand in a few minutes.

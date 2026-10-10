@@ -1,7 +1,7 @@
 ---
 title: "Account Deletion"
 summary: "Deleting or anonymizing a user across every table and system."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , tech-entrepreneur: pmf }
 aliases: ["account deletion", "delete account", "account removal"]
 prereqs: ["soft-delete", "gdpr"]
 related: ["soft-delete", "gdpr", "audit-columns", "backups"]

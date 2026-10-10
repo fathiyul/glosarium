@@ -1,7 +1,7 @@
 ---
 title: "Technical Due Diligence"
 summary: "Assessing another company's technology, as in an acquisition."
-levels: { backend: principal, frontend: principal, data-engineer: principal }
+levels: { backend: principal, frontend: principal, data-engineer: principal , tech-entrepreneur: growth }
 ---
 
 Technical due diligence is an assessment of a company's technology, systems, and engineering practices to inform a business decision, such as an acquisition, investment, or partnership. It aims to understand material risks and opportunities, not to produce a complete code audit in a short period.

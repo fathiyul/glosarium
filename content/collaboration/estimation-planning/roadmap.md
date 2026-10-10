@@ -1,7 +1,7 @@
 ---
 title: "Roadmap"
 summary: "A plan of what to build over the coming months."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: pmf }
 ---
 
 A roadmap communicates intended product or platform outcomes over a future period and the reasoning behind their order. It helps teams and stakeholders coordinate, but it is not a guarantee that every item will ship on a fixed date.

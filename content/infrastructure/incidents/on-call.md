@@ -1,7 +1,7 @@
 ---
 title: "On-Call"
 summary: "Being responsible for responding to production issues."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: pmf }
 aliases: ["on call", "on-call rotation", "being on call", "pager duty", "on-call engineer"]
 prereqs: ["incident", "alerting"]
 related: ["on-call-paging", "on-call-handover", "escalation", "runbook-automation", "alert-fatigue", "incident-response", "sustainable-pace"]

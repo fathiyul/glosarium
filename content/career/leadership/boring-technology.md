@@ -1,7 +1,8 @@
 ---
 title: "Boring Technology / Innovation Tokens"
 summary: "Spending novelty sparingly and choosing proven tools by default."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: mvp }
+core: [tech-entrepreneur]
 ---
 
 Boring technology is a preference for tools and designs with known behavior, available expertise, and a supportable operating history when they meet the need. It does not mean avoiding all new technology; it means spending novelty where it creates enough value to justify the added uncertainty.

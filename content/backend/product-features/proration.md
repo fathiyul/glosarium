@@ -1,7 +1,7 @@
 ---
 title: "Proration"
 summary: "Charging fairly when a customer changes plans mid-cycle."
-levels: { backend: senior }
+levels: { backend: senior , tech-entrepreneur: pmf }
 aliases: ["proration", "prorated charge", "pro-rata billing"]
 prereqs: ["subscription-billing", "invoices-receipts"]
 related: ["subscription-billing", "invoices-receipts", "coupons-discounts", "multi-currency"]

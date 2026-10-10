@@ -1,7 +1,7 @@
 ---
 title: "Disaster Recovery"
 summary: "Restoring service after a catastrophic failure."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , tech-entrepreneur: growth }
 aliases: ["disaster recovery", "DR", "disaster recovery plan"]
 prereqs: ["backups", "rpo-rto"]
 related: ["rpo-rto", "restore-testing", "multi-region"]

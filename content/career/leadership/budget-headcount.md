@@ -1,7 +1,7 @@
 ---
 title: "Budget and Headcount"
 summary: "Planning people and spending."
-levels: { backend: principal, frontend: principal, data-engineer: principal , data-analyst: staff }
+levels: { backend: principal, frontend: principal, data-engineer: principal , data-analyst: staff , tech-entrepreneur: growth }
 ---
 
 Budget and headcount planning decides how much money and team capacity to allocate to goals, operations, and future needs. It includes more than hiring: existing commitments, vendor costs, support load, and the time required to onboard people affect what a team can take on.

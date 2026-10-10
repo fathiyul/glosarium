@@ -1,7 +1,7 @@
 ---
 title: "Feature Adoption"
 summary: "Whether users actually use what you shipped."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level , tech-entrepreneur: pmf }
 ---
 
 Feature adoption describes whether and how intended users begin using a feature after it becomes available. A release is not the same as adoption: the feature may be hard to discover, solve the wrong problem, or fail for a subset of users.

@@ -1,7 +1,7 @@
 ---
 title: "Egress Costs"
 summary: "Paying for data leaving the cloud."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , tech-entrepreneur: growth }
 aliases: ["egress costs", "data transfer costs", "egress fees"]
 prereqs: ["cloud-computing", "finops"]
 related: ["cdn", "regions-azs", "object-storage", "latency", "cloud-providers"]

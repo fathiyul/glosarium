@@ -1,7 +1,7 @@
 ---
 title: "Invoices and Receipts"
 summary: "Generating immutable, numbered billing documents."
-levels: { backend: mid-level }
+levels: { backend: mid-level , tech-entrepreneur: mvp }
 aliases: ["invoices and receipts", "invoices", "receipts"]
 prereqs: ["subscription-billing", "pdf-generation"]
 related: ["subscription-billing", "pdf-generation", "ledger", "sales-tax-vat"]

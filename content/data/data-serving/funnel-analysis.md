@@ -1,7 +1,7 @@
 ---
 title: "Funnel Analysis"
 summary: "Measuring how users move through a sequence of steps."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , tech-entrepreneur: pmf }
 aliases: ["funnel analysis", "conversion funnel", "funnel metrics", "step conversion"]
 prereqs: ["group-by", "cohort-analysis"]
 related: ["cohort-analysis", "retention-analysis", "segmentation", "metric-definitions", "kpi-design", "exploratory-data-analysis"]

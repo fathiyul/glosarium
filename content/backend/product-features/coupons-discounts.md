@@ -1,7 +1,7 @@
 ---
 title: "Coupons and Discounts"
 summary: "Promotions without letting them stack or be abused."
-levels: { backend: mid-level }
+levels: { backend: mid-level , tech-entrepreneur: pmf }
 aliases: ["coupons and discounts", "discounts", "coupon codes"]
 prereqs: ["subscription-billing", "ledger"]
 related: ["subscription-billing", "ledger", "idempotence", "proration"]

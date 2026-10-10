@@ -1,7 +1,7 @@
 ---
 title: "Technical Vision"
 summary: "A picture of where the technology should be in a few years."
-levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: principal }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: principal , tech-entrepreneur: growth }
 ---
 
 A technical vision describes a future state the organization wants its technology to support and the principles that guide movement toward it. It connects user or business needs to system direction without prescribing every future implementation detail.

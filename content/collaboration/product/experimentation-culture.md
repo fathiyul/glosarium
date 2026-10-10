@@ -1,7 +1,7 @@
 ---
 title: "Experimentation Culture"
 summary: "Testing ideas with data before committing to them."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level , tech-entrepreneur: growth }
 ---
 
 An experimentation culture uses evidence from structured tests and observation to learn whether a product change helps, rather than relying only on seniority or intuition. Experiments can include controlled rollouts, usability tests, prototypes, and qualitative interviews; not every question requires an A/B test.

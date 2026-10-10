@@ -1,7 +1,7 @@
 ---
 title: "Monolith"
 summary: "One deployable application containing all the features."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , tech-entrepreneur: mvp }
 aliases: ["monolithic application", "monolithic architecture"]
 prereqs: ["client-server"]
 related: ["modular-monolith", "microservices", "monolith-vs-microservices", "load-balancer"]

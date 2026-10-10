@@ -1,7 +1,7 @@
 ---
 title: "Managing Technical Debt"
 summary: "Tracking, prioritizing and paying down debt deliberately."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: growth }
 aliases: ["technical debt management", "paying down tech debt", "tech debt strategy", "debt prioritization", "tech debt backlog"]
 prereqs: ["technical-debt", "refactoring"]
 related: ["technical-debt", "refactoring", "boy-scout-rule", "big-bang-rewrite", "strangler-fig", "legacy-code", "prioritization"]

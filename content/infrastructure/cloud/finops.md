@@ -1,7 +1,7 @@
 ---
 title: "Cloud Cost Management (FinOps)"
 summary: "Understanding and controlling cloud spending."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: growth }
 aliases: ["FinOps", "cloud cost management", "cost optimization"]
 prereqs: ["cloud-computing", "cloud-providers"]
 related: ["egress-costs", "storage-lifecycle", "capacity-planning", "managed-vs-self-hosted", "monitoring"]

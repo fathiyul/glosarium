@@ -1,7 +1,7 @@
 ---
 title: "User Empathy"
 summary: "Remembering a real person uses what you build."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , tech-entrepreneur: idea }
 aliases: ["user focus", "customer empathy"]
 prereqs: ["requirements"]
 related: ["user-story", "requirements", "edge-cases", "pixel-perfect"]

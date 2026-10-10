@@ -1,7 +1,8 @@
 ---
 title: "Build vs Buy"
 summary: "Deciding whether to build something or use an existing product."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: mvp }
+core: [tech-entrepreneur]
 ---
 
 Build versus buy is the decision to create a capability in-house or adopt an existing product or service. Compare the options by how well they meet the actual requirement, ongoing operating effort, integration, reliability, security, cost, and the ability to change or leave later.

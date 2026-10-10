@@ -1,7 +1,8 @@
 ---
 title: "Organization Design"
 summary: "Structuring teams and reporting lines."
-levels: { backend: principal, frontend: principal, data-engineer: principal }
+levels: { backend: principal, frontend: principal, data-engineer: principal , tech-entrepreneur: scale }
+core: [tech-entrepreneur]
 ---
 
 Organization design is the arrangement of teams, roles, decision rights, and communication paths used to pursue an organization's goals. It influences how quickly people can make decisions, how expertise is shared, and where coordination work accumulates.

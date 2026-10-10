@@ -1,7 +1,7 @@
 ---
 title: "Scope Creep"
 summary: "Requirements growing while a project is underway."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp }
 ---
 
 Scope creep is the gradual growth of a project's requirements without a corresponding decision to change its time, staffing, or other constraints. Each addition may seem small, but together they can delay delivery or dilute the original outcome.

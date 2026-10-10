@@ -1,7 +1,8 @@
 ---
 title: "User Research"
 summary: "Learning what users actually need."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: idea }
+core: [tech-entrepreneur]
 ---
 
 User research is learning about people's needs, tasks, and context through methods such as interviews, observation, surveys, and usability sessions. Its purpose is to inform product decisions, not to collect quotes that justify a decision already made.

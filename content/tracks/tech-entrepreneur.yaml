@@ -1,0 +1,18 @@
+title: Tech Entrepreneur
+summary: Every concept an engineer meets when starting a company, from first idea to scale, in the order you actually need it.
+levels:
+  - id: idea
+    title: Idea
+    summary: Find a problem worth solving and prove people have it. Where every first-time founder starts.
+  - id: mvp
+    title: MVP
+    summary: Ship the smallest thing someone will use or pay for, and set up the company properly.
+  - id: pmf
+    title: Product-Market Fit
+    summary: Get users who stay, pay and tell others; raise your first real round.
+  - id: growth
+    title: Growth
+    summary: Make acquisition and revenue repeatable; hire, raise and build a board.
+  - id: scale
+    title: Scale
+    summary: "Run the company: organization, moats, new markets and exits. Repeat-founder territory."

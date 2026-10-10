@@ -1,7 +1,7 @@
 ---
 title: "SEO"
 summary: "Making pages discoverable and well ranked by search engines."
-levels: { backend: mid-level, frontend: junior }
+levels: { backend: mid-level, frontend: junior , tech-entrepreneur: pmf }
 aliases: ["search engine optimization"]
 prereqs: ["semantic-html"]
 related: ["sitemap-robots", "client-side-rendering", "server-templates", "static-site-generation", "web-performance"]

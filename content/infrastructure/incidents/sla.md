@@ -1,7 +1,7 @@
 ---
 title: "SLA"
 summary: "A service level agreement: a promise to customers, with consequences."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: growth }
 aliases: ["sla", "service level agreement", "sla vs slo"]
 prereqs: ["slo", "sli"]
 related: ["error-budget", "uptime-monitoring", "status-page", "incident-response", "metrics"]

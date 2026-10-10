@@ -1,7 +1,7 @@
 ---
 title: "Single Sign-On (SSO)"
 summary: "Logging in once with an identity provider and accessing many apps."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior , tech-entrepreneur: growth }
 related: [openid-connect, saml]
 ---
 

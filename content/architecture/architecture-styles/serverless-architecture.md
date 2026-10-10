@@ -1,7 +1,7 @@
 ---
 title: "Serverless Architecture"
 summary: "Building from managed functions and services without running servers."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp }
 aliases: ["serverless architecture", "serverless", "functions architecture"]
 prereqs: ["serverless-functions", "faas"]
 related: ["serverless-functions", "event-driven-architecture", "faas"]

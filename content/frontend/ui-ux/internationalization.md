@@ -1,7 +1,7 @@
 ---
 title: "Internationalization (i18n)"
 summary: "Preparing software for many languages and regions."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , tech-entrepreneur: growth }
 aliases: ["i18n", "localization and internationalization", "l10n", "making software multilingual", "globalization"]
 prereqs: ["unicode", "string"]
 related: ["localization", "locale-formatting", "pluralization", "rtl-support", "character-encoding", "timezone"]

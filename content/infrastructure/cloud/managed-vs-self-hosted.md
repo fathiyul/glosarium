@@ -1,7 +1,7 @@
 ---
 title: "Managed vs Self-Hosted"
 summary: "Paying for convenience vs running it yourself."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: mvp }
 aliases: ["managed vs self-hosted", "managed services", "build vs buy"]
 prereqs: ["cloud-computing", "managed-database"]
 related: ["managed-kubernetes", "managed-queues", "vendor-lock-in", "toil", "capacity-planning"]

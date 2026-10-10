@@ -1,7 +1,7 @@
 ---
 title: "Evaluating New Technology"
 summary: "Separating hype from what's worth adopting."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , tech-entrepreneur: pmf }
 ---
 
 Evaluating new technology means deciding whether a tool, framework, or service solves a real problem well enough to justify its adoption and ongoing ownership. A compelling demo is only one input; a production choice must also fit the team's security, reliability, integration, and support needs.

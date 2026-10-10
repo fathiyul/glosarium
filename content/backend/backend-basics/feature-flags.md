@@ -1,7 +1,7 @@
 ---
 title: "Feature Flags"
 summary: "Turning features on and off without deploying."
-levels: { backend: mid-level, frontend: mid-level , data-analyst: senior }
+levels: { backend: mid-level, frontend: mid-level , data-analyst: senior , tech-entrepreneur: pmf }
 aliases: ["feature toggles", "feature switches", "flags", "LaunchDarkly", "Unleash", "kill switch"]
 prereqs: ["environments", "deployment"]
 related: ["feature-flag-cleanup", "deploy-vs-release", "canary-release", "ab-testing", "dark-launch", "progressive-delivery"]

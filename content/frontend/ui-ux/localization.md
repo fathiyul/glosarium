@@ -1,7 +1,7 @@
 ---
 title: "Localization (l10n)"
 summary: "Translating and adapting software for a specific locale."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , tech-entrepreneur: growth }
 aliases: ["localization", "l10n", "internationalization vs localization"]
 prereqs: ["pluralization", "timezone"]
 related: ["pluralization", "rtl-support", "locale-formatting"]

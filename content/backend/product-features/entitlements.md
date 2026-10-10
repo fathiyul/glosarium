@@ -1,7 +1,7 @@
 ---
 title: "Entitlements and Plan Limits"
 summary: "Deciding which features and quotas each plan unlocks."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , tech-entrepreneur: pmf }
 aliases: ["entitlements", "plan limits", "feature entitlements"]
 prereqs: ["subscription-billing", "rbac"]
 related: ["subscription-billing", "rbac", "usage-metering", "feature-flags"]

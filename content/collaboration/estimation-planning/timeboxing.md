@@ -1,7 +1,7 @@
 ---
 title: "Timeboxing"
 summary: "Fixing the time and adjusting the scope."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , tech-entrepreneur: mvp }
 aliases: ["time-boxing", "time box"]
 prereqs: ["estimation"]
 related: ["sprint", "estimation", "sprint-planning", "deep-work"]

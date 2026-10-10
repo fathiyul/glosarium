@@ -10,9 +10,16 @@
   --level-senior: #8a4fd0;
   --level-staff: #c4542a;
   --level-principal: #b03060;
+  --level-idea: #2e8b57;
+  --level-mvp: #2f6fd3;
+  --level-pmf: #8a4fd0;
+  --level-growth: #c4542a;
+  --level-scale: #b03060;
+  color-scheme: light;
 }
+/* Dark follows the OS unless the reader picked a theme with the header toggle (data-theme on <html>). */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #161615;
     --text: #e8e6e1;
     --muted: #9b9993;
@@ -24,7 +31,32 @@
     --level-senior: #b996ef;
     --level-staff: #ec8a62;
     --level-principal: #e6799e;
+    --level-idea: #5cc28a;
+    --level-mvp: #79a6f2;
+    --level-pmf: #b996ef;
+    --level-growth: #ec8a62;
+    --level-scale: #e6799e;
+    color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+  --bg: #161615;
+  --text: #e8e6e1;
+  --muted: #9b9993;
+  --border: #2d2c2a;
+  --accent: #8aa8ff;
+  --chip: #232220;
+  --level-junior: #5cc28a;
+  --level-mid-level: #79a6f2;
+  --level-senior: #b996ef;
+  --level-staff: #ec8a62;
+  --level-principal: #e6799e;
+  --level-idea: #5cc28a;
+  --level-mvp: #79a6f2;
+  --level-pmf: #b996ef;
+  --level-growth: #ec8a62;
+  --level-scale: #e6799e;
+  color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
@@ -53,7 +85,21 @@ th, td { border-bottom: 1px solid var(--border); padding: 0.4rem 0.6rem; text-al
   padding-top: 1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border);
 }
 .brand { font-weight: 700; color: var(--text); }
-.site-header nav { display: flex; gap: 1rem; font-size: 0.95rem; }
+.site-header nav { display: flex; gap: 1rem; font-size: 0.95rem; align-items: center; }
+.theme-toggle {
+  display: inline-flex; padding: 0.3rem; border: 1px solid var(--border); border-radius: 8px;
+  background: none; color: var(--muted); cursor: pointer;
+}
+.theme-toggle:hover { color: var(--text); }
+.theme-toggle svg { width: 1.05rem; height: 1.05rem; }
+/* Show the icon of the theme you'd switch to. */
+.theme-toggle .sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .moon { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .sun { display: block; }
+  :root:not([data-theme="light"]) .theme-toggle .moon { display: none; }
+}
 
 .lede { color: var(--muted); font-size: 1.1rem; margin-top: 0.25rem; }
 .crumbs { font-size: 0.9rem; color: var(--muted); margin-top: 1.5rem; }
@@ -66,9 +112,24 @@ th, td { border-bottom: 1px solid var(--border); padding: 0.4rem 0.6rem; text-al
 .level-senior { color: var(--level-senior); }
 .level-staff { color: var(--level-staff); }
 .level-principal { color: var(--level-principal); }
+.level-idea { color: var(--level-idea); }
+.level-mvp { color: var(--level-mvp); }
+.level-pmf { color: var(--level-pmf); }
+.level-growth { color: var(--level-growth); }
+.level-scale { color: var(--level-scale); }
 
 .level-head { display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; }
 .level-head p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+.level-head h3 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
+
+/* Topic pages: one section per track, levels nested under it. */
+/* No divider line: term rows already use thin lines, so a track starts with space and an accent bar instead. */
+.track-section { margin-top: 4rem; }
+.track-section > h2 {
+  margin: 0; padding: 0.15rem 0 0.15rem 0.8rem; border-left: 4px solid var(--accent);
+  font-size: 1.5rem;
+}
+.track-section > h2 a { color: var(--text); }
 .topic-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 1.25rem 0 0.25rem; }
 
 .term-list { list-style: none; padding: 0; margin: 0; }

@@ -1,7 +1,7 @@
 ---
 title: "Risk Management"
 summary: "Identifying and mitigating what could derail a project."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , tech-entrepreneur: growth }
 ---
 
 Risk management identifies uncertain events that could affect an outcome, assesses their likely impact, and chooses whether to reduce, transfer, accept, or avoid them. It is a way to make decisions visible, not a promise that every bad outcome can be predicted.

@@ -1,11 +1,12 @@
 ---
 title: "Product Analytics"
 summary: "Tracking how people use features to inform decisions."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp }
 also: [data-serving]
 aliases: ["product analytics", "event tracking", "user analytics"]
 prereqs: ["ab-testing", "gdpr"]
 related: ["ab-testing", "feature-flags", "gdpr"]
+core: [tech-entrepreneur]
 ---
 
 **Product analytics** instruments user behaviour — events (signed up, searched, purchased), funnels (signup → activation → retention), cohorts and properties — so product decisions rest on evidence rather than anecdote. Well-designed tracking answers "where do users struggle, and did our change help?" directly.

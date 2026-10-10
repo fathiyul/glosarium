@@ -1,7 +1,7 @@
 ---
 title: "Postmortem"
 summary: "A written review of an incident: what happened and how to prevent it."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: growth }
 aliases: ["post-mortem", "incident review", "incident postmortem", "after-action review", "retrospective for incidents"]
 prereqs: ["incident"]
 related: ["blameless-postmortem", "root-cause-analysis", "five-whys", "incident-response", "mttr", "on-call"]

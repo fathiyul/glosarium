@@ -1,7 +1,7 @@
 ---
 title: "PCI DSS"
 summary: "Rules for handling payment card data."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , tech-entrepreneur: pmf }
 ---
 
 PCI DSS is a security standard for organizations that store, process, or transmit payment card data, and for systems that can affect the security of that environment. The standard is maintained by the PCI Security Standards Council; applicability and validation requirements depend on the organization and how payments are handled.

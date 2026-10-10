@@ -1,7 +1,8 @@
 ---
 title: "MVP"
 summary: "The smallest product that tests whether an idea works."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: idea }
+core: [tech-entrepreneur]
 ---
 
 A minimum viable product (MVP) is the smallest product or product slice that can test a specific assumption with real users or a realistic market signal. “Minimum” means less scope than a full product, not low reliability, poor usability, or missing essential safety and privacy controls.

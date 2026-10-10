@@ -1,7 +1,7 @@
 ---
 title: "Usage Metering"
 summary: "Counting billable usage accurately, without double-counting."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , tech-entrepreneur: pmf }
 aliases: ["usage metering", "usage-based billing", "metering"]
 prereqs: ["entitlements", "subscription-billing"]
 related: ["entitlements", "subscription-billing", "metrics", "idempotence"]

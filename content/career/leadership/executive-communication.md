@@ -1,7 +1,7 @@
 ---
 title: "Communicating with Executives"
 summary: "Short, decision-focused updates for leadership."
-levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff , tech-entrepreneur: growth }
 ---
 
 Executive communication presents a decision, risk, or progress update in a concise form that helps leadership act. It emphasizes the outcome and consequence, with enough evidence to support the recommendation and a path to technical detail for people who need it.

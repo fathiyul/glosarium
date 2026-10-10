@@ -1,7 +1,8 @@
 ---
 title: "Hiring"
 summary: "Interviewing and selecting engineers."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: senior , tech-entrepreneur: pmf }
+core: [tech-entrepreneur]
 ---
 
 Hiring is the process of defining a role, finding candidates, evaluating relevant skills, and making a decision that fits both the work and the team. A good process gives candidates a fair chance to demonstrate the abilities the role needs and gives interviewers evidence they can discuss consistently.
