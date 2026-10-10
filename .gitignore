@@ -2,6 +2,7 @@ node_modules/
 dist/
 .astro/
 
-# Mailbox for coordinating non-Claude writer sessions (not part of the site)
+# Agent session files and the writer-coordination mailbox (not part of the site)
 .comm_channel/
 .opencode/
+.claude/
