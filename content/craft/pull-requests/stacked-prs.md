@@ -20,10 +20,10 @@ The motivation is reviewability. A single huge PR that touches everything is har
 
 The classic mistakes:
 
-- **Ignoring that lower changes ripple up.** If a reviewer asks for a change in PR 1, PR 2 and PR 3 must be rebased on it. Rebase the whole stack, and expect to [force-push](/t/force-push) the upper branches (safely, since they're yours).
-- **Merging out of order.** PR 2 can't merge before PR 1 or it'll contain PR 1's changes too. Land the bottom first.
-- **Stacking too deep.** A ten-deep stack is as hard to manage as one giant PR. Keep stacks short.
-- **Doing it by hand badly.** Manually rebasing a stack is error-prone; tooling exists that tracks the dependencies and rebases the chain for you. Use it rather than fighting branches.
-- **Reviewer confusion.** Make clear which PR is the base and what each layer adds, or reviewers review the same base diff three times.
+- Ignoring that lower changes ripple up. If a reviewer asks for a change in PR 1, PR 2 and PR 3 must be rebased on it. Rebase the whole stack, and expect to [force-push](/t/force-push) the upper branches (safely, since they're yours).
+- Merging out of order. PR 2 can't merge before PR 1 or it'll contain PR 1's changes too. Land the bottom first.
+- Stacking too deep. A ten-deep stack is as hard to manage as one giant PR. Keep stacks short.
+- Doing it by hand badly. Manually rebasing a stack is error-prone; tooling exists that tracks the dependencies and rebases the chain for you. Use it rather than fighting branches.
+- Reviewer confusion. Make clear which PR is the base and what each layer adds, or reviewers review the same base diff three times.
 
 **When it's worth it:** when a change is naturally sequential (refactor → implement → switch) and you want to keep each step reviewable. When the change is genuinely independent, separate PRs are simpler. Stacks are a tool for large work that doesn't fit into one reasonable review.

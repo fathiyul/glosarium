@@ -20,9 +20,9 @@ polyrepo: independent release cycles → a lib bump means upgrading N repos
 
 The classic mistakes:
 
-- **A monorepo without the tooling.** Just putting everything in one repo gives you long clones and 100% CI runs. Monorepos work when builds are dependency-aware (only rebuild what changed, with [build caching](/t/build-caching)).
-- **A polyrepo with no shared baseline.** Hundreds of repos each pinning different versions of a shared library is [dependency hell](/t/dependency-hell); you need a deliberate strategy for shared code.
-- **Choosing by fashion.** "Google uses a monorepo" ignores that Google built enormous tooling for it. Choose based on your team size, tooling and coupling.
-- **Assuming one repo means one deployable.** A monorepo can still build many independent artifacts (the "modular monolith" idea); the repo layout doesn't dictate deployment.
+- A monorepo without the tooling. Just putting everything in one repo gives you long clones and 100% CI runs. Monorepos work when builds are dependency-aware (only rebuild what changed, with [build caching](/t/build-caching)).
+- A polyrepo with no shared baseline. Hundreds of repos each pinning different versions of a shared library is [dependency hell](/t/dependency-hell); you need a deliberate strategy for shared code.
+- Choosing by fashion. "Google uses a monorepo" ignores that Google built enormous tooling for it. Choose based on your team size, tooling and coupling.
+- Assuming one repo means one deployable. A monorepo can still build many independent artifacts (the "modular monolith" idea); the repo layout doesn't dictate deployment.
 
 The practical middle ground is a monorepo *with* proper build tooling and clear module boundaries, or a polyrepo with a strong shared-library and versioning discipline. Trunk-based development ([trunk-based development](/t/trunk-based-development)) and scoped CI matter more than the repo count.
