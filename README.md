@@ -1,4 +1,4 @@
-# Annotated Mind
+# Glosarium
 
 A glossary of concepts, ordered by when you actually need them. Built with Astro.
 

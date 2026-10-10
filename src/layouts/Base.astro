@@ -13,7 +13,7 @@ const { title, description } = Astro.props;
 // Track pages, the home page and the domain list each repeat ~2,000 concepts, so they stay out of search.
 const path = Astro.url.pathname.replace(/\/$/, '');
 const indexed = Astro.props.indexed ?? (/^\/(t|topics)\/[^/]+$/.test(path) || /^\/domains\/[^/]+$/.test(path));
-const pageTitle = title ? `${title} · Annotated Mind` : 'Annotated Mind';
+const pageTitle = title ? `${title} · Glosarium` : 'Glosarium';
 ---
 
 <!doctype html>
@@ -26,7 +26,7 @@ const pageTitle = title ? `${title} · Annotated Mind` : 'Annotated Mind';
   </head>
   <body>
     <header class="site-header">
-      <a href="/" class="brand">Annotated Mind</a>
+      <a href="/" class="brand">Glosarium</a>
       <Search />
       <nav>
         <a href="/">Tracks</a>
