@@ -26,7 +26,7 @@ The classic mistakes:
 
 - **`COPY . .` before installing dependencies**, busting the cache on every edit.
 - **No `.dockerignore`.** Then `node_modules`, `.git` and build output get copied into the context and a layer, bloating the image and invalidating the cache for no reason.
-- **Too-coarse layers.** Split steps along lines that change at different rates.
-- **Expecting a later delete to shrink the image.** It doesn't; the bytes remain in the earlier layer. Use [multi-stage builds](/t/multi-stage-build) and [minimal base images](/t/minimal-base-images) to keep images small.
+- Too-coarse layers. Split steps along lines that change at different rates.
+- Expecting a later delete to shrink the image. It doesn't; the bytes remain in the earlier layer. Use [multi-stage builds](/t/multi-stage-build) and [minimal base images](/t/minimal-base-images) to keep images small.
 
 Inspect what's really in an image with `docker history <image>`. A well-ordered Dockerfile makes local builds fast and CI caches effective.

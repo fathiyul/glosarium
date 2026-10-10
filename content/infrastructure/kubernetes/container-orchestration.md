@@ -14,9 +14,9 @@ The job includes:
 - **Scheduling** — placing each workload on a node with enough CPU and memory (see [pod](/t/pod)).
 - **Self-healing** — detecting dead containers or unhealthy nodes and replacing them.
 - **Scaling** — adding and removing copies as demand changes (see [horizontal pod autoscaling](/t/hpa)).
-- **Rolling updates and rollbacks** — replacing old versions gradually (see [deployments](/t/k8s-deployment)).
-- **Service discovery and load balancing** — giving a stable address to containers that come and go.
-- **Configuration and health checks** — feeding settings and [health probes](/t/health-check) into each workload.
+- Rolling updates and rollbacks — replacing old versions gradually (see [deployments](/t/k8s-deployment)).
+- Service discovery and load balancing — giving a stable address to containers that come and go.
+- Configuration and health checks — feeding settings and [health probes](/t/health-check) into each workload.
 
 [Kubernetes](/t/kubernetes) is the de facto standard, and cloud providers offer managed versions (see [managed Kubernetes](/t/managed-kubernetes)). [Docker Compose](/t/docker-compose) runs several containers but on a single host: useful for development, not a cluster orchestrator.
 

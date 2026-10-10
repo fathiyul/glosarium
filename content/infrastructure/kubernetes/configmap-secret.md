@@ -29,8 +29,8 @@ The classic and dangerous mistake is believing a Secret is secret. By default a 
 
 More traps:
 
-- **Env vars don't update.** A mounted file changes when the ConfigMap or Secret changes (after a short delay, and not for `subPath` mounts); an environment variable is set once at container start. Use a volume mount if the app should pick up changes without a restart.
-- **ConfigMaps aren't for large or binary data** — they're for small text configuration.
-- **Anyone with RBAC access can read Secrets.** Lock down permissions and enable encryption at rest.
+- Env vars don't update. A mounted file changes when the ConfigMap or Secret changes (after a short delay, and not for `subPath` mounts); an environment variable is set once at container start. Use a volume mount if the app should pick up changes without a restart.
+- ConfigMaps aren't for large or binary data — they're for small text configuration.
+- Anyone with RBAC access can read Secrets. Lock down permissions and enable encryption at rest.
 
 For real secrets, prefer a dedicated [secrets manager](/t/secrets-management) or an external-secrets operator over plain Kubernetes Secrets, and inject them at runtime. Namespaces scope all of this: a Secret lives in one [namespace](/t/k8s-namespace). See [deployments](/t/k8s-deployment) and [Helm](/t/helm) for templating these objects.

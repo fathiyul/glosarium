@@ -25,8 +25,8 @@ Use the **exec form** (a JSON array) rather than the shell form. `CMD python app
 
 The classic mistakes:
 
-- **Putting setup logic in `CMD`** and then being puzzled when it vanishes because something overrode the command. Do setup at build time or in an entrypoint script.
-- **Using the shell form** and losing signal handling and clean shutdown.
-- **Assuming `--entrypoint` is the normal override.** It works with `docker run`, but it can't express complex commands; prefer a wrapper script.
+- Putting setup logic in `CMD` and then being puzzled when it vanishes because something overrode the command. Do setup at build time or in an entrypoint script.
+- Using the shell form and losing signal handling and clean shutdown.
+- Assuming `--entrypoint` is the normal override. It works with `docker run`, but it can't express complex commands; prefer a wrapper script.
 
 Rule of thumb: `ENTRYPOINT` for the one thing the image *is*, `CMD` for what can reasonably vary.

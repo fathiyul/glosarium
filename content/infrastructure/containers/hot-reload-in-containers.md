@@ -30,9 +30,9 @@ That last line is the important one. Mounting `.` over `/app` also hides the `no
 
 The classic mistakes:
 
-- **Using the production image for dev.** A compiled, optimized build won't watch files. Make a dev target, or override the command.
-- **Forgetting the mount**, so edits land on the host while the container keeps running old code.
-- **File watching across operating systems.** On macOS and Windows the host filesystem events may not reach the container, so the watcher never fires; enable polling (for example a watch option or `CHOKIDAR_USEPOLLING`). Slower, but reliable.
-- **Mounting a huge directory**, which makes the build context and file watching slow.
+- Using the production image for dev. A compiled, optimized build won't watch files. Make a dev target, or override the command.
+- Forgetting the mount, so edits land on the host while the container keeps running old code.
+- File watching across operating systems. On macOS and Windows the host filesystem events may not reach the container, so the watcher never fires; enable polling (for example a watch option or `CHOKIDAR_USEPOLLING`). Slower, but reliable.
+- Mounting a huge directory, which makes the build context and file watching slow.
 
 Keep this setup for development only. In production you bake the code into the image and run the built artifact, with no source mounts. Tools like [Vite](/t/vite) are built around this dev-versus-prod split; see [build tools](/t/build-tool).

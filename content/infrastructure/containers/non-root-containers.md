@@ -29,8 +29,8 @@ Now the process runs as `app`. Match this to [file permissions](/t/file-permissi
 
 The classic mistakes:
 
-- **Setting `USER` without fixing ownership**, so the app can't write its own files.
-- **Using `chown -R` over the whole filesystem**, which copies every file into a new layer and bloats the image. Use `COPY --chown` instead.
-- **Assuming non-root is enough.** Also drop Linux capabilities you don't need, run a read-only root filesystem where possible, and apply [least privilege](/t/least-privilege) to what the container can reach.
+- Setting `USER` without fixing ownership, so the app can't write its own files.
+- Using `chown -R` over the whole filesystem, which copies every file into a new layer and bloats the image. Use `COPY --chown` instead.
+- Assuming non-root is enough. Also drop Linux capabilities you don't need, run a read-only root filesystem where possible, and apply [least privilege](/t/least-privilege) to what the container can reach.
 
 Rootless Docker and rootless runtimes add a second layer of safety by running the daemon itself as an unprivileged user. For anything exposed to the internet, treat a non-root container as a baseline, not a bonus — the same instinct as [server hardening](/t/server-hardening).

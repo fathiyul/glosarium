@@ -26,6 +26,6 @@ The classic mistakes:
 - **Trusting a naive parser.** `cut` and `awk -F,` break on CSV fields that contain the delimiter inside quotes. Use a real CSV library for real data.
 - **Using `sed` on structured data.** Editing JSON or XML with regex is fragile; use `jq` for JSON. See [JSON lines](/t/json-lines).
 - **Forgetting sort order.** `sort` respects the locale, so it can behave differently across machines. Set `LC_ALL=C` for byte order, or sort with explicit keys: `sort -t, -k3 -n`.
-- **Regex surprises.** Special characters and greediness trip people up; check [regular expressions](/t/regular-expression).
+- Regex surprises. Special characters and greediness trip people up; check [regular expressions](/t/regular-expression).
 
 **When not to use them:** once the logic needs loops, state or error handling, move to a script or a real language. A pipeline is great for a line or two of transformation, not a program. See [shell scripting](/t/shell-scripting).

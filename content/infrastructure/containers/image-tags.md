@@ -17,9 +17,9 @@ The classic mistake is deploying a mutable tag to production and then being unab
 
 Safer habits:
 
-- **Tag with an immutable version** — a git commit SHA, or a [semantic version](/t/semantic-versioning) you never reuse.
-- **Pin by digest** when you need certainty: `myapp@sha256:...` can't be repointed.
-- **Combine both**: tag for humans, digest for deployments.
-- **Set the pull policy deliberately** in Kubernetes. With a fixed tag the default is to use the local copy; with `:latest` it pulls every time. Neither is a substitute for unique tags (see [deployments](/t/k8s-deployment)).
+- Tag with an immutable version — a git commit SHA, or a [semantic version](/t/semantic-versioning) you never reuse.
+- Pin by digest when you need certainty: `myapp@sha256:...` can't be repointed.
+- Combine both: tag for humans, digest for deployments.
+- Set the pull policy deliberately in Kubernetes. With a fixed tag the default is to use the local copy; with `:latest` it pulls every time. Neither is a substitute for unique tags (see [deployments](/t/k8s-deployment)).
 
 Tags and digests are part of the [OCI](/t/oci) image spec, so the rules hold across registries. Use tags to *name* a build and digests to *identify* one.
