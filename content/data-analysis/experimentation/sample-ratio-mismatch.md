@@ -5,6 +5,7 @@ levels: { data-analyst: senior }
 aliases: ["srm", "sample ratio mismatch", "bucket imbalance", "imbalance check"]
 prereqs: ["ab-testing", "randomization-unit", "chi-square-test"]
 related: ["ab-testing", "randomization-unit", "chi-square-test", "data-quality-check", "metric-definitions"]
+core: [data-analyst]
 ---
 
 A sample ratio mismatch (SRM) is when the groups in a running experiment are not the sizes the design said they would be, by more than chance would explain. The design promised an even split; the data shows one arm noticeably larger than the other.

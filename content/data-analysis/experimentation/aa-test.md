@@ -5,6 +5,7 @@ levels: { data-analyst: mid-level }
 aliases: ["aa test", "a/a test", "null test"]
 prereqs: ["ab-testing", "hypothesis-testing", "sample-size-calculation"]
 related: ["ab-testing", "sample-ratio-mismatch", "hypothesis-testing", "data-quality-check", "metric-definitions"]
+core: [data-analyst]
 ---
 
 An A/A test splits traffic between two variants that are the same in every way. Both groups get the identical experience, so there is no effect to find: apart from ordinary sampling noise, the metrics should match. That makes an A/A test a **health check on the experiment machinery**, not a product test.

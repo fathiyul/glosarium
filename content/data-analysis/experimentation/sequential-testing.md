@@ -5,6 +5,7 @@ levels: { data-analyst: senior }
 aliases: ["sequential testing", "sequential test", "always-valid p-value", "alpha spending"]
 prereqs: ["hypothesis-testing", "peeking-problem", "statistical-significance"]
 related: ["peeking-problem", "decision-rule", "hypothesis-testing", "statistical-significance", "bayesian-vs-frequentist"]
+core: [data-analyst]
 ---
 
 Sequential testing covers the family of procedures that keep their **stated error rate** when you look at the data more than once. The standard fixed-horizon guarantee — "if nothing is happening, a significant result occurs about as often as the threshold says" — is a property of one look at one pre-planned time. Sequential methods move the boundary so the guarantee holds across the whole sequence of looks.

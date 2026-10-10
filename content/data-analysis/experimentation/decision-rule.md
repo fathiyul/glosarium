@@ -5,6 +5,7 @@ levels: { data-analyst: mid-level }
 aliases: ["decision rule", "ship criteria", "stopping rule"]
 prereqs: ["ab-testing", "hypothesis-testing", "metric-definitions"]
 related: ["ab-testing", "hypothesis-testing", "metric-definitions", "statistical-power", "guardrail-metrics", "data-storytelling"]
+core: [data-analyst]
 ---
 
 A decision rule is a written statement, **agreed before the data arrives**, that maps each possible result to an action: this ships it, that kills it, this is inconclusive and we move on. It is part of the test design, not something you work out when the chart appears.
