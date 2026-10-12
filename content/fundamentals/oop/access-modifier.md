@@ -1,7 +1,7 @@
 ---
 title: "Access Modifiers"
 summary: "public, private and protected: who may see a member."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["access modifiers", "public private protected", "visibility modifiers"]
 prereqs: ["class"]
 related: ["encapsulation", "class", "getter-setter", "interface", "attribute"]

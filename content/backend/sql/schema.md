@@ -1,7 +1,7 @@
 ---
 title: "Database Schema"
 summary: "The structure of tables, columns and relationships."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["database schema", "DB schema"]
 prereqs: ["relational-database"]
 related: ["constraint", "relationship-types", "relational-database", "schema-migration"]

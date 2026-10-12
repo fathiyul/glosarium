@@ -1,7 +1,7 @@
 ---
 title: "Postel's Law"
 summary: "Be conservative in what you send and liberal in what you accept."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["postel's law", "robustness principle", "be liberal in what you accept"]
 prereqs: ["api-documentation", "serialization"]
 related: ["contract-testing", "error-response-format", "breaking-change"]

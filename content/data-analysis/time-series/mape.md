@@ -1,7 +1,7 @@
 ---
 title: "Mean Absolute Percentage Error"
 summary: "Forecast error as a percentage, and where it misleads."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["MAPE", "mean absolute percentage error", "percentage error"]
 prereqs: ["forecast-accuracy", "forecasting"]
 related: ["forecast-accuracy", "rmse", "naive-forecast"]

@@ -1,7 +1,7 @@
 ---
 title: "Hypothesis Testing"
 summary: "Deciding, in advance, what evidence would change your mind \u2014 then checking it."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["hypothesis test", "significance testing", "statistical test"]
 prereqs: ["null-hypothesis", "p-value", "statistics-basics"]
 related: ["null-hypothesis", "p-value", "statistical-significance", "statistical-power", "ab-testing", "experiment-design"]

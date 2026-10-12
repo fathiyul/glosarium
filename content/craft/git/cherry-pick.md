@@ -1,7 +1,7 @@
 ---
 title: "Cherry-Pick"
 summary: "Applying one specific commit onto another branch."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["git cherry-pick"]
 prereqs: ["commit"]
 related: ["rebase", "fast-forward-merge", "rewriting-history", "branch"]

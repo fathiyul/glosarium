@@ -1,7 +1,7 @@
 ---
 title: "Set Theory"
 summary: "Unions, intersections and differences; the basis of SQL."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["sets", "set operations"]
 prereqs: ["discrete-math"]
 related: ["set-theory", "discrete-math", "set-operations", "combinatorics"]

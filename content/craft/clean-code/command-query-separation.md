@@ -1,7 +1,7 @@
 ---
 title: "Command-Query Separation"
 summary: "A method should either change state or return data, not both."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["CQS", "command query separation"]
 prereqs: ["function"]
 related: ["cqrs", "side-effect", "pure-function", "encapsulate-what-varies"]

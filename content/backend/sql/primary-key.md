@@ -1,11 +1,11 @@
 ---
 title: "Primary Key"
 summary: "A column that uniquely identifies each row."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["PK", "primary keys", "row identifier", "table key"]
 prereqs: ["table-row-column"]
 related: ["foreign-key", "natural-vs-surrogate-key", "uuid-vs-autoincrement", "constraint", "sequence", "relational-model"]
-core: [backend, data-engineer]
+core: [backend, data-engineer, data-scientist]
 ---
 
 A **primary key** is the column (or columns) that **uniquely identifies each row** in a table. It can't be `NULL`, and no two rows can

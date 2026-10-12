@@ -1,7 +1,7 @@
 ---
 title: "CONTRIBUTING Guide"
 summary: "A file explaining how to propose changes to a project."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["CONTRIBUTING.md", "contribution guidelines"]
 prereqs: ["pull-request"]
 related: ["pull-request", "codeowners", "branch-naming", "git-hooks"]

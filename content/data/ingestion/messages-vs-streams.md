@@ -1,7 +1,7 @@
 ---
 title: "Messages vs Streams"
 summary: "Transient queued messages vs a durable, replayable log of events."
-levels: { data-engineer: mid-level, backend: mid-level }
+levels: { data-engineer: mid-level, backend: mid-level , data-scientist: mid-level }
 aliases: ["queues vs streams", "message vs stream", "queue vs log"]
 prereqs: ["message-queue", "event-streaming"]
 related: ["queue-vs-topic", "consumer-offset", "competing-consumers", "topics-partitions", "event-sourcing"]

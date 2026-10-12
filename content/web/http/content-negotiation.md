@@ -1,7 +1,7 @@
 ---
 title: "Content Negotiation"
 summary: "Client and server agreeing on format and language through Accept headers."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["content negotiation", "accept headers", "conneg"]
 prereqs: ["http", "mime-type"]
 related: ["compression", "etag", "api-versioning"]

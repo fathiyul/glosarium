@@ -1,7 +1,7 @@
 ---
 title: "Test Coverage"
 summary: "The share of code executed by tests, and why 100% isn't the goal."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["code coverage", "coverage", "line coverage", "branch coverage"]
 prereqs: ["unit-test", "test-runner"]
 related: ["mutation-testing", "unit-test", "regression-test", "over-mocking"]

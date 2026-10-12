@@ -1,7 +1,7 @@
 ---
 title: "Tell, Don't Ask"
 summary: "Tell objects what to do instead of querying their state and deciding for them."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["tell don't ask", "TDA"]
 prereqs: ["encapsulation"]
 related: ["law-of-demeter", "feature-envy", "encapsulation", "command-query-separation"]

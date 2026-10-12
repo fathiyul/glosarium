@@ -1,7 +1,7 @@
 ---
 title: "Web Scraping"
 summary: "Extracting data from websites, and its legal and reliability limits."
-levels: { data-engineer: mid-level, backend: mid-level }
+levels: { data-engineer: mid-level, backend: mid-level , data-scientist: mid-level }
 aliases: ["scraping", "web scraping", "screen scraping"]
 prereqs: ["external-data"]
 related: ["external-data", "api-ingestion", "sitemap-robots", "html", "user-agent", "bot-protection"]

@@ -1,11 +1,11 @@
 ---
 title: "Data Masking"
 summary: "Hiding sensitive values while keeping data usable."
-levels: { data-engineer: mid-level , data-analyst: senior }
+levels: { data-engineer: mid-level , data-analyst: senior , data-scientist: mid-level }
 aliases: ["masking", "PII masking", "dynamic data masking", "static data masking", "obfuscation"]
 prereqs: ["pii", "data-classification"]
 related: ["anonymization", "tokenization-privacy", "column-level-security", "data-classification", "pii", "data-minimization"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 **Data masking** means **hiding or altering sensitive values while keeping the data usable**, so people and systems that don't need the real values never see them. It's one of the main controls for protecting personal and confidential data in analytics, test environments and support tools.

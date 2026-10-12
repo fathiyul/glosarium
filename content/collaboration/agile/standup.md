@@ -1,7 +1,7 @@
 ---
 title: "Daily Standup"
 summary: "A short daily sync on progress and blockers."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["daily standup", "daily scrum", "stand-up"]
 prereqs: ["agile"]
 related: ["sprint", "scrum", "kanban", "retrospective"]

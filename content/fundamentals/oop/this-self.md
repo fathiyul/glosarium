@@ -1,7 +1,7 @@
 ---
 title: "this / self"
 summary: "The reference to the current object inside a method."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["this", "self", "this keyword"]
 prereqs: ["class", "method"]
 related: ["method", "class", "object", "arrow-function", "this-binding"]

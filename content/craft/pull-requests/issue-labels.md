@@ -1,7 +1,7 @@
 ---
 title: "Labels and Issue Hygiene"
 summary: "Labeling, linking and closing issues so work stays findable."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["issue labels", "issue hygiene", "GitHub labels", "issue triage labels"]
 prereqs: ["ticket"]
 related: ["ticket", "triage", "bug-report", "pull-request", "contributing-guide"]

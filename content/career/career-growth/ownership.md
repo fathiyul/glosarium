@@ -1,7 +1,7 @@
 ---
 title: "Ownership"
 summary: "Taking responsibility for outcomes, not just tasks."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["taking ownership", "engineering ownership", "you build it you run it", "accountability", "owning your work"]
 prereqs: ["first-weeks", "testing-your-own-work"]
 related: ["impact", "mistakes-in-production", "on-call", "glue-work", "handling-ambiguity", "scope-of-work"]

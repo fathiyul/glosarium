@@ -1,7 +1,7 @@
 ---
 title: "ARIMA"
 summary: "A classical forecasting model combining autoregression, differencing and moving averages."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["ARIMA", "autoregressive integrated moving average", "Box-Jenkins"]
 prereqs: ["stationarity", "autocorrelation", "lag-features"]
 related: ["stationarity", "autocorrelation", "exponential-smoothing", "forecast-accuracy"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Versioning"
 summary: "Tracking versions of datasets the way Git tracks code."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["dataset versioning", "data version control", "versioned data", "DVC", "lakeFS", "data snapshots"]
 prereqs: ["open-table-format", "reprocessing-history"]
 related: ["open-table-format", "time-travel", "feature-store", "reprocessing-history", "data-ci-cd", "write-audit-publish"]

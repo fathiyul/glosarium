@@ -1,7 +1,7 @@
 ---
 title: "Safe and Idempotent Methods"
 summary: "Which HTTP methods shouldn't change state, and which can be retried safely."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["safe methods", "idempotent methods", "http method semantics"]
 prereqs: ["http", "rest"]
 related: ["rest-constraints", "conditional-request", "idempotency-key"]

@@ -1,7 +1,7 @@
 ---
 title: "Smoke Test"
 summary: "A quick check that the most basic things work after a deploy."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["smoke tests", "sanity check", "deployment verification test"]
 prereqs: ["deployment"]
 related: ["end-to-end-test", "health-check", "deployment", "rollback", "continuous-delivery"]

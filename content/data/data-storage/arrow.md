@@ -1,7 +1,7 @@
 ---
 title: "Apache Arrow"
 summary: "An in-memory columnar format for moving data between tools without conversion."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["Arrow", "Arrow format", "Arrow IPC"]
 prereqs: ["columnar-storage"]
 related: ["parquet", "orc", "row-vs-columnar-formats", "apache-spark"]

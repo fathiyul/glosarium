@@ -1,7 +1,7 @@
 ---
 title: "Getters and Setters"
 summary: "Methods controlling access to a field."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["getters and setters", "accessor", "mutator", "property accessors"]
 prereqs: ["attribute", "access-modifier"]
 related: ["encapsulation", "attribute", "access-modifier", "class", "mutable-vs-immutable"]

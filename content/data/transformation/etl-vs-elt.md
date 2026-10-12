@@ -1,7 +1,7 @@
 ---
 title: "ETL vs ELT"
 summary: "Transforming before loading vs loading raw data and transforming in the warehouse."
-levels: { data-engineer: junior , data-analyst: junior }
+levels: { data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["ETL vs ELT", "ELT vs ETL", "extract load transform", "transform before load"]
 prereqs: ["etl", "data-transformation"]
 related: ["etl", "landing-zone", "sql-transformation-models", "data-transformation", "batch-vs-stream"]

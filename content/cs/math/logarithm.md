@@ -1,7 +1,7 @@
 ---
 title: "Logarithms"
 summary: "Why repeatedly halving something gives O(log n)."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["log", "log base 2", "logarithms"]
 prereqs: ["big-o-notation"]
 related: ["big-o-notation", "binary-search", "complexity-classes", "binary-number"]

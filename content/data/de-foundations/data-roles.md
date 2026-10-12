@@ -1,11 +1,11 @@
 ---
 title: "Data Engineer vs Analyst vs Scientist vs ML Engineer"
 summary: "Who builds pipelines, who answers questions, who models, and who ships models."
-levels: { data-engineer: junior, backend: junior , data-analyst: junior }
+levels: { data-engineer: junior, backend: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["data engineer vs data scientist", "data analyst", "analytics engineer", "ML engineer", "data team roles"]
 prereqs: ["data-engineering"]
 related: ["data-engineering", "data-engineering-lifecycle", "data-hierarchy-of-needs", "dataset", "data-product"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 "Data person" covers several jobs that overlap. Roles and titles differ between companies, but the usual split looks like this.

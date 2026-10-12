@@ -1,7 +1,7 @@
 ---
 title: "Statistical Significance"
 summary: "Whether a result is real or plausibly chance."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["statistically significant", "significance level", "statistical significance test"]
 prereqs: ["p-value", "hypothesis-testing"]
 related: ["p-value", "effect-size", "hypothesis-testing", "statistical-power", "decision-rule", "confidence-interval"]

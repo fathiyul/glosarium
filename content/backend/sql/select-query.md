@@ -1,11 +1,11 @@
 ---
 title: "SELECT, WHERE, ORDER BY"
 summary: "Reading, filtering and sorting rows."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["SELECT", "SELECT statement", "WHERE", "ORDER BY", "LIMIT", "basic SQL query"]
 prereqs: ["sql", "table-row-column"]
 related: ["group-by", "join", "null-in-sql", "subquery", "crud", "sql-functions"]
-core: [backend, data-engineer, data-analyst]
+core: [backend, data-engineer, data-analyst, data-scientist]
 ---
 
 `SELECT` reads data. Almost everything you do with SQL starts here.

@@ -1,7 +1,7 @@
 ---
 title: "Semantic Layer / Metrics Layer"
 summary: "One place that defines metrics like revenue, so every tool computes them the same way."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["metrics layer", "metric store", "headless BI", "semantic model", "business logic layer"]
 prereqs: ["metric-definitions", "bi-dashboard"]
 related: ["metric-definitions", "metric-discrepancy", "self-service-analytics", "aggregate-tables", "data-dictionary", "dbt"]

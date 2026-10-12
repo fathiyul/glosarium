@@ -1,7 +1,7 @@
 ---
 title: "Snapshot Test"
 summary: "Comparing output to a saved snapshot."
-levels: { backend: mid-level, frontend: junior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: junior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["snapshot testing", "Jest snapshots", "golden file test"]
 prereqs: ["unit-test"]
 related: ["component-testing", "visual-regression-test", "unit-test", "test-fixture"]

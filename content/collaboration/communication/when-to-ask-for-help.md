@@ -1,7 +1,7 @@
 ---
 title: "When to Ask for Help"
 summary: "Not too soon, not too late: time-box before asking."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["asking for help", "knowing when to ask", "getting unstuck", "time-boxing before asking"]
 prereqs: ["asking-good-questions"]
 related: ["productive-struggle", "asking-good-questions", "rubber-duck-debugging", "psychological-safety", "timeboxing", "finding-a-mentor"]

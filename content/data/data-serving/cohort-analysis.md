@@ -1,7 +1,7 @@
 ---
 title: "Cohort Analysis"
 summary: "Comparing groups who started together, tracked over their own lifetimes."
-levels: { data-analyst: mid-level , tech-entrepreneur: pmf }
+levels: { data-analyst: mid-level , tech-entrepreneur: pmf , data-scientist: mid-level }
 aliases: ["cohort analysis", "cohort table", "cohort retention"]
 prereqs: ["segmentation", "retention-analysis"]
 related: ["retention-analysis", "segmentation", "funnel-analysis", "survival-analysis"]

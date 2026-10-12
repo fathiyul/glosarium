@@ -1,7 +1,7 @@
 ---
 title: "HTTP Response"
 summary: "A status code, headers and a body."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["HTTP response message", "status line", "response headers"]
 prereqs: ["http", "http-request"]
 related: ["http-request", "http-status-codes", "http-headers", "content-type", "request-response-body"]

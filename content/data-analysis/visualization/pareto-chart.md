@@ -1,7 +1,7 @@
 ---
 title: "Pareto Chart"
 summary: "Bars in descending order with a cumulative line, showing where the few big causes are."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["Pareto diagram", "Pareto analysis", "80/20 chart"]
 prereqs: ["bar-chart", "chart-selection"]
 related: ["bar-chart", "dual-axis-chart", "chart-selection", "long-tail-distribution"]

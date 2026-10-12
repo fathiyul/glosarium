@@ -1,7 +1,7 @@
 ---
 title: "Sampling Methods"
 summary: "Choosing who or what you measure so the result stands for the whole population."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["sampling method", "sampling design", "sampling strategy"]
 prereqs: ["sampling-bias", "statistics-basics"]
 related: ["sampling-bias", "sampling-data", "confidence-interval", "margin-of-error", "segmentation", "data-profiling"]

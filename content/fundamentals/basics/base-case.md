@@ -1,7 +1,7 @@
 ---
 title: "Base Case"
 summary: "The condition that stops recursion."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["recursion base case", "terminating condition", "stopping condition"]
 prereqs: ["function", "recursion"]
 related: ["recursion", "tail-recursion", "stack-overflow", "iteration"]

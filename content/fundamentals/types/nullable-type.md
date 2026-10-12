@@ -1,7 +1,7 @@
 ---
 title: "Nullable Type"
 summary: "A type that explicitly allows null, forcing you to handle it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["optional type", "nullable"]
 prereqs: ["null", "data-type"]
 related: ["null", "option-type", "optional-chaining", "type-narrowing", "undefined"]

@@ -1,7 +1,7 @@
 ---
 title: "Brute Force"
 summary: "Trying every possibility; the baseline before optimizing."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["exhaustive search", "naive solution"]
 prereqs: ["algorithm"]
 related: ["algorithm", "time-complexity", "premature-optimization", "backtracking", "binary-search"]

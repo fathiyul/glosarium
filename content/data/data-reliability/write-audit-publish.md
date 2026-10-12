@@ -1,7 +1,7 @@
 ---
 title: "Write-Audit-Publish"
 summary: "Writing to a staging table, validating it, then swapping it into production."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["WAP", "write audit publish", "staging then swap", "audit before publish", "blue-green tables"]
 prereqs: ["data-tests", "idempotent-pipeline"]
 related: ["data-tests", "circuit-breaker-data", "open-table-format", "data-incident", "data-observability", "partitioned-runs"]

@@ -1,7 +1,7 @@
 ---
 title: "JSON Columns"
 summary: "Storing semi-structured data inside a relational database."
-levels: { backend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["json columns", "jsonb", "json in the database"]
 prereqs: ["schema", "json"]
 related: ["document-database", "normalization", "db-index"]

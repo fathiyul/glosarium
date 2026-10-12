@@ -1,7 +1,7 @@
 ---
 title: "Result / Either Type"
 summary: "A type that represents success or failure without exceptions."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Result", "Either"]
 prereqs: ["option-type"]
 related: ["option-type", "checked-vs-unchecked-exception", "error-handling"]

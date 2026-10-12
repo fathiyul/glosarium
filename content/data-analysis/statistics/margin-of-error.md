@@ -1,7 +1,7 @@
 ---
 title: "Margin of Error"
 summary: "The plus-or-minus around a polled number, and why small samples make it large."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["MOE", "margin of error", "error margin"]
 prereqs: ["confidence-interval", "standard-error"]
 related: ["confidence-interval", "sample-size-calculation", "sampling-bias", "sampling-methods", "statistical-significance", "standard-error"]

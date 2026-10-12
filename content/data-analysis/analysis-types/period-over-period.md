@@ -1,7 +1,8 @@
 ---
 title: "Period-Over-Period Comparison"
 summary: "This week vs last week, done without fooling yourself."
-levels: { data-analyst: junior }
+core: [data-scientist]
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["period over period", "PoP comparison", "week over week", "year over year"]
 prereqs: ["time-series", "seasonality"]
 related: ["seasonality", "trend", "run-rate", "metric-definitions"]

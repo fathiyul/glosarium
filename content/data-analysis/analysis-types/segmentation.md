@@ -1,7 +1,8 @@
 ---
 title: "Segmentation"
 summary: "Splitting users or customers into groups that behave differently."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["segmentation", "customer segmentation", "user segments"]
 prereqs: ["descriptive-analysis", "group-by"]
 related: ["rfm-analysis", "cohort-analysis", "diagnostic-analysis", "confounding-variable"]

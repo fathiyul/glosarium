@@ -1,7 +1,7 @@
 ---
 title: "Standardizing Values"
 summary: "Making country codes, casing, units and currencies consistent."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["standardizing values", "data standardization", "value normalization"]
 prereqs: ["data-cleaning"]
 related: ["data-cleaning", "reference-data", "master-data-management", "data-profiling", "data-quality-dimensions", "deduplication"]

@@ -1,7 +1,7 @@
 ---
 title: "Priority Queue"
 summary: "A queue that always returns the highest-priority item first."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["priority queue data structure", "heapq"]
 prereqs: ["heap"]
 related: ["heap", "deque", "job-queue", "dijkstra"]

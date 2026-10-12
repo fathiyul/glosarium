@@ -1,7 +1,7 @@
 ---
 title: "Planning Poker"
 summary: "Estimating as a team by revealing guesses at the same time."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["poker estimation"]
 prereqs: ["story-points"]
 related: ["story-points", "estimation", "backlog-refinement"]

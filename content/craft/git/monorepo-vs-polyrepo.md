@@ -1,7 +1,7 @@
 ---
 title: "Monorepo vs Polyrepo"
 summary: "One repository for everything vs one per project."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["monorepo", "polyrepo", "mono vs poly repo"]
 prereqs: ["git", "version-control"]
 related: ["microservices", "trunk-based-development", "ci-pipeline", "build-caching", "dependency-hell", "modular-monolith"]

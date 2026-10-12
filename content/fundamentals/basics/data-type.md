@@ -1,7 +1,7 @@
 ---
 title: "Data Type"
 summary: "The kind of value something is, which determines what operations are valid on it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["data types", "type of a value", "types", "value type"]
 prereqs: ["variable"]
 related: ["primitive-type", "type-conversion", "type-coercion", "static-vs-dynamic-typing", "type-system"]

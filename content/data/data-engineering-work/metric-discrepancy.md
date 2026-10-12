@@ -1,7 +1,7 @@
 ---
 title: "Investigating Metric Discrepancies"
 summary: "Explaining why two numbers that should match don't."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["numbers don't match", "metric mismatch", "dashboard discrepancy", "why do two reports disagree", "data discrepancy investigation"]
 prereqs: ["metric-definitions", "data-reconciliation"]
 related: ["metric-definitions", "data-reconciliation", "semantic-layer", "data-lineage", "late-arriving-data", "grain"]

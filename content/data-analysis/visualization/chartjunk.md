@@ -1,7 +1,7 @@
 ---
 title: "Chart Junk"
 summary: "Decoration that adds ink but not information, and quietly slows reading down."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["chart junk", "chart decoration", "noise in charts"]
 prereqs: ["data-visualization", "chart-selection"]
 related: ["chart-annotation", "color-scales", "visual-hierarchy", "gauge-chart", "axis-truncation"]

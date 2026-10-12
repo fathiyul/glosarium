@@ -1,7 +1,7 @@
 ---
 title: "Working with QA"
 summary: "Collaborating with testers to ship quality."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["QA", "quality assurance", "testers"]
 related: ["edge-cases", "requirements", "writing-clearly", "acceptance-criteria"]
 ---

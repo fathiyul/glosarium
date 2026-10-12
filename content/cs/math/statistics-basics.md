@@ -1,10 +1,10 @@
 ---
 title: "Statistics for Engineers"
 summary: "Mean, median, percentiles and variance."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: junior , data-analyst: junior }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["basic statistics", "descriptive statistics", "mean median mode", "standard deviation"]
 related: ["percentile", "probability-basics", "data-profiling", "big-o-notation", "littles-law"]
-core: [data-engineer, data-analyst]
+core: [data-engineer, data-analyst, data-scientist]
 ---
 
 A few statistics cover most of what engineers need to summarize data and spot problems.

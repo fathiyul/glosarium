@@ -1,7 +1,7 @@
 ---
 title: "Data Serving"
 summary: "Making prepared data available for analysis, ML and applications."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["serving layer", "data delivery", "consuming data"]
 prereqs: ["data-pipeline"]
 related: ["business-intelligence", "bi-dashboard", "data-api", "feature-store", "semantic-layer", "reverse-etl-use-cases", "aggregate-tables"]

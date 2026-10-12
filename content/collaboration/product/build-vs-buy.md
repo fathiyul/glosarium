@@ -1,7 +1,7 @@
 ---
 title: "Build vs Buy"
 summary: "Deciding whether to build something or use an existing product."
-levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: mvp }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: mvp , data-scientist: senior }
 core: [tech-entrepreneur]
 ---
 

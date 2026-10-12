@@ -1,7 +1,7 @@
 ---
 title: "Type Annotation"
 summary: "Explicitly declaring the type of a variable or parameter."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["type hints", "type declaration", "type annotations"]
 prereqs: ["data-type", "variable"]
 related: ["type-inference", "static-vs-dynamic-typing", "typescript", "type-alias", "runtime-validation"]

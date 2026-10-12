@@ -1,7 +1,7 @@
 ---
 title: "Backlog Refinement"
 summary: "Clarifying and sizing upcoming work."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["backlog grooming", "grooming"]
 prereqs: ["backlog"]
 related: ["backlog", "epic", "sprint", "estimation"]

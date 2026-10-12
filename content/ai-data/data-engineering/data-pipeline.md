@@ -1,7 +1,7 @@
 ---
 title: "Data Pipeline"
 summary: "A sequence of steps that moves and transforms data."
-levels: { backend: mid-level, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: mid-level, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["data pipelines", "pipeline", "ETL pipeline", "data flow pipeline"]
 prereqs: ["etl"]
 related: ["etl-vs-elt", "pipeline-dag", "scheduling-pipelines", "data-ingestion", "data-transformation", "idempotent-pipeline"]

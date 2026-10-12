@@ -1,7 +1,7 @@
 ---
 title: "Definition of Done"
 summary: "The team's checklist for when work is truly finished."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["DoD", "Definition of Done checklist", "done criteria", "team done checklist"]
 prereqs: ["acceptance-criteria"]
 related: ["acceptance-criteria", "definition-of-ready", "code-review", "continuous-integration", "user-story", "sprint-review"]

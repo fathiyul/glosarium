@@ -1,7 +1,7 @@
 ---
 title: "WebSocket"
 summary: "A persistent, two-way connection between browser and server."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , data-scientist: junior }
 also: [real-time]
 aliases: ["websocket", "websockets", "ws protocol"]
 prereqs: ["http", "tcp"]

@@ -1,7 +1,7 @@
 ---
 title: "Acceptance Test"
 summary: "Verifying a feature meets the agreed requirements."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["acceptance testing", "UAT"]
 prereqs: ["requirements"]
 related: ["bdd", "requirements", "integration-test", "user-story"]

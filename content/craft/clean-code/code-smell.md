@@ -1,7 +1,7 @@
 ---
 title: "Code Smell"
 summary: "A surface sign that the design may have a deeper problem."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["code smells", "smell", "bad smell"]
 prereqs: ["clean-code"]
 related: ["refactoring", "long-method", "god-object", "feature-envy", "primitive-obsession", "technical-debt"]

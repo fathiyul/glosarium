@@ -1,7 +1,7 @@
 ---
 title: "Waterfall Chart"
 summary: "Stepping from a start value to an end value through the rises and falls in between."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["waterfall chart", "bridge chart", "waterfall graph"]
 prereqs: ["bar-chart", "stacked-bar-chart"]
 related: ["metric-definitions", "chart-annotation", "period-over-period", "line-chart", "stacked-bar-chart"]

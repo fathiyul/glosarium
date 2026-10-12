@@ -1,7 +1,7 @@
 ---
 title: "Flame Graph"
 summary: "A visualization of where a program spends its time."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 also: [performance]
 aliases: ["flame graph", "flamegraph", "profiling visualization"]
 prereqs: ["profiler", "cpu"]

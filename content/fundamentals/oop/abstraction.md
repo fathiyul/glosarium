@@ -1,7 +1,7 @@
 ---
 title: "Abstraction"
 summary: "Exposing what something does while hiding how it does it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["data abstraction", "abstract"]
 prereqs: ["function", "class"]
 related: ["encapsulation", "interface", "abstract-class", "separation-of-concerns", "program-to-interface"]

@@ -1,7 +1,7 @@
 ---
 title: "Impostor Syndrome"
 summary: "Feeling you don't belong despite the evidence."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["imposter syndrome"]
 prereqs: ["career-conversations"]
 related: ["career-conversations", "burnout", "finding-a-mentor", "junior-engineer"]

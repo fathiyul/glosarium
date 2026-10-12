@@ -1,7 +1,8 @@
 ---
 title: "Association Rules"
 summary: "Finding which items tend to appear together, and how weak 'tends to' really is."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["association rules", "market basket analysis", "affinity analysis"]
 prereqs: ["segmentation", "correlation-vs-causation"]
 related: ["correlation-vs-causation", "segmentation", "causal-inference", "recommendation-system"]

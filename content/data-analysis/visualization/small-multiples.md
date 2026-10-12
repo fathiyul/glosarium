@@ -1,7 +1,7 @@
 ---
 title: "Small Multiples"
 summary: "The same chart repeated on a common scale, side by side, instead of one crowded plot."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["small multiple", "trellis chart", "panel chart"]
 prereqs: ["chart-selection", "line-chart"]
 related: ["line-chart", "heatmap", "chart-selection", "dashboard-design", "chartjunk"]

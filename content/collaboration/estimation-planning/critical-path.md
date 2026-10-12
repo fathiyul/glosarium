@@ -1,7 +1,7 @@
 ---
 title: "Critical Path"
 summary: "The chain of tasks that determines the earliest finish date."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 The critical path is the chain of dependent tasks that determines the earliest possible finish date for a project, given the current plan and durations. A delay to a task on that path can delay the overall outcome unless the plan changes; work outside it may have some scheduling slack.

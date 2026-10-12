@@ -1,7 +1,7 @@
 ---
 title: "Warehouse Cost Management"
 summary: "Controlling spend through query patterns, scheduling and sizing."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["warehouse cost control", "FinOps for data", "data platform cost optimization", "cloud data warehouse costs", "controlling warehouse spend"]
 prereqs: ["query-cost", "data-warehouse"]
 related: ["query-cost", "compute-storage-separation", "finops", "partition-pruning", "aggregate-tables", "data-platform-team"]

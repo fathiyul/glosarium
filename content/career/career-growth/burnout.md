@@ -1,7 +1,7 @@
 ---
 title: "Burnout"
 summary: "Chronic work stress, and how to notice and prevent it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["work burnout", "exhaustion"]
 prereqs: ["sustainable-pace"]
 related: ["sustainable-pace", "impostor-syndrome", "career-conversations", "time-management"]

@@ -1,7 +1,7 @@
 ---
 title: "Component Testing"
 summary: "Testing a UI component in isolation with user-like interactions."
-levels: { frontend: junior }
+levels: { frontend: junior , data-scientist: mid-level }
 aliases: ["UI component testing", "React component testing", "frontend component tests"]
 prereqs: ["unit-test"]
 related: ["testing-library", "unit-test", "end-to-end-test", "snapshot-test", "visual-regression-test"]

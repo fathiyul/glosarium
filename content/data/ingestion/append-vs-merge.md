@@ -1,7 +1,7 @@
 ---
 title: "Append vs Upsert (MERGE)"
 summary: "Adding new rows vs updating existing ones by key."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["append vs upsert", "append-only vs merge", "insert vs upsert loads", "merge load", "append load"]
 prereqs: ["full-vs-incremental-load", "upsert"]
 related: ["upsert", "merge-statement", "deduplication", "high-water-mark", "full-vs-incremental-load", "scd-types"]

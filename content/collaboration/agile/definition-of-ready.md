@@ -1,7 +1,7 @@
 ---
 title: "Definition of Ready"
 summary: "What a ticket needs before work on it starts."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A Definition of Ready is a team's shared checklist for deciding whether a work item has enough context to start. It may cover the problem, expected outcome, acceptance conditions, dependencies, and unanswered questions. It is a conversation aid, not a guarantee that implementation will be predictable.

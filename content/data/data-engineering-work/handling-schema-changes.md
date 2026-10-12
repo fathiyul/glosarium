@@ -1,7 +1,7 @@
 ---
 title: "Handling Upstream Schema Changes"
 summary: "Responding when a source's structure changes under you."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["upstream schema changes", "handling source schema changes", "schema change management", "responding to schema changes"]
 prereqs: ["schema-drift", "source-systems"]
 related: ["schema-drift", "schema-evolution", "data-contract", "backfill", "data-tests", "debugging-failed-pipeline"]

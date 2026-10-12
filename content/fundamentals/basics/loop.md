@@ -1,7 +1,7 @@
 ---
 title: "Loop"
 summary: "Repeating code with for, while, do-while or for-each."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["for loop", "while loop", "repeat"]
 prereqs: ["conditional", "variable"]
 related: ["iteration", "control-flow", "off-by-one-error", "recursion", "map-filter-reduce"]

@@ -1,7 +1,7 @@
 ---
 title: "Bounded vs Unbounded Data"
 summary: "A finite dataset vs a stream that never ends."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["bounded data", "unbounded data", "bounded vs unbounded data"]
 prereqs: ["batch-vs-stream"]
 related: ["batch-vs-stream", "stream-processing", "stream-windowing", "event-time-vs-processing-time", "batch-processing", "late-arriving-data"]

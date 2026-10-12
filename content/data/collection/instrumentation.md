@@ -1,7 +1,7 @@
 ---
 title: "Instrumentation"
 summary: "Adding code that records what users and systems do, so the data exists at all."
-levels: { data-engineer: junior, backend: junior , data-analyst: mid-level }
+levels: { data-engineer: junior, backend: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["event instrumentation", "analytics instrumentation", "tracking implementation", "adding tracking", "telemetry instrumentation"]
 prereqs: ["logging", "event-naming-conventions"]
 related: ["tracking-plan", "client-vs-server-tracking", "telemetry-pipeline", "consent-at-collection", "event-naming-conventions", "bot-filtering"]

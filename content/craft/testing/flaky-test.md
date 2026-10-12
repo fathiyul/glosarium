@@ -1,7 +1,7 @@
 ---
 title: "Flaky Test"
 summary: "A test that passes and fails without any code change."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["flaky tests", "flakiness", "intermittent test failure", "non-deterministic test"]
 prereqs: ["unit-test", "continuous-integration"]
 related: ["deterministic-tests", "test-isolation", "end-to-end-test", "race-condition", "continuous-integration"]

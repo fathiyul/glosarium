@@ -1,7 +1,7 @@
 ---
 title: "Ticket / Issue"
 summary: "A tracked unit of work in Jira, Linear or GitHub Issues."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["issue", "task ticket", "Jira ticket", "GitHub issue", "work item", "story ticket"]
 prereqs: ["backlog"]
 related: ["user-story", "bug-report", "acceptance-criteria", "clarifying-tickets", "breaking-down-tasks", "triage"]

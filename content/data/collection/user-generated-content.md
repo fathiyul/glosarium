@@ -1,7 +1,7 @@
 ---
 title: "User-Generated Content"
 summary: "Posts, reviews, uploads and messages as a data source."
-levels: { data-engineer: mid-level, backend: mid-level }
+levels: { data-engineer: mid-level, backend: mid-level , data-scientist: mid-level }
 aliases: ["UGC", "user-generated data", "user content"]
 prereqs: ["source-systems", "structured-semi-unstructured"]
 related: ["external-data", "data-cleaning", "text-processing-tools", "pii", "input-validation", "right-to-erasure"]

@@ -1,7 +1,7 @@
 ---
 title: "Self-Review"
 summary: "Reading your own diff before asking others to."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["reviewing your own PR", "self review"]
 prereqs: ["git-diff", "pull-request"]
 related: ["code-review", "pr-description", "small-prs", "pull-request", "git-diff"]

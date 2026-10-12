@@ -1,7 +1,7 @@
 ---
 title: "Testing Trophy"
 summary: "A frontend-oriented model that favors integration tests."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: mid-level }
 aliases: ["testing trophy model"]
 prereqs: ["test-double"]
 related: ["testing-pyramid", "integration-test", "unit-test", "test-double"]

@@ -1,7 +1,7 @@
 ---
 title: "Color Scales"
 summary: "Sequential, diverging and categorical palettes, and the misuse that invents patterns."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["colour scales", "colour palette", "color palette"]
 prereqs: ["data-visualization", "metrics"]
 related: ["heatmap", "accessible-visualization", "chart-selection", "chartjunk"]

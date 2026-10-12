@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Hell"
 summary: "Endlessly following tutorials without building anything on your own."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["tutorial trap", "course hell"]
 prereqs: ["learning-how-to-learn"]
 related: ["learning-how-to-learn", "side-projects", "fundamentals-over-frameworks"]

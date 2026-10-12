@@ -1,7 +1,7 @@
 ---
 title: "Adjacency List vs Matrix"
 summary: "Two ways to store a graph's edges."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["adjacency list", "adjacency matrix"]
 prereqs: ["graph"]
 related: ["graph", "directed-acyclic-graph", "tree-traversal", "big-o-notation"]

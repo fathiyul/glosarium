@@ -1,7 +1,7 @@
 ---
 title: "Divide and Conquer"
 summary: "Splitting a problem into smaller ones and combining the results."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["divide and conquer algorithm"]
 prereqs: ["recursion"]
 related: ["merge-sort", "quicksort", "dynamic-programming", "big-omega-theta"]

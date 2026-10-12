@@ -1,7 +1,7 @@
 ---
 title: "Estimation"
 summary: "Predicting how long work will take, and communicating the uncertainty."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["software estimation", "estimating work", "time estimates", "effort estimation"]
 prereqs: ["breaking-down-tasks"]
 related: ["story-points", "planning-poker", "cone-of-uncertainty", "hofstadters-law", "estimate-buffers", "spike"]

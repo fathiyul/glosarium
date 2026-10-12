@@ -1,7 +1,7 @@
 ---
 title: "Table Catalog / Metastore"
 summary: "The registry of table names, schemas and file locations, like Hive Metastore or Glue."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["metastore", "Hive Metastore", "Glue Data Catalog", "table catalog", "Unity Catalog", "catalog"]
 prereqs: ["open-table-format", "parquet"]
 related: ["data-catalog", "open-table-format", "lakehouse", "data-dictionary", "data-governance", "metadata-types"]

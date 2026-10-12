@@ -1,7 +1,7 @@
 ---
 title: "Tree Traversal"
 summary: "Visiting tree nodes in pre-order, in-order, post-order or level order."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["tree walk", "pre-order", "in-order", "post-order", "level-order"]
 prereqs: ["binary-search-tree"]
 related: ["binary-search-tree", "graph", "heap", "trie"]

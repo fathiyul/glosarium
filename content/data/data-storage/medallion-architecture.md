@@ -1,7 +1,7 @@
 ---
 title: "Medallion Architecture (Bronze, Silver, Gold)"
 summary: "Layering data from raw to cleaned to business-ready."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["bronze silver gold", "medallion layers", "multi-hop architecture", "data layers", "bronze silver gold layers"]
 prereqs: ["landing-zone"]
 related: ["lakehouse", "data-mart", "dimensional-modeling", "data-product", "deduplication", "data-retention-tiers"]

@@ -1,7 +1,7 @@
 ---
 title: "Tech Lead"
 summary: "Leading a team's technical direction while still writing code."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 A tech lead helps a team make and coordinate technical decisions while keeping delivery connected to the product goal. The role may be formal or temporary, and its responsibilities differ across organizations; it is not necessarily a manager title or the person who writes the most code.

@@ -1,7 +1,7 @@
 ---
 title: "Virtual Environment"
 summary: "An isolated set of packages per project, as with Python's venv."
-levels: { backend: junior, data-engineer: junior }
+levels: { backend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["venv", "virtualenv", "Python virtual environment", "conda environment"]
 prereqs: ["package-manager", "version-manager"]
 related: ["package-manager", "lockfile", "dependency", "dev-environment-setup", "path-variable"]

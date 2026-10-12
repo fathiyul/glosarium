@@ -1,7 +1,7 @@
 ---
 title: "Principal Engineer"
 summary: "Technical direction for a whole organization."
-levels: { backend: principal, frontend: principal, data-engineer: principal }
+levels: { backend: principal, frontend: principal, data-engineer: principal , data-scientist: principal }
 ---
 
 A principal engineer is a senior individual contributor whose technical influence may span an organization or a broad set of systems. The role often involves shaping long-term direction, aligning leaders and teams, and addressing risks that cannot be solved within one team's boundaries. Titles and scope vary by organization.

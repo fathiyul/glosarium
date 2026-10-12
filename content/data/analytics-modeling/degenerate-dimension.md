@@ -1,7 +1,7 @@
 ---
 title: "Degenerate Dimension"
 summary: "A dimension attribute, like an order number, stored directly in the fact table."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["degenerate dimensions", "degenerate dimension key", "degenerate key", "order number dimension"]
 prereqs: ["fact-table", "dimension-table"]
 related: ["dimensional-modeling", "grain", "junk-dimension", "factless-fact-table", "surrogate-key-dw", "slowly-changing-dimension"]

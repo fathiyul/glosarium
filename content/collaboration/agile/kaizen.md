@@ -1,7 +1,7 @@
 ---
 title: "Continuous Improvement (Kaizen)"
 summary: "Small, ongoing improvements to how the team works."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Kaizen is a practice of making small, ongoing improvements to how a team works. Rather than waiting for a major process redesign, the team notices friction, tries a modest change, and checks whether it helped.

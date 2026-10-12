@@ -1,7 +1,7 @@
 ---
 title: "Query Federation"
 summary: "One query reading from several different systems."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["federated query", "federated queries", "query virtualization", "data virtualization"]
 prereqs: ["distributed-query-engine", "data-warehouse"]
 related: ["distributed-query-engine", "data-lake", "lakehouse", "predicate-pushdown", "etl-vs-elt", "database-federation"]

@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Tasks"
 summary: "Splitting work into pieces small enough to finish and estimate."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["task breakdown", "splitting work", "work breakdown", "decomposing tasks", "slicing work"]
 prereqs: ["user-story"]
 related: ["estimation", "small-prs", "vertical-slice", "spike", "ticket", "timeboxing"]

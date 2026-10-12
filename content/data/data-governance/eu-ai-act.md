@@ -1,7 +1,7 @@
 ---
 title: "EU AI Act"
 summary: "EU rules on AI systems and the data used to build them."
-levels: { data-engineer: staff , tech-entrepreneur: growth }
+levels: { data-engineer: staff , tech-entrepreneur: growth , data-scientist: staff }
 aliases: ["EU AI regulation", "AI Act", "European AI Act", "EU AI rules"]
 prereqs: ["data-governance", "gdpr"]
 related: ["data-governance", "gdpr", "training-data", "data-lineage", "documenting-datasets", "privacy-by-design"]

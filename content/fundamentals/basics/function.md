@@ -1,7 +1,7 @@
 ---
 title: "Function"
 summary: "A named, reusable block of code that takes inputs and returns an output."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["method", "subroutine", "procedure"]
 prereqs: ["variable"]
 related: ["parameter-vs-argument", "return-value", "scope", "default-parameter", "first-class-function"]

@@ -1,7 +1,7 @@
 ---
 title: "Influence Without Authority"
 summary: "Getting things done across teams you don't manage."
-levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: senior }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: senior , data-scientist: staff }
 ---
 
 Influence without authority is helping people choose or coordinate an action when you do not manage them. It often matters in cross-team engineering work, where a shared interface or migration depends on people with different priorities.

@@ -1,7 +1,7 @@
 ---
 title: "Remote Debugging"
 summary: "Attaching a debugger to code running somewhere else."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["attach debugger", "remote debugger"]
 prereqs: ["debugger"]
 related: ["debugger", "container-logs", "heisenbug", "ssh"]

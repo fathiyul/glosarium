@@ -1,7 +1,8 @@
 ---
 title: "Model Serving"
 summary: "Deploying a model behind an API."
-levels: { backend: senior, data-engineer: senior }
+core: [data-scientist]
+levels: { backend: senior, data-engineer: senior , data-scientist: mid-level }
 aliases: ["model serving", "serving models", "ML inference service"]
 prereqs: ["training-vs-inference", "ml-model"]
 related: ["training-vs-inference", "ml-model", "feature-store"]

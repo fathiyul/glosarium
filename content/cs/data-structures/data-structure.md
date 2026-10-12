@@ -1,7 +1,7 @@
 ---
 title: "Data Structure"
 summary: "A way of organizing data so certain operations are efficient."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["data structures", "DS", "ADT", "abstract data type"]
 prereqs: ["array", "dictionary"]
 related: ["array", "list", "hash-table", "tree", "big-o-notation", "stack"]

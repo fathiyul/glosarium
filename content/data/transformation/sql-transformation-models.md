@@ -1,7 +1,7 @@
 ---
 title: "SQL Transformation Models (dbt)"
 summary: "Transformations written as versioned SELECT statements that build tables."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["dbt models", "dbt", "SQL models", "analytics engineering models", "transformations as SELECT statements"]
 prereqs: ["select-query", "cte", "data-transformation"]
 related: ["dbt", "incremental-models", "staging-intermediate-marts", "data-quality", "etl-vs-elt", "medallion-architecture"]

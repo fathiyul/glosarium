@@ -1,7 +1,7 @@
 ---
 title: "Pivot Table"
 summary: "Dragging fields into rows, columns and values to rebuild a table any way the question needs."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["pivot table", "pivoting data", "crosstab", "cross tabulation"]
 prereqs: ["group-by", "sql"]
 related: ["spreadsheet-formulas", "group-by", "segmentation", "metric-discrepancy", "spreadsheets-vs-sql"]

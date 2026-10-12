@@ -1,7 +1,7 @@
 ---
 title: "Distributed Computing"
 summary: "Splitting work across many machines that coordinate over a network."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["cluster computing", "scale-out computing", "distributed data processing", "parallel computing across machines"]
 prereqs: ["batch-processing", "cluster"]
 related: ["apache-spark", "data-partitions-compute", "shuffle", "mapreduce", "fault-tolerance", "single-node-engines"]

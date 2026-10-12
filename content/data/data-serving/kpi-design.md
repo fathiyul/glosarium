@@ -1,7 +1,7 @@
 ---
 title: "KPI Design"
 summary: "Choosing the few numbers that steer a team."
-levels: { data-analyst: mid-level , tech-entrepreneur: growth }
+levels: { data-analyst: mid-level , tech-entrepreneur: growth , data-scientist: mid-level }
 aliases: ["KPI design", "key performance indicator", "KPI framework", "designing KPIs"]
 prereqs: ["metric-definitions", "descriptive-analysis"]
 related: ["metric-definitions", "retention-analysis", "cohort-analysis", "data-storytelling", "funnel-analysis", "metric-discrepancy"]

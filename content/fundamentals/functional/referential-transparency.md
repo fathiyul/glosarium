@@ -1,7 +1,7 @@
 ---
 title: "Referential Transparency"
 summary: "An expression can be replaced by its value without changing behavior."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["referential transparency", "pure expression", "substitution principle"]
 prereqs: ["pure-function", "side-effect"]
 related: ["immutability", "memoization", "function-composition", "idempotence"]

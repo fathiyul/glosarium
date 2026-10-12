@@ -1,7 +1,7 @@
 ---
 title: "Onboarding Yourself"
 summary: "Using code, docs and history to learn a new codebase."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["learning a codebase", "codebase onboarding"]
 prereqs: ["learning-how-to-learn"]
 related: ["engineering-journal", "learning-how-to-learn", "onboarding-yourself"]

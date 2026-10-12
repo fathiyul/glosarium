@@ -1,7 +1,7 @@
 ---
 title: "Mid-Level Engineer"
 summary: "Delivering features independently."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A mid-level engineer is generally expected to deliver well-scoped work with less day-to-day direction than a junior engineer. The exact expectations vary by company, but the role often includes clarifying requirements, making sound implementation choices, testing the result, and communicating risks before they become surprises.

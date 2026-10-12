@@ -1,7 +1,7 @@
 ---
 title: "Choosing a Chart"
 summary: "Matching the comparison you want to make to a chart form that shows it."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["choosing a chart", "which chart to use", "chart type selection"]
 prereqs: ["data-visualization", "descriptive-statistics"]
 related: ["bar-chart", "line-chart", "histogram", "scatter-plot", "stacked-bar-chart", "treemap"]

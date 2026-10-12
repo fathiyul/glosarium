@@ -1,7 +1,7 @@
 ---
 title: "Cluster Resource Manager (YARN, Kubernetes)"
 summary: "Allocating CPU and memory to jobs on a shared cluster."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["YARN", "resource manager", "cluster manager", "Apache Hadoop YARN"]
 prereqs: ["cluster", "distributed-batch-processing"]
 related: ["kubernetes", "resource-quota", "spark-driver-executor", "scheduler", "container"]

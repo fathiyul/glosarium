@@ -1,7 +1,7 @@
 ---
 title: "Metrics"
 summary: "Numeric measurements over time."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: junior }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: junior , data-scientist: mid-level }
 aliases: ["application metrics", "system metrics", "monitoring metrics", "time series metrics", "Prometheus metrics"]
 prereqs: ["logging"]
 related: ["metric-types", "cardinality", "prometheus-grafana", "red-method", "use-method", "golden-signals", "dashboard"]

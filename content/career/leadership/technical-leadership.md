@@ -1,7 +1,7 @@
 ---
 title: "Technical Leadership"
 summary: "Guiding technical direction through influence and example."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Technical leadership is helping people choose, build, and operate technology in a way that serves shared goals. It can come from a manager, staff engineer, tech lead, or any engineer who takes responsibility for a decision and helps others understand it.

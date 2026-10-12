@@ -1,7 +1,7 @@
 ---
 title: "GDPR"
 summary: "The EU regulation on personal data: consent, access and deletion rights."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: senior , tech-entrepreneur: pmf }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: senior , tech-entrepreneur: pmf , data-scientist: mid-level }
 ---
 
 The General Data Protection Regulation (GDPR) is a European Union data-protection law that governs processing of personal data in its scope. It sets obligations for organizations and rights for individuals, including transparency, access, correction, and in some circumstances erasure or portability. Applicability depends on the organization, people, and processing involved.

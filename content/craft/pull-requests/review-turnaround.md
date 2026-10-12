@@ -1,7 +1,7 @@
 ---
 title: "Review Turnaround"
 summary: "How quickly reviews happen, and why it matters to team speed."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["time to review", "PR wait time"]
 prereqs: ["pull-request"]
 related: ["pull-request", "codeowners", "mob-programming", "ai-code-review"]

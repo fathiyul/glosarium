@@ -1,7 +1,7 @@
 ---
 title: "Higher-Order Function"
 summary: "A function that takes or returns other functions."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["higher order function", "HOF", "functions that take functions"]
 prereqs: ["first-class-function"]
 related: ["first-class-function", "map-filter-reduce", "closure", "function-composition", "callback"]

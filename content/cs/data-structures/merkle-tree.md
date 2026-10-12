@@ -1,7 +1,7 @@
 ---
 title: "Merkle Tree"
 summary: "A tree of hashes that verifies large data efficiently."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["merkle tree", "hash tree", "merkle root"]
 prereqs: ["hash-function", "binary-search-tree"]
 related: ["hash-collision", "git", "version-control"]

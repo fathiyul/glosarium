@@ -1,7 +1,7 @@
 ---
 title: "Force Push"
 summary: "Overwriting remote history; use --force-with-lease and never on shared branches."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git push --force", "force with lease", "--force-with-lease"]
 prereqs: ["remote", "rebase"]
 related: ["rebase", "git-amend", "interactive-rebase", "push-pull-fetch", "rewriting-history"]

@@ -1,7 +1,7 @@
 ---
 title: "Runbook"
 summary: "Step-by-step instructions for operating or fixing a system."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["playbook", "operations guide"]
 prereqs: ["docs-as-code"]
 related: ["incident-response", "onboarding-docs", "blameless-postmortem", "health-check"]

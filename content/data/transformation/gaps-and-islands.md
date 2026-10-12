@@ -1,7 +1,7 @@
 ---
 title: "Gaps and Islands"
 summary: "Finding consecutive runs and breaks in sequences with SQL."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["islands and gaps", "consecutive runs", "find gaps in dates", "streaks SQL"]
 prereqs: ["window-function", "group-by"]
 related: ["window-function", "date-dimension", "recursive-cte", "group-by", "dedup-with-row-number", "deduplication"]

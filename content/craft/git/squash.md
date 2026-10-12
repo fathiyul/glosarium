@@ -1,7 +1,7 @@
 ---
 title: "Squash"
 summary: "Combining several commits into one."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git squash", "squash commits", "squash and merge"]
 prereqs: ["commit", "rebase"]
 related: ["interactive-rebase", "merge-strategies", "atomic-commit", "pull-request", "merge-vs-rebase"]

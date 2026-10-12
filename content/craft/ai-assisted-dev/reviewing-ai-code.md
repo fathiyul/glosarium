@@ -1,7 +1,7 @@
 ---
 title: "Reviewing AI-Generated Code"
 summary: "Reading and testing AI output as critically as a stranger's PR."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["AI code review", "reviewing AI output", "reviewing generated code", "verifying AI code"]
 prereqs: ["code-review", "ai-coding-assistant"]
 related: ["hallucination", "ai-learning-pitfalls", "ai-code-review", "self-review", "prompting-for-code"]

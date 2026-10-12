@@ -1,7 +1,7 @@
 ---
 title: "Pipeline Orchestration (Airflow)"
 summary: "Scheduling and managing data pipelines."
-levels: { backend: senior, data-engineer: junior }
+levels: { backend: senior, data-engineer: junior , data-scientist: junior }
 aliases: ["Airflow", "orchestrator", "workflow orchestration", "Apache Airflow", "Dagster", "Prefect", "data orchestration"]
 prereqs: ["pipeline-dag", "scheduling-pipelines"]
 related: ["pipeline-retries", "orchestrator-choice", "catchup-reruns", "idempotent-pipeline", "partitioned-runs", "asset-based-orchestration"]

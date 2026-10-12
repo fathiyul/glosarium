@@ -1,7 +1,7 @@
 ---
 title: "Reflog"
 summary: "Git's log of where HEAD has been; your undo history after disasters."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["git reflog", "reference log"]
 prereqs: ["commit"]
 related: ["rewriting-history", "cherry-pick", "git-hooks"]

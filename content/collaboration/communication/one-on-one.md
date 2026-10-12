@@ -1,7 +1,7 @@
 ---
 title: "1:1 Meetings"
 summary: "Regular private conversations with your manager."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["one-on-one", "1-on-1", "1:1"]
 related: ["finding-a-mentor", "receiving-feedback", "career-conversations"]
 ---

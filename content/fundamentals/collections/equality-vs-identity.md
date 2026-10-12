@@ -1,7 +1,7 @@
 ---
 title: "Equality vs Identity"
 summary: "Same value vs same object in memory."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["== vs is", "value equality", "reference equality"]
 prereqs: ["variable", "mutable-vs-immutable"]
 related: ["equality-js", "mutable-vs-immutable", "shallow-vs-deep-copy", "pass-by-value-vs-reference"]

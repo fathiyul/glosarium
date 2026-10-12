@@ -1,7 +1,7 @@
 ---
 title: "T-Shirt Sizing"
 summary: "Rough S/M/L/XL estimates for early planning."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 T-shirt sizing assigns rough categories such as S, M, and L to work so a team can compare relative size before detailed estimates are justified. It is useful early in planning, when the goal is to identify which items need discovery or may not fit a release.

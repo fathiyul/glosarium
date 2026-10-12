@@ -1,7 +1,7 @@
 ---
 title: "Prepared Statement"
 summary: "A query parsed once and executed many times with different values."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["prepared statement", "parameterised query", "prepared statements"]
 prereqs: ["sql", "query-plan"]
 related: ["dynamic-sql", "transaction"]

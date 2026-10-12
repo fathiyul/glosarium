@@ -1,11 +1,11 @@
 ---
 title: "Slowly Changing Dimension (SCD)"
 summary: "Handling attributes that change over time, like a customer's address."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["SCD", "slowly changing dimensions", "changing dimensions", "dimension history", "tracking dimension changes"]
 prereqs: ["dimension-table"]
 related: ["scd-types", "surrogate-key-dw", "dimension-table", "fact-table", "dimensional-modeling", "record-history"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 Dimension attributes aren't fixed forever. A customer moves, a product changes category, an employee changes department, a store is reassigned to a new region. They change **slowly** (not with every transaction), but they do change, and your reports need to decide what that means for **past** data.

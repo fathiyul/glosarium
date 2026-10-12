@@ -1,7 +1,7 @@
 ---
 title: "Hallucination"
 summary: "An AI confidently producing APIs, facts or code that don't exist."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["AI hallucination", "made-up API", "confabulation"]
 prereqs: ["ai-coding-assistant"]
 related: ["ai-coding-assistant", "reviewing-ai-code", "ai-learning-pitfalls", "reading-docs", "prompting-for-code"]

@@ -1,7 +1,8 @@
 ---
 title: "Prescriptive Analysis"
 summary: "Recommending actions, not just predictions."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["prescriptive analysis", "prescriptive analytics", "decision optimisation"]
 prereqs: ["predictive-analysis", "scenario-analysis"]
 related: ["predictive-analysis", "scenario-analysis", "causal-inference", "decision-rule"]

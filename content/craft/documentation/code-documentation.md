@@ -1,7 +1,7 @@
 ---
 title: "Docstrings / JSDoc"
 summary: "Documenting functions and modules right next to the code."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["docstring", "JSDoc", "inline documentation", "API docs comments"]
 prereqs: ["comment"]
 related: ["comment", "readme", "technical-writing", "api-documentation", "type-annotation"]

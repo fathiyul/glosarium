@@ -1,11 +1,11 @@
 ---
 title: "SQL"
 summary: "The language for querying relational databases."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["Structured Query Language", "SQL language", "SQL queries", "sequel"]
 prereqs: ["relational-database"]
 related: ["select-query", "sql-sublanguages", "common-databases", "crud", "relational-model", "database"]
-core: [backend, data-engineer]
+core: [backend, data-engineer, data-scientist]
 ---
 
 **SQL** (Structured Query Language) is the standard language for working with relational databases. You use it to read

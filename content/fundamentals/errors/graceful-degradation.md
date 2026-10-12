@@ -1,7 +1,7 @@
 ---
 title: "Graceful Degradation"
 summary: "Losing non-critical features instead of failing completely."
-levels: { backend: senior, frontend: mid-level, data-engineer: senior }
+levels: { backend: senior, frontend: mid-level, data-engineer: senior , data-scientist: senior }
 aliases: ["graceful fallback", "degraded mode"]
 prereqs: ["fail-fast"]
 related: ["fail-fast", "error-boundary", "circuit-breaker", "loading-error-states"]

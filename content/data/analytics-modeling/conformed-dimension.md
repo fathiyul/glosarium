@@ -1,11 +1,11 @@
 ---
 title: "Conformed Dimension"
 summary: "One shared dimension used by many fact tables so numbers line up."
-levels: { data-engineer: senior , data-analyst: mid-level }
+levels: { data-engineer: senior , data-analyst: mid-level , data-scientist: senior }
 aliases: ["conformed dimensions", "shared dimension", "conformed dimension in warehouse", "master dimension"]
 prereqs: ["dimension-table", "fact-table"]
 related: ["bus-matrix", "dimensional-modeling", "dimension-table", "master-data-management", "date-dimension", "role-playing-dimension"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 A **conformed dimension** is a dimension that's **shared, identical in meaning and structure, across multiple fact tables** (and often multiple data marts). The same `dim_customer` or `dim_date` is used by sales, support, returns and marketing, with the same keys, the same attribute names and the same definitions.

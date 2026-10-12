@@ -1,7 +1,7 @@
 ---
 title: "gRPC"
 summary: "A fast RPC framework built on HTTP/2 and Protocol Buffers."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["grpc", "grpc api", "grpc service"]
 prereqs: ["protocol-buffers", "http-2"]
 related: ["protocol-buffers", "rest-vs-graphql-vs-grpc", "http-2"]

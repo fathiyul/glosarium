@@ -1,7 +1,7 @@
 ---
 title: "CSV"
 summary: "The simplest tabular format, and its quoting, encoding and type pitfalls."
-levels: { data-engineer: junior, backend: junior }
+levels: { data-engineer: junior, backend: junior , data-scientist: junior }
 aliases: ["CSV files", "comma-separated values format", "CSV file format", "delimited files", "TSV"]
 prereqs: ["file-ingestion"]
 related: ["csv-import-export", "row-vs-columnar-formats", "json-lines", "compression-codecs", "schema-drift"]

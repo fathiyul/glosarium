@@ -1,7 +1,7 @@
 ---
 title: "Hiring"
 summary: "Interviewing and selecting engineers."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: senior , tech-entrepreneur: pmf }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: senior , tech-entrepreneur: pmf , data-scientist: senior }
 core: [tech-entrepreneur]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Stationarity"
 summary: "When a series' statistical behaviour doesn't drift over time."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["stationarity", "stationary series", "weak stationarity"]
 prereqs: ["time-series", "trend"]
 related: ["arima", "autocorrelation", "trend", "time-series"]

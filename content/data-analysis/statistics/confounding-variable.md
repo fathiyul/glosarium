@@ -1,7 +1,7 @@
 ---
 title: "Confounding Variable"
 summary: "A third factor driving both things you measured, producing a real but meaningless relationship."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["confounder", "confounding variable", "confounding"]
 prereqs: ["correlation-coefficient", "statistics-basics"]
 related: ["correlation-vs-causation", "simpsons-paradox", "causal-inference", "experiment-design", "multiple-regression", "segmentation"]

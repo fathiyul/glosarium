@@ -1,7 +1,7 @@
 ---
 title: "Entity-Centric Modeling"
 summary: "Tables built around business entities with their full history and features."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["entity-centric data modeling", "entity-based modeling", "entity model", "entity centric"]
 prereqs: ["data-modeling", "dimensional-modeling"]
 related: ["feature-store", "data-vault", "one-big-table", "master-data-management", "slowly-changing-dimension", "data-product"]

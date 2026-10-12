@@ -1,7 +1,7 @@
 ---
 title: "Senior Engineer"
 summary: "Owning systems and raising the team around you."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 A senior engineer is often expected to own outcomes beyond an individual implementation: clarify ambiguous work, make trade-offs visible, help others succeed, and keep systems maintainable and operable. The exact scope varies by organization, so use local expectations rather than title stereotypes.

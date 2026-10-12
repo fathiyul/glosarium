@@ -1,7 +1,7 @@
 ---
 title: "Analytics Event Tracking"
 summary: "Recording user actions for later analysis."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: junior }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: junior , data-scientist: junior }
 aliases: ["event tracking", "product analytics tracking", "user event tracking", "clickstream tracking"]
 prereqs: ["instrumentation"]
 related: ["event-naming-conventions", "tracking-plan", "client-vs-server-tracking", "identity-resolution", "consent-at-collection", "bot-filtering"]

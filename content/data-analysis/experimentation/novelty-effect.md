@@ -1,7 +1,8 @@
 ---
 title: "Novelty Effect"
 summary: "A temporary lift that comes from something being new, not from being better."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: senior }
 aliases: ["novelty effect", "primacy effect", "change aversion"]
 prereqs: ["ab-testing", "test-duration", "segmentation"]
 related: ["ab-testing", "test-duration", "retention-analysis", "cohort-analysis", "holdback-group"]

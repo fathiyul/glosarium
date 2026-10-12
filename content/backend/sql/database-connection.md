@@ -1,7 +1,7 @@
 ---
 title: "Database Connection and Connection String"
 summary: "How an app connects to a database: host, port, credentials and options."
-levels: { backend: junior, data-engineer: junior }
+levels: { backend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["connection string", "DSN", "database URL", "DATABASE_URL", "connection URI"]
 prereqs: ["database", "port"]
 related: ["connection-pooling", "environment-variable", "app-configuration", "database-client", "relational-database"]

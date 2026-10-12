@@ -1,7 +1,7 @@
 ---
 title: "Promotion"
 summary: "Showing next-level scope before you get the title."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A promotion is a formal change in level or role, usually based on sustained evidence that your work meets the expectations of the next level. Processes vary: some organizations use a committee and written packet, while others rely more on manager review. Learn the local criteria instead of guessing from title alone.

@@ -1,7 +1,7 @@
 ---
 title: "Handling Data Requests"
 summary: "Clarifying what an analyst or stakeholder actually needs before building."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["handling data requests", "stakeholder requests", "ad-hoc data requests", "analyst requests", "requirements gathering for data"]
 prereqs: ["data-roles"]
 related: ["metric-definitions", "self-service-analytics", "documenting-datasets", "metric-discrepancy", "data-ownership", "bi-dashboard"]

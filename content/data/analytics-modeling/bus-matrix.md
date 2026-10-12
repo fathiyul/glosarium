@@ -1,7 +1,7 @@
 ---
 title: "Bus Matrix"
 summary: "A planning grid of business processes and the dimensions they share."
-levels: { data-engineer: staff }
+levels: { data-engineer: staff , data-scientist: staff }
 aliases: ["enterprise bus matrix", "bus architecture", "business process matrix", "process-dimension matrix"]
 prereqs: ["dimensional-modeling", "conformed-dimension"]
 related: ["star-schema", "fact-table", "dimension-table", "inmon-vs-kimball", "data-vault", "data-mart"]

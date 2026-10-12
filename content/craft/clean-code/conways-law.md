@@ -1,7 +1,7 @@
 ---
 title: "Conway's Law"
 summary: "Systems mirror the communication structure of the organizations that build them."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 aliases: ["conway's law", "conways law", "organizations mirror systems"]
 prereqs: ["microservices", "domain-driven-design"]
 related: ["bounded-context", "monolith", "modular-monolith"]

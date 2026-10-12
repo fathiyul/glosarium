@@ -1,7 +1,7 @@
 ---
 title: "End-to-End Test"
 summary: "A test of the whole system through its real interface."
-levels: { backend: mid-level, frontend: junior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: junior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["E2E test", "E2E tests", "end to end testing", "browser test", "UI automation test"]
 prereqs: ["integration-test"]
 related: ["testing-pyramid", "testing-trophy", "smoke-test", "flaky-test", "acceptance-test"]

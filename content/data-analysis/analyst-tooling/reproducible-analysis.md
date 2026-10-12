@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Analysis"
 summary: "Producing the same number again from the same inputs, months later, on someone else's machine."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["reproducible analysis", "reproducibility", "reproducible research", "rerunning an analysis"]
 prereqs: ["query-version-control", "sql"]
 related: ["query-version-control", "data-extract", "metric-definitions", "analysis-notebook", "data-lineage"]

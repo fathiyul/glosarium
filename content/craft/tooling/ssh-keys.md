@@ -1,7 +1,7 @@
 ---
 title: "SSH Keys"
 summary: "Key pairs for passwordless authentication to servers and Git hosts."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["SSH key pair", "ssh-keygen", "public key authentication"]
 prereqs: ["ssh", "credential"]
 related: ["ssh", "credential", "git-clone", "secrets-in-git"]

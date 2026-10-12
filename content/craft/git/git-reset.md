@@ -1,7 +1,7 @@
 ---
 title: "Reset"
 summary: "Moving a branch pointer back, in soft, mixed or hard mode."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git reset", "reset --hard", "reset --soft"]
 prereqs: ["commit", "staging-area", "head"]
 related: ["git-revert", "git-reflog", "head", "staging-area", "force-push"]

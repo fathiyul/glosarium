@@ -1,7 +1,7 @@
 ---
 title: "Relational Database"
 summary: "Data stored in tables with rows, columns and relationships."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["RDBMS", "SQL database"]
 prereqs: ["database"]
 related: ["database", "schema", "relationship-types", "constraint", "transaction"]

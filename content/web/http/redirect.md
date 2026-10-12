@@ -1,7 +1,7 @@
 ---
 title: "Redirect"
 summary: "Sending a client to a different URL."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["HTTP redirect", "URL redirect", "redirection"]
 prereqs: ["http-3xx"]
 related: ["http-3xx", "https", "open-redirect", "url", "hsts"]

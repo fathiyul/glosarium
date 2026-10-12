@@ -1,7 +1,7 @@
 ---
 title: "Productive Struggle"
 summary: "Struggling long enough to learn, but not so long you waste days."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["struggling productively", "learning through struggle", "getting stuck", "desirable difficulty"]
 prereqs: ["debugging"]
 related: ["when-to-ask-for-help", "learning-how-to-learn", "tutorial-hell", "rubber-duck-debugging", "ai-learning-pitfalls", "deep-work"]

@@ -1,7 +1,7 @@
 ---
 title: "Method Overloading"
 summary: "Several methods with the same name but different parameters."
-levels: { backend: junior, frontend: mid-level, data-engineer: junior }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-scientist: junior }
 aliases: ["function overloading", "overloaded methods", "overloading"]
 prereqs: ["method", "parameter-vs-argument"]
 related: ["method-overriding", "default-parameter", "polymorphism", "variadic-function"]

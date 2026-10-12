@@ -1,7 +1,7 @@
 ---
 title: "Onboarding Documentation"
 summary: "Docs that get a new teammate productive quickly."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["onboarding guide", "new hire docs"]
 prereqs: ["docs-as-code"]
 related: ["docs-as-code", "onboarding-yourself", "runbook", "dev-containers"]

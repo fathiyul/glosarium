@@ -1,7 +1,7 @@
 ---
 title: "Compensation and Negotiation"
 summary: "Salary, equity and bonuses, and negotiating offers."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Compensation can include base salary, bonus, equity, benefits, and other terms of employment. The value and risk of each part depend on the offer, employer, location, tax rules, and your own circumstances, so compare the full package rather than one headline number.

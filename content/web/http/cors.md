@@ -1,7 +1,7 @@
 ---
 title: "CORS"
 summary: "Cross-Origin Resource Sharing: how a server lets browsers call it from other origins."
-levels: { backend: mid-level, frontend: junior }
+levels: { backend: mid-level, frontend: junior , data-scientist: junior }
 aliases: ["Cross-Origin Resource Sharing", "cross-origin requests", "CORS error"]
 prereqs: ["origin", "same-origin-policy", "http-headers"]
 related: ["same-origin-policy", "preflight-request", "origin", "http-headers", "network-tab", "http-methods"]

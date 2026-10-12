@@ -1,7 +1,7 @@
 ---
 title: "ORC"
 summary: "A columnar format common in the Hadoop ecosystem."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["Optimized Row Columnar", "ORC file format", "ORC format"]
 prereqs: ["columnar-storage"]
 related: ["parquet", "row-vs-columnar-formats", "predicate-pushdown", "compression-codecs", "hive-partitioning", "apache-spark"]

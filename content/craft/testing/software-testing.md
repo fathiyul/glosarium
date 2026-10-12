@@ -1,7 +1,7 @@
 ---
 title: "Software Testing"
 summary: "Checking code behaves as intended, automatically and repeatably."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["testing", "automated testing", "QA", "test automation"]
 prereqs: ["function"]
 related: ["unit-test", "integration-test", "end-to-end-test", "regression-test", "tdd", "testing-pyramid"]

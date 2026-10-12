@@ -1,7 +1,7 @@
 ---
 title: "Delegation"
 summary: "Handing off work in a way that grows others."
-levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: growth }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: growth , data-scientist: senior }
 ---
 
 Delegation transfers responsibility for a piece of work while making the goal, boundaries, and support clear. It is not simply assigning a task and disappearing, nor does it mean the manager or lead gives up accountability for the outcome.

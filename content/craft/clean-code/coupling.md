@@ -1,7 +1,7 @@
 ---
 title: "Coupling"
 summary: "How much modules depend on each other's internals; less is better."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["loose coupling", "tight coupling", "low coupling", "module coupling", "decoupling"]
 prereqs: ["cohesion"]
 related: ["cohesion", "dependency-inversion-principle", "law-of-demeter", "dependency-injection", "shotgun-surgery", "separation-of-concerns"]

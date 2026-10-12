@@ -1,7 +1,7 @@
 ---
 title: "Diff Algorithms"
 summary: "Computing the minimal set of changes between two sequences."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["diff algorithm", "diffing", "text diff"]
 prereqs: ["dynamic-programming", "string-algorithms"]
 related: ["git", "version-control", "merge"]

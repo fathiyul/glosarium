@@ -1,7 +1,7 @@
 ---
 title: "Type Conversion"
 summary: "Turning a value of one type into another, explicitly or implicitly."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["type casting", "casting", "type cast"]
 prereqs: ["data-type"]
 related: ["type-coercion", "string", "integer", "floating-point", "runtime-validation"]

@@ -1,7 +1,7 @@
 ---
 title: "Return Value"
 summary: "The result a function hands back to its caller."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["return statement", "function result", "return type"]
 prereqs: ["function"]
 related: ["function", "parameter-vs-argument", "control-flow", "expression-vs-statement", "null"]

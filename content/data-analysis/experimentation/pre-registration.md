@@ -1,7 +1,8 @@
 ---
 title: "Pre-registration"
 summary: "Writing down the analysis plan before seeing the data."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["pre-registration", "preregistration", "analysis plan"]
 prereqs: ["experiment-design", "hypothesis-testing"]
 related: ["experiment-design", "decision-rule", "hypothesis-testing", "peeking-problem"]

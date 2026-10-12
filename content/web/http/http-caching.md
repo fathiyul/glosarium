@@ -1,7 +1,7 @@
 ---
 title: "HTTP Caching"
 summary: "Cache-Control, ETag and Last-Modified for reusing responses."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["browser caching", "Cache-Control header", "ETag", "Last-Modified", "HTTP cache", "cache headers"]
 prereqs: ["http-headers"]
 related: ["cache-control", "etag", "conditional-request", "cdn-caching", "browser-cache", "http-status-codes"]

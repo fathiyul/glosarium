@@ -1,7 +1,7 @@
 ---
 title: "Sensors"
 summary: "Tasks that wait for a condition, like a file arriving."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["sensor task", "file sensor", "waiting task", "polling task"]
 prereqs: ["scheduling-pipelines", "pipeline-dag"]
 related: ["data-aware-scheduling", "scheduling-pipelines", "asset-based-orchestration", "task-dependencies", "pipeline-dag", "data-freshness"]

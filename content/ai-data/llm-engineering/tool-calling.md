@@ -1,7 +1,7 @@
 ---
 title: "Tool Use / Function Calling"
 summary: "Letting a model call your functions and APIs."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["tool use", "function calling", "tool calling"]
 prereqs: ["structured-output", "ai-agent"]
 related: ["ai-agent", "structured-output", "guardrails"]

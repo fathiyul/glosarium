@@ -1,7 +1,7 @@
 ---
 title: "Amend"
 summary: "Changing the most recent commit's content or message."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git commit --amend", "amend commit", "amend last commit"]
 prereqs: ["commit"]
 related: ["rebase", "force-push", "git-reflog", "commit-message", "rewriting-history"]

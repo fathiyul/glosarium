@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals over Frameworks"
 summary: "Frameworks change; the concepts underneath them don't."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 prereqs: ["variable"]
 related: ["learning-how-to-learn", "tutorial-hell", "http-request", "dom"]
 ---

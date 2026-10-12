@@ -1,7 +1,7 @@
 ---
 title: "Makefile"
 summary: "A classic way to define project tasks and their dependencies."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Makefile", "make"]
 prereqs: ["shell-scripting"]
 related: ["shell-scripting", "build-artifact", "ci-pipeline", "dev-containers"]

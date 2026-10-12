@@ -1,7 +1,7 @@
 ---
 title: "Log and History"
 summary: "Browsing and filtering commit history."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git log", "commit history", "history"]
 prereqs: ["commit"]
 related: ["git-diff", "git-blame", "git-bisect", "commit-message", "branch"]

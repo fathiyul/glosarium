@@ -1,7 +1,7 @@
 ---
 title: "Mutable vs Immutable"
 summary: "Whether a value can be changed after it's created."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["mutability", "immutable", "mutable"]
 prereqs: ["variable", "data-type"]
 related: ["immutability", "pass-by-value-vs-reference", "shallow-vs-deep-copy", "equality-vs-identity", "tuple"]

@@ -1,7 +1,7 @@
 ---
 title: "GraphQL Schema and Resolvers"
 summary: "Types describing the data, and functions that fetch each field."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , data-scientist: junior }
 aliases: ["graphql schema", "resolvers", "graphql types"]
 prereqs: ["graphql", "api-contract"]
 related: ["graphql-n-plus-one", "api-contract", "graphql"]

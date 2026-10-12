@@ -1,7 +1,7 @@
 ---
 title: "RICE and MoSCoW"
 summary: "Frameworks for prioritizing work."
-levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: pmf }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: pmf , data-scientist: senior }
 ---
 
 Prioritization frameworks such as RICE and MoSCoW help teams compare candidate work using a shared set of questions. RICE commonly considers reach, impact, confidence, and effort; MoSCoW groups requirements as must, should, could, or will not for a particular scope. Implementations and definitions vary, so agree on what the labels mean before using them.

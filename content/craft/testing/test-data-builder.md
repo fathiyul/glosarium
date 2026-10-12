@@ -1,7 +1,7 @@
 ---
 title: "Test Data Builder / Factory"
 summary: "Helpers that create valid test objects with sensible defaults."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["test factory", "object mother", "builder pattern for tests"]
 prereqs: ["given-when-then"]
 related: ["given-when-then", "fake", "test-database", "deterministic-tests"]

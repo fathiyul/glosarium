@@ -1,7 +1,7 @@
 ---
 title: "Managing Up"
 summary: "Keeping your manager informed and aligned."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Managing up is keeping your manager informed and making it easier for both of you to work toward shared outcomes. It does not mean manipulating your manager or taking responsibility for their job; it means communicating needs, risks, and progress in a way they can act on.

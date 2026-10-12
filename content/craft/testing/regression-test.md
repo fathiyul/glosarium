@@ -1,7 +1,7 @@
 ---
 title: "Regression Test"
 summary: "A test ensuring a fixed bug doesn't come back."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["regression testing", "regression tests"]
 prereqs: ["unit-test", "debugging"]
 related: ["reproduce-bug", "unit-test", "test-coverage", "flaky-test"]

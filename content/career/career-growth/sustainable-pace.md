@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Pace"
 summary: "Working at a pace you can keep up for years."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["sustainable working pace", "work-life balance"]
 prereqs: ["time-management"]
 related: ["burnout", "time-management", "career-conversations", "deep-work"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Quality"
 summary: "Making sure data is accurate, complete and fresh."
-levels: { backend: senior, data-engineer: junior }
+levels: { backend: senior, data-engineer: junior , data-scientist: junior }
 aliases: ["data quality management", "DQ", "quality of data", "trustworthy data"]
 prereqs: ["data-profiling"]
 related: ["data-quality-dimensions", "data-tests", "data-observability", "data-contract", "data-freshness", "data-reconciliation"]

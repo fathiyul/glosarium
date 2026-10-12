@@ -1,7 +1,7 @@
 ---
 title: "Gauge Chart"
 summary: "A dial showing one value against a target \u2014 familiar, and often the wrong choice."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["gauge", "dial chart", "speedometer chart"]
 prereqs: ["chart-selection", "kpi-design"]
 related: ["chart-selection", "sparkline", "small-multiples", "dashboard-design", "kpi-design"]

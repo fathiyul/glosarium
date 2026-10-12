@@ -1,7 +1,7 @@
 ---
 title: "Functional vs Non-Functional Requirements"
 summary: "What it does vs how well it does it."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Functional requirements describe what a system should do; non-functional requirements describe qualities or constraints on how it does it. A functional requirement might let a user export a report. Related non-functional requirements might specify access control, acceptable response behavior, accessibility, or recovery expectations.

@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheets for Analysis"
 summary: "The grid as a first analysis tool: sorting, filtering, pivots and formulas."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["spreadsheet analysis", "Excel analysis", "Google Sheets"]
 prereqs: ["descriptive-analysis", "spreadsheet-formulas"]
 related: ["pivot-table", "spreadsheet-formulas", "spreadsheets-vs-sql", "descriptive-analysis", "data-visualization"]

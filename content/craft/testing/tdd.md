@@ -1,7 +1,7 @@
 ---
 title: "Test-Driven Development"
 summary: "Writing a failing test first, then the code to pass it, then refactoring."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["test-driven development", "test first", "red green refactor", "TDD"]
 prereqs: ["unit-test", "refactoring"]
 related: ["red-green-refactor", "unit-test", "arrange-act-assert", "bdd", "refactoring", "test-double"]

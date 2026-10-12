@@ -1,7 +1,7 @@
 ---
 title: "Building Consensus"
 summary: "Bringing people with different views to an agreement."
-levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff , data-scientist: staff }
 ---
 
 Building consensus is helping people with different goals or information reach a decision they can understand and support. Consensus does not always mean everyone prefers the chosen option; it means relevant concerns were heard and the group can proceed under a clear decision process.

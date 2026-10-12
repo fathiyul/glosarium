@@ -1,7 +1,7 @@
 ---
 title: "Integer"
 summary: "A whole-number type, usually with a fixed size and range."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["int", "whole number", "signed integer"]
 prereqs: ["data-type"]
 related: ["floating-point", "integer-overflow", "bits-and-bytes", "binary-number", "primitive-type"]

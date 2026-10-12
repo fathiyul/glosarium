@@ -1,7 +1,7 @@
 ---
 title: "Doubly Linked List"
 summary: "A linked list with pointers in both directions."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["doubly linked list", "double linked list"]
 prereqs: ["linked-list"]
 related: ["linked-list", "deque", "lru-cache-structure", "big-o-notation"]

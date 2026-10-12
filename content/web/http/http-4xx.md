@@ -1,7 +1,7 @@
 ---
 title: "4xx Client Errors"
 summary: "400, 404, 409, 422, 429: the client did something wrong."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["400", "404", "409", "422", "429", "client error status codes"]
 prereqs: ["http-status-codes"]
 related: ["http-401-vs-403", "http-5xx", "error-response-format", "http-429", "input-validation"]

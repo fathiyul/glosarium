@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheet Formulas"
 summary: "The cells that recalculate, and the ones that quietly stop being true."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["spreadsheet formula", "cell formula", "formulas in spreadsheets", "spreadsheet function"]
 prereqs: ["group-by", "sql"]
 related: ["pivot-table", "lookup-functions", "spreadsheets-vs-sql", "data-cleaning"]

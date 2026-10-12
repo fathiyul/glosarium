@@ -1,7 +1,7 @@
 ---
 title: "Contributing to Open Source"
 summary: "Finding issues, following the guidelines and opening PRs."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["open source", "OSS contribution"]
 prereqs: ["pull-request"]
 related: ["pull-request", "side-projects", "job-search", "junior-engineer"]

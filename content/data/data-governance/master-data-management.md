@@ -1,11 +1,11 @@
 ---
 title: "Master Data Management"
 summary: "Keeping one authoritative version of core entities like customers and products."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["MDM", "master data", "golden record", "entity resolution for master data", "reference and master data"]
 prereqs: ["data-governance", "conformed-dimension"]
 related: ["reference-data", "conformed-dimension", "identity-resolution", "data-governance", "data-ownership", "deduplication"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 **Master data** is the **core business entities that many systems share**: customers, products, suppliers, employees, locations, accounts. **Master data management (MDM)** is the practice of keeping **one authoritative, consistent version** of each (a "golden record") across the organization, instead of a dozen slightly different copies in different systems.

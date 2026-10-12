@@ -1,7 +1,7 @@
 ---
 title: "Bayes' Theorem"
 summary: "Updating a belief with new evidence, and why 'how likely is that really' beats 'how surprising'."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["Bayes theorem", "Bayes rule", "Bayesian updating"]
 prereqs: ["probability-basics", "p-value"]
 related: ["bayesian-vs-frequentist", "p-value", "ab-testing", "decision-rule", "sampling-bias", "probability-basics"]

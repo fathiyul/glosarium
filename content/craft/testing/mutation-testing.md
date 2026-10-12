@@ -1,7 +1,7 @@
 ---
 title: "Mutation Testing"
 summary: "Changing code on purpose to check that the tests notice."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["mutation testing", "mutation test", "mutant"]
 prereqs: ["test-coverage", "unit-test"]
 related: ["tdd", "regression-test", "flaky-test", "testing-trophy"]

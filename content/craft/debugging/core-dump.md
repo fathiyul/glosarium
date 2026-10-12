@@ -1,7 +1,7 @@
 ---
 title: "Core Dump"
 summary: "A snapshot of a crashed process's memory for later analysis."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["core dump", "coredump", "crash dump"]
 prereqs: ["debugging", "process-lifecycle"]
 related: ["stack-trace", "debugger", "signal", "ulimit"]

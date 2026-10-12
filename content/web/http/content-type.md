@@ -1,7 +1,7 @@
 ---
 title: "Content-Type"
 summary: "The header declaring a body's format, like application/json."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["Content-Type header", "MIME type", "media type", "application/json"]
 prereqs: ["http-headers"]
 related: ["request-response-body", "mime-type", "content-negotiation", "multipart-form-data", "json"]

@@ -1,7 +1,7 @@
 ---
 title: "Spill to Disk"
 summary: "Running out of memory and writing intermediate data to disk."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["disk spill", "spilling", "external sort", "out of core"]
 prereqs: ["out-of-memory", "shuffle"]
 related: ["shuffle", "data-skew", "out-of-memory", "apache-spark", "broadcast-join", "query-plan"]

@@ -1,7 +1,7 @@
 ---
 title: "Primitive Type"
 summary: "A built-in basic type such as integer, float, boolean or character."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["primitive data type", "primitives", "built-in type", "scalar type"]
 prereqs: ["data-type"]
 related: ["data-type", "integer", "floating-point", "boolean", "string", "mutable-vs-immutable"]

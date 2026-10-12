@@ -1,7 +1,7 @@
 ---
 title: "Documenting Datasets"
 summary: "Writing what a table contains, its grain, owner and caveats."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["dataset documentation", "table documentation", "documenting tables", "dataset README", "data documentation"]
 prereqs: ["data-dictionary", "grain"]
 related: ["data-dictionary", "data-catalog", "data-contract", "data-ownership", "metric-definitions", "data-product"]

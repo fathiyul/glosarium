@@ -1,7 +1,7 @@
 ---
 title: "Binary and Hexadecimal"
 summary: "Base-2 and base-16 number systems."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["binary", "hexadecimal", "hex", "base 2", "base 16"]
 prereqs: ["integer"]
 related: ["bits-and-bytes", "bitwise-operation", "integer", "ascii", "utf-8"]

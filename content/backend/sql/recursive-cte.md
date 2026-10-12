@@ -1,7 +1,7 @@
 ---
 title: "Recursive CTE"
 summary: "Querying hierarchies and graphs, like org charts or category trees."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["recursive cte", "recursive common table expression", "recursive query"]
 prereqs: ["cte", "subquery"]
 related: ["graph", "self-join", "relational-algebra"]

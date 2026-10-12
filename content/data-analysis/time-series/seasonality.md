@@ -1,7 +1,7 @@
 ---
 title: "Seasonality"
 summary: "Patterns that repeat on a calendar: weekly, monthly, yearly."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["seasonality", "seasonal pattern", "weekly seasonality"]
 prereqs: ["time-series", "time-components"]
 related: ["time-series", "trend", "period-over-period", "seasonality-adjustment"]

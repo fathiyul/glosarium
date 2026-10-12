@@ -1,7 +1,7 @@
 ---
 title: "Probability Basics"
 summary: "Reasoning about chance, for sampling, A/B tests and failure rates."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: junior }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: junior , data-scientist: mid-level }
 aliases: ["probability", "basic probability"]
 prereqs: ["combinatorics"]
 related: ["combinatorics", "discrete-math", "deterministic-tests", "set-theory"]

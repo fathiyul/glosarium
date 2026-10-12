@@ -1,7 +1,7 @@
 ---
 title: "Schema Drift"
 summary: "A source adding, renaming or retyping fields without telling you."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["source schema changes", "upstream schema change", "schema changes in pipelines", "column drift"]
 prereqs: ["data-ingestion", "structured-semi-unstructured"]
 related: ["schema-evolution", "data-contract", "landing-zone", "data-tests", "source-systems", "handling-schema-changes"]

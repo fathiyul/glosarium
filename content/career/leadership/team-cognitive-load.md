@@ -1,7 +1,7 @@
 ---
 title: "Team Cognitive Load"
 summary: "Limiting how much a team must understand to own its systems."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 Team cognitive load is the amount of knowledge, systems, processes, and coordination a team must keep in mind to deliver and operate its work. As the load grows, engineers spend more effort understanding the environment and less on the problem in front of them.

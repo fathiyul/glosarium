@@ -1,7 +1,7 @@
 ---
 title: "Broadcast Join"
 summary: "Sending a small table to every worker to avoid shuffling the big one."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["broadcast hash join", "broadcast join Spark", "map-side join", "replicated join"]
 prereqs: ["shuffle", "join"]
 related: ["shuffle", "data-skew", "apache-spark", "distributed-computing", "data-partitions-compute", "spill-to-disk"]

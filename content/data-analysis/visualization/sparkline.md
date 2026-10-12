@@ -1,7 +1,7 @@
 ---
 title: "Sparkline"
 summary: "A tiny line that shows a shape over time inside a table cell or a headline."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["sparklines", "micro chart", "inline chart"]
 prereqs: ["line-chart", "table-design"]
 related: ["table-design", "line-chart", "drill-down", "dashboard-design", "kpi-design"]

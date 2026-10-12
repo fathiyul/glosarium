@@ -1,7 +1,7 @@
 ---
 title: "Dashboard Design"
 summary: "Building dashboards people actually use."
-levels: { data-analyst: mid-level , tech-entrepreneur: growth }
+levels: { data-analyst: mid-level , tech-entrepreneur: growth , data-scientist: mid-level }
 aliases: ["designing dashboards", "dashboard layout", "dashboard best practice"]
 prereqs: ["business-intelligence", "chart-selection"]
 related: ["bi-dashboard", "chart-selection", "drill-down", "self-service-analytics", "kpi-design", "metric-definitions"]

@@ -1,7 +1,7 @@
 ---
 title: "ER Diagram"
 summary: "A diagram of entities and their relationships."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["ER diagram", "entity relationship diagram", "erd"]
 prereqs: ["relational-model", "schema"]
 related: ["normalization", "primary-key", "foreign-key"]

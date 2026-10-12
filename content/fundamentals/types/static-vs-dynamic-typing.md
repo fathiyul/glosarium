@@ -1,7 +1,7 @@
 ---
 title: "Static vs Dynamic Typing"
 summary: "Types checked at compile time vs at runtime."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["static typing", "dynamic typing", "statically typed", "dynamically typed"]
 prereqs: ["data-type", "variable"]
 related: ["strong-vs-weak-typing", "type-system", "type-annotation", "typescript", "duck-typing"]

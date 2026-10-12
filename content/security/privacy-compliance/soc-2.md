@@ -1,7 +1,7 @@
 ---
 title: "SOC 2"
 summary: "An audit of how a company protects customer data."
-levels: { backend: staff, data-engineer: staff , tech-entrepreneur: growth }
+levels: { backend: staff, data-engineer: staff , tech-entrepreneur: growth , data-scientist: staff }
 ---
 
 SOC 2 is an independent attestation framework for controls related to security and, depending on scope, availability, confidentiality, processing integrity, and privacy. An audit examines a defined service boundary and period; it is not a certification that a company or product is completely secure.

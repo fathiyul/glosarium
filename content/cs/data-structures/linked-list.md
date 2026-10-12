@@ -1,7 +1,7 @@
 ---
 title: "Linked List"
 summary: "Nodes pointing to the next node: fast inserts, slow random access."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["singly linked list", "doubly linked list"]
 prereqs: ["array", "object"]
 related: ["array", "dynamic-array", "queue", "stack", "doubly-linked-list"]

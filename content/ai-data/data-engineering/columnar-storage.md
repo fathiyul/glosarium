@@ -1,7 +1,7 @@
 ---
 title: "Columnar Storage"
 summary: "Storing data by column for fast analytics."
-levels: { backend: senior, data-engineer: junior }
+levels: { backend: senior, data-engineer: junior , data-scientist: junior }
 aliases: ["column store", "column-oriented storage", "columnar database", "columnar databases"]
 prereqs: ["data-warehouse"]
 related: ["row-vs-columnar-formats", "parquet", "mpp-warehouse", "compression-codecs", "oltp-vs-olap", "arrow"]

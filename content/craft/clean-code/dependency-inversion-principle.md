@@ -1,7 +1,7 @@
 ---
 title: "Dependency Inversion Principle (D)"
 summary: "Depend on abstractions, not concrete implementations."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["DIP", "dependency inversion"]
 prereqs: ["interface"]
 related: ["dependency-injection", "interface", "encapsulate-what-varies", "stub-double"]

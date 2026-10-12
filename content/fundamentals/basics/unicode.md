@@ -1,7 +1,7 @@
 ---
 title: "Unicode"
 summary: "The universal character set, and why string length is trickier than it looks."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["code point", "Unicode standard"]
 prereqs: ["character-encoding"]
 related: ["utf-8", "ascii", "character-encoding", "string", "internationalization"]

@@ -1,7 +1,7 @@
 ---
 title: "AI Agent"
 summary: "A model that plans and takes actions with tools in a loop."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["AI agent", "LLM agent", "agent"]
 prereqs: ["tool-calling", "how-llms-work"]
 related: ["tool-calling", "guardrails", "prompt-injection"]

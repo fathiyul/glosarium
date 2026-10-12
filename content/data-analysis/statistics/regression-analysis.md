@@ -1,7 +1,7 @@
 ---
 title: "Regression Analysis"
 summary: "Fitting a line or curve so you can describe relationships and make estimates."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: mid-level }
 aliases: ["regression", "regression analysis", "model fitting"]
 prereqs: ["linear-regression", "residuals"]
 related: ["linear-regression", "multiple-regression", "residuals", "overfitting", "causal-inference", "train-test-split"]

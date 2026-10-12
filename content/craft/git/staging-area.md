@@ -1,7 +1,7 @@
 ---
 title: "Staging Area"
 summary: "Where you choose which changes go into the next commit."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["index", "git index", "stage", "git add"]
 prereqs: ["commit"]
 related: ["commit", "git-diff", "git-stash", "git-reset", "atomic-commit"]

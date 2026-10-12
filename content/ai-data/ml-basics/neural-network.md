@@ -1,7 +1,8 @@
 ---
 title: "Neural Network"
 summary: "Layers of weighted connections that learn from data."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+core: [data-scientist]
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["neural network", "artificial neural network", "ANN"]
 prereqs: ["machine-learning", "linear-algebra-basics"]
 related: ["deep-learning", "overfitting", "embeddings"]

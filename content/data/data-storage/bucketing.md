@@ -1,7 +1,7 @@
 ---
 title: "Bucketing"
 summary: "Hashing rows into a fixed number of files by key to speed joins."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["hash bucketing", "clustered by", "bucket join"]
 prereqs: ["partitioning", "shuffle"]
 related: ["hive-partitioning", "key-range-vs-hash-partitioning", "shuffle", "broadcast-join", "clustering-zorder"]

@@ -1,7 +1,7 @@
 ---
 title: "Idempotence"
 summary: "Doing something twice has the same effect as doing it once."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["idempotent", "idempotency"]
 prereqs: ["function"]
 related: ["idempotency-key", "retry-with-backoff", "http-methods", "pure-function"]

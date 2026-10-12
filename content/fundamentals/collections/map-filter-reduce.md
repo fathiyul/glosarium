@@ -1,7 +1,7 @@
 ---
 title: "Map, Filter, Reduce"
 summary: "The three core operations for transforming collections."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["map filter reduce", "higher-order array methods", "fold"]
 prereqs: ["function", "list"]
 related: ["iteration", "higher-order-function", "lambda", "pure-function", "generator"]

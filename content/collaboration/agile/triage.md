@@ -1,7 +1,7 @@
 ---
 title: "Triage"
 summary: "Sorting incoming bugs and requests by urgency and impact."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Triage is the process of sorting incoming bugs, incidents, and requests so the team can decide what needs attention first, who should act, and what can wait. It is a decision process, not simply moving every ticket into a priority column.

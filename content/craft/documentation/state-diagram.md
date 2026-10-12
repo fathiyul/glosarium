@@ -1,7 +1,7 @@
 ---
 title: "State Diagram"
 summary: "A diagram of states and the transitions between them."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["state machine diagram", "statechart"]
 prereqs: ["finite-state-machine"]
 related: ["finite-state-machine", "sequence-diagram", "state-pattern", "diagrams-as-code"]

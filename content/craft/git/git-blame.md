@@ -1,7 +1,7 @@
 ---
 title: "Blame"
 summary: "Seeing who last changed each line and in which commit."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git blame", "annotate", "blame"]
 prereqs: ["git-log", "commit"]
 related: ["git-log", "git-bisect", "understand-before-changing", "commit-message", "git-diff"]

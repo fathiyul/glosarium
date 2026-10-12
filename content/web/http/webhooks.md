@@ -1,7 +1,7 @@
 ---
 title: "Webhook"
 summary: "An HTTP callback: a service calls your URL when something happens."
-levels: { backend: junior, frontend: mid-level, data-engineer: junior }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-scientist: junior }
 aliases: ["webhook", "HTTP callback", "web hook"]
 prereqs: ["http", "endpoint"]
 related: ["webhook-design", "webhooks-vs-polling", "idempotent-consumer", "hmac", "retry-with-backoff"]

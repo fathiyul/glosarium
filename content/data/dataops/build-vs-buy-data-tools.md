@@ -1,7 +1,7 @@
 ---
 title: "Build vs Buy for Data Tools"
 summary: "Choosing between managed services, open source and building in-house."
-levels: { data-engineer: staff }
+levels: { data-engineer: staff , data-scientist: staff }
 aliases: ["build or buy data tools", "build vs buy data stack", "make vs buy data tools", "buy vs build data"]
 prereqs: ["build-vs-buy", "data-platform-team"]
 related: ["modern-data-stack", "vendor-lock-in", "technical-debt", "data-platform-team", "self-serve-data-platform", "orchestrator-choice"]

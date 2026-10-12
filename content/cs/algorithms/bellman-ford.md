@@ -1,7 +1,7 @@
 ---
 title: "Bellman-Ford Algorithm"
 summary: "Shortest paths that also handles negative edge weights."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["Bellman-Ford", "bellman ford algorithm", "negative cycle detection"]
 prereqs: ["graph", "dijkstra"]
 related: ["dynamic-programming", "breadth-first-search", "topological-sort"]

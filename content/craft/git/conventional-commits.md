@@ -1,7 +1,7 @@
 ---
 title: "Conventional Commits"
 summary: "A commit message convention like \"feat:\" and \"fix:\" that tools can parse."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["conventional commit", "semantic commits", "commit types"]
 prereqs: ["commit-message"]
 related: ["commit-message", "atomic-commit", "branch-naming", "semantic-versioning", "changelog"]

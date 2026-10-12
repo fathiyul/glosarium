@@ -1,7 +1,7 @@
 ---
 title: "RFC"
 summary: "A request for comments: proposing a significant change for wide review."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 aliases: ["RFC", "request for comments", "design doc"]
 prereqs: ["writing-clearly", "code-review"]
 related: ["architecture-decision-record", "docs-as-code", "readme"]

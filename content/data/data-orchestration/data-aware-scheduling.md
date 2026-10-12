@@ -1,7 +1,7 @@
 ---
 title: "Data-Aware / Event-Driven Scheduling"
 summary: "Triggering work when data lands instead of at fixed times."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["event-driven scheduling", "data-driven scheduling", "dataset-aware scheduling", "trigger on data arrival", "asset-based scheduling"]
 prereqs: ["scheduling-pipelines"]
 related: ["sensors", "scheduling-pipelines", "asset-based-orchestration", "partitioned-runs", "push-vs-pull-ingestion", "task-dependencies"]

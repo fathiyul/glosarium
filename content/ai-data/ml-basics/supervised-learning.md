@@ -1,7 +1,8 @@
 ---
 title: "Supervised Learning"
 summary: "Learning from labeled examples."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+core: [data-scientist]
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: junior }
 aliases: ["supervised learning", "supervised", "labelled learning"]
 prereqs: ["machine-learning", "train-test-split"]
 related: ["classification-vs-regression", "unsupervised-learning", "train-test-split"]

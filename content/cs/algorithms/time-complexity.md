@@ -1,7 +1,7 @@
 ---
 title: "Time Complexity"
 summary: "How the number of steps grows with input size."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["runtime complexity", "algorithm complexity", "running time"]
 prereqs: ["big-o-notation"]
 related: ["big-o-notation", "space-complexity", "complexity-classes", "best-worst-average-case", "algorithm"]

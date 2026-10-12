@@ -1,8 +1,8 @@
 ---
 title: "Causal Inference"
 summary: "Estimating cause and effect from observational data."
-levels: { data-analyst: senior }
-core: [data-analyst]
+levels: { data-analyst: senior , data-scientist: senior }
+core: [data-analyst, data-scientist]
 aliases: ["causal inference", "causal estimation", "causal analysis"]
 prereqs: ["correlation-vs-causation", "regression-analysis", "experiment-design"]
 related: ["correlation-vs-causation", "confounding-variable", "experiment-design", "quasi-experiment", "difference-in-differences", "randomized-controlled-trial"]

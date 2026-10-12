@@ -1,7 +1,7 @@
 ---
 title: "Option / Maybe Type"
 summary: "A type that explicitly represents \"a value or nothing\"."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Maybe", "Optional"]
 prereqs: ["null"]
 related: ["null", "result-type", "null-object-pattern", "optional-chaining"]

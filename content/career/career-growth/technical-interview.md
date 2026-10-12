@@ -1,7 +1,7 @@
 ---
 title: "Technical Interviews"
 summary: "Coding, system design and behavioral rounds."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["coding interview", "technical screen"]
 prereqs: ["job-search"]
 related: ["behavioral-interview", "job-search", "system-design", "big-o-notation"]

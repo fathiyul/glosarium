@@ -1,7 +1,7 @@
 ---
 title: "Searching Effectively"
 summary: "Finding answers fast in error messages, issues, docs and forums."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["googling", "searching for answers", "how to search", "search skills"]
 prereqs: ["reading-error-messages"]
 related: ["reading-docs", "debugging", "minimal-reproducible-example", "reading-source-code"]

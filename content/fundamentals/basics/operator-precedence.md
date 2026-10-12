@@ -1,7 +1,7 @@
 ---
 title: "Operator Precedence"
 summary: "The rules for which operators bind first in an expression."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["order of operations", "operator priority", "precedence rules"]
 prereqs: ["operator"]
 related: ["operator", "expression-vs-statement", "boolean", "short-circuit-evaluation"]

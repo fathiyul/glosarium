@@ -1,7 +1,7 @@
 ---
 title: "Dual-Axis Charts"
 summary: "Two scales on one plot, where the crossing points depend on the scales you chose."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["dual axis chart", "dual-axis plot", "two y axes"]
 prereqs: ["data-visualization", "axis-truncation"]
 related: ["axis-truncation", "scatter-plot", "small-multiples", "correlation-coefficient", "chart-selection"]

@@ -1,11 +1,11 @@
 ---
 title: "GROUP BY and Aggregates"
 summary: "Summarizing rows with COUNT, SUM and AVG."
-levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["GROUP BY", "aggregate functions", "COUNT SUM AVG", "aggregates", "aggregation"]
 prereqs: ["select-query"]
 related: ["having", "window-function", "case-expression", "join", "null-in-sql"]
-core: [data-engineer, data-analyst]
+core: [data-engineer, data-analyst, data-scientist]
 ---
 
 `GROUP BY` collapses rows into **groups** and lets you compute one summary per group with **aggregate functions**:

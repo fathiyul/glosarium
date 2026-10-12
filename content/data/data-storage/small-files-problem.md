@@ -1,7 +1,7 @@
 ---
 title: "Small Files Problem"
 summary: "Too many tiny files slowing queries and overloading metadata."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["small file problem", "tiny files", "too many small files", "many small files"]
 prereqs: ["hive-partitioning", "parquet"]
 related: ["file-compaction", "hive-partitioning", "open-table-format", "partition-pruning", "data-lake", "batch-processing"]

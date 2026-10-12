@@ -1,7 +1,7 @@
 ---
 title: "Sorting Algorithms"
 summary: "Bubble, insertion, merge, quick and heap sort, and their trade-offs."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["bubble sort", "merge sort", "quicksort", "insertion sort"]
 prereqs: ["algorithm", "big-o-notation"]
 related: ["sorting-in-practice", "stable-sort", "quicksort", "merge-sort", "big-o-notation"]

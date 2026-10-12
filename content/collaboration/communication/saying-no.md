@@ -1,7 +1,7 @@
 ---
 title: "Saying No"
 summary: "Declining or pushing back on work constructively."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level , tech-entrepreneur: pmf }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level , tech-entrepreneur: pmf , data-scientist: mid-level }
 ---
 
 Saying no at work means declining a request, setting a boundary, or explaining that a proposed change does not fit the current constraints. A constructive response explains the reason and offers choices when possible, instead of silently accepting work that cannot be completed.

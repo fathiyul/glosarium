@@ -1,7 +1,7 @@
 ---
 title: "Lockfile"
 summary: "A record of exact dependency versions so every install is identical."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["lock file", "package-lock.json", "yarn.lock", "poetry.lock", "pnpm-lock.yaml", "Cargo.lock"]
 prereqs: ["package-manager"]
 related: ["package-manager", "dependency", "transitive-dependency", "dependency-hell", "dev-environment-setup"]

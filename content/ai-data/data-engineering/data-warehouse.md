@@ -1,7 +1,7 @@
 ---
 title: "Data Warehouse"
 summary: "A database optimized for analytics, like BigQuery or Snowflake."
-levels: { backend: mid-level, data-engineer: junior , data-analyst: junior }
+levels: { backend: mid-level, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["warehouse", "DWH", "cloud data warehouse", "BigQuery", "Snowflake", "Redshift", "analytical database"]
 prereqs: ["oltp-vs-olap"]
 related: ["data-lake", "lakehouse", "columnar-storage", "star-schema", "mpp-warehouse", "query-cost"]

@@ -1,7 +1,7 @@
 ---
 title: "HSTS"
 summary: "A header telling browsers to always use HTTPS for a site."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , data-scientist: junior }
 aliases: ["hsts", "strict transport security", "http strict transport security"]
 prereqs: ["https", "tls"]
 related: ["certificate-authority", "content-security-policy", "tls-termination"]

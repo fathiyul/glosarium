@@ -1,7 +1,7 @@
 ---
 title: "Signed Commits"
 summary: "Cryptographically proving who authored a commit."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["GPG signing", "commit signing", "verified commits"]
 prereqs: ["commit"]
 related: ["removing-secrets-from-history", "git-hooks", "rewriting-history"]

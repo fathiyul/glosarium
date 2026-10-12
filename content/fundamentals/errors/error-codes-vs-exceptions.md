@@ -1,7 +1,7 @@
 ---
 title: "Error Values vs Exceptions"
 summary: "Returning errors as values vs throwing them."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["error codes", "error return values"]
 prereqs: ["exception"]
 related: ["result-type", "exception", "error-handling", "checked-vs-unchecked-exception"]

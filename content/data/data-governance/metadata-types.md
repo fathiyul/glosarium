@@ -1,7 +1,7 @@
 ---
 title: "Technical, Business and Operational Metadata"
 summary: "Schemas, meanings, and run history: the three kinds of data about data."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["types of metadata", "technical business operational metadata", "metadata categories", "data about data"]
 prereqs: ["data-catalog", "data-dictionary"]
 related: ["data-catalog", "data-dictionary", "data-lineage", "data-observability", "data-ownership", "data-catalog-metastore"]

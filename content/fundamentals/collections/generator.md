@@ -1,7 +1,7 @@
 ---
 title: "Generator"
 summary: "A function that lazily yields a sequence of values."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["generator function", "yield"]
 prereqs: ["iterator"]
 related: ["iterator", "lazy-evaluation", "async-await"]

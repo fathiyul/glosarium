@@ -1,7 +1,7 @@
 ---
 title: "HyperLogLog"
 summary: "Estimating the number of distinct items with tiny memory."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["HyperLogLog", "HLL", "distinct count estimation"]
 prereqs: ["cardinality", "hash-function"]
 related: ["bloom-filter", "metrics", "set-operations"]

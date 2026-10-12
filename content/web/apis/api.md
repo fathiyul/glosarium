@@ -1,7 +1,7 @@
 ---
 title: "API"
 summary: "An interface that lets programs talk to each other."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["application programming interface", "web API", "REST API"]
 prereqs: ["function"]
 related: ["endpoint", "rest", "api-design", "json", "http-methods", "openapi"]

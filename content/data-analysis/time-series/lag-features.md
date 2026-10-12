@@ -1,7 +1,7 @@
 ---
 title: "Lag Features"
 summary: "Using past values of a series as inputs to predict its future."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["lag features", "lagged variables", "autoregressive features"]
 prereqs: ["time-series", "forecasting"]
 related: ["autocorrelation", "arima", "stationarity", "regression-analysis"]

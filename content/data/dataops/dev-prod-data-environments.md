@@ -1,7 +1,7 @@
 ---
 title: "Development and Production Data Environments"
 summary: "Separate schemas or warehouses so development never touches production data."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["dev and prod data environments", "data environments", "separate dev and prod", "development warehouse", "staging data"]
 prereqs: ["environments", "dataops"]
 related: ["data-ci-cd", "data-masking", "dataops", "environments", "sampling-data", "query-cost"]

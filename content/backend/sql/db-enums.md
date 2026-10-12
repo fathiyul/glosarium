@@ -1,7 +1,7 @@
 ---
 title: "Enums in the Database"
 summary: "Storing fixed sets of values safely."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["database enums", "enum column", "enum vs lookup table"]
 prereqs: ["schema", "constraint"]
 related: ["relational-model", "natural-vs-surrogate-key", "foreign-key"]

@@ -1,7 +1,8 @@
 ---
 title: "Sensitivity Analysis"
 summary: "Finding which assumptions your conclusion actually depends on."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["sensitivity analysis", "tornado chart", "what-if on inputs"]
 prereqs: ["scenario-analysis", "descriptive-analysis"]
 related: ["scenario-analysis", "forecasting", "decision-rule", "margin-of-error"]

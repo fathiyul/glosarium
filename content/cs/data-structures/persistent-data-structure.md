@@ -1,7 +1,7 @@
 ---
 title: "Persistent Data Structure"
 summary: "An immutable structure that shares unchanged parts between versions."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["persistent data structure", "immutable data structure", "structural sharing"]
 prereqs: ["immutability", "binary-search-tree"]
 related: ["functional-programming", "memento-pattern"]

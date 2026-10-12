@@ -1,7 +1,7 @@
 ---
 title: "Receiving Code Review"
 summary: "Taking feedback without defensiveness and resolving it clearly."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["handling review feedback", "responding to review comments", "review feedback"]
 prereqs: ["code-review"]
 related: ["giving-code-review", "self-review", "review-comment-nits", "pull-request"]

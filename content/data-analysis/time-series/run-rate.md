@@ -1,7 +1,7 @@
 ---
 title: "Run Rate"
 summary: "Extending today's pace to the full period — and why it usually overstates."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["run rate", "annualized run rate", "pacing"]
 prereqs: ["time-series", "trend"]
 related: ["trend", "forecasting", "seasonality", "business-metrics"]

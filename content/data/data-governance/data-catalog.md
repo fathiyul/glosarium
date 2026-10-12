@@ -1,11 +1,11 @@
 ---
 title: "Data Catalog"
 summary: "A searchable inventory of datasets, their meaning and their owners."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["data catalogue", "data discovery", "dataset catalog", "metadata catalog", "data inventory"]
 prereqs: ["data-dictionary", "data-ownership"]
 related: ["data-dictionary", "data-lineage", "data-governance", "data-catalog-metastore", "data-classification", "metadata-types"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 A **data catalog** is a **searchable inventory of your organization's datasets**: what exists, what it means, who owns it, how fresh it is, and whether you should trust it. It's the "search engine and library card catalog" for data, so people find and understand data without asking around in chat.

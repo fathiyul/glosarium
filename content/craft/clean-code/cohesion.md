@@ -1,7 +1,7 @@
 ---
 title: "Cohesion"
 summary: "How closely the parts of a module belong together; more is better."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["high cohesion", "module cohesion", "class cohesion", "functional cohesion"]
 prereqs: ["single-responsibility-principle"]
 related: ["coupling", "single-responsibility-principle", "separation-of-concerns", "god-object", "feature-envy", "shotgun-surgery"]

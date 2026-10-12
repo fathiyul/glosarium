@@ -1,7 +1,7 @@
 ---
 title: "Drill-Down"
 summary: "Clicking a summary number to see the detail behind it, and the trap of drilling without a question."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["drilldown", "drilling into detail", "drill through"]
 prereqs: ["dashboard-design", "chart-selection"]
 related: ["dashboard-design", "bi-dashboard", "self-service-analytics", "metric-definitions", "aggregate-tables", "ad-hoc-analysis"]

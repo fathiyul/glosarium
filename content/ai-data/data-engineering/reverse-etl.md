@@ -1,7 +1,7 @@
 ---
 title: "Reverse ETL"
 summary: "Syncing warehouse data back into operational tools."
-levels: { backend: staff, data-engineer: mid-level }
+levels: { backend: staff, data-engineer: mid-level , data-scientist: mid-level }
 also: [data-serving]
 aliases: ["reverse ETL", "operational analytics sync", "warehouse to app sync"]
 prereqs: ["etl-vs-elt", "data-warehouse"]

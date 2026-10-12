@@ -1,7 +1,7 @@
 ---
 title: "Exception"
 summary: "An object signalling an error that unwinds the call stack until caught."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["exceptions", "runtime error"]
 prereqs: ["function", "conditional"]
 related: ["try-catch", "throw", "error-handling", "stack-trace", "custom-exception", "checked-vs-unchecked-exception"]

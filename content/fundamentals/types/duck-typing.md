@@ -1,7 +1,7 @@
 ---
 title: "Duck Typing"
 summary: "If it has the right methods, it's the right type."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["duck typing", "structural duck typing"]
 prereqs: ["variable"]
 related: ["structural-vs-nominal-typing", "interface", "static-vs-dynamic-typing"]

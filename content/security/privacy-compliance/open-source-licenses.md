@@ -1,7 +1,7 @@
 ---
 title: "Open Source Licenses"
 summary: "MIT, Apache, GPL, and what each one lets you do."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp , data-scientist: mid-level }
 ---
 
 An open-source license states what people may do with software source code and what conditions apply to use, modification, or redistribution. Permissive licenses such as MIT and Apache-2.0 generally allow broad reuse with conditions such as preserving notices; copyleft licenses impose additional obligations in some distribution scenarios.

@@ -1,7 +1,7 @@
 ---
 title: "Lambda Architecture"
 summary: "Parallel batch and streaming paths merged at query time."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["Lambda", "lambda architecture", "batch and speed layers", "batch layer speed layer serving layer"]
 prereqs: ["batch-vs-stream", "stream-processing"]
 related: ["kappa-architecture", "batch-vs-stream", "stream-processing", "real-time-vs-near-real-time", "mapreduce", "data-warehouse"]

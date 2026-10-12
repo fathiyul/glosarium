@@ -1,7 +1,7 @@
 ---
 title: "Snowflake Schema"
 summary: "A star schema whose dimensions are normalized into sub-tables."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["snowflake schema", "snowflaked schema", "normalized star schema", "snowflake model"]
 prereqs: ["star-schema", "normalization"]
 related: ["star-vs-snowflake", "dimensional-modeling", "dimension-table", "denormalization", "one-big-table", "fact-table"]

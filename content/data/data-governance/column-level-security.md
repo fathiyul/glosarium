@@ -1,7 +1,7 @@
 ---
 title: "Column-Level Security"
 summary: "Restricting access to specific sensitive columns."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["column level access control", "column security", "per-column access", "column permissions"]
 prereqs: ["data-classification", "rbac"]
 related: ["row-level-security", "data-masking", "data-classification", "rbac", "pii", "access-control-models"]

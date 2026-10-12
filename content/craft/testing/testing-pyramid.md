@@ -1,7 +1,7 @@
 ---
 title: "Testing Pyramid"
 summary: "Many unit tests, fewer integration tests, few end-to-end tests."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["test pyramid", "testing triangle", "test automation pyramid", "ice cream cone anti-pattern"]
 prereqs: ["unit-test", "integration-test", "end-to-end-test"]
 related: ["testing-trophy", "unit-test", "integration-test", "end-to-end-test", "flaky-test", "test-in-production"]

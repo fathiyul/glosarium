@@ -1,7 +1,7 @@
 ---
 title: "Boolean"
 summary: "A true/false value."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["bool", "boolean value", "true false", "Boolean type"]
 prereqs: ["data-type"]
 related: ["conditional", "truthy-falsy", "short-circuit-evaluation", "flag-argument"]

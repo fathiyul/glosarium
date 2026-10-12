@@ -1,0 +1,18 @@
+title: Data Scientist
+summary: Every concept a data scientist meets, from trustworthy analysis to production models, in the order you actually need it.
+levels:
+  - id: junior
+    title: Junior
+    summary: Explore data correctly, write solid SQL and Python, evaluate a model honestly.
+  - id: mid-level
+    title: Mid-level
+    summary: Own modeling and analysis end to end, from question to validated result.
+  - id: senior
+    title: Senior
+    summary: Design experiments and models for causal, reliable decisions at scale.
+  - id: staff
+    title: Staff
+    summary: Shape modeling standards and decision quality across teams.
+  - id: principal
+    title: Principal
+    summary: Set data science and AI strategy across the company.

@@ -1,7 +1,7 @@
 ---
 title: "CODEOWNERS"
 summary: "A file that assigns required reviewers by path."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["CODEOWNERS file", "code owners"]
 prereqs: ["pull-request"]
 related: ["pull-request", "protected-branch", "review-turnaround", "contributing-guide"]

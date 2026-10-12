@@ -1,7 +1,7 @@
 ---
 title: "Dependency Hell"
 summary: "Conflicting version requirements that can't all be satisfied."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["version conflict", "dependency conflict", "DLL hell"]
 prereqs: ["transitive-dependency"]
 related: ["transitive-dependency", "semantic-versioning", "node-modules", "lockfile"]

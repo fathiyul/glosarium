@@ -1,7 +1,7 @@
 ---
 title: "Boy Scout Rule"
 summary: "Leave the code a little cleaner than you found it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["campsite rule", "leave it cleaner"]
 prereqs: ["refactoring", "clean-code"]
 related: ["refactoring", "technical-debt", "managing-technical-debt", "code-review", "small-prs"]

@@ -1,7 +1,7 @@
 ---
 title: "Arrange, Act, Assert"
 summary: "The standard three-part structure of a test."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["AAA", "AAA pattern", "given when then"]
 prereqs: ["unit-test"]
 related: ["unit-test", "given-when-then", "test-fixture", "test-double", "bdd"]

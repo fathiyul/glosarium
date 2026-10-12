@@ -1,7 +1,7 @@
 ---
 title: "Inverse Conway Maneuver"
 summary: "Designing team structure to get the architecture you want."
-levels: { backend: principal, frontend: principal, data-engineer: principal }
+levels: { backend: principal, frontend: principal, data-engineer: principal , data-scientist: principal }
 ---
 
 The inverse Conway maneuver is the deliberate design of team and communication structures to encourage a desired software architecture. Conway's law is commonly used to describe how system designs reflect the communication structure of the organizations that build them; the inverse maneuver works in the other direction by changing team boundaries to support a target architecture.

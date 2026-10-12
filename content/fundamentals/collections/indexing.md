@@ -1,7 +1,7 @@
 ---
 title: "Indexing"
 summary: "Accessing elements by position, usually starting at zero."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["array index", "zero-based indexing", "subscript"]
 prereqs: ["array"]
 related: ["array", "slicing", "off-by-one-error", "list", "string"]

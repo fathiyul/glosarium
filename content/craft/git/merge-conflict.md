@@ -1,7 +1,7 @@
 ---
 title: "Merge Conflict"
 summary: "Two branches changed the same lines and Git needs you to decide."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["merge conflicts", "conflict markers", "resolving conflicts"]
 prereqs: ["branch", "merge"]
 related: ["rebase", "merge-vs-rebase", "git-diff", "pull-request"]

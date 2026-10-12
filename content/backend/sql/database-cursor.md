@@ -1,7 +1,7 @@
 ---
 title: "Database Cursor"
 summary: "Fetching a large result set in batches instead of all at once."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["database cursor", "server-side cursor", "cursor"]
 prereqs: ["sql", "transaction"]
 related: ["unbounded-result-sets", "pagination", "connection-pooling"]

@@ -1,7 +1,7 @@
 ---
 title: "Hofstadter's Law"
 summary: "It always takes longer than you expect, even when you account for this."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Hofstadter's Law is the observation that a task often takes longer than expected, even when you account for that tendency. It is a reminder that estimates are vulnerable to hidden work, dependencies, and surprises—not a mathematical formula for adding a fixed percentage.

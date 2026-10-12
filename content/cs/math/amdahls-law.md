@@ -1,7 +1,7 @@
 ---
 title: "Amdahl's Law"
 summary: "The speedup from parallelism is limited by the part that stays sequential."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["Amdahl's law", "amdahls law", "speedup limit"]
 prereqs: ["thread", "cpu"]
 related: ["gpu", "throughput", "latency", "simd"]

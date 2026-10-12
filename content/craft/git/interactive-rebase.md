@@ -1,7 +1,7 @@
 ---
 title: "Interactive Rebase"
 summary: "Rewriting commits: squash, reorder, edit, drop."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["git rebase -i", "rebase interactive", "squash commits", "rewriting commits", "fixup"]
 prereqs: ["rebase", "git-amend"]
 related: ["squash", "rewriting-history", "force-push", "git-reflog", "atomic-commit", "merge-vs-rebase"]

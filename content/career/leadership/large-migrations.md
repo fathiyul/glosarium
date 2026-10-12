@@ -1,7 +1,7 @@
 ---
 title: "Leading Large Migrations"
 summary: "Moving many teams off an old system."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 A large migration moves many users, services, teams, or data flows from an old system to a new one. It is as much a coordination and risk-management problem as an implementation task: different owners may move at different times, and both systems may need to coexist temporarily.

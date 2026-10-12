@@ -1,11 +1,11 @@
 ---
 title: "Data Contract"
 summary: "An agreed, enforced schema and quality promise between data producers and consumers."
-levels: { data-engineer: senior , data-analyst: senior }
+levels: { data-engineer: senior , data-analyst: senior , data-scientist: senior }
 aliases: ["data contracts", "producer consumer data agreement", "dataset contract", "schema contract", "data interface agreement"]
 prereqs: ["schema-evolution", "data-ownership"]
 related: ["schema-drift", "data-product", "data-sla", "data-ownership", "data-tests", "source-systems"]
-core: [data-engineer, data-analyst]
+core: [data-engineer, data-analyst, data-scientist]
 ---
 
 A **data contract** is an **explicit, enforced agreement between the producer of data and its consumers** about what the data looks like and what's guaranteed: its schema, meaning, quality expectations, delivery schedule and how changes will be handled. It turns an unwritten assumption ("the orders table has these columns, always") into a documented, testable interface.

@@ -1,7 +1,7 @@
 ---
 title: "Data Quality Checks"
 summary: "The assertions a dataset must pass before you build numbers on it."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["data quality check", "data validation checks", "quality checks", "data checks"]
 prereqs: ["data-profiling", "sql"]
 related: ["data-tests", "data-quality-dimensions", "data-reconciliation", "data-freshness", "metric-discrepancy", "data-incident"]

@@ -1,7 +1,7 @@
 ---
 title: "Asset-Based Orchestration"
 summary: "Orchestrating the datasets you want to exist, not just the tasks."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["software-defined assets", "asset-centric orchestration", "Dagster assets", "data asset orchestration", "declarative orchestration"]
 prereqs: ["pipeline-dag", "pipeline-orchestration"]
 related: ["orchestrator-choice", "data-aware-scheduling", "pipeline-dag", "data-lineage", "partitioned-runs", "idempotent-pipeline"]

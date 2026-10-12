@@ -1,7 +1,7 @@
 ---
 title: "5xx Server Errors"
 summary: "500, 502, 503, 504: the server failed."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["500", "502", "503", "504", "server error status codes"]
 prereqs: ["http-status-codes"]
 related: ["http-4xx", "retry-with-backoff", "health-check", "load-balancer", "error-tracking"]

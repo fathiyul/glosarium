@@ -1,7 +1,7 @@
 ---
 title: "Giving Feedback"
 summary: "Feedback that's specific, timely, kind and actionable."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["giving feedback to colleagues", "constructive feedback", "feedback conversation", "how to give feedback", "peer feedback"]
 prereqs: ["asking-good-questions"]
 related: ["receiving-feedback", "giving-code-review", "one-on-one", "psychological-safety", "conflict-resolution", "saying-no"]

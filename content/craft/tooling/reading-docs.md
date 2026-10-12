@@ -1,7 +1,7 @@
 ---
 title: "Reading Documentation"
 summary: "Going to the official docs first, and knowing how to navigate them."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["documentation reading", "RTFM", "reading the docs", "official documentation"]
 related: ["reading-source-code", "searching-effectively", "reading-error-messages", "debugging"]
 core: [backend, frontend, data-engineer]

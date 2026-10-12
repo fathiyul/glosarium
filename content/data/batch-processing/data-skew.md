@@ -1,7 +1,7 @@
 ---
 title: "Data Skew"
 summary: "A few keys holding most of the data, so one task runs forever."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["skewed data", "skew", "key skew", "hot key", "data skew in Spark", "skewed join"]
 prereqs: ["shuffle", "data-partitions-compute"]
 related: ["shuffle", "broadcast-join", "hot-partition", "spill-to-disk", "apache-spark", "distributed-computing"]

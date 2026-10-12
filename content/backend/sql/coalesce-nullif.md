@@ -1,7 +1,7 @@
 ---
 title: "COALESCE and NULLIF"
 summary: "Handling NULLs inside SQL expressions."
-levels: { backend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["COALESCE", "NULLIF"]
 prereqs: ["null"]
 related: ["null", "constraint", "self-join"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Fabric"
 summary: "An integration layer that connects data across systems using metadata."
-levels: { data-engineer: staff }
+levels: { data-engineer: staff , data-scientist: staff }
 aliases: ["data fabric architecture", "fabric data integration", "active metadata fabric", "federated data layer"]
 prereqs: ["data-catalog", "data-governance"]
 related: ["data-catalog", "data-lineage", "data-mesh", "data-governance", "metadata-types", "semantic-layer"]

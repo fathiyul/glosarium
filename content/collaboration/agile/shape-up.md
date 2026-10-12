@@ -1,7 +1,7 @@
 ---
 title: "Shape Up"
 summary: "Basecamp's six-week cycles with shaped, fixed-time bets."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Shape Up is a product-development method associated with Basecamp that organizes work around shaped proposals and fixed-length cycles. A proposal describes a problem, appetite (how much time the team is willing to spend), boundaries, and a possible solution direction before a team takes it on.

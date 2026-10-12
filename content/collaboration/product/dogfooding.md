@@ -1,7 +1,7 @@
 ---
 title: "Dogfooding"
 summary: "Using your own product."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp , data-scientist: mid-level }
 ---
 
 Dogfooding means using your own product in realistic work, so the team experiences its friction and failure modes directly. It can reveal confusing workflows, missing controls, and rough edges that are hard to notice in a demo or test environment.

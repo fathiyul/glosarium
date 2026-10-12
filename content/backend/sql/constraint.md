@@ -1,7 +1,7 @@
 ---
 title: "Constraints"
 summary: "Database rules like NOT NULL, UNIQUE and CHECK."
-levels: { backend: junior, data-engineer: junior }
+levels: { backend: junior, data-engineer: junior , data-scientist: junior }
 prereqs: ["schema"]
 related: ["schema", "null", "junction-table", "relational-database"]
 ---

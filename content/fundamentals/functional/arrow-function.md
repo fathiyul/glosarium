@@ -1,7 +1,7 @@
 ---
 title: "Arrow Function"
 summary: "JavaScript's concise function syntax with lexical this."
-levels: { frontend: junior }
+levels: { frontend: junior , data-scientist: mid-level }
 aliases: ["arrow functions", "fat arrow", "lambda expression"]
 prereqs: ["function", "this-self"]
 related: ["first-class-function", "higher-order-function", "lambda", "closure", "this-binding"]

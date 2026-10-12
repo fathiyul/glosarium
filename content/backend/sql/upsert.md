@@ -1,11 +1,11 @@
 ---
 title: "Upsert"
 summary: "Insert, or update if the row exists, in one statement."
-levels: { backend: mid-level, data-engineer: junior }
+levels: { backend: mid-level, data-engineer: junior , data-scientist: junior }
 aliases: ["INSERT ON CONFLICT", "ON DUPLICATE KEY UPDATE", "MERGE", "insert or update", "INSERT OR REPLACE"]
 prereqs: ["primary-key", "constraint"]
 related: ["unique-constraint-guard", "idempotence", "race-condition", "crud", "constraint"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 also: [ingestion]
 ---
 

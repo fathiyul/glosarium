@@ -1,7 +1,7 @@
 ---
 title: "Package Manager"
 summary: "A tool for installing and versioning dependencies, like npm, pip or cargo."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["dependency manager", "npm", "pip", "cargo", "yarn", "pnpm", "maven", "gradle"]
 prereqs: ["dependency"]
 related: ["lockfile", "dependency", "transitive-dependency", "version-manager", "virtual-environment", "dependency-hell"]

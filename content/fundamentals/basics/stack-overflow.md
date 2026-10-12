@@ -1,7 +1,7 @@
 ---
 title: "Stack Overflow"
 summary: "Crashing when the call stack runs out of space, usually from runaway recursion."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["stack overflow error", "call stack overflow", "RecursionError", "maximum call stack size exceeded"]
 prereqs: ["recursion", "function"]
 related: ["recursion", "base-case", "tail-recursion", "stack-vs-heap", "stack-trace"]

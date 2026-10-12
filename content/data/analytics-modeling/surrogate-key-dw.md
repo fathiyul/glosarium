@@ -1,11 +1,11 @@
 ---
 title: "Surrogate Keys in the Warehouse"
 summary: "Warehouse-generated keys that stay stable when source IDs change."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["surrogate keys", "warehouse surrogate key", "dimension surrogate key", "surrogate key in data warehouse", "hash key"]
 prereqs: ["primary-key", "dimension-table"]
 related: ["natural-vs-surrogate-key", "scd-types", "slowly-changing-dimension", "dimension-table", "fact-table", "primary-key"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 A **surrogate key** in a warehouse is a **meaningless, warehouse-generated key** (an integer or a hash) that identifies a row in a dimension table. Fact tables reference dimensions through it, instead of through the source system's own ID (the **business** or **natural key**).

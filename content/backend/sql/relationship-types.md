@@ -1,7 +1,7 @@
 ---
 title: "One-to-Many and Many-to-Many"
 summary: "The basic kinds of relationship and how to model them."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["one-to-many", "many-to-many", "one-to-one"]
 prereqs: ["schema"]
 related: ["junction-table", "schema", "constraint", "relational-database"]

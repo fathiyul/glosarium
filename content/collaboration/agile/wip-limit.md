@@ -1,7 +1,7 @@
 ---
 title: "WIP Limit"
 summary: "Capping how many tasks are in progress at once."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A work-in-progress (WIP) limit caps how many tasks a team or workflow stage may have active at one time. The goal is to expose bottlenecks and encourage finishing work before starting more, rather than keeping everyone busy on many half-done items.

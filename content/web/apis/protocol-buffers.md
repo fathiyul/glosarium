@@ -1,7 +1,7 @@
 ---
 title: "Protocol Buffers"
 summary: "A compact, schema-based binary serialization format."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["protocol buffers", "protobuf", "proto files"]
 prereqs: ["rpc", "json-schema"]
 related: ["grpc", "avro", "messagepack"]

@@ -1,7 +1,7 @@
 ---
 title: "Understand Before You Change"
 summary: "Knowing why code exists before you modify it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["understand before you change", "Chesterton's fence for code", "know why code exists", "don't change what you don't understand"]
 prereqs: ["reading-a-codebase"]
 related: ["chestertons-fence", "reading-a-codebase", "characterization-test", "git-log", "git-blame", "legacy-code"]

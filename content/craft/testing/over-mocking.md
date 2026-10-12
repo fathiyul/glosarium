@@ -1,7 +1,7 @@
 ---
 title: "Over-Mocking"
 summary: "Mocking so much that tests check implementation instead of behavior."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["mock overuse", "over-stubbing"]
 prereqs: ["mock"]
 related: ["mock", "stub-double", "fake", "integration-test", "test-double"]

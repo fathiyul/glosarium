@@ -1,7 +1,7 @@
 ---
 title: "Type Guard"
 summary: "A check that tells the type checker a value's specific type."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: junior }
 aliases: ["user-defined type guard", "narrowing"]
 prereqs: ["intersection-type"]
 related: ["intersection-type", "type-inference", "structural-vs-nominal-typing"]

@@ -1,7 +1,7 @@
 ---
 title: "Organization Design"
 summary: "Structuring teams and reporting lines."
-levels: { backend: principal, frontend: principal, data-engineer: principal , tech-entrepreneur: scale }
+levels: { backend: principal, frontend: principal, data-engineer: principal , tech-entrepreneur: scale , data-scientist: principal }
 core: [tech-entrepreneur]
 ---
 

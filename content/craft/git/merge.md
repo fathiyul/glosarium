@@ -1,7 +1,7 @@
 ---
 title: "Merge"
 summary: "Combining the histories of two branches."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git merge", "merge commit", "merging branches"]
 prereqs: ["branch", "commit"]
 related: ["merge-vs-rebase", "merge-conflict", "fast-forward-merge", "rebase", "pull-request", "squash"]

@@ -1,7 +1,7 @@
 ---
 title: "Retention Analysis"
 summary: "Measuring whether users come back over time."
-levels: { data-analyst: mid-level , tech-entrepreneur: pmf }
+levels: { data-analyst: mid-level , tech-entrepreneur: pmf , data-scientist: mid-level }
 aliases: ["retention analysis", "user retention", "retention curve", "cohort retention"]
 prereqs: ["cohort-analysis", "group-by"]
 related: ["cohort-analysis", "funnel-analysis", "segmentation", "metric-definitions", "kpi-design", "descriptive-analysis"]

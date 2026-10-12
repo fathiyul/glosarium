@@ -1,7 +1,7 @@
 ---
 title: "Brag Document"
 summary: "A running record of your accomplishments."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["brag doc", "brag sheet", "accomplishments log", "work log", "achievements document"]
 prereqs: ["engineering-journal"]
 related: ["engineering-journal", "impostor-syndrome", "one-on-one", "first-weeks", "finding-a-mentor", "giving-feedback"]

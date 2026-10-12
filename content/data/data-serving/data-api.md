@@ -1,7 +1,7 @@
 ---
 title: "Data APIs"
 summary: "Serving data to applications through an API instead of direct database access."
-levels: { data-engineer: mid-level, backend: mid-level }
+levels: { data-engineer: mid-level, backend: mid-level , data-scientist: mid-level }
 aliases: ["data API", "analytics API", "query API", "data access API"]
 prereqs: ["rest", "data-serving"]
 related: ["rest-vs-graphql-vs-grpc", "graphql", "api-gateway", "pagination", "caching", "data-contract"]

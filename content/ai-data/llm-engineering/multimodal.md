@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Models"
 summary: "Models that handle images, audio and text together."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["multimodal models", "multimodal", "vision language models"]
 prereqs: ["how-llms-work", "embeddings"]
 related: ["how-llms-work", "embeddings", "structured-output"]

@@ -1,7 +1,7 @@
 ---
 title: "Classic Hard Problems"
 summary: "Knapsack, traveling salesman and others, and how to recognize them in disguise."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["classic hard problems", "NP-hard problems", "knapsack TSP"]
 prereqs: ["np-complete", "dynamic-programming"]
 related: ["greedy-algorithm", "backtracking"]

@@ -1,7 +1,7 @@
 ---
 title: "MessagePack"
 summary: "A compact binary alternative to JSON."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["messagepack", "msgpack", "message pack"]
 prereqs: ["json", "protocol-buffers"]
 related: ["protocol-buffers", "avro", "json"]

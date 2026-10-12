@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra Basics"
 summary: "Vectors and matrices, the foundation of graphics and ML."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["linear algebra", "vectors and matrices", "matrix math"]
 prereqs: ["simd", "gpu"]
 related: ["neural-network"]

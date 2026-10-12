@@ -1,7 +1,7 @@
 ---
 title: "Origin"
 summary: "Scheme + host + port: the browser's security boundary."
-levels: { backend: mid-level, frontend: junior }
+levels: { backend: mid-level, frontend: junior , data-scientist: junior }
 aliases: ["web origin", "same origin", "origin header"]
 prereqs: ["url"]
 related: ["same-origin-policy", "cors", "cookie", "url", "https"]

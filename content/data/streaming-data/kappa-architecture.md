@@ -1,7 +1,7 @@
 ---
 title: "Kappa Architecture"
 summary: "Everything as a stream, with reprocessing by replaying the log."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["Kappa", "kappa architecture", "stream-only architecture", "streaming-first architecture", "log-centric architecture"]
 prereqs: ["stream-processing", "kafka"]
 related: ["lambda-architecture", "kafka", "stream-processing", "event-sourcing", "stream-table-duality", "real-time-vs-near-real-time"]

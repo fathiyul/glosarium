@@ -1,7 +1,7 @@
 ---
 title: "Distributed File System (HDFS)"
 summary: "Storing huge files across many machines with replication."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["HDFS", "Hadoop Distributed File System", "DFS"]
 prereqs: ["distributed-computing", "file-system"]
 related: ["mapreduce", "apache-spark", "data-lake", "object-storage", "file-compaction"]

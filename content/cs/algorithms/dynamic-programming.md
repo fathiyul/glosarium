@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Programming"
 summary: "Solving overlapping subproblems once and reusing the answers."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["DP", "memoized recursion", "tabulation"]
 prereqs: ["recursion", "divide-and-conquer"]
 related: ["memoization", "divide-and-conquer", "greedy-algorithm", "backtracking"]

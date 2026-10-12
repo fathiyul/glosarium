@@ -1,7 +1,7 @@
 ---
 title: "Stored Procedure"
 summary: "Logic that runs inside the database."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["stored procedure", "stored procedures", "stored routine"]
 prereqs: ["sql", "database"]
 related: ["view", "db-trigger", "query-plan", "transaction"]

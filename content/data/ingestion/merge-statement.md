@@ -1,7 +1,7 @@
 ---
 title: "MERGE Statement"
 summary: "SQL that inserts, updates or deletes rows in one pass based on a match."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["MERGE", "SQL MERGE", "upsert statement"]
 prereqs: ["sql", "upsert"]
 related: ["upsert", "append-vs-merge", "scd-types", "deduplication", "change-data-capture"]

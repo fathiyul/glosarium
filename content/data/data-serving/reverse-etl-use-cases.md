@@ -1,7 +1,7 @@
 ---
 title: "Reverse ETL Use Cases"
 summary: "Syncing warehouse data to CRMs, ad tools and support systems."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["reverse ETL examples", "warehouse to CRM", "data activation", "operational analytics"]
 prereqs: ["reverse-etl", "data-serving"]
 related: ["customer-data-platform", "feature-store", "semantic-layer", "data-warehouse", "idempotent-pipeline"]

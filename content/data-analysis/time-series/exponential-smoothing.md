@@ -1,7 +1,7 @@
 ---
 title: "Exponential Smoothing"
 summary: "Forecasting by weighting recent history more than old history."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["exponential smoothing", "Holt-Winters", "ETS", "simple exponential smoothing"]
 prereqs: ["moving-average", "time-components"]
 related: ["moving-average", "arima", "seasonality", "forecast-accuracy"]

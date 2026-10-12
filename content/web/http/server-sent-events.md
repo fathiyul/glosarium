@@ -1,7 +1,7 @@
 ---
 title: "Server-Sent Events"
 summary: "A one-way stream of events from server to browser over HTTP."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , data-scientist: junior }
 also: [real-time]
 aliases: ["server-sent events", "sse", "eventsource"]
 prereqs: ["http", "long-polling"]

@@ -1,7 +1,7 @@
 ---
 title: "Impact"
 summary: "Outcomes that matter to the business, not just output."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["engineering impact", "making an impact", "output vs outcome", "business impact", "engineering outcomes"]
 prereqs: ["ownership", "product-thinking"]
 related: ["ownership", "brag-document", "scope-of-work", "glue-work", "promotion", "performance-review"]

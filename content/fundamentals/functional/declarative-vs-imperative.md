@@ -1,7 +1,7 @@
 ---
 title: "Declarative vs Imperative"
 summary: "Describing what you want vs spelling out how to do it."
-levels: { backend: mid-level, frontend: junior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: junior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["imperative programming", "declarative programming"]
 prereqs: ["function", "loop"]
 related: ["functional-programming", "map-filter-reduce", "sql", "higher-order-function"]

@@ -1,7 +1,7 @@
 ---
 title: "Generics"
 summary: "Code that works over many types while keeping type safety."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["generic types", "type parameters", "generic functions", "templates", "parametric polymorphism"]
 prereqs: ["type-system", "function"]
 related: ["type-inference", "variance", "type-system", "utility-types", "intersection-type", "union-type"]

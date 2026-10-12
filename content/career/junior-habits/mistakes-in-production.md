@@ -1,7 +1,7 @@
 ---
 title: "Making Mistakes in Production"
 summary: "Owning up quickly when you break something."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["breaking production", "production mistakes", "owning mistakes", "I broke production", "making mistakes at work"]
 prereqs: ["incident"]
 related: ["blameless-postmortem", "incident", "rollback", "mitigate-first", "escalation", "psychological-safety"]

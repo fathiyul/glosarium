@@ -1,7 +1,7 @@
 ---
 title: "Long-Term Thinking"
 summary: "Making decisions whose payoff comes years later."
-levels: { backend: principal, frontend: principal, data-engineer: principal , data-analyst: principal , tech-entrepreneur: scale }
+levels: { backend: principal, frontend: principal, data-engineer: principal , data-analyst: principal , tech-entrepreneur: scale , data-scientist: principal }
 ---
 
 Long-term thinking considers how today's technical and organizational choices affect future costs, options, and risks. It does not mean always choosing the most abstract or future-proof design; it means noticing consequences that a short-term delivery view would hide.

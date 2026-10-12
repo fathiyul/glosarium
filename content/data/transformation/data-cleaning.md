@@ -1,7 +1,7 @@
 ---
 title: "Data Cleaning"
 summary: "Fixing types, formats, missing values and duplicates."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["data cleansing", "data scrubbing", "cleaning data", "data wrangling", "data preparation"]
 prereqs: ["data-profiling"]
 related: ["data-transformation", "deduplication", "null-in-sql", "case-expression", "data-normalization-values", "landing-zone"]

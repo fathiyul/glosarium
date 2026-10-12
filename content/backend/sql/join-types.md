@@ -1,11 +1,11 @@
 ---
 title: "INNER, LEFT, RIGHT and FULL JOIN"
 summary: "Which rows each kind of join keeps."
-levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL OUTER JOIN", "outer join", "LEFT OUTER JOIN"]
 prereqs: ["join"]
 related: ["join", "cross-join", "self-join", "foreign-key", "null-in-sql"]
-core: [data-engineer, data-analyst]
+core: [data-engineer, data-analyst, data-scientist]
 ---
 
 The join type decides **which rows survive** when the two tables don't match perfectly.

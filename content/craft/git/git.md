@@ -1,7 +1,7 @@
 ---
 title: "Git"
 summary: "The distributed version control system almost everyone uses."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["version control system", "git vcs", "DVCS"]
 related: ["version-control", "repository", "commit", "branch", "remote", "gitignore"]
 core: [backend, frontend, data-engineer]

@@ -1,7 +1,7 @@
 ---
 title: "Draft PR"
 summary: "A PR opened early for feedback, not yet ready to merge."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["draft pull request", "WIP PR", "work in progress PR"]
 prereqs: ["pull-request"]
 related: ["pull-request", "code-review", "small-prs", "pr-description", "continuous-integration"]

@@ -1,7 +1,7 @@
 ---
 title: "Prototypal Inheritance"
 summary: "JavaScript's model where objects inherit directly from other objects."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: mid-level }
 aliases: ["prototype chain", "prototype-based inheritance"]
 prereqs: ["object"]
 related: ["abstract-class", "class", "this-binding"]

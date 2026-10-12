@@ -1,7 +1,7 @@
 ---
 title: "Pure Function"
 summary: "Same input, same output, and no side effects."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["pure functions", "referentially transparent function"]
 prereqs: ["function", "side-effect"]
 related: ["side-effect", "referential-transparency", "immutability", "memoization", "functional-programming"]

@@ -1,7 +1,7 @@
 ---
 title: "Generalist vs Specialist"
 summary: "The trade-offs between breadth and depth."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 A generalist works across a range of areas; a specialist develops deeper expertise in a narrower domain. Most engineering roles need some combination: broad understanding helps with integration, while depth helps resolve difficult problems in a particular area.

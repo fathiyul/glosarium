@@ -1,7 +1,7 @@
 ---
 title: "Volume, Velocity, Variety"
 summary: "The three dimensions that make data \"big\", and which one is actually your problem."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["3 Vs", "three Vs of big data", "big data 3 Vs"]
 prereqs: ["data-engineering"]
 related: ["bounded-vs-unbounded", "structured-semi-unstructured", "batch-vs-streaming-ingestion", "distributed-computing", "single-node-engines"]

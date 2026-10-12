@@ -1,7 +1,7 @@
 ---
 title: "Endpoint"
 summary: "A specific URL and method an API exposes, like POST /orders."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["API endpoint", "route", "API route"]
 prereqs: ["http-methods", "url"]
 related: ["rest", "request-response-body", "http-status-codes", "path-vs-query-parameters", "api"]

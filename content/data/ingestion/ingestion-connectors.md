@@ -1,7 +1,7 @@
 ---
 title: "Managed Ingestion Connectors"
 summary: "Tools like Fivetran or Airbyte that sync SaaS and database sources for you."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["Fivetran", "Airbyte", "ELT connectors", "managed connectors"]
 prereqs: ["data-ingestion"]
 related: ["data-ingestion", "api-ingestion", "log-based-cdc", "schema-drift", "build-vs-buy-data-tools", "etl-vs-elt", "full-vs-incremental-load"]

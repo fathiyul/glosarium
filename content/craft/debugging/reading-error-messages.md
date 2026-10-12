@@ -1,7 +1,7 @@
 ---
 title: "Reading Error Messages"
 summary: "Actually reading the error: the first and most skipped debugging step."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["error messages", "reading errors", "understanding errors"]
 prereqs: ["stack-trace"]
 related: ["stack-trace", "debugging", "exception", "minimal-reproducible-example", "print-debugging"]

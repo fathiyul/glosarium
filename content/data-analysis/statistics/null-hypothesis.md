@@ -1,7 +1,7 @@
 ---
 title: "Null Hypothesis"
 summary: "The 'nothing is happening' assumption a test measures against."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["null hypothesis", "H0", "null hypothesis significance testing"]
 prereqs: ["hypothesis-testing", "statistics-basics"]
 related: ["p-value", "hypothesis-testing", "statistical-significance", "effect-size", "ab-testing", "treatment-effect"]

@@ -1,7 +1,7 @@
 ---
 title: "Code Generation"
 summary: "Generating boilerplate from schemas or templates."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["codegen", "code generator"]
 prereqs: ["schema"]
 related: ["schema", "api-documentation", "build-artifact", "dependency-hell"]

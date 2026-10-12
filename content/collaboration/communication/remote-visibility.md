@@ -1,7 +1,7 @@
 ---
 title: "Making Work Visible Remotely"
 summary: "Over-communicating when nobody can see you working."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Remote visibility is making progress, risks, and decisions legible to teammates who cannot observe your work in person. It is not constant status reporting or proving that you are busy; it is reducing the chance that others discover a blocker only after it affects their work.

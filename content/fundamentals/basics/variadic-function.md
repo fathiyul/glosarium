@@ -1,7 +1,7 @@
 ---
 title: "Variadic Function"
 summary: "A function that accepts any number of arguments."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["varargs", "rest parameters", "*args", "**kwargs"]
 prereqs: ["function", "parameter-vs-argument"]
 related: ["spread-operator", "parameter-vs-argument", "default-parameter", "destructuring"]

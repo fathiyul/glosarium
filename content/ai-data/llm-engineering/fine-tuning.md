@@ -1,7 +1,7 @@
 ---
 title: "Fine-Tuning"
 summary: "Further training a model on your own examples."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["fine-tuning", "fine tuning", "model fine-tuning"]
 prereqs: ["how-llms-work", "model-selection"]
 related: ["model-selection", "prompt-engineering", "llm-evals"]

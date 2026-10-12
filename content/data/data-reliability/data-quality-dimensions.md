@@ -1,7 +1,7 @@
 ---
 title: "Data Quality Dimensions"
 summary: "Accuracy, completeness, consistency, timeliness, validity and uniqueness."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["data quality", "dimensions of data quality", "accuracy completeness consistency", "quality dimensions"]
 prereqs: ["data-profiling"]
 related: ["data-tests", "data-expectations", "data-observability", "data-freshness", "data-reconciliation", "data-anomaly-detection"]

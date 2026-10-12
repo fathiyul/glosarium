@@ -1,7 +1,7 @@
 ---
 title: "User Research"
 summary: "Learning what users actually need."
-levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: idea }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: idea , data-scientist: senior }
 core: [tech-entrepreneur]
 ---
 

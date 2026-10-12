@@ -1,7 +1,7 @@
 ---
 title: "Version Control"
 summary: "Tracking every change to code so you can review, revert and collaborate."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["VCS", "source control", "revision control", "SCM"]
 prereqs: ["commit"]
 related: ["git", "repository", "commit", "branch", "pull-request", "merge"]

@@ -1,11 +1,11 @@
 ---
 title: "Peeking"
 summary: "Checking a running test and stopping the moment it looks significant."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: senior }
 aliases: ["peeking problem", "peeking", "optional stopping"]
 prereqs: ["ab-testing", "hypothesis-testing", "p-value"]
 related: ["ab-testing", "sequential-testing", "hypothesis-testing", "decision-rule", "test-duration"]
-core: [data-analyst]
+core: [data-analyst, data-scientist]
 ---
 
 Peeking is looking at a running experiment's results repeatedly and stopping the moment the primary metric looks significant. It feels like diligence. It is the most common way a test's stated error guarantee **quietly stops being true**.

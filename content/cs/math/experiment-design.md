@@ -1,8 +1,8 @@
 ---
 title: "Experiment Design"
 summary: "Setting up a test so its result is trustworthy."
-levels: { data-analyst: senior }
-core: [data-analyst]
+levels: { data-analyst: senior , data-scientist: senior }
+core: [data-analyst, data-scientist]
 aliases: ["experiment design", "experimental design", "study design"]
 prereqs: ["ab-testing", "causal-inference", "randomized-controlled-trial"]
 related: ["ab-testing", "randomized-controlled-trial", "causal-inference", "quasi-experiment", "difference-in-differences", "statistical-power"]

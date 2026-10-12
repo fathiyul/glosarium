@@ -1,7 +1,7 @@
 ---
 title: "Rounding and Money"
 summary: "Never store money as a float; use integers or decimals."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["storing money", "floating point money", "currency rounding"]
 prereqs: ["floating-point", "integer"]
 related: ["floating-point", "integer", "ledger", "multi-currency", "invoices-receipts"]

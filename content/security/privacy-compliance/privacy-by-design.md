@@ -1,7 +1,7 @@
 ---
 title: "Privacy by Design"
 summary: "Building privacy in from the start."
-levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: mvp }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: mvp , data-scientist: senior }
 ---
 
 Privacy by design means considering privacy goals and risks throughout a system's design and operation instead of bolting controls on after data has already spread. It includes choices about what to collect, why, where it flows, who can access it, and when it should be removed.

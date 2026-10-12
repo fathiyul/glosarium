@@ -1,7 +1,7 @@
 ---
 title: "Git Internals"
 summary: "Blobs, trees, commits and refs: what Git actually stores."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["git internals", "git objects", "content-addressable store"]
 prereqs: ["git", "commit"]
 related: ["branch", "rebase", "detached-head", "merge", "version-control"]

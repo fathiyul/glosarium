@@ -1,7 +1,7 @@
 ---
 title: "Stacked Bar Chart"
 summary: "Totals plus their composition in one bar, and the readability cost of the choice."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["stacked bar graph", "stacked column chart", "stacked bars"]
 prereqs: ["bar-chart", "chart-selection"]
 related: ["bar-chart", "treemap", "chart-selection", "pareto-chart", "waterfall-chart"]

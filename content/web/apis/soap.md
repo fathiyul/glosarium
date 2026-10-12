@@ -1,7 +1,7 @@
 ---
 title: "SOAP"
 summary: "An older XML-based protocol for web services."
-levels: { backend: senior }
+levels: { backend: senior , data-scientist: junior }
 aliases: ["soap", "soap api", "simple object access protocol"]
 prereqs: ["xml", "rpc"]
 related: ["xml", "openapi", "tls"]

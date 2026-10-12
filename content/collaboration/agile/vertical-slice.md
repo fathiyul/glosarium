@@ -1,7 +1,7 @@
 ---
 title: "Vertical Slice"
 summary: "A feature built through every layer, end to end."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A vertical slice is a small piece of a feature that works through the relevant layers, from the user or caller to the data or service behavior and back. It provides an end-to-end outcome instead of completing one technical layer in isolation.

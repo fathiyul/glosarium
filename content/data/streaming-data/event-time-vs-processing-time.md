@@ -1,7 +1,7 @@
 ---
 title: "Event Time vs Processing Time"
 summary: "When something happened vs when your system saw it."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["event time", "processing time", "ingestion time", "event time vs processing time", "time semantics in streaming"]
 prereqs: ["batch-vs-stream", "stream-processing"]
 related: ["watermark", "late-arriving-data", "stream-windowing", "stateful-stream-processing", "real-time-vs-near-real-time", "timezone"]

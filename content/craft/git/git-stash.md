@@ -1,7 +1,7 @@
 ---
 title: "Stash"
 summary: "Temporarily shelving uncommitted changes."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git stash", "stash changes", "shelve changes"]
 prereqs: ["staging-area", "branch"]
 related: ["branch", "git-reset", "staging-area", "merge-conflict", "commit"]

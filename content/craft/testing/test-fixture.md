@@ -1,7 +1,7 @@
 ---
 title: "Test Fixture"
 summary: "Setup data or state that tests rely on."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["fixture", "test fixtures", "pytest fixture", "setUp"]
 prereqs: ["unit-test", "arrange-act-assert"]
 related: ["test-case-suite", "test-isolation", "test-database", "test-data-builder", "arrange-act-assert"]

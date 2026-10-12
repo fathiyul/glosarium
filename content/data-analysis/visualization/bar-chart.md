@@ -1,7 +1,7 @@
 ---
 title: "Bar Chart"
 summary: "Comparing amounts across categories with lengths a reader can rank instantly."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["bar graph", "column chart", "bar diagram"]
 prereqs: ["data-visualization", "chart-selection"]
 related: ["chart-selection", "stacked-bar-chart", "pareto-chart", "histogram", "axis-truncation"]

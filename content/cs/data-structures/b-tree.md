@@ -1,7 +1,7 @@
 ---
 title: "B-Tree"
 summary: "A wide, shallow tree optimized for disks; how database indexes work."
-levels: { backend: mid-level, frontend: senior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: senior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["B tree", "B+ tree"]
 prereqs: ["binary-search-tree"]
 related: ["binary-search-tree", "indexing", "storage-engine", "index-selectivity"]

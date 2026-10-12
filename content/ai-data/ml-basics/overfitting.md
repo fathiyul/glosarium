@@ -1,7 +1,8 @@
 ---
 title: "Overfitting"
 summary: "A model memorizing its training data instead of generalizing."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level }
+core: [data-scientist]
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["overfitting", "overfit", "memorisation"]
 prereqs: ["train-test-split", "supervised-learning"]
 related: ["train-test-split", "classification-vs-regression", "neural-network"]

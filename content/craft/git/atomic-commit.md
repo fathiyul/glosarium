@@ -1,7 +1,7 @@
 ---
 title: "Atomic Commit"
 summary: "One commit doing one logical thing, easy to review and revert."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["atomic commits", "small commits", "one logical change per commit"]
 prereqs: ["commit", "commit-message"]
 related: ["commit-message", "git-bisect", "interactive-rebase", "small-prs", "git-revert"]

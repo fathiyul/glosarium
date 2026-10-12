@@ -1,7 +1,7 @@
 ---
 title: "Scope"
 summary: "The region of code where a name is visible."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["variable scope", "lexical scope", "local variable"]
 prereqs: ["variable", "function"]
 related: ["block-scope", "global-variable", "shadowing", "closure", "var-let-const"]

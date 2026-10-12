@@ -1,7 +1,7 @@
 ---
 title: "Truncated Axes"
 summary: "Starting a bar chart's value axis above zero, which exaggerates every difference."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["truncated axis", "truncated y-axis", "baseline"]
 prereqs: ["bar-chart", "line-chart"]
 related: ["bar-chart", "line-chart", "dual-axis-chart", "chart-selection"]

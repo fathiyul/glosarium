@@ -1,7 +1,8 @@
 ---
 title: "Diagnostic Analysis"
 summary: "Figuring out why a number moved."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["diagnostic analysis", "root cause analysis for metrics", "why did it move"]
 prereqs: ["descriptive-analysis", "segmentation"]
 related: ["segmentation", "correlation-vs-causation", "funnel-analysis", "metric-discrepancy"]

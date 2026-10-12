@@ -1,7 +1,7 @@
 ---
 title: "grep / ripgrep"
 summary: "Searching text across files from the terminal."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["grep", "ripgrep", "rg", "find text in files"]
 prereqs: ["basic-shell-commands"]
 related: ["regular-expression", "searching-effectively", "go-to-definition", "pipes-and-redirection", "reading-a-codebase"]

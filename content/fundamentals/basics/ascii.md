@@ -1,7 +1,7 @@
 ---
 title: "ASCII"
 summary: "The original 7-bit character set that UTF-8 is backward compatible with."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["ASCII table", "ASCII code", "American Standard Code for Information Interchange", "7-bit ASCII"]
 prereqs: ["character-encoding"]
 related: ["unicode", "utf-8", "character-encoding", "string", "bits-and-bytes", "binary-number"]

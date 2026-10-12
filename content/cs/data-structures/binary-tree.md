@@ -1,7 +1,7 @@
 ---
 title: "Binary Tree"
 summary: "A tree where each node has at most two children."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["binary trees", "BST", "tree with two children"]
 prereqs: ["tree"]
 related: ["tree", "binary-search-tree", "tree-traversal", "balanced-tree", "recursion"]

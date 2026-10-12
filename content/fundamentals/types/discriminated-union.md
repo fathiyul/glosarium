@@ -1,7 +1,7 @@
 ---
 title: "Discriminated Union"
 summary: "A union whose members are told apart by a tag field."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["tagged union", "sum type", "union with tag", "discriminant", "algebraic data type", "tagged unions"]
 prereqs: ["union-type", "type-narrowing"]
 related: ["type-narrowing", "algebraic-data-types", "finite-state-machine", "ui-state-machine", "loading-error-states", "type-guard"]

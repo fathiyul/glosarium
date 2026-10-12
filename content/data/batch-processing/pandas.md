@@ -1,7 +1,7 @@
 ---
 title: "pandas"
 summary: "Python's standard DataFrame library for data analysis."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["pandas library", "pandas DataFrame", "pd"]
 prereqs: ["dataframe"]
 related: ["dataframe", "notebooks", "apache-spark", "single-node-engines", "csv-format", "parquet", "data-cleaning"]

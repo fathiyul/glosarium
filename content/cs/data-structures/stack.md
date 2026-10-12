@@ -1,7 +1,7 @@
 ---
 title: "Stack"
 summary: "A last-in, first-out collection."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["LIFO", "stack data structure", "call stack"]
 prereqs: ["list"]
 related: ["queue", "recursion", "stack-overflow", "stack-vs-heap", "linked-list"]

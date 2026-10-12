@@ -1,7 +1,7 @@
 ---
 title: "Unit Test"
 summary: "A fast test of one small piece of code in isolation."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["unit testing", "unit tests"]
 prereqs: ["function"]
 related: ["test-runner", "arrange-act-assert", "mock", "integration-test", "tdd", "testing-pyramid"]

@@ -1,7 +1,7 @@
 ---
 title: "GROUP BY ROLLUP and CUBE"
 summary: "Computing subtotals and grand totals in one query."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["ROLLUP", "CUBE", "GROUPING SETS", "subtotals"]
 prereqs: ["group-by", "select-query"]
 related: ["group-by", "olap-cube", "pivot", "aggregate-tables", "warehouse-cost-management"]

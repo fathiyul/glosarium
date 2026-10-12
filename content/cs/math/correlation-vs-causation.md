@@ -1,7 +1,7 @@
 ---
 title: "Correlation vs Causation"
 summary: "Why related numbers don't prove one causes the other."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["correlation vs causation", "correlation does not imply causation", "correlation is not causation"]
 prereqs: ["correlation-coefficient", "confounding-variable", "sampling-bias"]
 related: ["correlation-coefficient", "confounding-variable", "causal-inference", "randomized-controlled-trial", "simpsons-paradox"]

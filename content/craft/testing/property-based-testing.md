@@ -1,7 +1,7 @@
 ---
 title: "Property-Based Testing"
 summary: "Generating many inputs to check that properties always hold."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["property-based testing", "property testing", "generative testing"]
 prereqs: ["unit-test"]
 related: ["fuzz-testing", "regression-test", "tdd", "given-when-then"]

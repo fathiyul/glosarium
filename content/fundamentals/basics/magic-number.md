@@ -1,7 +1,7 @@
 ---
 title: "Magic Number"
 summary: "An unexplained literal in code that should be a named constant."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["magic string", "hard-coded value", "hardcoded constant"]
 prereqs: ["constant"]
 related: ["constant", "naming", "readability", "app-configuration", "code-smell"]

@@ -1,7 +1,7 @@
 ---
 title: "Graph"
 summary: "Nodes connected by edges; models networks, dependencies and maps."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["graph data structure", "network"]
 prereqs: ["tree-traversal"]
 related: ["adjacency-list", "directed-acyclic-graph", "tree-traversal", "big-o-notation"]

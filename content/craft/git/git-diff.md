@@ -1,7 +1,7 @@
 ---
 title: "Diff"
 summary: "Seeing exactly what changed between commits, branches or your working copy."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git diff", "diff", "differences"]
 prereqs: ["commit", "staging-area"]
 related: ["git-log", "staging-area", "commit", "code-review", "merge-conflict"]

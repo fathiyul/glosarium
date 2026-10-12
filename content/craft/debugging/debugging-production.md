@@ -1,7 +1,7 @@
 ---
 title: "Debugging in Production"
 summary: "Finding issues with logs, traces and metrics when you can't attach a debugger."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["debugging production", "production debugging", "debug in prod"]
 prereqs: ["debugging", "observability"]
 related: ["distributed-tracing", "logging", "correlation-id", "reproducing-prod-issues", "production-console", "heisenbug"]

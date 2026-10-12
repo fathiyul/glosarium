@@ -1,7 +1,7 @@
 ---
 title: "JSON Lines"
 summary: "One JSON object per line, easy to stream and append."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["JSONL", "NDJSON", "newline-delimited JSON"]
 prereqs: ["json"]
 related: ["json", "csv-format", "row-vs-columnar-formats", "file-ingestion", "parquet", "bounded-vs-unbounded"]

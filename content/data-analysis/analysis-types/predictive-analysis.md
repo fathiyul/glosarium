@@ -1,7 +1,8 @@
 ---
 title: "Predictive Analysis"
 summary: "Estimating what will happen, and saying how sure you are."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["predictive analysis", "predictive modelling", "prediction"]
 prereqs: ["regression-analysis", "train-test-split"]
 related: ["regression-analysis", "forecasting", "prescriptive-analysis", "overfitting"]

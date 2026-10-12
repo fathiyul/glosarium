@@ -1,7 +1,7 @@
 ---
 title: "Boolean Logic"
 summary: "AND, OR, NOT and De Morgan's laws."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["boolean algebra", "De Morgan's laws", "logic operators"]
 prereqs: ["boolean"]
 related: ["boolean", "conditional", "short-circuit-evaluation", "bitwise-operation", "set-theory"]

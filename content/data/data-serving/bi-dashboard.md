@@ -1,7 +1,7 @@
 ---
 title: "BI Dashboard"
 summary: "A collection of charts answering a recurring business question."
-levels: { data-engineer: junior , data-analyst: junior }
+levels: { data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["BI dashboard", "analytics dashboard", "business dashboard"]
 prereqs: ["business-intelligence"]
 related: ["business-intelligence", "self-service-analytics", "semantic-layer", "metric-definitions", "data-serving", "aggregate-tables"]

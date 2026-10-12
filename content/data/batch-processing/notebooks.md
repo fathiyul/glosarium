@@ -1,7 +1,7 @@
 ---
 title: "Notebooks (Jupyter)"
 summary: "Interactive documents mixing code, output and notes."
-levels: { data-engineer: junior , data-analyst: junior }
+levels: { data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["Jupyter", "Jupyter notebook", "JupyterLab", "Colab"]
 prereqs: ["variable"]
 related: ["pandas", "dataframe", "apache-spark", "data-profiling", "batch-processing"]

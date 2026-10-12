@@ -1,7 +1,7 @@
 ---
 title: "Encapsulate What Varies"
 summary: "Isolating the parts that change from the parts that stay the same."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["encapsulate the varying part", "isolate change"]
 prereqs: ["interface"]
 related: ["dependency-inversion-principle", "strategy-pattern", "single-responsibility-principle", "feature-envy"]

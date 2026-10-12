@@ -1,7 +1,7 @@
 ---
 title: "Contract Testing"
 summary: "Verifying that services agree on the API contract between them."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["consumer-driven contract testing", "Pact", "CDC testing", "consumer driven contracts", "API contract tests"]
 prereqs: ["integration-test", "api-contract"]
 related: ["api-contract", "mock-server", "end-to-end-test", "microservices", "schema-evolution", "openapi"]

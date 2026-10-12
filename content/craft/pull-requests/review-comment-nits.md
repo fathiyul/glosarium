@@ -1,7 +1,7 @@
 ---
 title: "Nits"
 summary: "Minor, optional review comments, labeled so they don't block."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["nit", "nitpick", "nits in code review", "nit comments"]
 prereqs: ["code-review"]
 related: ["giving-code-review", "receiving-code-review", "approve-request-changes", "code-style-consistency", "formatter"]

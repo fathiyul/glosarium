@@ -1,7 +1,7 @@
 ---
 title: "Descriptive Statistics"
 summary: "Summarising a dataset with counts, averages, spread and shape."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["summary statistics", "descriptive stats", "summary stats"]
 prereqs: ["central-tendency", "group-by"]
 related: ["distribution-shapes", "standard-deviation", "quartiles-and-iqr", "exploratory-data-analysis", "data-profiling", "histogram"]

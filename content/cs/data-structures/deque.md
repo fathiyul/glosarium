@@ -1,7 +1,7 @@
 ---
 title: "Deque"
 summary: "A double-ended queue that adds and removes at both ends."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["double-ended queue", "double ended queue"]
 prereqs: ["queue"]
 related: ["doubly-linked-list", "priority-queue", "lru-cache-structure", "big-o-notation"]

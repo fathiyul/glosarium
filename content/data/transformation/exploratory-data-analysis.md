@@ -1,7 +1,7 @@
 ---
 title: "Exploratory Data Analysis"
 summary: "Getting to know a dataset before modelling it."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: mid-level }
 aliases: ["exploratory data analysis", "EDA", "data exploration"]
 prereqs: ["descriptive-analysis", "data-profiling"]
 related: ["data-profiling", "descriptive-analysis", "data-visualization", "missing-data", "outliers"]

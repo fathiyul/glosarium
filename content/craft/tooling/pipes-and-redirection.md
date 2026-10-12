@@ -1,7 +1,7 @@
 ---
 title: "Pipes and Redirection"
 summary: "Chaining commands with a pipe and sending output to files with >."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["pipe", "redirect", "stdout stderr", "shell pipelines"]
 prereqs: ["basic-shell-commands"]
 related: ["basic-shell-commands", "grep-ripgrep", "shell", "shell-scripting", "text-processing-tools"]

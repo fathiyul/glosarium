@@ -1,7 +1,7 @@
 ---
 title: "T-Shaped Skills"
 summary: "Broad knowledge with deep expertise in one area."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 T-shaped skills describe a profile with breadth across several areas and deeper expertise in one or a few. The “shape” is a metaphor, not a hiring rubric or a requirement that every engineer fit the same pattern.

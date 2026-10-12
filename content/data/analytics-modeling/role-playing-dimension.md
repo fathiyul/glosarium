@@ -1,7 +1,7 @@
 ---
 title: "Role-Playing Dimension"
 summary: "One dimension used several ways, like a date as order date and ship date."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["role-playing dimensions", "role playing dimension", "aliased dimension", "multi-role dimension"]
 prereqs: ["dimension-table", "date-dimension"]
 related: ["conformed-dimension", "star-schema", "dimensional-modeling", "fact-table", "surrogate-key-dw", "grain"]

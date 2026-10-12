@@ -1,7 +1,7 @@
 ---
 title: "HTTP/2"
 summary: "Binary framing and many requests multiplexed over one connection."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["http/2", "http2", "http 2"]
 prereqs: ["http-1-1", "tls"]
 related: ["http-3", "head-of-line-blocking", "server-sent-events"]

@@ -1,7 +1,7 @@
 ---
 title: "Stress Testing"
 summary: "Pushing beyond capacity to find the breaking point."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["stress testing", "stress test", "load to failure"]
 prereqs: ["load-testing", "capacity-planning"]
 related: ["soak-test", "performance-testing", "backpressure", "circuit-breaker"]

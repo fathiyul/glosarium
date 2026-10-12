@@ -1,7 +1,7 @@
 ---
 title: "Sequence"
 summary: "A database object that generates increasing numbers, used for auto-increment IDs."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["sequence", "database sequence", "auto increment"]
 prereqs: ["primary-key", "uuid-vs-autoincrement"]
 related: ["transaction", "natural-vs-surrogate-key"]

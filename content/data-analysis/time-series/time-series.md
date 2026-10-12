@@ -1,7 +1,7 @@
 ---
 title: "Time Series"
 summary: "Data ordered in time, and why the order changes everything."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["time series", "temporal data", "time-ordered data"]
 prereqs: ["dataset", "line-chart"]
 related: ["trend", "seasonality", "forecasting", "line-chart", "stationarity"]

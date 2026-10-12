@@ -1,7 +1,7 @@
 ---
 title: "Normalization"
 summary: "Organizing tables to reduce duplication: 1NF, 2NF, 3NF."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["database normalization", "1NF 2NF 3NF", "normal forms", "third normal form", "normalize"]
 prereqs: ["primary-key", "foreign-key"]
 related: ["denormalization", "data-modeling", "relationship-types", "junction-table", "relational-model", "constraint"]

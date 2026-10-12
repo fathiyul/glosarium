@@ -1,11 +1,11 @@
 ---
 title: "Date Dimension / Date Spine"
 summary: "A table with one row per day and its calendar attributes."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["date spine", "calendar table", "dim_date", "time dimension", "calendar dimension"]
 prereqs: ["dimension-table"]
 related: ["fact-table", "role-playing-dimension", "dimensional-modeling", "grain", "dimension-table"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 A **date dimension** is a table with **one row per calendar day** and many columns describing that day. Facts link to it with a date key

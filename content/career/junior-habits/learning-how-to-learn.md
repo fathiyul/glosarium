@@ -1,7 +1,7 @@
 ---
 title: "Learning How to Learn"
 summary: "Deliberate practice, spaced repetition and building things."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["learning strategies", "deliberate practice"]
 prereqs: ["fundamentals-over-frameworks"]
 related: ["tutorial-hell", "fundamentals-over-frameworks", "side-projects", "engineering-journal"]

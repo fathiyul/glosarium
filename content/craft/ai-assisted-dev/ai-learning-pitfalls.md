@@ -1,7 +1,7 @@
 ---
 title: "Learning While Using AI"
 summary: "Using AI without skipping the understanding a junior needs to build."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["learning with AI", "AI and learning", "over-reliance on AI"]
 prereqs: ["ai-coding-assistant"]
 related: ["reviewing-ai-code", "hallucination", "prompting-for-code", "debugging", "vibe-coding"]

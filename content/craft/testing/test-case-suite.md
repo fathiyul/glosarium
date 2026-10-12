@@ -1,7 +1,7 @@
 ---
 title: "Test Case and Test Suite"
 summary: "A single scenario being checked, and a group of them run together."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["test case", "test suite", "test cases"]
 prereqs: ["unit-test"]
 related: ["test-runner", "test-fixture", "arrange-act-assert", "software-testing", "test-isolation"]

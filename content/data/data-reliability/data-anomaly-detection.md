@@ -1,7 +1,7 @@
 ---
 title: "Anomaly Detection on Data"
 summary: "Flagging unusual volumes or values automatically."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["data anomaly detection", "anomaly detection in pipelines", "volume anomaly detection", "data change alerts"]
 prereqs: ["data-observability", "data-quality-dimensions"]
 related: ["data-observability", "data-freshness", "data-tests", "data-quality-dimensions", "data-downtime", "data-incident"]

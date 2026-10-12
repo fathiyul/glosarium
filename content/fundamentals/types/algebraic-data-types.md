@@ -1,7 +1,7 @@
 ---
 title: "Algebraic Data Types"
 summary: "Composing types from \"and\" (products) and \"or\" (sums)."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["algebraic data types", "ADT", "sum and product types"]
 prereqs: ["type-system", "enum"]
 related: ["union-type", "discriminated-union", "option-type", "result-type", "pattern-matching"]

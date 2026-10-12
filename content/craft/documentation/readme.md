@@ -1,7 +1,7 @@
 ---
 title: "README"
 summary: "The front page of a project: what it is, how to run it, how to contribute."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["README.md", "readme file", "project readme"]
 prereqs: ["markdown"]
 related: ["markdown", "onboarding-docs", "dev-environment-setup", "contributing-guide", "technical-writing"]

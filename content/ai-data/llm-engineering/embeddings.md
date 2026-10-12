@@ -1,7 +1,7 @@
 ---
 title: "Embeddings"
 summary: "Numeric vectors representing meaning, used for similarity search."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["embeddings", "embedding", "vector representation"]
 prereqs: ["neural-network", "vector-database"]
 related: ["semantic-search", "vector-database", "chunking"]

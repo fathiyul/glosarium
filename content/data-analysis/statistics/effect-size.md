@@ -1,7 +1,7 @@
 ---
 title: "Effect Size"
 summary: "How big the difference is, separately from how sure you are that it is real."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["effect size", "Cohen's d", "standardized effect"]
 prereqs: ["hypothesis-testing", "standard-deviation"]
 related: ["statistical-power", "minimum-detectable-effect", "statistical-significance", "confidence-interval", "treatment-effect", "p-value"]

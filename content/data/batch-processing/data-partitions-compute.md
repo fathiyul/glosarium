@@ -1,7 +1,7 @@
 ---
 title: "Partitions in Distributed Processing"
 summary: "The chunks of data that tasks process in parallel."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["compute partitions", "input partitions", "partition count", "repartition"]
 prereqs: ["distributed-batch-processing", "partitioning"]
 related: ["shuffle", "data-skew", "spark-driver-executor", "table-partitioning", "hive-partitioning", "broadcast-join"]

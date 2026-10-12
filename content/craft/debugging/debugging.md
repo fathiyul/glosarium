@@ -1,7 +1,7 @@
 ---
 title: "Debugging"
 summary: "Systematically finding why code doesn't do what you expect."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["debug", "bug fixing", "troubleshooting code"]
 prereqs: ["reading-error-messages"]
 related: ["reproduce-bug", "minimal-reproducible-example", "debugger", "print-debugging", "rubber-duck-debugging", "root-cause-analysis"]

@@ -1,7 +1,7 @@
 ---
 title: "Predicate Pushdown"
 summary: "Filtering inside the storage layer before data is read."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["filter pushdown", "pushdown", "predicate push-down", "pushing filters to storage"]
 prereqs: ["row-vs-columnar-formats", "parquet"]
 related: ["partition-pruning", "parquet", "clustering-zorder", "orc", "row-vs-columnar-formats", "query-cost"]

@@ -1,7 +1,7 @@
 ---
 title: "Forecasting"
 summary: "Predicting future values from past patterns, with honest uncertainty."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["forecasting", "demand forecasting", "sales forecast"]
 prereqs: ["time-series", "trend"]
 related: ["time-series", "naive-forecast", "forecast-accuracy", "forecast-interval", "arima", "scenario-analysis"]

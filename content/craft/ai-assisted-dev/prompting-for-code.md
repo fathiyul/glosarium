@@ -1,7 +1,7 @@
 ---
 title: "Prompting for Code"
 summary: "Giving an AI enough context and constraints to produce useful code."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["prompt engineering for code", "writing prompts for coding assistants"]
 prereqs: ["ai-coding-assistant"]
 related: ["ai-coding-assistant", "reviewing-ai-code", "hallucination", "agent-instructions-file", "context-window"]

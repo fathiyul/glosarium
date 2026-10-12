@@ -1,7 +1,7 @@
 ---
 title: "Test Databases"
 summary: "Using a real, isolated database in tests and resetting it between runs."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["test DB", "test database"]
 prereqs: ["fake"]
 related: ["fake", "testcontainers", "integration-test", "deterministic-tests"]

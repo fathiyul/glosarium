@@ -1,7 +1,7 @@
 ---
 title: "Seasonal Adjustment"
 summary: "Removing the calendar pattern so the underlying movement is visible."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["seasonal adjustment", "deseasonalising", "seasonally adjusted"]
 prereqs: ["seasonality", "time-components"]
 related: ["seasonality", "trend", "moving-average", "stationarity"]

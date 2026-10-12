@@ -1,7 +1,7 @@
 ---
 title: "Sampling Bias"
 summary: "When the data you see isn't the population you claim."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["sampling bias", "selection bias", "biased sample"]
 prereqs: ["sampling-methods", "statistics-basics"]
 related: ["sampling-methods", "survivorship-bias", "simpsons-paradox", "missing-data", "causal-inference", "holdback-group"]

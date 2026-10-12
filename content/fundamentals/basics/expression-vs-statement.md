@@ -1,7 +1,7 @@
 ---
 title: "Expression vs Statement"
 summary: "An expression produces a value; a statement performs an action."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["expressions and statements", "statement vs expression", "expression", "statement"]
 prereqs: ["operator", "variable"]
 related: ["ternary-operator", "conditional", "function", "return-value", "operator-precedence"]

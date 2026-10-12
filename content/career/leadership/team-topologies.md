@@ -1,7 +1,7 @@
 ---
 title: "Team Topologies"
 summary: "Stream-aligned, platform, enabling and complicated-subsystem teams."
-levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff , data-scientist: staff }
 ---
 
 Team Topologies is a framework for organizing teams around the flow of value and the interactions needed between them. It describes stream-aligned teams, platform teams, enabling teams, and complicated-subsystem teams, along with interaction modes such as collaboration, facilitation, and providing a service.

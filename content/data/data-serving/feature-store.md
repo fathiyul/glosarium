@@ -1,7 +1,7 @@
 ---
 title: "Feature Store"
 summary: "A shared store of ML features, consistent between training and serving."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["ML feature store", "feature stores", "online feature store", "offline feature store", "Feast"]
 prereqs: ["data-product", "aggregate-tables"]
 related: ["training-data", "aggregate-tables", "data-serving", "data-versioning", "data-freshness", "data-quality"]

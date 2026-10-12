@@ -1,7 +1,7 @@
 ---
 title: "Self Join"
 summary: "Joining a table to itself, e.g. employees and their managers."
-levels: { backend: mid-level, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: mid-level, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["self-join", "recursive relationship"]
 prereqs: ["crud"]
 related: ["relationship-types", "null", "coalesce-nullif", "table-row-column"]

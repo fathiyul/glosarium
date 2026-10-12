@@ -1,7 +1,7 @@
 ---
 title: "Engineering Manager"
 summary: "Leading people: hiring, growth, delivery and team health."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 An engineering manager is responsible for helping a team deliver useful work while supporting its people and keeping the working environment healthy. The role commonly includes coaching, feedback, hiring, planning, coordination, and resolving organizational obstacles; the exact balance varies by company.

@@ -1,7 +1,7 @@
 ---
 title: "Default Parameter"
 summary: "A parameter value used when the caller omits it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["default argument", "default parameters", "default value", "optional parameter"]
 prereqs: ["function", "parameter-vs-argument"]
 related: ["parameter-vs-argument", "variadic-function", "flag-argument", "undefined", "mutable-vs-immutable"]

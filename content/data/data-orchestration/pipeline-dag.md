@@ -1,7 +1,7 @@
 ---
 title: "Pipeline DAG"
 summary: "A pipeline expressed as tasks and their dependencies."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["DAG", "directed acyclic graph pipeline", "workflow DAG", "task graph", "data pipeline graph"]
 prereqs: ["batch-processing"]
 related: ["task-dependencies", "scheduling-pipelines", "idempotent-pipeline", "directed-acyclic-graph", "orchestrator-choice", "partitioned-runs"]

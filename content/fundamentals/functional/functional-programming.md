@@ -1,7 +1,7 @@
 ---
 title: "Functional Programming"
 summary: "Building programs from pure functions and immutable data."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["FP", "functional style"]
 prereqs: ["immutability"]
 related: ["immutability", "function-composition", "pure-function", "memoization", "option-type"]

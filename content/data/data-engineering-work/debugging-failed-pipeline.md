@@ -1,7 +1,7 @@
 ---
 title: "Debugging a Failed Pipeline"
 summary: "Finding which task broke, why, and what data it affected."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["pipeline failure debugging", "troubleshooting data pipelines", "pipeline broke", "debugging data jobs"]
 prereqs: ["pipeline-dag", "reading-production-logs"]
 related: ["pipeline-retries", "data-incident", "data-lineage", "reprocessing-history", "handling-schema-changes", "data-on-call"]

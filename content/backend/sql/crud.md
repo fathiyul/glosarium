@@ -1,7 +1,7 @@
 ---
 title: "CRUD"
 summary: "Create, Read, Update, Delete: the four basic data operations."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["create read update delete"]
 prereqs: ["relational-database"]
 related: ["sql-sublanguages", "http-methods", "transaction", "relational-database"]

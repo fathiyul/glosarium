@@ -1,7 +1,7 @@
 ---
 title: "Directed Acyclic Graph (DAG)"
 summary: "A graph with directed edges and no cycles, as in build systems and pipelines."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["DAG", "directed acyclic"]
 prereqs: ["graph"]
 related: ["graph", "adjacency-list", "tree-traversal", "dependency-hell"]

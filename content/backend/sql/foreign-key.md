@@ -1,11 +1,11 @@
 ---
 title: "Foreign Key"
 summary: "A column referencing another table's primary key."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["FK", "foreign keys", "referential integrity", "REFERENCES"]
 prereqs: ["primary-key", "table-row-column"]
 related: ["primary-key", "join", "constraint", "junction-table", "relationship-types", "normalization"]
-core: [backend, data-engineer]
+core: [backend, data-engineer, data-scientist]
 ---
 
 A **foreign key** is a column whose values must match a **primary key** in another table. It's how tables point at each other,

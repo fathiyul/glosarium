@@ -1,7 +1,7 @@
 ---
 title: "Copyleft"
 summary: "Licenses that require derivative work to stay open source."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Copyleft is a licensing approach that allows people to use, modify, and redistribute software while requiring certain redistributed versions or adaptations to remain under the same or a compatible open license. The exact obligations depend on the license text and how the software is used or distributed.

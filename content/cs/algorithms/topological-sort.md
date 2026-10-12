@@ -1,7 +1,7 @@
 ---
 title: "Topological Sort"
 summary: "Ordering tasks so every dependency comes first."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["topo sort", "dependency ordering"]
 prereqs: ["directed-acyclic-graph", "depth-first-search"]
 related: ["directed-acyclic-graph", "depth-first-search", "breadth-first-search", "greedy-algorithm"]

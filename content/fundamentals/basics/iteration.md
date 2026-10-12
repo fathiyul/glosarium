@@ -1,7 +1,7 @@
 ---
 title: "Iteration"
 summary: "Stepping through the items of a collection one at a time."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["iterating", "looping over a collection", "for each"]
 prereqs: ["loop", "list"]
 related: ["loop", "iterator", "map-filter-reduce", "generator", "off-by-one-error"]

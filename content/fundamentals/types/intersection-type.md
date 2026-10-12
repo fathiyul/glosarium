@@ -1,7 +1,7 @@
 ---
 title: "Intersection Type"
 summary: "A type combining all the members of several types."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: junior }
 aliases: ["intersection", "type intersection"]
 prereqs: ["interface"]
 related: ["structural-vs-nominal-typing", "type-guard", "interface"]

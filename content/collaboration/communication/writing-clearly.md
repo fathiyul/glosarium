@@ -1,7 +1,7 @@
 ---
 title: "Writing Clearly"
 summary: "Lead with the point, be specific, keep it short."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , tech-entrepreneur: idea }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , tech-entrepreneur: idea , data-scientist: mid-level }
 aliases: ["clear writing", "bottom line up front"]
 related: ["giving-a-demo", "receiving-feedback", "requirements"]
 ---

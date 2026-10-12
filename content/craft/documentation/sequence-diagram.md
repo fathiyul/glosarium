@@ -1,7 +1,7 @@
 ---
 title: "Sequence Diagram"
 summary: "A diagram of messages passed between components over time."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["sequence chart", "message sequence chart"]
 prereqs: ["architecture-diagram"]
 related: ["architecture-diagram", "state-diagram", "uml", "diagrams-as-code"]

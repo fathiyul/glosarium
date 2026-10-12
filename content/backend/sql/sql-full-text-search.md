@@ -1,7 +1,7 @@
 ---
 title: "Full-Text Search in SQL"
 summary: "Searching words in text columns with built-in indexes."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["sql full-text search", "full-text search in sql", "database full text search"]
 prereqs: ["sql", "db-index"]
 related: ["inverted-index", "search-engine", "db-index"]

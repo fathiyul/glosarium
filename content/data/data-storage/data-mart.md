@@ -1,7 +1,7 @@
 ---
 title: "Data Mart"
 summary: "A subset of the warehouse focused on one team or subject."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["data marts", "mart", "subject area"]
 prereqs: ["data-warehouse", "dimensional-modeling"]
 related: ["star-schema", "fact-table", "dimension-table", "semantic-layer", "staging-intermediate-marts"]

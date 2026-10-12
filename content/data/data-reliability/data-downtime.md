@@ -1,7 +1,7 @@
 ---
 title: "Data Downtime"
 summary: "Periods when data is missing, late or wrong."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["data outage", "data reliability downtime", "silent data failure", "data unavailability"]
 prereqs: ["data-incident", "data-observability"]
 related: ["data-observability", "data-freshness", "data-sla", "data-tests", "data-on-call", "data-anomaly-detection"]

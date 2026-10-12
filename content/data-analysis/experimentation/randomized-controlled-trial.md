@@ -1,7 +1,8 @@
 ---
 title: "Randomised Controlled Trial"
 summary: "Randomly splitting subjects to compare an outcome, the design every A/B test comes from."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: senior }
 aliases: ["rct", "randomized controlled trial", "randomised experiment"]
 prereqs: ["ab-testing", "sampling-methods", "hypothesis-testing"]
 related: ["ab-testing", "quasi-experiment", "causal-inference", "experiment-design", "confounding-variable"]

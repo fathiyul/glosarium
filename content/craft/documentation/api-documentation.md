@@ -1,7 +1,7 @@
 ---
 title: "API Documentation"
 summary: "Reference docs for an API's endpoints, parameters and errors."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["API reference", "endpoint documentation"]
 prereqs: ["http-methods"]
 related: ["api-design", "http-status-codes", "error-response-format", "breaking-change"]

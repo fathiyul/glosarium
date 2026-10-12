@@ -1,7 +1,7 @@
 ---
 title: "Compression Codecs (Snappy, Zstd, Gzip)"
 summary: "Trading CPU for smaller files, and which codecs are splittable."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Snappy", "Zstd", "gzip", "compression codec", "LZ4", "zstandard", "file compression"]
 prereqs: ["parquet", "row-vs-columnar-formats"]
 related: ["parquet", "orc", "row-vs-columnar-formats", "file-compaction", "csv-format", "columnar-storage"]

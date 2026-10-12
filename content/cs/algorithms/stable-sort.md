@@ -1,7 +1,7 @@
 ---
 title: "Stable Sort"
 summary: "A sort that keeps equal elements in their original order."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["stable sorting", "stability"]
 prereqs: ["merge-sort"]
 related: ["merge-sort", "quicksort", "sorting-algorithms"]

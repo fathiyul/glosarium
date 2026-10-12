@@ -1,7 +1,7 @@
 ---
 title: "Readability"
 summary: "Code is read far more often than it's written."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["code readability", "readable code"]
 prereqs: ["naming"]
 related: ["clean-code", "naming", "code-style-consistency", "comment", "kiss", "code-review"]

@@ -1,7 +1,7 @@
 ---
 title: "Career Conversations"
 summary: "Discussing goals and growth with your manager."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Career conversations are recurring discussions between you and your manager about the work you do, what you want to learn, and what support or opportunities could help. They are broader than a performance review, though the topics can overlap.

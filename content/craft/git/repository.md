@@ -1,7 +1,7 @@
 ---
 title: "Repository"
 summary: "A project's files plus their complete history."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["repo", "git repository", "code repository"]
 prereqs: ["git"]
 related: ["git-clone", "commit", "branch", "remote", "gitignore", "monorepo-vs-polyrepo"]

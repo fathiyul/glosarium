@@ -1,7 +1,7 @@
 ---
 title: "Soak Test"
 summary: "Running under load for hours to find leaks and slow degradation."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["soak test", "endurance test", "long-running load test"]
 prereqs: ["load-testing", "memory-leak"]
 related: ["stress-testing", "performance-testing", "observability", "monitoring"]

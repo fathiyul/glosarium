@@ -1,7 +1,7 @@
 ---
 title: "Modulo"
 summary: "The remainder after division; used for wraparound and hashing."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["modulus", "remainder", "mod", "%"]
 prereqs: ["integer", "operator"]
 related: ["integer", "hash-table", "off-by-one-error", "binary-number", "bitwise-operation"]

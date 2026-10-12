@@ -1,7 +1,7 @@
 ---
 title: "Deterministic Tests"
 summary: "Controlling time, randomness and network so tests always behave the same."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["non-flaky tests", "hermetic tests"]
 prereqs: ["acceptance-test"]
 related: ["flaky-test", "heisenbug", "acceptance-test", "bdd"]

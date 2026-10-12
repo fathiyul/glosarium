@@ -1,7 +1,7 @@
 ---
 title: "Object-Oriented Programming"
 summary: "Organizing code around objects that bundle data and behavior."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["object-oriented", "object oriented programming", "OOP"]
 prereqs: ["class", "object"]
 related: ["encapsulation", "inheritance", "polymorphism", "abstraction", "composition-over-inheritance", "functional-programming"]

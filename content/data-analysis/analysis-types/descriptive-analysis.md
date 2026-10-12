@@ -1,7 +1,8 @@
 ---
 title: "Descriptive Analysis"
 summary: "Summarising what happened: counts, averages, breakdowns."
-levels: { data-analyst: junior }
+core: [data-scientist]
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["descriptive analysis", "descriptive statistics in practice", "summarising data"]
 prereqs: ["statistics-basics", "group-by"]
 related: ["descriptive-statistics", "exploratory-data-analysis", "diagnostic-analysis", "data-visualization"]

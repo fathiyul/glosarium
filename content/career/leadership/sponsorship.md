@@ -1,7 +1,7 @@
 ---
 title: "Sponsorship"
 summary: "Using your influence to create opportunities for others."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 Sponsorship is using your position or influence to create opportunities for someone else and to make their contributions visible to decision-makers. It differs from advice alone: a sponsor may recommend someone for a project, introduce them to stakeholders, or advocate for their work when they are not in the room.

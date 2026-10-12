@@ -1,7 +1,7 @@
 ---
 title: "Ninety-Ninety Rule"
 summary: "The last 10% of the work takes the other 90% of the time."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 The Ninety-Ninety Rule is a humorous saying: the first part of a project appears nearly complete, then the remaining work takes much longer than expected. It points to the hidden work that often remains after the main implementation seems finished.

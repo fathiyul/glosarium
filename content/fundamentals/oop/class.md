@@ -1,7 +1,7 @@
 ---
 title: "Class"
 summary: "A blueprint for creating objects."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["classes", "class definition", "blueprint"]
 prereqs: ["function", "variable"]
 related: ["object", "constructor", "attribute", "method", "inheritance", "encapsulation"]

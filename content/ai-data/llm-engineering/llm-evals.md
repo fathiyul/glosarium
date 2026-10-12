@@ -1,7 +1,7 @@
 ---
 title: "Evals"
 summary: "Systematically measuring the quality of LLM output."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["evals", "LLM evaluation", "model evaluations"]
 prereqs: ["prompt-engineering", "train-test-split"]
 related: ["llm-as-judge", "model-selection", "temperature"]

@@ -1,7 +1,7 @@
 ---
 title: "Resource Modeling"
 summary: "Deciding what your API's resources are and how they relate."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["resource modeling", "resource modelling", "rest resources"]
 prereqs: ["rest", "api-contract"]
 related: ["api-naming-conventions", "api-contract", "rest-constraints"]

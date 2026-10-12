@@ -1,7 +1,7 @@
 ---
 title: "Hash Collision"
 summary: "Two keys hashing to the same slot, and how tables handle it."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["hash collision", "collision resolution"]
 prereqs: ["hash-table"]
 related: ["hash-table", "adjacency-list", "big-o-notation", "trie"]

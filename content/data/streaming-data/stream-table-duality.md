@@ -1,7 +1,7 @@
 ---
 title: "Stream-Table Duality"
 summary: "A table is the latest state of a stream; a stream is a table's changelog."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["stream table duality", "streams and tables", "KStream KTable", "changelog stream", "table as a stream"]
 prereqs: ["stream-processing", "change-data-capture"]
 related: ["change-data-capture", "event-sourcing", "kafka", "stream-joins", "stateful-stream-processing", "materialized-view"]

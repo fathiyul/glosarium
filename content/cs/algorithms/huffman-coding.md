@@ -1,7 +1,7 @@
 ---
 title: "Huffman Coding"
 summary: "Compressing data by giving frequent symbols shorter codes."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["Huffman coding", "huffman code", "prefix code"]
 prereqs: ["compression", "greedy-algorithm"]
 related: ["priority-queue", "archives-compression"]

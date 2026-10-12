@@ -1,7 +1,7 @@
 ---
 title: "Program to an Interface"
 summary: "Depending on what something does rather than which class it is."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["program to an interface, not an implementation"]
 prereqs: ["interface"]
 related: ["interface", "dependency-inversion-principle", "duck-typing", "interface-segregation-principle"]

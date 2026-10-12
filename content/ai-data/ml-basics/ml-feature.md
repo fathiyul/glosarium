@@ -1,7 +1,8 @@
 ---
 title: "Feature"
 summary: "An input variable a model uses."
-levels: { backend: senior, data-engineer: senior }
+core: [data-scientist]
+levels: { backend: senior, data-engineer: senior , data-scientist: mid-level }
 aliases: ["feature", "features", "ML feature"]
 prereqs: ["machine-learning", "train-test-split"]
 related: ["feature-store", "overfitting", "training-vs-inference"]

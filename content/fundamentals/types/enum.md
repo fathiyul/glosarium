@@ -1,7 +1,7 @@
 ---
 title: "Enum"
 summary: "A type with a fixed set of named values."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["enumeration", "enumerated type", "enums"]
 prereqs: ["data-type", "constant"]
 related: ["constant", "magic-number", "discriminated-union", "switch-statement", "db-enums"]

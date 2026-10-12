@@ -1,7 +1,7 @@
 ---
 title: "Preflight Request"
 summary: "The OPTIONS request a browser sends before certain cross-origin calls."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , data-scientist: junior }
 aliases: ["preflight", "cors preflight", "options request"]
 prereqs: ["cors", "http"]
 related: ["cors", "safe-idempotent-methods", "api-gateway"]

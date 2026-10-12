@@ -1,7 +1,7 @@
 ---
 title: "Data On-Call"
 summary: "Being responsible for pipeline failures and late data."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["data on call", "pipeline on-call", "on-call for data", "data engineer on-call"]
 prereqs: ["on-call", "data-observability"]
 related: ["data-incident", "alerting", "runbook", "data-sla", "debugging-failed-pipeline", "data-downtime"]

@@ -1,7 +1,7 @@
 ---
 title: "Writing and Speaking Publicly"
 summary: "Blogs, talks and sharing what you learn."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Writing or speaking publicly is one way to share what you have learned with people outside your immediate team. A post, talk, or tutorial can clarify your own thinking, help others solve a similar problem, and make your work easier to find.

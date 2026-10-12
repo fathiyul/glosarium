@@ -1,7 +1,7 @@
 ---
 title: "Autocorrelation"
 summary: "How much a series resembles its own past, at each lag."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["autocorrelation", "ACF", "serial correlation"]
 prereqs: ["time-series", "correlation-coefficient"]
 related: ["lag-features", "arima", "stationarity", "seasonality"]

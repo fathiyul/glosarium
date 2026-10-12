@@ -1,7 +1,7 @@
 ---
 title: "multipart/form-data"
 summary: "The encoding used to upload files from forms."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["multipart form data", "multipart", "form-data"]
 prereqs: ["http", "mime-type"]
 related: ["file-uploads", "presigned-url", "input-validation"]

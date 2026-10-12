@@ -1,7 +1,7 @@
 ---
 title: "SQL Data Types"
 summary: "Choosing integer, numeric, text, timestamp and other column types."
-levels: { backend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["column types", "data types"]
 prereqs: ["schema"]
 related: ["schema", "constraint", "audit-columns", "coalesce-nullif"]

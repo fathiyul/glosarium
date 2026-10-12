@@ -1,7 +1,7 @@
 ---
 title: "Forecast Interval"
 summary: "A range around a forecast saying how uncertain it is."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["forecast interval", "prediction interval", "forecast band"]
 prereqs: ["forecasting", "confidence-interval"]
 related: ["forecasting", "forecast-accuracy", "confidence-interval", "scenario-analysis"]

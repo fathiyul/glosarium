@@ -1,7 +1,7 @@
 ---
 title: "Given / When / Then"
 summary: "Describing tests as context, action and expected outcome."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["GWT", "arrange act assert"]
 prereqs: ["unit-test"]
 related: ["bdd", "acceptance-test", "red-green-refactor", "deterministic-tests"]

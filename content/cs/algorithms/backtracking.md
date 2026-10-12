@@ -1,7 +1,7 @@
 ---
 title: "Backtracking"
 summary: "Trying choices and undoing them when they lead nowhere."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["backtrack search", "exhaustive search with pruning"]
 prereqs: ["depth-first-search"]
 related: ["depth-first-search", "dynamic-programming", "greedy-algorithm", "recursion"]

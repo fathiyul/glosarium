@@ -1,7 +1,7 @@
 ---
 title: "Factless Fact Table"
 summary: "A fact table recording that something happened, with no measures."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["factless fact tables", "factless fact", "event fact table", "coverage table"]
 prereqs: ["fact-table", "grain"]
 related: ["fact-table-types", "dimensional-modeling", "bridge-table", "degenerate-dimension", "date-dimension", "conformed-dimension"]

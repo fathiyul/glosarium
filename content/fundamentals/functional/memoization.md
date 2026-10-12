@@ -1,7 +1,7 @@
 ---
 title: "Memoization"
 summary: "Caching a function's results for inputs it has already seen."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["memo", "function caching"]
 prereqs: ["function-composition"]
 related: ["caching", "pure-function", "lazy-evaluation", "cache-hit-miss"]

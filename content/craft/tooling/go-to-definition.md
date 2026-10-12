@@ -1,7 +1,7 @@
 ---
 title: "Go to Definition / Find References"
 summary: "Navigating code by symbol instead of searching text."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["find references", "find usages", "code navigation"]
 prereqs: ["ide"]
 related: ["ide", "language-server", "reading-a-codebase", "rename-refactoring", "grep-ripgrep"]

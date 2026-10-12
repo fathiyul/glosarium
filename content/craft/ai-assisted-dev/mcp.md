@@ -1,7 +1,7 @@
 ---
 title: "Model Context Protocol (MCP)"
 summary: "A standard for connecting AI assistants to tools and data."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["MCP", "Model Context Protocol"]
 prereqs: ["coding-agent"]
 related: ["coding-agent", "agent-instructions-file", "context-window", "api-documentation"]

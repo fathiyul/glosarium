@@ -1,7 +1,7 @@
 ---
 title: "Query String"
 summary: "Key-value parameters after the ? in a URL."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["query parameters", "URL parameters", "querystring"]
 prereqs: ["url"]
 related: ["path-vs-query-parameters", "url-encoding", "url", "http-request", "rest"]

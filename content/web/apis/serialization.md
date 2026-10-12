@@ -1,7 +1,7 @@
 ---
 title: "Serialization"
 summary: "Converting objects to bytes or text for storage or transfer."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["serialisation", "marshalling", "encoding data", "deserialization"]
 prereqs: ["json", "data-type"]
 related: ["json", "protocol-buffers", "avro", "yaml", "schema-evolution", "insecure-deserialization"]

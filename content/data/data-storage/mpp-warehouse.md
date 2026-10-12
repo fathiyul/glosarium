@@ -1,7 +1,7 @@
 ---
 title: "MPP Data Warehouse"
 summary: "Warehouses that split one query across many nodes in parallel."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["MPP warehouse", "massively parallel warehouse", "MPP database"]
 prereqs: ["data-warehouse", "distributed-computing"]
 related: ["distributed-query-engine", "shuffle", "hot-partition", "broadcast-join", "columnar-storage"]

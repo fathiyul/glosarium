@@ -1,7 +1,7 @@
 ---
 title: "Sessionization"
 summary: "Grouping events into sessions by user and inactivity gaps."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["sessionizing events", "session grouping", "session boundaries"]
 prereqs: ["analytics-event-tracking"]
 related: ["analytics-event-tracking", "stream-windowing", "gaps-and-islands", "event-time-vs-processing-time", "late-arriving-data", "product-analytics"]

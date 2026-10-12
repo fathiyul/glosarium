@@ -1,7 +1,7 @@
 ---
 title: "Covariance and Contravariance"
 summary: "How subtyping of generic types follows their type parameters."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["variance", "covariant", "contravariant"]
 prereqs: ["generics", "type-system"]
 related: ["interface", "type-inference", "structural-vs-nominal-typing", "abstract-class"]

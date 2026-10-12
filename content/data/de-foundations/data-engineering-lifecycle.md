@@ -1,11 +1,11 @@
 ---
 title: "Data Engineering Lifecycle"
 summary: "Generation, ingestion, storage, transformation and serving, plus the undercurrents beneath them."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["data engineering lifecycle", "DE lifecycle", "data lifecycle", "undercurrents"]
 prereqs: ["data-engineering", "source-systems"]
 related: ["undercurrents", "data-ingestion", "data-hierarchy-of-needs", "data-roles", "modern-data-stack", "data-product"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 The **data engineering lifecycle** is a way to organize the whole job: the stages data passes through from being created to being

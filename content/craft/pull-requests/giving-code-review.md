@@ -1,7 +1,7 @@
 ---
 title: "Giving Code Review"
 summary: "Reviewing others' code helpfully: priorities, tone and turnaround."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["reviewing pull requests", "how to review code", "reviewing code", "being a good reviewer"]
 prereqs: ["code-review", "pull-request"]
 related: ["review-comment-nits", "review-turnaround", "approve-request-changes", "receiving-code-review", "self-review", "small-prs"]

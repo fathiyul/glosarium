@@ -1,7 +1,7 @@
 ---
 title: "Special Methods"
 summary: "Methods the language calls implicitly, like __eq__ or toString."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["dunder methods", "magic methods", "__eq__"]
 prereqs: ["class"]
 related: ["interface", "truthy-falsy", "equality-vs-identity", "operator"]

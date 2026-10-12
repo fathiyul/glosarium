@@ -1,7 +1,7 @@
 ---
 title: "AI Product UX"
 summary: "Designing interfaces for uncertain, streaming, sometimes-wrong AI output."
-levels: { frontend: senior }
+levels: { frontend: senior , data-scientist: mid-level }
 aliases: ["AI product UX", "AI interface design", "generative UX"]
 prereqs: ["llm-streaming", "accessibility"]
 related: ["llm-streaming", "guardrails", "microinteractions"]

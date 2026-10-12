@@ -1,7 +1,7 @@
 ---
 title: "AI Coding Assistant"
 summary: "Tools like Copilot, Cursor or Claude Code that suggest and write code."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["AI assistant", "Copilot", "Cursor", "Claude Code", "coding assistant"]
 prereqs: ["ide"]
 related: ["reviewing-ai-code", "ai-learning-pitfalls", "hallucination", "prompting-for-code", "vibe-coding", "coding-agent"]

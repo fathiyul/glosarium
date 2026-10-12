@@ -1,7 +1,7 @@
 ---
 title: "Cookie Consent"
 summary: "Asking permission before non-essential tracking."
-levels: { frontend: mid-level , tech-entrepreneur: pmf }
+levels: { frontend: mid-level , tech-entrepreneur: pmf , data-scientist: mid-level }
 ---
 
 Cookie consent is the process of informing people about cookies or similar technologies and, where required, obtaining permission before using those that are not essential to the service. Requirements vary by jurisdiction, technology, and purpose; a cookie banner alone does not make tracking compliant.

@@ -1,7 +1,7 @@
 ---
 title: "Fake"
 summary: "A working but simplified implementation, like an in-memory database."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["fake object", "in-memory fake"]
 prereqs: ["test-double"]
 related: ["test-double", "stub-double", "mock", "test-database", "testcontainers"]

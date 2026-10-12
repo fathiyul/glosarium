@@ -1,7 +1,7 @@
 ---
 title: "Semantic Search"
 summary: "Searching by meaning instead of keywords."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["semantic search", "meaning-based search", "vector search"]
 prereqs: ["embeddings", "inverted-index"]
 related: ["embeddings", "inverted-index", "reranking"]

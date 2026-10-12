@@ -1,7 +1,7 @@
 ---
 title: "SQL String, Date and Math Functions"
 summary: "Built-in functions for transforming values in queries."
-levels: { backend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 prereqs: ["sql-data-types"]
 related: ["coalesce-nullif", "sql-data-types", "null", "self-join"]
 ---

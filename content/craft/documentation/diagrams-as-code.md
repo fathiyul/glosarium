@@ -1,7 +1,7 @@
 ---
 title: "Diagrams as Code"
 summary: "Writing diagrams as text, with tools like Mermaid or PlantUML."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["text diagrams", "Mermaid diagrams"]
 prereqs: ["architecture-diagram"]
 related: ["architecture-diagram", "sequence-diagram", "state-diagram", "docs-as-code"]

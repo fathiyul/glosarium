@@ -1,7 +1,7 @@
 ---
 title: "Scatter Plot"
 summary: "Plotting two measures together to see whether they move in step."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["scatterplot", "scatter graph", "scatter chart"]
 prereqs: ["chart-selection", "descriptive-statistics"]
 related: ["correlation-coefficient", "correlation-vs-causation", "outliers", "heatmap", "axis-truncation"]

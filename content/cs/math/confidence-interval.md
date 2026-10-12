@@ -1,7 +1,7 @@
 ---
 title: "Confidence Interval"
 summary: "The range a true value plausibly falls in."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["CI", "confidence interval", "confidence band"]
 prereqs: ["standard-error", "p-value"]
 related: ["standard-error", "margin-of-error", "p-value", "statistical-significance", "sample-size-calculation", "central-limit-theorem"]

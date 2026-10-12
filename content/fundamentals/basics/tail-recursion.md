@@ -1,7 +1,7 @@
 ---
 title: "Tail Recursion"
 summary: "Recursion where the call is the last action, which some languages turn into a loop."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["tail call", "tail call optimization", "TCO"]
 prereqs: ["recursion"]
 related: ["recursion", "stack-overflow", "loop", "functional-programming"]

@@ -1,7 +1,7 @@
 ---
 title: "Cone of Uncertainty"
 summary: "Estimates get more accurate as work progresses."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 The cone of uncertainty describes how estimates tend to become more informed as a team learns about a project and reduces unknowns. Early estimates can vary widely because requirements, technical constraints, and dependencies are not yet clear; later estimates can use evidence from investigation and completed work.

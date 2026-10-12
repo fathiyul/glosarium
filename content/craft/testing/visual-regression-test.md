@@ -1,7 +1,7 @@
 ---
 title: "Visual Regression Test"
 summary: "Detecting unintended UI changes by comparing screenshots."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: mid-level }
 aliases: ["visual regression testing", "screenshot testing", "visual diff", "UI snapshot comparison", "visual testing"]
 prereqs: ["component-testing"]
 related: ["snapshot-test", "component-testing", "storybook", "end-to-end-test", "flaky-test", "design-system"]

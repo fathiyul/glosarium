@@ -1,7 +1,7 @@
 ---
 title: "Bits and Bytes"
 summary: "The basic units of data, and KB vs KiB."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["bit", "byte", "KB vs KiB", "kilobyte"]
 prereqs: ["binary-number"]
 related: ["binary-number", "character-encoding", "integer", "utf-8", "latency-numbers"]

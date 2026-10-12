@@ -1,7 +1,7 @@
 ---
 title: "Correlation Coefficient"
 summary: "One number from -1 to 1 for how tightly two measures move together."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["correlation", "Pearson's r", "correlation coefficient"]
 prereqs: ["descriptive-statistics", "standard-deviation"]
 related: ["correlation-vs-causation", "linear-regression", "scatter-plot", "outliers", "simpsons-paradox", "distribution-shapes"]

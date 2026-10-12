@@ -1,11 +1,11 @@
 ---
 title: "Data Product"
 summary: "A dataset treated as a product, with an owner, documentation, quality guarantees and users."
-levels: { data-engineer: senior , data-analyst: junior }
+levels: { data-engineer: senior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["data products", "data as a product", "dataset as a product", "data product thinking"]
 prereqs: ["data-ownership", "documenting-datasets"]
 related: ["data-mesh", "data-contract", "data-ownership", "documenting-datasets", "data-catalog", "data-sla"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 A **data product** is a **dataset (or data service) treated like a real product**: it has an **owner**, a defined **audience**, **documentation**, **quality guarantees**, support, and a lifecycle, and it's built so that **others can discover and use it with confidence**, without having to ask its creators for help every time.

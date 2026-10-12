@@ -1,7 +1,7 @@
 ---
 title: "Chunked Transfer Encoding"
 summary: "Streaming a response in pieces without knowing its total size."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior , data-scientist: junior }
 aliases: ["chunked transfer", "chunked encoding", "transfer-encoding chunked"]
 prereqs: ["http-1-1", "http"]
 related: ["http-1-1", "server-sent-events", "compression"]

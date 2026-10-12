@@ -1,7 +1,7 @@
 ---
 title: "Load Testing"
 summary: "Measuring behavior under expected traffic."
-levels: { backend: mid-level, frontend: senior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: senior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["load test", "capacity testing"]
 prereqs: ["performance-testing"]
 related: ["performance-testing", "latency", "throughput", "profiler"]

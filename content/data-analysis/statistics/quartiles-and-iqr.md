@@ -1,7 +1,7 @@
 ---
 title: "Quartiles and IQR"
 summary: "Splitting data into quarters to summarise the middle half without letting extremes rule."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["IQR", "interquartile range", "quartiles"]
 prereqs: ["percentile", "descriptive-statistics"]
 related: ["outliers", "box-plot", "central-tendency", "percentile", "distribution-shapes"]

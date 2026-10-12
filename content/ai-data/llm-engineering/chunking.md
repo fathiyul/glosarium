@@ -1,7 +1,7 @@
 ---
 title: "Chunking"
 summary: "Splitting documents into pieces for embedding and retrieval."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["chunking", "text chunking", "document splitting"]
 prereqs: ["embeddings", "llm-token"]
 related: ["rag", "embeddings", "semantic-search"]

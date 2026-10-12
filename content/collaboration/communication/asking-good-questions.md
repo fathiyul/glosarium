@@ -1,7 +1,7 @@
 ---
 title: "Asking Good Questions"
 summary: "Sharing what you tried, what you expected and what happened."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["how to ask questions", "asking for help well", "good questions", "asking questions"]
 prereqs: ["debugging"]
 related: ["when-to-ask-for-help", "minimal-reproducible-example", "rubber-duck-debugging", "searching-effectively", "async-communication", "clarifying-tickets"]

@@ -1,7 +1,7 @@
 ---
 title: "Junk Dimension"
 summary: "Grouping small flags and indicators into one dimension."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["junk dimensions", "junk dim", "miscellaneous dimension", "indicator dimension"]
 prereqs: ["dimension-table", "fact-table"]
 related: ["degenerate-dimension", "dimensional-modeling", "surrogate-key-dw", "grain", "slowly-changing-dimension", "conformed-dimension"]

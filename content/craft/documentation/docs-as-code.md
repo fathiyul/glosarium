@@ -1,7 +1,7 @@
 ---
 title: "Docs as Code"
 summary: "Keeping docs in the repository and reviewing them like code."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["docs-as-code", "documentation in the repo"]
 prereqs: ["diagrams-as-code"]
 related: ["diagrams-as-code", "onboarding-docs", "runbook", "api-documentation"]

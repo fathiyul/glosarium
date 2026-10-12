@@ -1,7 +1,7 @@
 ---
 title: "Functional Core, Imperative Shell"
 summary: "Pure logic in the middle, side effects at the edges."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["functional core imperative shell", "pure core", "humble object"]
 prereqs: ["pure-function", "side-effect"]
 related: ["referential-transparency", "dependency-injection", "hexagonal-architecture", "unit-test", "separation-of-concerns", "immutability"]

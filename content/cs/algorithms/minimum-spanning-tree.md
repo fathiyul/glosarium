@@ -1,7 +1,7 @@
 ---
 title: "Minimum Spanning Tree"
 summary: "Connecting all nodes with the least total edge weight (Prim's, Kruskal's)."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["minimum spanning tree", "MST", "Prim Kruskal"]
 prereqs: ["graph", "greedy-algorithm"]
 related: ["union-find", "dijkstra", "adjacency-list"]

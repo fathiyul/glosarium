@@ -1,7 +1,7 @@
 ---
 title: "Ring Buffer"
 summary: "A fixed-size buffer that wraps around."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["ring buffer", "circular buffer", "circular queue"]
 prereqs: ["queue", "array"]
 related: ["producer-consumer", "linked-list", "lock-free"]

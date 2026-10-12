@@ -1,7 +1,7 @@
 ---
 title: "Type Coercion"
 summary: "Implicit conversion by the language, like \"5\" + 1 in JavaScript."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["implicit conversion", "automatic type conversion"]
 prereqs: ["data-type"]
 related: ["type-conversion", "equality-js", "truthy-falsy", "static-vs-dynamic-typing", "strong-vs-weak-typing"]

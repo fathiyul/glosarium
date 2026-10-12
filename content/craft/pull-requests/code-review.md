@@ -1,7 +1,7 @@
 ---
 title: "Code Review"
 summary: "Teammates reading your change to catch bugs and share knowledge."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["code reviews", "peer review", "reviewing code"]
 prereqs: ["pull-request"]
 related: ["giving-code-review", "receiving-code-review", "self-review", "small-prs", "pr-description"]

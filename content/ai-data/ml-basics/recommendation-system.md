@@ -1,7 +1,8 @@
 ---
 title: "Recommendation System"
 summary: "Suggesting items based on behavior and similarity."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+core: [data-scientist]
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: mid-level }
 aliases: ["recommendation system", "recommender", "recommendations"]
 prereqs: ["supervised-learning", "unsupervised-learning"]
 related: ["unsupervised-learning", "ab-testing", "embeddings"]

@@ -1,7 +1,7 @@
 ---
 title: "Handling Ambiguity"
 summary: "Making progress when the problem isn't well defined."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["dealing with ambiguity", "working with ambiguity", "ambiguous requirements", "undefined problems", "navigating ambiguity"]
 prereqs: ["clarifying-tickets", "product-thinking"]
 related: ["scope-of-work", "spike", "timeboxing", "requirements", "ownership", "technical-decision-making"]

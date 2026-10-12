@@ -1,7 +1,7 @@
 ---
 title: "Resource Naming"
 summary: "Plural nouns, nested paths and consistent URL design."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["REST URL design", "resource naming", "API URL conventions"]
 prereqs: ["rest", "endpoint"]
 related: ["rest", "api-design", "path-vs-query-parameters", "http-methods", "endpoint"]

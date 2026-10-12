@@ -1,7 +1,7 @@
 ---
 title: "Greedy Algorithm"
 summary: "Taking the locally best choice at each step."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["greedy", "greedy approach"]
 prereqs: ["big-o-notation"]
 related: ["dynamic-programming", "topological-sort", "priority-queue", "backtracking"]

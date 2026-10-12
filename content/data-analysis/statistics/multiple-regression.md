@@ -1,7 +1,7 @@
 ---
 title: "Multiple Regression"
 summary: "Fitting several drivers at once so each one is read holding the others still."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: mid-level }
 aliases: ["multiple regression", "multiple linear regression", "multivariable regression"]
 prereqs: ["linear-regression", "correlation-coefficient"]
 related: ["linear-regression", "regression-analysis", "confounding-variable", "residuals", "simpsons-paradox", "causal-inference"]

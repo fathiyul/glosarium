@@ -1,7 +1,7 @@
 ---
 title: "Static Analysis"
 summary: "Finding bugs by analyzing code without running it."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["linting", "static analyzer"]
 prereqs: ["compiler"]
 related: ["language-server", "type-inference", "ci-pipeline", "git-hooks"]

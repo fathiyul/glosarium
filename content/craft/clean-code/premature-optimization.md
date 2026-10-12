@@ -1,7 +1,7 @@
 ---
 title: "Premature Optimization"
 summary: "Optimizing before you know where the real bottleneck is."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["premature optimisation", "optimize early"]
 prereqs: ["big-o-notation"]
 related: ["kiss", "yagni", "profiler", "query-optimization", "readability"]

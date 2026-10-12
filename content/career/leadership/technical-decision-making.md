@@ -1,7 +1,7 @@
 ---
 title: "Technical Decision Making"
 summary: "Gathering input, weighing trade-offs, deciding, and recording why."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["making technical decisions", "engineering decision making", "decision-making in engineering", "architecture decisions process"]
 prereqs: ["architectural-trade-offs", "design-doc"]
 related: ["one-way-two-way-doors", "architecture-decision-record", "design-doc", "disagree-and-commit", "architectural-trade-offs", "rfc-process"]

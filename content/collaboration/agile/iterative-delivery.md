@@ -1,7 +1,7 @@
 ---
 title: "Iterative Delivery"
 summary: "Shipping a thin working slice first, then improving it."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Iterative delivery ships a useful first version, learns from its use, and then improves it in later increments. Each iteration should produce something that can be reviewed or used, rather than completing one layer of the system while leaving the feature unusable.

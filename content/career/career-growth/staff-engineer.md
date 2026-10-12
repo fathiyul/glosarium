@@ -1,7 +1,7 @@
 ---
 title: "Staff Engineer"
 summary: "Technical leadership across teams."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 A staff engineer is a senior individual contributor whose work typically has impact across a team boundary or a substantial technical area. The role often involves clarifying ambiguous problems, guiding system design, coordinating trade-offs, and helping other engineers succeed; titles and expectations differ widely.

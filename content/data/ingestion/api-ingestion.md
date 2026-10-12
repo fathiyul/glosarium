@@ -1,7 +1,7 @@
 ---
 title: "Ingesting from APIs"
 summary: "Pulling data from REST APIs with pagination, rate limits and retries."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["ingesting from APIs", "REST API ingestion", "pulling data from APIs", "API extraction", "API connectors"]
 prereqs: ["data-ingestion", "rest"]
 related: ["pagination", "rate-limiting", "retry-with-backoff", "http-429", "timeouts", "ingestion-connectors"]

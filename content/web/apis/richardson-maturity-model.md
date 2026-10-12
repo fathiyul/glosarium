@@ -1,7 +1,7 @@
 ---
 title: "Richardson Maturity Model"
 summary: "Levels of REST maturity, from one endpoint to hypermedia."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["richardson maturity model", "rmm", "rest maturity"]
 prereqs: ["rest", "rest-constraints"]
 related: ["rest-constraints", "hateoas", "api-contract"]

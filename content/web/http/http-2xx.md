@@ -1,7 +1,7 @@
 ---
 title: "2xx Success Codes"
 summary: "200 OK, 201 Created, 204 No Content and friends."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["200 OK", "201 Created", "204 No Content", "success status codes"]
 prereqs: ["http-status-codes"]
 related: ["http-status-codes", "http-3xx", "http-4xx", "http-methods", "endpoint"]

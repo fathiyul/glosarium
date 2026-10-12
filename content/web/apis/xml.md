@@ -1,7 +1,7 @@
 ---
 title: "XML"
 summary: "A verbose markup format still common in enterprise and legacy systems."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["xml", "extensible markup language", "xml schema"]
 prereqs: ["http", "json"]
 related: ["soap", "json-schema", "json"]

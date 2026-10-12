@@ -1,7 +1,7 @@
 ---
 title: "Build Tool"
 summary: "Automating compile, test and package steps, like Make, Gradle or Vite."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["build system", "Make", "Gradle", "Maven", "Vite"]
 prereqs: ["package-manager"]
 related: ["bundler", "package-manager", "npm-scripts", "task-runner", "continuous-integration"]

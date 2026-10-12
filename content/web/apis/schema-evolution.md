@@ -1,7 +1,7 @@
 ---
 title: "Schema Evolution"
 summary: "Changing data formats so old and new readers and writers keep working."
-levels: { backend: senior, frontend: senior, data-engineer: mid-level }
+levels: { backend: senior, frontend: senior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["schema changes", "schema versioning", "backward compatibility of schemas", "forward compatibility", "data format evolution"]
 prereqs: ["serialization", "json-schema"]
 related: ["backward-compatibility", "schema-registry", "protocol-buffers", "avro", "event-schema-versioning", "schema-drift", "api-versioning"]

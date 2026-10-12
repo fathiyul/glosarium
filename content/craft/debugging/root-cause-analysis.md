@@ -1,7 +1,7 @@
 ---
 title: "Root Cause Analysis"
 summary: "Finding the underlying reason, not just the symptom."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["RCA", "root cause", "finding the root cause", "five whys", "cause analysis"]
 prereqs: ["debugging"]
 related: ["five-whys", "blameless-postmortem", "postmortem", "debugging", "incident", "heisenbug"]

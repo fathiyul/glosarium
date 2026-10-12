@@ -1,7 +1,7 @@
 ---
 title: "OpenAPI"
 summary: "A standard format for describing REST APIs."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["openapi", "swagger", "openapi spec"]
 prereqs: ["rest", "json-schema"]
 related: ["api-contract", "api-documentation", "api-client-sdk"]

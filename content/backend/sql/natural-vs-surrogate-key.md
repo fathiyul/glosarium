@@ -1,7 +1,7 @@
 ---
 title: "Natural vs Surrogate Key"
 summary: "Using real-world data as the key vs a generated ID."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["natural key", "surrogate key", "natural vs surrogate"]
 prereqs: ["primary-key", "relational-model"]
 related: ["uuid-vs-autoincrement", "foreign-key", "constraint"]

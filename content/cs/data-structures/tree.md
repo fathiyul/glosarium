@@ -1,7 +1,7 @@
 ---
 title: "Tree"
 summary: "A hierarchy of nodes with one root and no cycles."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["trees", "tree data structure", "hierarchy"]
 prereqs: ["data-structure", "recursion"]
 related: ["binary-tree", "binary-search-tree", "graph", "tree-traversal", "trie"]

@@ -1,7 +1,7 @@
 ---
 title: "Branch Naming Conventions"
 summary: "Names like feat/login-page that tell people what a branch is for."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["branch naming convention", "branch names"]
 prereqs: ["branch"]
 related: ["branch", "conventional-commits", "pull-request", "ticket", "git"]

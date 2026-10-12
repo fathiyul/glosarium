@@ -1,7 +1,7 @@
 ---
 title: "Divide and Conquer Debugging"
 summary: "Halving the search space until the cause is isolated."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["bisecting", "divide and conquer debugging", "wolf fence algorithm"]
 prereqs: ["debugging"]
 related: ["git-bisect", "debugging", "reproduce-bug", "print-debugging", "root-cause-analysis"]

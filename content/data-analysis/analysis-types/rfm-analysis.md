@@ -1,7 +1,8 @@
 ---
 title: "RFM Analysis"
 summary: "Scoring customers on how recently, how often and how much they bought."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["RFM", "RFM segmentation", "recency frequency monetary"]
 prereqs: ["segmentation", "descriptive-analysis"]
 related: ["segmentation", "cohort-analysis", "retention-analysis", "customer-data-platform"]

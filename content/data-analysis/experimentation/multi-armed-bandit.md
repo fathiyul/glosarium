@@ -1,7 +1,8 @@
 ---
 title: "Multi-Armed Bandits"
 summary: "Learning the best option while serving, instead of testing then shipping."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["multi-armed bandit", "bandit algorithm", "explore-exploit"]
 prereqs: ["ab-testing", "statistical-power"]
 related: ["ab-testing", "sequential-testing", "decision-rule", "recommendation-system"]

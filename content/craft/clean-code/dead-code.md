@@ -1,7 +1,7 @@
 ---
 title: "Dead Code"
 summary: "Code that never runs and should be deleted."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["unused code", "unreachable code"]
 prereqs: ["refactoring"]
 related: ["technical-debt", "linter", "refactoring", "boy-scout-rule", "feature-flag-cleanup"]

@@ -1,7 +1,7 @@
 ---
 title: "tRPC"
 summary: "End-to-end type-safe APIs for TypeScript without a schema language."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: junior }
 aliases: ["trpc", "trpc api", "typesafe rpc"]
 prereqs: ["rpc", "api-contract"]
 related: ["rpc", "graphql", "openapi"]

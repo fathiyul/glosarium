@@ -1,7 +1,7 @@
 ---
 title: "Constant"
 summary: "A name bound to a value that cannot be reassigned."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["constants", "const", "immutable binding", "named constant"]
 prereqs: ["variable"]
 related: ["magic-number", "var-let-const", "mutable-vs-immutable", "naming"]

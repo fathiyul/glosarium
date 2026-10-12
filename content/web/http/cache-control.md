@@ -1,7 +1,7 @@
 ---
 title: "Cache-Control"
 summary: "The header that directs how responses may be cached."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["cache-control", "http caching headers", "cache headers"]
 prereqs: ["http", "cdn"]
 related: ["etag", "conditional-request", "cdn-caching"]

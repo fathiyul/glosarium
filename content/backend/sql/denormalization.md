@@ -1,11 +1,11 @@
 ---
 title: "Denormalization"
 summary: "Deliberately duplicating data for read performance."
-levels: { backend: senior, data-engineer: mid-level , data-analyst: mid-level }
+levels: { backend: senior, data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["denormalize", "denormalized data", "duplicating data for performance", "redundant data"]
 prereqs: ["normalization", "join"]
 related: ["normalization", "materialized-view", "star-schema", "one-big-table", "data-modeling", "db-index"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 also: [analytics-modeling]
 ---
 

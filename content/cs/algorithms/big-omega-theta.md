@@ -1,7 +1,7 @@
 ---
 title: "Big Omega and Big Theta"
 summary: "Lower bounds and tight bounds, alongside Big O's upper bound."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Omega notation", "Theta notation", "asymptotic bounds"]
 prereqs: ["big-o-notation"]
 related: ["big-o-notation", "amortized-analysis", "quicksort", "merge-sort"]

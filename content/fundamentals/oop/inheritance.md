@@ -1,7 +1,7 @@
 ---
 title: "Inheritance"
 summary: "A class reusing and extending another class."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["subclass", "superclass", "extends"]
 prereqs: ["class"]
 related: ["composition-over-inheritance", "polymorphism", "method-overriding", "abstract-class", "liskov-substitution-principle"]

@@ -1,7 +1,7 @@
 ---
 title: "Amortized Analysis"
 summary: "The average cost per operation over a sequence of operations."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["amortised analysis", "amortized complexity"]
 prereqs: ["big-o-notation"]
 related: ["big-o-notation", "dynamic-array", "hash-table", "big-omega-theta"]

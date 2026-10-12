@@ -1,7 +1,7 @@
 ---
 title: "Truthy and Falsy"
 summary: "Non-boolean values that act as true or false in conditions."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["falsy", "truthiness", "truthy"]
 prereqs: ["boolean"]
 related: ["type-coercion", "null", "undefined", "equality-js", "short-circuit-evaluation"]

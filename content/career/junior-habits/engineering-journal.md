@@ -1,7 +1,7 @@
 ---
 title: "Keeping an Engineering Journal"
 summary: "Writing down what you learn, decide and get stuck on."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["dev journal", "work log"]
 prereqs: ["learning-how-to-learn"]
 related: ["learning-how-to-learn", "brag-document", "onboarding-yourself"]

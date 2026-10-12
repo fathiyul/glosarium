@@ -1,7 +1,7 @@
 ---
 title: "Spike"
 summary: "A time-boxed investigation to reduce uncertainty."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A spike is a time-boxed investigation used to answer a specific question or reduce uncertainty before committing to a larger piece of work. It may involve a small prototype, reading documentation, testing a vendor integration, or tracing an existing system.

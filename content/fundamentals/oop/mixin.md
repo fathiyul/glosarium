@@ -1,7 +1,7 @@
 ---
 title: "Mixin / Trait"
 summary: "Reusable behavior added to classes without inheritance."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["mixin", "trait"]
 prereqs: ["inheritance"]
 related: ["interface", "abstract-class", "composition-over-inheritance"]

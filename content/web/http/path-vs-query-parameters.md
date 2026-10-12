@@ -1,7 +1,7 @@
 ---
 title: "Path vs Query Parameters"
 summary: "/users/42 vs /users?id=42, and when to use each."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["path parameters", "query parameters", "query string vs path", "URL parameters"]
 prereqs: ["url"]
 related: ["query-string", "url-encoding", "endpoint", "rest", "restful-resource-naming"]

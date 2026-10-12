@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array"
 summary: "An array that grows by reallocating, with amortized O(1) appends."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["resizable array", "ArrayList", "vector", "growable array"]
 prereqs: ["array"]
 related: ["array", "list", "big-o-notation", "amortized-analysis", "linked-list"]

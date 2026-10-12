@@ -1,7 +1,7 @@
 ---
 title: "Real-Time vs Near-Real-Time"
 summary: "Milliseconds vs minutes, and which one the business actually needs."
-levels: { data-engineer: junior, backend: junior }
+levels: { data-engineer: junior, backend: junior , data-scientist: junior }
 aliases: ["real-time vs near real-time", "near-real-time", "real time data", "data latency requirements", "freshness requirements"]
 prereqs: ["batch-vs-stream"]
 related: ["micro-batching", "batch-vs-streaming-ingestion", "stream-table-duality", "lambda-architecture", "kappa-architecture", "apache-flink"]

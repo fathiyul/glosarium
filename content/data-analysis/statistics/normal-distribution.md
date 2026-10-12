@@ -1,7 +1,7 @@
 ---
 title: "Normal Distribution"
 summary: "The bell curve many natural and sampled quantities roughly follow, and the results that lean on it."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["bell curve", "Gaussian distribution", "Gaussian"]
 prereqs: ["central-tendency", "standard-deviation", "distribution-shapes"]
 related: ["central-limit-theorem", "standard-error", "confidence-interval", "long-tail-distribution", "histogram", "percentile"]

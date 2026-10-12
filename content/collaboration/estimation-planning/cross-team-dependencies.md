@@ -1,7 +1,7 @@
 ---
 title: "Cross-Team Dependencies"
 summary: "Work blocked on other teams, and how to manage it."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 A cross-team dependency is work, information, or a decision your team needs from another team before it can complete its own work. Examples include an API change, data access approval, schema contract, infrastructure capacity, or a partner's release date.

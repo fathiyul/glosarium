@@ -1,7 +1,7 @@
 ---
 title: "Ternary Operator"
 summary: "A compact inline if/else expression."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["conditional operator", "inline if", "ternary expression"]
 prereqs: ["conditional", "expression-vs-statement"]
 related: ["conditional", "expression-vs-statement", "short-circuit-evaluation", "operator", "readability"]

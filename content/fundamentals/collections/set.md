@@ -1,7 +1,7 @@
 ---
 title: "Set"
 summary: "An unordered collection of unique values."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["hash set", "unordered collection"]
 prereqs: ["list"]
 related: ["dictionary", "hash-table", "list", "set-theory", "deduplication"]

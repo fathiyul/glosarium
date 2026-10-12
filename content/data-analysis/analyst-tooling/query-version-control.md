@@ -1,7 +1,7 @@
 ---
 title: "Versioning Analysis Code"
 summary: "Putting queries and models in source control so a number can be re-run and diffed."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["versioning analysis code", "SQL in git", "source control for queries", "version control for analysis"]
 prereqs: ["git", "sql"]
 related: ["reproducible-analysis", "version-control", "metric-definitions", "data-lineage", "data-governance"]

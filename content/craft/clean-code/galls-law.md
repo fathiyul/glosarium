@@ -1,7 +1,7 @@
 ---
 title: "Gall's Law"
 summary: "Complex systems that work evolved from simple systems that worked."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["gall's law", "galls law", "evolve complexity"]
 prereqs: ["refactoring", "yagni"]
 related: ["big-bang-rewrite", "technical-debt", "microservices", "monolith"]

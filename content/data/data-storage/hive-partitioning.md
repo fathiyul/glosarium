@@ -1,7 +1,7 @@
 ---
 title: "Partitioned Tables (Hive-Style)"
 summary: "Organizing files into folders like date=2024-06-01 so queries can skip data."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["Hive partitions", "partitioned tables", "partition folders", "key=value partitioning", "date partitioning", "partitioned data lake"]
 prereqs: ["row-vs-columnar-formats", "partitioning"]
 related: ["partition-pruning", "small-files-problem", "file-compaction", "landing-zone", "predicate-pushdown", "open-table-format"]

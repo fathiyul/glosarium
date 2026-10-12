@@ -1,7 +1,7 @@
 ---
 title: "Handling Support Escalations"
 summary: "Investigating issues reported by customers."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A support escalation is a customer-reported issue that needs focused investigation or action beyond the normal support workflow. Engineering may be involved when the report suggests a defect, data problem, security concern, or production incident.

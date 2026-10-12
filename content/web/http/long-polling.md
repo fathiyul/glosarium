@@ -1,7 +1,7 @@
 ---
 title: "Long Polling"
 summary: "Holding a request open until the server has news."
-levels: { backend: mid-level, frontend: mid-level }
+levels: { backend: mid-level, frontend: mid-level , data-scientist: junior }
 also: [real-time]
 aliases: ["long polling", "long-polling", "comet"]
 prereqs: ["http", "websocket"]

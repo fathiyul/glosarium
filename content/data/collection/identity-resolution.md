@@ -1,7 +1,7 @@
 ---
 title: "Identity Resolution"
 summary: "Stitching anonymous visitors, devices and accounts into one person."
-levels: { data-engineer: senior , data-analyst: mid-level }
+levels: { data-engineer: senior , data-analyst: mid-level , data-scientist: senior }
 aliases: ["ID resolution", "identity stitching", "customer identity resolution"]
 prereqs: ["analytics-event-tracking", "pii"]
 related: ["identity-architecture", "build-vs-buy-identity", "customer-data-platform", "sessionization", "master-data-management", "data-governance"]

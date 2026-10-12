@@ -1,7 +1,7 @@
 ---
 title: "Union Type"
 summary: "A value that can be one of several types."
-levels: { backend: mid-level, frontend: junior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: junior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["union", "sum type", "string | number"]
 prereqs: ["type-annotation", "type-alias"]
 related: ["discriminated-union", "type-narrowing", "nullable-type", "intersection-type", "enum"]

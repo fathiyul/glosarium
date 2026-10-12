@@ -1,7 +1,7 @@
 ---
 title: "Treemap"
 summary: "Nested rectangles sized by value, for showing parts of a whole when there are many parts."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["treemap chart", "tree map", "nested rectangles"]
 prereqs: ["chart-selection", "bar-chart"]
 related: ["stacked-bar-chart", "chart-selection", "long-tail-distribution", "color-scales", "table-design"]

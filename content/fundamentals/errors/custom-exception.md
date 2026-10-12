@@ -1,7 +1,7 @@
 ---
 title: "Custom Exception"
 summary: "A domain-specific error type carrying meaningful context."
-levels: { backend: junior, frontend: mid-level, data-engineer: junior }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-scientist: junior }
 aliases: ["custom error", "user-defined exception", "domain exception"]
 prereqs: ["exception", "class"]
 related: ["exception", "error-handling", "throw", "try-catch", "error-codes-vs-exceptions"]

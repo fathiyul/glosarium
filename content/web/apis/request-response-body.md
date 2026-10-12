@@ -1,7 +1,7 @@
 ---
 title: "Request and Response Body"
 summary: "The payload sent with a request or returned in a response, usually JSON."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["request body", "response body", "payload", "HTTP body"]
 prereqs: ["http", "json"]
 related: ["http-headers", "http-methods", "json", "content-type", "multipart-form-data", "endpoint"]

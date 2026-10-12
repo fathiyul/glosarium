@@ -1,7 +1,7 @@
 ---
 title: "Data Reconciliation"
 summary: "Checking that totals match between source and destination."
-levels: { data-engineer: mid-level , data-analyst: senior }
+levels: { data-engineer: mid-level , data-analyst: senior , data-scientist: mid-level }
 aliases: ["reconciliation", "source-to-target reconciliation", "data validation between systems", "reconciling totals", "row count reconciliation"]
 prereqs: ["data-ingestion", "data-quality-dimensions"]
 related: ["data-quality-dimensions", "data-tests", "data-observability", "full-vs-incremental-load", "log-based-cdc", "data-incident"]

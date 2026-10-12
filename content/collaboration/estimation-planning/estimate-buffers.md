@@ -1,7 +1,7 @@
 ---
 title: "Buffers and Unknowns"
 summary: "Accounting for the work you can't see yet."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 An estimate buffer is explicit room in a plan for uncertainty, interruptions, rework, or risks that are not yet understood. It is not a hidden padding added to every task; it is a way to make assumptions and unknowns visible.

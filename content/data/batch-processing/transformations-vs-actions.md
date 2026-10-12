@@ -1,7 +1,7 @@
 ---
 title: "Transformations vs Actions"
 summary: "Lazy steps that build a plan vs commands that trigger execution."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["lazy evaluation in Spark", "Spark transformations", "Spark actions", "lazy transformations", "narrow and wide transformations"]
 prereqs: ["apache-spark", "dataframe"]
 related: ["dataframe", "lazy-evaluation", "shuffle", "apache-spark", "udf", "data-partitions-compute"]

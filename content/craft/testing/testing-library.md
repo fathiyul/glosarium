@@ -1,7 +1,7 @@
 ---
 title: "Testing Library Philosophy"
 summary: "Testing UI the way users use it, by role and text rather than internals."
-levels: { frontend: junior }
+levels: { frontend: junior , data-scientist: mid-level }
 aliases: ["Testing Library", "React Testing Library", "user-centric testing", "Testing Library guiding principle"]
 prereqs: ["component-testing"]
 related: ["component-testing", "snapshot-test", "end-to-end-test", "visual-regression-test"]

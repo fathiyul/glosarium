@@ -1,7 +1,7 @@
 ---
 title: "Type Alias"
 summary: "A new name for an existing type."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["typedef", "type alias TypeScript"]
 prereqs: ["type-annotation"]
 related: ["union-type", "type-annotation", "utility-types", "type-system", "generics"]

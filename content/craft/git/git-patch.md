@@ -1,7 +1,7 @@
 ---
 title: "Patch Files"
 summary: "Sharing changes as diff files instead of branches."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["patch file", "git patch", "diff file"]
 prereqs: ["git", "commit"]
 related: ["cherry-pick", "rebase", "merge", "code-review", "version-control"]

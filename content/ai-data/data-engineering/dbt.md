@@ -1,7 +1,7 @@
 ---
 title: "dbt"
 summary: "Transforming warehouse data with versioned SQL."
-levels: { backend: senior, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: senior, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["data build tool", "dbt Core", "dbt Cloud", "dbt models"]
 prereqs: ["sql-transformation-models"]
 related: ["sql-transformation-models", "incremental-models", "staging-intermediate-marts", "data-tests", "semantic-layer", "data-ci-cd"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Extract"
 summary: "A point-in-time copy of data pulled for one question, and how it drifts from the source."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["data extract", "data pull", "data snapshot", "exported data"]
 prereqs: ["sql", "data-warehouse"]
 related: ["data-freshness", "data-reconciliation", "metric-definitions", "spreadsheets-vs-sql", "reproducible-analysis"]

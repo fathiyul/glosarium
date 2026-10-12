@@ -1,7 +1,7 @@
 ---
 title: "Milestone"
 summary: "A significant checkpoint in a project."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 A milestone is a significant checkpoint that marks an outcome, decision, or change in project state. It is more useful than a date on a calendar when it says what will be true at that point, such as “the first team can reconcile the new report against the old source.”

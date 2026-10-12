@@ -1,7 +1,7 @@
 ---
 title: "Error Boundary"
 summary: "A UI component that catches rendering errors in its children."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: junior }
 aliases: ["ErrorBoundary", "React error boundary"]
 prereqs: ["component"]
 related: ["defensive-programming", "checked-vs-unchecked-exception", "loading-error-states"]

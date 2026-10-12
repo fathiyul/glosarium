@@ -1,7 +1,7 @@
 ---
 title: "Defensive Programming"
 summary: "Writing code that guards against invalid inputs and states."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["guard clauses", "input validation"]
 prereqs: ["conditional"]
 related: ["checked-vs-unchecked-exception", "error-boundary", "result-type"]

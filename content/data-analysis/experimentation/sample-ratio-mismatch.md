@@ -1,11 +1,11 @@
 ---
 title: "Sample Ratio Mismatch"
 summary: "When the groups are not the size the design promised, meaning the assignment itself is broken."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["srm", "sample ratio mismatch", "bucket imbalance", "imbalance check"]
 prereqs: ["ab-testing", "randomization-unit", "chi-square-test"]
 related: ["ab-testing", "randomization-unit", "chi-square-test", "data-quality-check", "metric-definitions"]
-core: [data-analyst]
+core: [data-analyst, data-scientist]
 ---
 
 A sample ratio mismatch (SRM) is when the groups in a running experiment are not the sizes the design said they would be, by more than chance would explain. The design promised an even split; the data shows one arm noticeably larger than the other.

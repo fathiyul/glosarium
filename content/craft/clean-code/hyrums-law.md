@@ -1,7 +1,7 @@
 ---
 title: "Hyrum's Law"
 summary: "With enough users, every observable behavior becomes something someone depends on."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["Hyrum's Law", "law of implicit interfaces", "implicit dependencies", "observable behavior dependency"]
 prereqs: ["api-design", "backward-compatibility"]
 related: ["api-design", "backward-compatibility", "breaking-change", "postels-law", "principle-of-least-astonishment", "deprecation"]

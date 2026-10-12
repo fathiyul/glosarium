@@ -1,7 +1,7 @@
 ---
 title: "Performance Review"
 summary: "A periodic assessment of your work."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["performance appraisal", "annual review"]
 prereqs: ["career-ladder"]
 related: ["career-ladder", "brag-document", "promotion", "career-conversations"]

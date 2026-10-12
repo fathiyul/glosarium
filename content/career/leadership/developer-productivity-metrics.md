@@ -1,7 +1,7 @@
 ---
 title: "Developer Productivity Metrics"
 summary: "SPACE, DORA, and the danger of measuring the wrong thing."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 Developer productivity metrics attempt to describe how engineering work flows and what outcomes it produces. Frameworks such as SPACE and DORA group different dimensions, but no single score captures an engineer's contribution or the health of a team.

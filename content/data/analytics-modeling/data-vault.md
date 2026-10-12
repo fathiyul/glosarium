@@ -1,11 +1,11 @@
 ---
 title: "Data Vault"
 summary: "Modeling with hubs, links and satellites for auditable, change-friendly history."
-levels: { data-engineer: senior , data-analyst: senior }
+levels: { data-engineer: senior , data-analyst: senior , data-scientist: senior }
 aliases: ["Data Vault 2.0", "hubs links satellites", "DV modeling", "Linstedt data vault"]
 prereqs: ["dimensional-modeling", "surrogate-key-dw"]
 related: ["dimensional-modeling", "inmon-vs-kimball", "scd-types", "surrogate-key-dw", "medallion-architecture", "landing-zone"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 **Data Vault** is a data warehouse modeling method (created by Dan Linstedt) designed for **auditability, flexibility when sources change, and parallel loading** of many source systems. Instead of modeling the business as facts and dimensions, it separates **what identifies things, how they relate, and how they describe** into three table types.

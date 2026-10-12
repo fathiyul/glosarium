@@ -1,7 +1,7 @@
 ---
 title: "Suffix Array"
 summary: "A sorted array of a string's suffixes for fast substring search."
-levels: { backend: principal, data-engineer: principal }
+levels: { backend: principal, data-engineer: principal , data-scientist: principal }
 aliases: ["suffix array", "suffix array and lcp", "substring index"]
 prereqs: ["string", "string-algorithms"]
 related: ["binary-search-tree", "regular-expression"]

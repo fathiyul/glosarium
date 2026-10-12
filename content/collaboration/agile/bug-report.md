@@ -1,7 +1,7 @@
 ---
 title: "Writing a Bug Report"
 summary: "Steps to reproduce, expected vs actual behavior, and environment."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["bug reports", "writing a bug report", "defect report", "issue report", "steps to reproduce"]
 prereqs: ["ticket"]
 related: ["reproduce-bug", "minimal-reproducible-example", "triage", "ticket", "reading-error-messages", "severity-levels"]

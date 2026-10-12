@@ -1,7 +1,7 @@
 ---
 title: "Data Engineering Undercurrents"
 summary: "Security, data management, DataOps, architecture, orchestration and software engineering across every stage."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["data undercurrents", "undercurrents in data engineering", "cross-cutting data concerns"]
 prereqs: ["data-engineering-lifecycle"]
 related: ["data-engineering-lifecycle", "data-governance", "dataops", "data-quality", "data-ownership", "pipeline-orchestration"]

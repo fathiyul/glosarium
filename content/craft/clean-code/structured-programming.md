@@ -1,7 +1,7 @@
 ---
 title: "Structured Programming"
 summary: "Building programs from sequence, selection and loops instead of goto."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["structured code", "goto considered harmful"]
 prereqs: ["control-flow"]
 related: ["control-flow", "conditional", "loop", "function", "spaghetti-code"]

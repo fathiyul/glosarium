@@ -1,7 +1,7 @@
 ---
 title: "Sliding Window"
 summary: "Maintaining a moving range over a sequence."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["window technique", "sliding window algorithm"]
 prereqs: ["two-pointers"]
 related: ["two-pointers", "amortized-analysis", "dynamic-programming", "array"]

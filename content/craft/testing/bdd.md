@@ -1,7 +1,7 @@
 ---
 title: "Behavior-Driven Development"
 summary: "Specifying behavior as plain-language scenarios shared with non-developers."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["BDD", "Gherkin", "Given When Then"]
 prereqs: ["acceptance-test"]
 related: ["acceptance-test", "user-story", "requirements", "deterministic-tests"]

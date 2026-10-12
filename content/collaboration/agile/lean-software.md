@@ -1,7 +1,7 @@
 ---
 title: "Lean Software Development"
 summary: "Eliminating waste and optimizing the flow of work."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Lean software development applies ideas about improving flow, learning, and reducing work that does not create value for users. In practice, teams look for queues, unnecessary handoffs, rework, and delays while keeping quality and safety intact.

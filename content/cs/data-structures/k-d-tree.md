@@ -1,7 +1,7 @@
 ---
 title: "K-D Tree"
 summary: "A tree for searching points in multi-dimensional space."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["k-d tree", "kd-tree", "k-dimensional tree"]
 prereqs: ["binary-search-tree", "array"]
 related: ["tree-traversal", "heap"]

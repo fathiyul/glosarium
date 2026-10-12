@@ -1,7 +1,7 @@
 ---
 title: "Residuals"
 summary: "What the model failed to explain \u2014 the leftover that tells you where the fit breaks."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: mid-level }
 aliases: ["residual", "residuals", "error term"]
 prereqs: ["linear-regression", "regression-analysis"]
 related: ["linear-regression", "regression-analysis", "multiple-regression", "outliers", "overfitting", "normal-distribution"]

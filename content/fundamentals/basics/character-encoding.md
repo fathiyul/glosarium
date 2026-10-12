@@ -1,7 +1,7 @@
 ---
 title: "Character Encoding"
 summary: "How characters map to bytes: ASCII, UTF-8, UTF-16."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["text encoding", "encoding", "charset", "character set", "UTF-8 vs UTF-16"]
 prereqs: ["string", "bits-and-bytes"]
 related: ["ascii", "unicode", "utf-8", "string", "mime-type"]

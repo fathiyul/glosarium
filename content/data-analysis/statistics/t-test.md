@@ -1,7 +1,7 @@
 ---
 title: "The t-Test"
 summary: "Comparing two averages and asking whether the gap is bigger than chance."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["t test", "Student's t-test", "Welch's t-test"]
 prereqs: ["hypothesis-testing", "standard-error", "null-hypothesis"]
 related: ["non-parametric-test", "p-value", "statistical-significance", "ab-testing", "confidence-interval", "outliers"]

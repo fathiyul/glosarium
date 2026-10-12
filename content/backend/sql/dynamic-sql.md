@@ -1,7 +1,7 @@
 ---
 title: "Dynamic SQL"
 summary: "Building SQL strings at runtime, and doing it without injection."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["dynamic sql", "dynamic queries", "runtime sql"]
 prereqs: ["sql", "prepared-statement"]
 related: ["query-builder", "view", "subquery"]

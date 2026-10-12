@@ -1,7 +1,7 @@
 ---
 title: "Webhooks vs Polling"
 summary: "Being notified when something changes vs repeatedly asking."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["webhooks vs polling", "push vs pull http", "polling vs webhooks"]
 prereqs: ["http", "webhooks"]
 related: ["webhooks", "polling", "server-sent-events"]

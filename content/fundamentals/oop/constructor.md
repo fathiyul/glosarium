@@ -1,7 +1,7 @@
 ---
 title: "Constructor"
 summary: "The method that initializes a new object."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["constructors", "__init__", "initializer"]
 prereqs: ["class"]
 related: ["class", "object", "attribute", "default-parameter", "dependency-injection"]

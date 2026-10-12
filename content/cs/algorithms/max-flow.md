@@ -1,7 +1,7 @@
 ---
 title: "Maximum Flow"
 summary: "Finding the most that can flow through a network (Ford-Fulkerson)."
-levels: { backend: principal, data-engineer: principal }
+levels: { backend: principal, data-engineer: principal , data-scientist: principal }
 aliases: ["maximum flow", "max flow", "ford-fulkerson"]
 prereqs: ["graph", "breadth-first-search"]
 related: ["dynamic-programming", "greedy-algorithm", "adjacency-list"]

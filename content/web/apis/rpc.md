@@ -1,7 +1,7 @@
 ---
 title: "RPC"
 summary: "Calling a function on another machine as if it were local."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["rpc", "remote procedure call", "remote procedure calls"]
 prereqs: ["http", "tcp"]
 related: ["grpc", "trpc", "rest"]

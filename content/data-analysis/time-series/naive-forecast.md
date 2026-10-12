@@ -1,7 +1,7 @@
 ---
 title: "Naive Forecast"
 summary: "Predicting 'same as last time' — the baseline every model must beat."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["naive forecast", "persistence forecast", "no-change forecast"]
 prereqs: ["forecasting", "time-series"]
 related: ["forecasting", "moving-average", "forecast-accuracy", "seasonality"]

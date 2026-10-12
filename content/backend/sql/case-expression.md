@@ -1,11 +1,11 @@
 ---
 title: "CASE Expression"
 summary: "Conditional logic inside a SQL query."
-levels: { backend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["CASE WHEN", "SQL CASE", "conditional expression", "CASE statement", "searched case"]
 prereqs: ["select-query"]
 related: ["coalesce-nullif", "group-by", "pivot", "null-in-sql", "sql-functions"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 `CASE` is SQL's **if / else**: it returns different values depending on conditions, inside a query.

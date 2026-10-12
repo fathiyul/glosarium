@@ -1,7 +1,8 @@
 ---
 title: "Test Duration"
 summary: "Running long enough to cover weekly cycles and novelty, and no longer than you can defend."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: senior }
 aliases: ["test duration", "experiment length", "test runtime"]
 prereqs: ["ab-testing", "sample-size-calculation", "statistical-power"]
 related: ["ab-testing", "novelty-effect", "seasonality", "minimum-detectable-effect", "holdback-group"]

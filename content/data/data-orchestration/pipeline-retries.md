@@ -1,7 +1,7 @@
 ---
 title: "Retries and Failure Handling"
 summary: "Retrying transient failures and alerting on real ones."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["retries", "failure handling in pipelines", "task retries", "retry policy", "pipeline failure alerts"]
 prereqs: ["pipeline-dag", "idempotent-pipeline"]
 related: ["retry-with-backoff", "idempotent-pipeline", "data-incident", "alerting", "debugging-failed-pipeline", "circuit-breaker-data"]

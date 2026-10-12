@@ -1,7 +1,7 @@
 ---
 title: "Open Table Formats (Iceberg, Delta, Hudi)"
 summary: "Metadata layers that give files in a lake ACID transactions, schemas and time travel."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Apache Iceberg", "Delta Lake", "Apache Hudi", "table formats", "Iceberg", "Delta"]
 prereqs: ["parquet", "hive-partitioning"]
 related: ["lakehouse", "file-compaction", "time-travel", "data-catalog-metastore", "partition-pruning", "small-files-problem"]

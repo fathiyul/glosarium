@@ -1,7 +1,7 @@
 ---
 title: "OLTP vs OLAP"
 summary: "Transaction processing vs analytical queries."
-levels: { backend: mid-level, data-engineer: junior }
+levels: { backend: mid-level, data-engineer: junior , data-scientist: junior }
 aliases: ["OLTP", "OLAP", "transactional vs analytical", "online transaction processing", "online analytical processing"]
 prereqs: ["relational-database"]
 related: ["data-warehouse", "columnar-storage", "star-schema", "normalization", "transaction", "query-cost"]

@@ -1,7 +1,8 @@
 ---
 title: "Classification vs Regression"
 summary: "Predicting categories vs predicting numbers."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+core: [data-scientist]
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: junior }
 aliases: ["classification vs regression", "classification", "regression"]
 prereqs: ["supervised-learning", "train-test-split"]
 related: ["supervised-learning", "overfitting", "train-test-split"]

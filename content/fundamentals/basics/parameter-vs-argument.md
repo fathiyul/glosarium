@@ -1,7 +1,7 @@
 ---
 title: "Parameter vs Argument"
 summary: "Parameters are in the definition; arguments are the values passed at the call."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["formal parameter", "actual argument", "parameters and arguments"]
 prereqs: ["function"]
 related: ["function", "default-parameter", "variadic-function", "return-value", "pass-by-value-vs-reference"]

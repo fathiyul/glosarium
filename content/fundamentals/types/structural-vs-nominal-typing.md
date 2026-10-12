@@ -1,7 +1,7 @@
 ---
 title: "Structural vs Nominal Typing"
 summary: "Compatible by shape vs compatible by declared name."
-levels: { backend: senior, frontend: mid-level, data-engineer: senior }
+levels: { backend: senior, frontend: mid-level, data-engineer: senior , data-scientist: senior }
 aliases: ["structural typing", "nominal typing"]
 prereqs: ["interface"]
 related: ["duck-typing", "interface", "intersection-type", "type-inference"]

@@ -1,7 +1,7 @@
 ---
 title: "Encapsulation"
 summary: "Hiding internal state behind a public interface."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["information hiding", "data hiding"]
 prereqs: ["class", "access-modifier"]
 related: ["abstraction", "access-modifier", "getter-setter", "coupling", "class"]

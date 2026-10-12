@@ -1,7 +1,7 @@
 ---
 title: "Long Method"
 summary: "A function doing too much; one of the most common smells."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["long function", "large function", "god function"]
 prereqs: ["function"]
 related: ["extract-function", "code-smell", "single-responsibility-principle", "nesting-depth", "refactoring"]

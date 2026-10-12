@@ -1,7 +1,7 @@
 ---
 title: "any vs unknown"
 summary: "TypeScript's escape hatches, and why unknown is the safe one."
-levels: { frontend: junior }
+levels: { frontend: junior , data-scientist: junior }
 aliases: ["any", "unknown", "any vs unknown TypeScript"]
 prereqs: ["typescript", "type-narrowing"]
 related: ["typescript", "type-narrowing", "type-guard", "runtime-validation", "type-system"]

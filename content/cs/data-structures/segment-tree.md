@@ -1,7 +1,7 @@
 ---
 title: "Segment Tree"
 summary: "A tree for fast range queries over arrays."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["segment tree", "range query tree", "interval tree"]
 prereqs: ["binary-search-tree", "array"]
 related: ["tree-traversal", "heap"]

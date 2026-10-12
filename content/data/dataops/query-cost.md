@@ -1,7 +1,7 @@
 ---
 title: "Query Cost"
 summary: "Why scanning a whole table can cost real money in a cloud warehouse."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["warehouse query cost", "cost of queries", "bytes scanned", "cloud data warehouse pricing", "compute cost"]
 prereqs: ["select-query", "row-vs-columnar-formats"]
 related: ["warehouse-cost-management", "partition-pruning", "hive-partitioning", "data-platform-team", "compute-storage-separation", "small-files-problem"]

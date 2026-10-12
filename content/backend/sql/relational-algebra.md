@@ -1,7 +1,7 @@
 ---
 title: "Relational Algebra"
 summary: "The operations (select, project, join) that SQL queries compile to."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["relational algebra", "relational operators", "algebra of relations"]
 prereqs: ["relational-model"]
 related: ["join", "subquery", "query-plan"]

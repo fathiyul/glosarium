@@ -1,7 +1,7 @@
 ---
 title: "Error Handling"
 summary: "Anticipating, detecting and responding to things going wrong."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["exception handling", "handling errors"]
 prereqs: ["exception", "conditional"]
 related: ["exception", "try-catch", "throw", "fail-fast", "graceful-degradation", "error-swallowing"]

@@ -1,7 +1,7 @@
 ---
 title: "Manual / Exploratory Testing"
 summary: "A human exploring the product to find what automation misses."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["exploratory testing", "manual QA", "ad hoc testing"]
 prereqs: ["software-testing"]
 related: ["end-to-end-test", "functional-testing", "bug-report", "testing-your-own-work", "test-in-production"]

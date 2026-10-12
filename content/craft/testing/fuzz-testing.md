@@ -1,7 +1,7 @@
 ---
 title: "Fuzzing"
 summary: "Feeding random inputs to find crashes and vulnerabilities."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["fuzzing", "fuzz testing", "fuzzer"]
 prereqs: ["unit-test", "property-based-testing"]
 related: ["cve", "buffer-overflow", "regression-test", "testing-trophy"]

@@ -1,7 +1,7 @@
 ---
 title: "Data SLAs and SLOs"
 summary: "Promises about when data will be ready and how correct it will be."
-levels: { data-engineer: senior , data-analyst: senior }
+levels: { data-engineer: senior , data-analyst: senior , data-scientist: senior }
 aliases: ["data SLO", "data service level agreement", "data SLAs", "data reliability targets", "data freshness SLA"]
 prereqs: ["slo", "data-freshness"]
 related: ["slo", "data-freshness", "data-quality-dimensions", "data-contract", "data-incident", "data-observability"]

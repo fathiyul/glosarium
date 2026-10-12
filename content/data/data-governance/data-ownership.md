@@ -1,11 +1,11 @@
 ---
 title: "Data Ownership and Stewardship"
 summary: "Named people accountable for a dataset's quality and access."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["data owner", "data steward", "data stewardship", "dataset ownership", "data accountability"]
 prereqs: ["data-governance", "documenting-datasets"]
 related: ["data-product", "data-catalog", "data-contract", "data-governance", "data-classification", "documenting-datasets"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 **Data ownership** means that **every important dataset has a named person or team who's accountable for it**: its quality, its definitions, who can access it and what happens when it breaks. Without one, data becomes **nobody's problem**: errors linger, documentation rots, and no one can answer "can I trust this?"

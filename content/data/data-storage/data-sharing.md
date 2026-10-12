@@ -1,7 +1,7 @@
 ---
 title: "Data Sharing"
 summary: "Giving another team or company live access to data without copying it."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["secure data sharing", "data clean room", "zero-copy sharing"]
 prereqs: ["data-warehouse", "data-governance"]
 related: ["row-level-security", "column-level-security", "data-masking", "query-federation", "access-control-models"]

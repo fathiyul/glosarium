@@ -1,7 +1,7 @@
 ---
 title: "Pivot / Unpivot"
 summary: "Turning rows into columns and back."
-levels: { backend: senior, data-engineer: senior , data-analyst: mid-level }
+levels: { backend: senior, data-engineer: senior , data-analyst: mid-level , data-scientist: senior }
 aliases: ["pivot", "unpivot", "cross tab"]
 prereqs: ["sql", "sql-functions"]
 related: ["view", "cross-join"]

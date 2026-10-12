@@ -1,7 +1,7 @@
 ---
 title: "Missing Data"
 summary: "Blank values that arrive for reasons, and what the reason does to your analysis."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["missing data", "missing values", "blank values", "nulls in analysis"]
 prereqs: ["data-profiling", "data-cleaning"]
 related: ["imputation", "data-cleaning", "null-in-sql", "segmentation", "data-quality-check", "data-quality-dimensions"]

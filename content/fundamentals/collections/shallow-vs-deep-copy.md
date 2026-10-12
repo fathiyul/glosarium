@@ -1,7 +1,7 @@
 ---
 title: "Shallow vs Deep Copy"
 summary: "Copying only the top level vs copying everything nested inside."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["shallow copy", "deep copy", "cloning objects"]
 prereqs: ["mutable-vs-immutable", "pass-by-value-vs-reference"]
 related: ["spread-operator", "structured-clone", "immutability", "equality-vs-identity"]

@@ -1,7 +1,7 @@
 ---
 title: "Dijkstra's Algorithm"
 summary: "Finding shortest paths in a graph with non-negative weights."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["Dijkstra's algorithm", "dijkstra", "shortest path algorithm"]
 prereqs: ["graph", "priority-queue"]
 related: ["bellman-ford", "greedy-algorithm", "breadth-first-search", "adjacency-list"]

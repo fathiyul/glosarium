@@ -1,7 +1,7 @@
 ---
 title: "HTTPS"
 summary: "HTTP encrypted with TLS."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["HTTP over TLS", "HTTP Secure", "SSL", "TLS"]
 prereqs: ["http"]
 related: ["hsts", "http", "tcp-handshake", "cors", "same-origin-policy"]

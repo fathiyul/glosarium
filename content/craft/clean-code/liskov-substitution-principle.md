@@ -1,7 +1,7 @@
 ---
 title: "Liskov Substitution Principle (L)"
 summary: "Subtypes must work anywhere their parent type is expected."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["LSP", "Liskov substitution"]
 prereqs: ["inheritance", "solid"]
 related: ["solid", "inheritance", "interface-segregation-principle", "open-closed-principle", "abstract-class"]

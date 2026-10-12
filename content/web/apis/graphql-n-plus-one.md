@@ -1,7 +1,7 @@
 ---
 title: "DataLoader / N+1 in GraphQL"
 summary: "Batching resolver lookups so nested queries don't explode."
-levels: { backend: senior, frontend: senior }
+levels: { backend: senior, frontend: senior , data-scientist: junior }
 aliases: ["dataloader", "graphql n+1", "n+1 in graphql"]
 prereqs: ["graphql-schema", "graphql"]
 related: ["graphql-schema", "eager-vs-lazy-loading", "graphql"]

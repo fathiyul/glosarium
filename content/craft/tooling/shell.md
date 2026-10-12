@@ -1,7 +1,7 @@
 ---
 title: "Shell"
 summary: "The program interpreting your commands: bash, zsh, fish."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["bash", "zsh", "fish", "command interpreter"]
 prereqs: ["terminal"]
 related: ["terminal", "basic-shell-commands", "shell-scripting", "environment-variable", "pipes-and-redirection"]

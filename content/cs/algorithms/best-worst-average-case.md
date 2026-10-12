@@ -1,7 +1,7 @@
 ---
 title: "Best, Worst and Average Case"
 summary: "Different inputs can make the same algorithm fast or slow."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["worst case", "best case", "average case"]
 prereqs: ["big-o-notation"]
 related: ["big-o-notation", "time-complexity", "quicksort", "hash-table", "amortized-analysis"]

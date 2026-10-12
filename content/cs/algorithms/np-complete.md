@@ -1,7 +1,7 @@
 ---
 title: "P vs NP / NP-Complete"
 summary: "Problems with no known efficient solution, and why some tasks stay hard."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["P vs NP", "NP-complete", "np complete"]
 prereqs: ["classic-hard-problems", "algorithm"]
 related: ["dynamic-programming", "greedy-algorithm", "backtracking"]

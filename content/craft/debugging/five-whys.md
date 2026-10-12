@@ -1,7 +1,7 @@
 ---
 title: "Five Whys"
 summary: "Asking \"why\" repeatedly to get from a symptom to its root cause."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["5 whys", "root cause analysis"]
 prereqs: ["debugger"]
 related: ["incident-response", "conditional-breakpoint", "heisenbug"]

@@ -1,11 +1,11 @@
 ---
 title: "Source Systems"
 summary: "Where data originates: application databases, APIs, logs, files, SaaS tools and devices."
-levels: { data-engineer: junior , data-analyst: junior }
+levels: { data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["data sources", "upstream systems", "operational systems", "source system"]
 prereqs: ["data-engineering"]
 related: ["data-ingestion", "structured-semi-unstructured", "log-based-cdc", "api-ingestion", "file-ingestion", "data-engineering-lifecycle"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 **Source systems** are where data **originates**: the systems that generate data as a side effect of doing something else. The data

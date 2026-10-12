@@ -1,7 +1,8 @@
 ---
 title: "Minimum Detectable Effect"
 summary: "The smallest change worth finding, which decides how much traffic the test needs."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["mde", "minimum detectable effect", "smallest effect of interest"]
 prereqs: ["statistical-power", "sample-size-calculation", "effect-size"]
 related: ["statistical-power", "sample-size-calculation", "effect-size", "standard-error", "multivariate-testing"]

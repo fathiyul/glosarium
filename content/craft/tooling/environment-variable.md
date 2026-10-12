@@ -1,7 +1,7 @@
 ---
 title: "Environment Variable"
 summary: "A key-value setting passed to processes from their environment."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["env var", "env vars", "environment variables", "ENV", ".env"]
 prereqs: ["shell"]
 related: ["path-variable", "dev-environment-setup", "shell", "lockfile"]

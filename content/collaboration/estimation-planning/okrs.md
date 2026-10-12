@@ -1,7 +1,7 @@
 ---
 title: "OKRs"
 summary: "Objectives and key results for setting goals."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: junior , tech-entrepreneur: growth }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: junior , tech-entrepreneur: growth , data-scientist: mid-level }
 core: [tech-entrepreneur]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Architecture Decision Record (ADR)"
 summary: "A short document recording a decision, its context and its consequences."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["ADR", "ADRs", "decision record", "architectural decision record", "decision log"]
 prereqs: ["design-doc", "technical-writing"]
 related: ["design-doc", "rfc-process", "one-way-two-way-doors", "architectural-trade-offs", "docs-as-code", "onboarding-docs"]

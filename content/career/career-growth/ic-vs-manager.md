@@ -1,7 +1,7 @@
 ---
 title: "IC vs Management Track"
 summary: "Two parallel career paths, and how to choose between them."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 The individual-contributor (IC) and management tracks are different ways to contribute, not a ranking where one is the next step after the other. ICs focus on technical work and its broader effects; managers focus on enabling people and teams through coaching, hiring, planning, and organizational decisions. Both still require communication and judgment.

@@ -1,7 +1,7 @@
 ---
 title: "Union-Find"
 summary: "Tracking which elements belong to the same group."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["union-find", "disjoint set", "disjoint-set union"]
 prereqs: ["graph", "tree-traversal"]
 related: ["minimum-spanning-tree"]

@@ -1,7 +1,7 @@
 ---
 title: "PR Description"
 summary: "Explaining what changed, why, and how to test it."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["pull request description", "PR template", "PR body"]
 prereqs: ["pull-request"]
 related: ["commit-message", "code-review", "small-prs", "self-review", "draft-pr"]

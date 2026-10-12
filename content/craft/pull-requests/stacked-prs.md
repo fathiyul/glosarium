@@ -1,7 +1,7 @@
 ---
 title: "Stacked PRs"
 summary: "A chain of dependent pull requests, each reviewable on its own."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["stacked PRs", "stacked pull requests", "PR stack"]
 prereqs: ["pull-request", "branch"]
 related: ["code-review", "rebase", "trunk-based-development", "force-push"]

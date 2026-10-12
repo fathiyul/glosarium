@@ -1,7 +1,7 @@
 ---
 title: "Data Residency"
 summary: "Requirements that data stays within certain countries."
-levels: { backend: staff, data-engineer: staff , data-analyst: senior , tech-entrepreneur: growth }
+levels: { backend: staff, data-engineer: staff , data-analyst: senior , tech-entrepreneur: growth , data-scientist: staff }
 ---
 
 Data residency describes where data is stored or processed geographically, often because of law, contract, customer policy, or operational requirements. It is distinct from data sovereignty, which can concern which jurisdiction's laws apply and who has control; organizations may use these terms differently.

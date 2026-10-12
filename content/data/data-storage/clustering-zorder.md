@@ -1,7 +1,7 @@
 ---
 title: "Clustering and Z-Ordering"
 summary: "Sorting data inside files so related rows sit together for faster scans."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["Z-order", "Z-ordering", "data clustering", "clustering keys", "sort order", "liquid clustering", "Hilbert curve"]
 prereqs: ["predicate-pushdown", "parquet"]
 related: ["predicate-pushdown", "partition-pruning", "file-compaction", "open-table-format", "hive-partitioning", "query-cost"]

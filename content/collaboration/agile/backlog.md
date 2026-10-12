@@ -1,7 +1,7 @@
 ---
 title: "Backlog"
 summary: "The prioritized list of work that hasn't started yet."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["product backlog", "work queue"]
 prereqs: ["agile"]
 related: ["backlog-refinement", "epic", "sprint", "kanban"]

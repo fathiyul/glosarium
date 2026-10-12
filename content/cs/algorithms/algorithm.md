@@ -1,7 +1,7 @@
 ---
 title: "Algorithm"
 summary: "A step-by-step procedure for solving a problem."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["algorithms"]
 prereqs: ["function", "loop"]
 related: ["big-o-notation", "data-structure", "sorting-algorithms", "binary-search", "brute-force"]

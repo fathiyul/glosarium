@@ -1,7 +1,7 @@
 ---
 title: "Cycle Time and Lead Time"
 summary: "How long work takes from start, or from request, until it's done."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Cycle time measures how long work takes from the point a team starts it until it is finished. Lead time usually starts earlier, when the work is requested or committed to, and ends at delivery. Teams should define the exact start and finish events because tools and organizations use these terms differently.

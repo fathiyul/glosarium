@@ -1,7 +1,7 @@
 ---
 title: "Tuple"
 summary: "A fixed-size, ordered group of values, often of different types."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["tuples", "immutable list"]
 prereqs: ["list"]
 related: ["list", "array", "mutable-vs-immutable", "destructuring", "dictionary"]

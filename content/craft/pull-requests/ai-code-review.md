@@ -1,7 +1,7 @@
 ---
 title: "AI-Assisted Code Review"
 summary: "Using AI reviewers as a first pass, not a replacement for human review."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["AI code review", "automated review"]
 prereqs: ["pull-request"]
 related: ["pull-request", "review-turnaround", "codeowners", "prompt-injection"]

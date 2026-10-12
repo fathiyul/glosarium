@@ -1,7 +1,7 @@
 ---
 title: "GraphQL"
 summary: "A query language that lets clients ask for exactly the data they need."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["graphql", "graph ql", "graphql api"]
 prereqs: ["rest", "api-contract"]
 related: ["graphql-schema", "rest-vs-graphql-vs-grpc", "api-contract"]

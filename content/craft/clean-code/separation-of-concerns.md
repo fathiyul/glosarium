@@ -1,7 +1,7 @@
 ---
 title: "Separation of Concerns"
 summary: "Each part of the program handles one distinct concern."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["SoC", "separate concerns"]
 prereqs: ["function", "class"]
 related: ["single-responsibility-principle", "cohesion", "coupling", "layered-architecture", "mvc"]

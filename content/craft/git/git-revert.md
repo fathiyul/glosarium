@@ -1,7 +1,7 @@
 ---
 title: "Revert"
 summary: "Creating a new commit that undoes an earlier one."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git revert", "undo a commit", "revert commit"]
 prereqs: ["commit"]
 related: ["git-reset", "rebase", "force-push", "rollback", "git-log"]

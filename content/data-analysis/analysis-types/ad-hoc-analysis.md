@@ -1,7 +1,8 @@
 ---
 title: "Ad-Hoc Analysis"
 summary: "One-off questions answered quickly, with the right amount of rigour."
-levels: { data-analyst: junior }
+core: [data-scientist]
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["ad-hoc analysis", "one-off analysis", "quick analysis"]
 prereqs: ["select-query", "asking-good-questions"]
 related: ["asking-good-questions", "exploratory-data-analysis", "descriptive-analysis", "stakeholder-management"]

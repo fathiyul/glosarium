@@ -1,7 +1,7 @@
 ---
 title: "Switch / Match"
 summary: "Choosing between many branches based on a value."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["switch case", "match statement", "case statement"]
 prereqs: ["conditional"]
 related: ["conditional", "ternary-operator", "control-flow", "pattern-matching", "polymorphism"]

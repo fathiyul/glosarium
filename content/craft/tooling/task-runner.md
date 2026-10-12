@@ -1,7 +1,7 @@
 ---
 title: "Task Runner / Project Scripts"
 summary: "Named project commands, like npm scripts or a justfile."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["project scripts", "justfile", "Makefile", "npm scripts"]
 prereqs: ["shell"]
 related: ["npm-scripts", "build-tool", "makefile", "continuous-integration", "dev-environment-setup"]

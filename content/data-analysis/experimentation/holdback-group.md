@@ -1,7 +1,8 @@
 ---
 title: "Holdback Group"
 summary: "A slice of users deliberately left out of a change so its long-term effect stays measurable."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: senior }
 aliases: ["holdback", "long-term holdback", "always-on control group", "control group"]
 prereqs: ["ab-testing", "test-duration"]
 related: ["ab-testing", "novelty-effect", "test-duration", "retention-analysis", "cohort-analysis"]

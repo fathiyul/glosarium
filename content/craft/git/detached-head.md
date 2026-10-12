@@ -1,7 +1,7 @@
 ---
 title: "Detached HEAD"
 summary: "Checking out a commit directly instead of a branch."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["detached HEAD state", "HEAD detached"]
 prereqs: ["head", "branch"]
 related: ["head", "branch", "git-reflog", "git-reset", "commit"]

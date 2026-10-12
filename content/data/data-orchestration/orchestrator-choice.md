@@ -1,7 +1,7 @@
 ---
 title: "Choosing an Orchestrator (Airflow, Dagster, Prefect)"
 summary: "Task-centric vs asset-centric orchestration and their trade-offs."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["Airflow vs Dagster vs Prefect", "choosing an orchestrator", "workflow orchestrator comparison", "Airflow", "Dagster", "Prefect"]
 prereqs: ["pipeline-orchestration", "asset-based-orchestration"]
 related: ["pipeline-orchestration", "asset-based-orchestration", "pipeline-dag", "scheduling-pipelines", "data-aware-scheduling", "workflow-engine"]

@@ -1,7 +1,7 @@
 ---
 title: "Reranking"
 summary: "Re-ordering retrieved results with a stronger model."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["reranking", "re-ranking", "result reranking"]
 prereqs: ["semantic-search", "rag"]
 related: ["rag", "semantic-search", "relevance-scoring"]

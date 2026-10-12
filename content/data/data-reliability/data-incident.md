@@ -1,7 +1,7 @@
 ---
 title: "Data Incident"
 summary: "A data quality failure that reaches users, and how to respond."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["data quality incident", "data outage", "bad data incident", "data downtime incident"]
 prereqs: ["data-tests", "incident"]
 related: ["data-downtime", "data-observability", "debugging-failed-pipeline", "postmortem", "circuit-breaker-data", "data-lineage"]

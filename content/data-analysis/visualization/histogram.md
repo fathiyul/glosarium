@@ -1,7 +1,7 @@
 ---
 title: "Histogram"
 summary: "Showing how values are spread by binning them and plotting the counts."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["frequency distribution", "bin chart", "distribution chart"]
 prereqs: ["data-visualization", "chart-selection"]
 related: ["bar-chart", "box-plot", "distribution-shapes", "descriptive-statistics", "axis-truncation"]

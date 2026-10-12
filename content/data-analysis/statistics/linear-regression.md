@@ -1,7 +1,7 @@
 ---
 title: "Linear Regression"
 summary: "The straight-line fit that answers 'what changes when this number moves'."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["linear regression", "least squares", "OLS"]
 prereqs: ["correlation-coefficient", "descriptive-statistics"]
 related: ["regression-analysis", "residuals", "multiple-regression", "correlation-vs-causation", "scatter-plot", "causal-inference"]

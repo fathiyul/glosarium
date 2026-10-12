@@ -1,7 +1,7 @@
 ---
 title: "Resolving Conflict"
 summary: "Working through disagreements productively."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Conflict resolution is working through a disagreement so people can understand the issue, choose a path, and continue collaborating. Conflict may concern goals, constraints, responsibilities, or communication—not just personality.

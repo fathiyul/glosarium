@@ -1,7 +1,7 @@
 ---
 title: "Test Isolation"
 summary: "Tests that don't depend on each other or on shared state."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["isolated tests", "independent tests", "test independence"]
 prereqs: ["unit-test"]
 related: ["flaky-test", "test-fixture", "test-database", "deterministic-tests", "global-variable"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Circuit Breaker"
 summary: "Stopping downstream jobs when upstream data fails checks."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["data circuit breaker", "data quality gate", "pipeline circuit breaker", "fail-closed pipeline"]
 prereqs: ["circuit-breaker", "data-tests"]
 related: ["circuit-breaker", "data-tests", "write-audit-publish", "data-incident", "data-observability", "data-contract"]

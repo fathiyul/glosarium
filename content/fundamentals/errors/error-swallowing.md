@@ -1,7 +1,7 @@
 ---
 title: "Swallowing Errors"
 summary: "Catching an error and ignoring it, which hides bugs."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["swallowed exception", "empty catch block", "silent failure", "except pass"]
 prereqs: ["try-catch", "exception"]
 related: ["try-catch", "error-handling", "logging", "fail-fast", "exception"]

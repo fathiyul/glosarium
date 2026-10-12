@@ -1,7 +1,7 @@
 ---
 title: "Retrieval-Augmented Generation (RAG)"
 summary: "Giving a model relevant documents so it answers from your data."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["RAG", "retrieval-augmented generation", "retrieval augmented generation"]
 prereqs: ["embeddings", "chunking"]
 related: ["semantic-search", "reranking", "chunking"]

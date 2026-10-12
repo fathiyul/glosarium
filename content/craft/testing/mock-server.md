@@ -1,7 +1,7 @@
 ---
 title: "Mock Server"
 summary: "A fake API that returns canned responses, for testing clients in isolation."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["API mock server", "mock API"]
 prereqs: ["test-double"]
 related: ["stub-double", "fake", "contract-testing", "integration-test"]

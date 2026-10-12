@@ -1,7 +1,7 @@
 ---
 title: "3xx Redirects"
 summary: "301, 302, 307, 308 and when to use each one."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["301", "302", "307", "308", "redirect status codes"]
 prereqs: ["http-status-codes"]
 related: ["redirect", "http-2xx", "http-4xx", "http-caching", "https"]

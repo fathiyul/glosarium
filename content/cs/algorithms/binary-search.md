@@ -1,7 +1,7 @@
 ---
 title: "Binary Search"
 summary: "Finding an item in sorted data by halving the range each step."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["bisection", "half-interval search"]
 prereqs: ["array", "loop"]
 related: ["linear-search", "big-o-notation", "sorting-in-practice", "off-by-one-error", "binary-search-tree"]

@@ -1,7 +1,7 @@
 ---
 title: "Reference Data"
 summary: "Shared code lists like country codes, currencies and status values."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["reference data management", "code lists", "lookup data", "reference tables"]
 prereqs: ["data-governance", "data-quality-dimensions"]
 related: ["master-data-management", "data-dictionary", "data-governance", "conformed-dimension", "multi-currency", "data-quality-dimensions"]

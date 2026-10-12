@@ -1,7 +1,7 @@
 ---
 title: "Chart Annotation"
 summary: "Marking the thing that happened, so a reader is told what the shape means."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["annotating charts", "chart captions", "callouts on charts"]
 prereqs: ["data-visualization", "chart-selection"]
 related: ["data-storytelling", "chartjunk", "line-chart", "time-series"]

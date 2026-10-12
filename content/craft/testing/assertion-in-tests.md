@@ -1,7 +1,7 @@
 ---
 title: "Test Assertion"
 summary: "The check that decides whether a test passes."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["test assertion", "assert in tests", "expect"]
 prereqs: ["unit-test"]
 related: ["arrange-act-assert", "unit-test", "assertion", "test-case-suite", "mock"]

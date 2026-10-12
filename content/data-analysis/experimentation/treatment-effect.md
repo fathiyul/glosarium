@@ -1,7 +1,8 @@
 ---
 title: "Treatment Effect"
 summary: "The measured difference the change made, and the many reasons it may not be that difference."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: senior }
 aliases: ["treatment effect", "average treatment effect", "experiment lift"]
 prereqs: ["ab-testing", "effect-size", "confidence-interval"]
 related: ["ab-testing", "effect-size", "confidence-interval", "randomized-controlled-trial", "regression-to-the-mean"]

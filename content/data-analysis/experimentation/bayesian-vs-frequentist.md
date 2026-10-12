@@ -1,7 +1,8 @@
 ---
 title: "Bayesian vs Frequentist Testing"
 summary: "Two readings of probability that give different answers to the same experiment."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["bayesian vs frequentist", "frequentist vs bayesian", "frequentist inference"]
 prereqs: ["hypothesis-testing", "bayes-theorem", "confidence-interval"]
 related: ["bayes-theorem", "p-value", "confidence-interval", "sequential-testing", "decision-rule"]

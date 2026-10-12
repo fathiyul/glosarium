@@ -1,7 +1,7 @@
 ---
 title: "Onboarding a New Data Source"
 summary: "Understanding, ingesting, testing and documenting a new source."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["adding a new data source", "new source onboarding", "integrating a new data source", "source onboarding checklist"]
 prereqs: ["source-systems", "data-ingestion"]
 related: ["source-systems", "data-contract", "data-profiling", "data-tests", "documenting-datasets", "landing-zone"]

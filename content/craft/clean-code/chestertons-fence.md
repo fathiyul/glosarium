@@ -1,7 +1,7 @@
 ---
 title: "Chesterton's Fence"
 summary: "Don't remove something until you know why it was put there."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Chesterton's fence", "Chesterton fence"]
 prereqs: ["broken-windows"]
 related: ["broken-windows", "legacy-code", "characterization-test", "git-blame"]

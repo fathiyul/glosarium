@@ -1,7 +1,7 @@
 ---
 title: "Disagree and Commit"
 summary: "Voicing disagreement, then fully backing the decision."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Disagree and commit is a decision practice: people raise concerns while a choice is open, then support the agreed direction once the decision owner has decided. It does not require pretending the disagreement disappeared or staying silent when new evidence changes the risk.

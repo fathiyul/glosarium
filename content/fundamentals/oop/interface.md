@@ -1,7 +1,7 @@
 ---
 title: "Interface"
 summary: "A contract of methods a type promises to implement."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["protocol"]
 prereqs: ["abstract-class"]
 related: ["abstract-class", "mixin", "dependency-injection", "polymorphism"]

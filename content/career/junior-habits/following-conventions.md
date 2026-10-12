@@ -1,7 +1,7 @@
 ---
 title: "Following Team Conventions"
 summary: "Matching the existing style even when you'd do it differently."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["team conventions", "coding conventions", "matching existing style", "consistency with codebase", "code style guide"]
 prereqs: ["readability"]
 related: ["code-style-consistency", "formatter", "linter", "code-review", "clean-code", "onboarding-yourself"]

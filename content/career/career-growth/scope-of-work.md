@@ -1,7 +1,7 @@
 ---
 title: "Scope"
 summary: "How big and ambiguous the problems you own are."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["scope", "engineering scope", "scope of impact", "level of scope", "scope and seniority"]
 prereqs: ["ownership", "impact"]
 related: ["impact", "ownership", "handling-ambiguity", "career-ladder", "senior-engineer", "staff-engineer", "glue-work"]

@@ -1,7 +1,7 @@
 ---
 title: "Separation of Storage and Compute"
 summary: "Scaling query engines independently from where data lives."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["separation of storage and compute", "decoupled storage and compute", "disaggregated storage", "storage-compute separation"]
 prereqs: ["data-warehouse", "data-lake"]
 related: ["lakehouse", "data-warehouse", "query-cost", "partition-pruning", "open-table-format", "mpp-warehouse"]

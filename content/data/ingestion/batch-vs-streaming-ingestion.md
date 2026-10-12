@@ -1,7 +1,7 @@
 ---
 title: "Batch vs Streaming Ingestion"
 summary: "Loading data on a schedule vs continuously as it's produced."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["batch ingestion", "streaming ingestion", "micro-batch ingestion", "real-time ingestion"]
 prereqs: ["data-ingestion"]
 related: ["batch-vs-stream", "log-based-cdc", "full-vs-incremental-load", "messages-vs-streams", "push-vs-pull-ingestion", "high-water-mark"]

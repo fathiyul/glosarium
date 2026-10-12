@@ -1,7 +1,7 @@
 ---
 title: "UTF-8"
 summary: "The dominant variable-length encoding of Unicode."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["UTF8", "Unicode Transformation Format 8"]
 prereqs: ["unicode", "character-encoding"]
 related: ["unicode", "ascii", "character-encoding", "string", "mime-type"]

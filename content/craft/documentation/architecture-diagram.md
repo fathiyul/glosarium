@@ -1,7 +1,7 @@
 ---
 title: "Architecture Diagram"
 summary: "A box-and-arrow picture of a system's components and data flow."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["system diagram", "component diagram"]
 prereqs: ["system-design"]
 related: ["class-diagram", "api-documentation", "load-balancer", "client-server"]

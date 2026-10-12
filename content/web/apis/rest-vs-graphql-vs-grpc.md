@@ -1,7 +1,7 @@
 ---
 title: "REST vs GraphQL vs gRPC"
 summary: "Choosing an API style for the clients and teams you have."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["rest vs graphql vs grpc", "api style comparison", "choosing an api style"]
 prereqs: ["rest", "graphql"]
 related: ["graphql", "grpc", "api-contract"]

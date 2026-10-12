@@ -1,7 +1,7 @@
 ---
 title: "undefined"
 summary: "JavaScript's value for a variable or property that was never assigned."
-levels: { frontend: junior }
+levels: { frontend: junior , data-scientist: junior }
 aliases: ["undefined value", "typeof undefined"]
 prereqs: ["variable"]
 related: ["null", "truthy-falsy", "optional-chaining", "default-parameter", "equality-js"]

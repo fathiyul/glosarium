@@ -1,7 +1,7 @@
 ---
 title: "Worktree"
 summary: "Several working directories checked out from one repository."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["git worktree", "worktrees", "multiple working directories"]
 prereqs: ["git", "branch"]
 related: ["rebase", "detached-head", "remote", "version-control"]

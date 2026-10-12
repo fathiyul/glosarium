@@ -1,7 +1,7 @@
 ---
 title: "Quicksort"
 summary: "Partitioning around a pivot; fast in practice, O(n²) in the worst case."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["quick sort"]
 prereqs: ["divide-and-conquer"]
 related: ["merge-sort", "stable-sort", "big-omega-theta", "divide-and-conquer"]

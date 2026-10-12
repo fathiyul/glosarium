@@ -1,7 +1,7 @@
 ---
 title: "Mean, Median and Mode"
 summary: "Three ways of naming a 'typical' value, and why the choice changes the story."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["mean", "median", "mode", "average"]
 prereqs: ["descriptive-statistics", "percentile"]
 related: ["distribution-shapes", "long-tail-distribution", "outliers", "percentile", "quartiles-and-iqr"]

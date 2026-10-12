@@ -1,7 +1,7 @@
 ---
 title: "Statistical Power"
 summary: "The chance a test would have detected an effect of the size you care about."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: mid-level }
 aliases: ["statistical power", "power of a test", "power analysis"]
 prereqs: ["hypothesis-testing", "effect-size", "sample-size-calculation"]
 related: ["sample-size-calculation", "minimum-detectable-effect", "statistical-significance", "effect-size", "test-duration", "peeking-problem"]

@@ -1,7 +1,7 @@
 ---
 title: "Time Management"
 summary: "Planning your day, protecting focus time and finishing what you start."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["time management for developers"]
 prereqs: ["context-switching-cost"]
 related: ["deep-work", "context-switching-cost", "timeboxing", "sprint-planning"]

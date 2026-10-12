@@ -1,7 +1,7 @@
 ---
 title: "Zero-Copy Clone"
 summary: "Copying a table instantly by sharing its underlying files."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["zero-copy cloning", "table cloning", "clone table", "zero copy clone"]
 prereqs: ["compute-storage-separation", "data-warehouse"]
 related: ["time-travel", "open-table-format", "data-sharing", "file-compaction", "lakehouse", "mpp-warehouse"]

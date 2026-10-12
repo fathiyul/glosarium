@@ -1,7 +1,7 @@
 ---
 title: "Strong vs Weak Typing"
 summary: "How willingly a language converts between types implicitly."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["strongly typed", "weakly typed", "strong typing", "weak typing"]
 prereqs: ["static-vs-dynamic-typing", "type-coercion"]
 related: ["type-coercion", "static-vs-dynamic-typing", "type-conversion", "type-system", "equality-js"]

@@ -1,7 +1,7 @@
 ---
 title: "Heatmap"
 summary: "Colouring a grid of values so patterns across two categories appear at once."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["heat map", "colour matrix", "colour grid"]
 prereqs: ["color-scales", "chart-selection"]
 related: ["color-scales", "box-plot", "small-multiples", "simpsons-paradox", "missing-data"]

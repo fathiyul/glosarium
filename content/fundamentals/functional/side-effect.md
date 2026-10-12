@@ -1,7 +1,7 @@
 ---
 title: "Side Effect"
 summary: "Anything a function does besides returning a value: I/O, mutation, logging."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["side effects", "observable effect"]
 prereqs: ["function"]
 related: ["pure-function", "referential-transparency", "immutability", "idempotence", "thread-safety"]

@@ -1,7 +1,7 @@
 ---
 title: "Testing in Production"
 summary: "Validating safely with real traffic using flags, canaries and monitoring."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["testing in production", "TiP", "test in prod"]
 prereqs: ["feature-flags", "observability"]
 related: ["canary-release", "dark-launch", "progressive-delivery", "monitoring", "alerting"]

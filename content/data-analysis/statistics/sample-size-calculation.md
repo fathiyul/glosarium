@@ -1,7 +1,7 @@
 ---
 title: "Sample Size Calculation"
 summary: "How much data you need before starting a test so its result is worth reading."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: mid-level }
 aliases: ["sample size", "sample size calculation", "power analysis"]
 prereqs: ["statistical-power", "effect-size", "standard-error"]
 related: ["statistical-power", "minimum-detectable-effect", "effect-size", "test-duration", "confidence-interval", "standard-error"]

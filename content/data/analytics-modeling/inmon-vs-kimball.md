@@ -1,11 +1,11 @@
 ---
 title: "Inmon vs Kimball"
 summary: "A normalized enterprise warehouse first vs dimensional marts first."
-levels: { data-engineer: senior , data-analyst: senior }
+levels: { data-engineer: senior , data-analyst: senior , data-scientist: senior }
 aliases: ["Inmon vs Kimball", "Inmon Kimball", "top-down vs bottom-up warehouse", "corporate information factory vs bus architecture"]
 prereqs: ["dimensional-modeling", "normalization"]
 related: ["dimensional-modeling", "data-vault", "star-schema", "conformed-dimension", "bus-matrix", "data-mart"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 Two classic philosophies for building a data warehouse, named after Bill Inmon and Ralph Kimball.

@@ -1,11 +1,11 @@
 ---
 title: "Data Lineage"
 summary: "Where data came from and everything it flows into."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["lineage", "data provenance", "column-level lineage", "upstream and downstream", "data flow lineage"]
 prereqs: ["pipeline-dag"]
 related: ["data-catalog", "data-incident", "data-observability", "data-contract", "deprecating-tables", "data-governance"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 **Data lineage** is the **map of where data comes from and where it goes**: which sources feed which tables, which transformations produce which outputs, and which dashboards, models and exports depend on them.

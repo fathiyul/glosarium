@@ -1,7 +1,7 @@
 ---
 title: "Law of Demeter"
 summary: "Only talk to your immediate neighbors; avoid a.b().c().d()."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["principle of least knowledge", "LoD"]
 prereqs: ["encapsulation"]
 related: ["tell-dont-ask", "feature-envy", "encapsulation", "coupling"]

@@ -1,7 +1,7 @@
 ---
 title: "URL"
 summary: "The address of a resource: scheme, host, path, query and fragment."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["Uniform Resource Locator", "web address", "link", "URI"]
 related: ["http", "path-vs-query-parameters", "query-string", "url-encoding", "domain-name", "origin"]
 core: [backend, frontend]

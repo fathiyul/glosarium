@@ -1,7 +1,7 @@
 ---
 title: "Metric Definitions"
 summary: "Precisely defining what a number means, so two dashboards don't disagree."
-levels: { data-engineer: junior , data-analyst: junior }
+levels: { data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["metrics definitions", "KPI definitions", "metric definition", "single source of truth for metrics", "metrics layer"]
 prereqs: ["data-dictionary", "group-by"]
 related: ["semantic-layer", "metric-discrepancy", "data-dictionary", "self-service-analytics", "bi-dashboard", "aggregate-tables"]

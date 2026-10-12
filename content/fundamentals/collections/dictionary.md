@@ -1,7 +1,7 @@
 ---
 title: "Dictionary / Map"
 summary: "A collection of key-value pairs with fast lookup by key."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["dict", "map", "hash map", "associative array"]
 prereqs: ["array", "variable"]
 related: ["hash-table", "set", "array", "json", "indexing"]

@@ -1,7 +1,7 @@
 ---
 title: "Long-Tail Distribution"
 summary: "A few huge values and a very long tail of small ones, where the average misleads."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["long tail", "heavy-tailed distribution", "long-tailed data"]
 prereqs: ["distribution-shapes", "central-tendency"]
 related: ["outliers", "percentile", "pareto-chart", "central-tendency", "distribution-shapes", "segmentation"]

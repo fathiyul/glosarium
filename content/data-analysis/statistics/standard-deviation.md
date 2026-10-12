@@ -1,7 +1,7 @@
 ---
 title: "Standard Deviation"
 summary: "How far a typical value sits from the average, in the same units as the data."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["stddev", "std dev", "STDEV"]
 prereqs: ["central-tendency", "descriptive-statistics"]
 related: ["distribution-shapes", "normal-distribution", "outliers", "percentile", "standard-error"]

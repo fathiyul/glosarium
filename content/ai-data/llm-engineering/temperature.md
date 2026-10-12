@@ -1,7 +1,7 @@
 ---
 title: "Temperature"
 summary: "A setting controlling how random a model's output is."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["temperature", "sampling temperature", "randomness setting"]
 prereqs: ["how-llms-work", "llm-token"]
 related: ["how-llms-work", "llm-evals", "structured-output"]

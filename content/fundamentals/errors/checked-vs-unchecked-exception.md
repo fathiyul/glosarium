@@ -1,7 +1,7 @@
 ---
 title: "Checked vs Unchecked Exceptions"
 summary: "Whether the compiler forces you to handle an exception."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["checked exception", "unchecked exception"]
 prereqs: ["error-handling"]
 related: ["result-type", "defensive-programming", "error-boundary"]

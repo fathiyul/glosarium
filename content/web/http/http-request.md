@@ -1,7 +1,7 @@
 ---
 title: "HTTP Request"
 summary: "A method, URL, headers and an optional body."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["HTTP request message", "request line", "request headers"]
 prereqs: ["http"]
 related: ["http-response", "http-methods", "http-headers", "url", "request-response-body"]

@@ -1,7 +1,7 @@
 ---
 title: "Tokenization"
 summary: "Replacing sensitive values with tokens that map back only through a secure vault."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["tokenization", "data tokenization", "vault tokenization", "tokenized data"]
 prereqs: ["data-masking", "pii"]
 related: ["data-masking", "anonymization", "hashing-vs-encryption", "key-management", "encryption-at-rest", "pii"]

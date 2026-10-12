@@ -1,7 +1,7 @@
 ---
 title: "Central Limit Theorem"
 summary: "Why averages and rates behave predictably even when the underlying data does not."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["CLT", "central limit theorem"]
 prereqs: ["probability-basics", "standard-deviation", "sampling-methods"]
 related: ["law-of-large-numbers", "normal-distribution", "standard-error", "confidence-interval", "sampling-bias"]

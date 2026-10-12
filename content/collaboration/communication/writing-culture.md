@@ -1,7 +1,7 @@
 ---
 title: "Writing Culture"
 summary: "Teams that make and record decisions through written documents."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 A writing culture is a team habit of using written documents to share context, reason through proposals, and record decisions. It does not mean replacing every conversation with a long memo; it makes important information available beyond the people who happened to be in the room.

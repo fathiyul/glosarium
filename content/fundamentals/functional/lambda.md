@@ -1,7 +1,7 @@
 ---
 title: "Lambda / Anonymous Function"
 summary: "A function without a name, defined inline."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["anonymous function", "lambda expression"]
 prereqs: ["function", "first-class-function"]
 related: ["arrow-function", "first-class-function", "higher-order-function", "closure"]

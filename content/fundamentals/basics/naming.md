@@ -1,7 +1,7 @@
 ---
 title: "Naming Things"
 summary: "Choosing names that reveal intent; one of the hardest parts of programming."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: [variable names, identifier names]
 prereqs: []
 related: [readability, clean-code, magic-number, code-style-consistency, ubiquitous-language]

@@ -1,7 +1,7 @@
 ---
 title: "EditorConfig"
 summary: "A shared config for indentation and line endings across editors."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: [".editorconfig", "EditorConfig file"]
 prereqs: ["formatter"]
 related: ["formatter", "linter", "code-style-consistency", "ide", "git"]

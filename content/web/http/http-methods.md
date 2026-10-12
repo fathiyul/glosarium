@@ -1,7 +1,7 @@
 ---
 title: "HTTP Methods"
 summary: "GET, POST, PUT, PATCH, DELETE and what each one means."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["HTTP verbs", "request methods", "GET POST PUT DELETE", "HTTP verbs"]
 prereqs: ["http"]
 related: ["safe-idempotent-methods", "rest", "endpoint", "http-status-codes", "cors"]

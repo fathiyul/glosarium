@@ -1,7 +1,7 @@
 ---
 title: "Language Version Manager"
 summary: "Tools like nvm, pyenv or mise for switching language versions."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["nvm", "pyenv", "mise", "asdf", "runtime version manager"]
 prereqs: ["package-manager", "dev-environment-setup"]
 related: ["dev-environment-setup", "virtual-environment", "package-manager", "lockfile", "dev-containers"]

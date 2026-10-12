@@ -1,7 +1,7 @@
 ---
 title: "Your First Weeks"
 summary: "Setting up, meeting people, and shipping something small early."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["onboarding", "first weeks at a new job", "starting a new job", "first 30 days", "new hire onboarding"]
 prereqs: ["dev-environment-setup"]
 related: ["onboarding-yourself", "reading-a-codebase", "asking-good-questions", "finding-a-mentor", "following-conventions", "engineering-journal"]

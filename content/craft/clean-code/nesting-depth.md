@@ -1,7 +1,7 @@
 ---
 title: "Deep Nesting"
 summary: "Too many levels of ifs and loops; flatten them with guard clauses."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["deep nesting", "arrow code", "nested ifs"]
 prereqs: ["conditional", "loop"]
 related: ["guard-clause", "cyclomatic-complexity", "readability", "long-method", "extract-function"]

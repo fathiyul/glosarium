@@ -1,7 +1,7 @@
 ---
 title: "Recursion"
 summary: "A function solving a problem by calling itself on smaller inputs."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["recursive function"]
 prereqs: ["function"]
 related: ["base-case", "tail-recursion", "stack-overflow", "loop", "divide-and-conquer"]

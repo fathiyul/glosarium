@@ -1,7 +1,7 @@
 ---
 title: "Distributed SQL Query Engines (Trino, Presto)"
 summary: "Querying data where it lives, across lakes and databases."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["Trino", "Presto", "distributed SQL engine", "query engine", "Athena", "interactive SQL engine"]
 prereqs: ["sql", "compute-storage-separation"]
 related: ["query-federation", "single-node-engines", "apache-spark", "mpp-warehouse", "lakehouse", "partition-pruning"]

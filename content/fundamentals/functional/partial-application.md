@@ -1,7 +1,7 @@
 ---
 title: "Partial Application"
 summary: "Fixing some arguments of a function to get a new function."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["partial function", "functools.partial"]
 prereqs: ["higher-order-function"]
 related: ["currying", "function-composition", "closure"]

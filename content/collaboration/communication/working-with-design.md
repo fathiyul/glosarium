@@ -1,7 +1,7 @@
 ---
 title: "Working with Designers"
 summary: "Collaborating on how it should look and behave."
-levels: { backend: mid-level, frontend: junior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: junior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["designer handoff", "design collaboration"]
 prereqs: ["ux-basics"]
 related: ["ux-basics", "pixel-perfect", "empty-state", "user-story"]

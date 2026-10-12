@@ -1,7 +1,7 @@
 ---
 title: "Simpson's Paradox"
 summary: "A trend that reverses when groups are combined."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["Simpson's paradox", "Simpsons paradox", "reversal paradox", "simpson's reversal"]
 prereqs: ["confounding-variable", "descriptive-statistics"]
 related: ["confounding-variable", "correlation-vs-causation", "segmentation", "sampling-bias", "correlation-coefficient"]

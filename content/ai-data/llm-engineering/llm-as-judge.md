@@ -1,7 +1,7 @@
 ---
 title: "LLM-as-Judge"
 summary: "Using one model to grade another model's output."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["LLM-as-judge", "model-graded evaluation", "judge model"]
 prereqs: ["llm-evals", "train-test-split"]
 related: ["llm-evals", "temperature", "model-selection"]

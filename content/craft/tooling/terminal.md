@@ -1,7 +1,7 @@
 ---
 title: "Terminal / Command Line"
 summary: "Controlling your computer and tools through text commands."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["command line", "CLI", "console", "command prompt"]
 prereqs: ["basic-shell-commands"]
 related: ["shell", "basic-shell-commands", "ssh", "terminal-editors", "pipes-and-redirection"]

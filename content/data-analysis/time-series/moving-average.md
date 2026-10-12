@@ -1,7 +1,7 @@
 ---
 title: "Moving Average"
 summary: "Smoothing a series by averaging each point with its neighbours."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["moving average", "rolling average", "7-day average"]
 prereqs: ["time-series", "trend"]
 related: ["trend", "exponential-smoothing", "line-chart", "seasonality"]

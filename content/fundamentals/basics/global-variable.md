@@ -1,7 +1,7 @@
 ---
 title: "Global Variable"
 summary: "A variable visible everywhere, and why it makes code hard to reason about."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["global state", "global scope", "globals"]
 prereqs: ["variable", "scope"]
 related: ["scope", "shadowing", "constant", "thread-safety", "dependency-injection"]

@@ -1,7 +1,7 @@
 ---
 title: "Fork"
 summary: "Your own copy of someone else's repository, for contributing via pull requests."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["forking", "fork a repository", "GitHub fork"]
 prereqs: ["repository", "remote"]
 related: ["git-clone", "pull-request", "remote", "branch", "contributing-guide"]

@@ -1,7 +1,8 @@
 ---
 title: "Training vs Inference"
 summary: "Building a model vs using it to make predictions."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+core: [data-scientist]
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["training vs inference", "training and inference", "offline vs online model"]
 prereqs: ["machine-learning", "ml-model"]
 related: ["model-serving", "ml-model", "llm-cost-latency"]

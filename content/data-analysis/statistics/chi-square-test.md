@@ -1,7 +1,7 @@
 ---
 title: "The Chi-Square Test"
 summary: "Comparing counts and proportions between groups, and testing whether categories are independent."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["chi-square test", "chi squared test", "χ² test"]
 prereqs: ["hypothesis-testing", "null-hypothesis"]
 related: ["p-value", "statistical-significance", "non-parametric-test", "ab-testing", "experiment-design", "effect-size"]

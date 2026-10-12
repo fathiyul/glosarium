@@ -1,7 +1,7 @@
 ---
 title: "Waterfall"
 summary: "Sequential phases from requirements to release."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["waterfall model"]
 prereqs: ["sdlc"]
 related: ["sdlc", "agile", "requirements", "scrum"]

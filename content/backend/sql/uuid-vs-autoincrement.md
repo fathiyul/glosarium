@@ -1,7 +1,7 @@
 ---
 title: "UUID vs Auto-Increment IDs"
 summary: "Sequential integers vs globally unique IDs, and their trade-offs."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["uuid vs auto increment", "uuid vs int", "uuid primary key"]
 prereqs: ["primary-key", "sequence"]
 related: ["natural-vs-surrogate-key", "db-index", "sharding"]

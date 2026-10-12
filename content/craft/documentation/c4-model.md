@@ -1,7 +1,7 @@
 ---
 title: "C4 Model"
 summary: "Diagramming software at four zoom levels: context, containers, components, code."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["C4 model", "c4", "c4 diagrams"]
 prereqs: ["architecture-diagram", "writing-clearly"]
 related: ["uml", "sequence-diagram", "class-diagram", "diagrams-as-code"]

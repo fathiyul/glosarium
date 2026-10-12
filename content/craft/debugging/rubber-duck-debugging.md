@@ -1,7 +1,7 @@
 ---
 title: "Rubber Duck Debugging"
 summary: "Explaining the problem out loud until you spot the bug."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["rubber duck", "rubber ducking", "rubber duck method"]
 prereqs: ["debugging"]
 related: ["debugging", "minimal-reproducible-example", "pairing", "print-debugging"]

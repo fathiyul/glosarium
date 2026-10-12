@@ -1,7 +1,7 @@
 ---
 title: "Micro-Batching"
 summary: "Processing a stream as a series of tiny batches."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["micro-batch", "microbatch", "mini-batch streaming", "batch interval"]
 prereqs: ["stream-processing", "batch-processing"]
 related: ["stream-processing", "apache-spark", "batch-vs-stream", "real-time-vs-near-real-time", "stream-windowing", "apache-flink"]

@@ -1,7 +1,7 @@
 ---
 title: "Type System"
 summary: "The rules a language uses to assign and check types."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["type checking", "types in programming languages"]
 prereqs: ["data-type"]
 related: ["static-vs-dynamic-typing", "strong-vs-weak-typing", "type-inference", "generics", "structural-vs-nominal-typing"]

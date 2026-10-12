@@ -1,7 +1,7 @@
 ---
 title: "Static Member"
 summary: "A field or method that belongs to the class rather than an instance."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["static method", "static field", "class method", "class variable"]
 prereqs: ["class", "method"]
 related: ["class", "method", "object", "global-variable", "constant"]

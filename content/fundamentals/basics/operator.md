@@ -1,7 +1,7 @@
 ---
 title: "Operator"
 summary: "A symbol that performs an operation on values, like +, == or &&."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["operators", "symbols in code"]
 prereqs: ["expression-vs-statement"]
 related: ["operator-precedence", "boolean", "short-circuit-evaluation", "ternary-operator", "type-coercion"]

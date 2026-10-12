@@ -1,7 +1,7 @@
 ---
 title: "Throwing / Raising"
 summary: "Signalling an error explicitly."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["raise", "throwing exceptions", "raising exceptions"]
 prereqs: ["exception"]
 related: ["exception", "try-catch", "custom-exception", "error-handling", "guard-clause"]

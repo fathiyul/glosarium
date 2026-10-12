@@ -1,7 +1,7 @@
 ---
 title: "Range Requests"
 summary: "Fetching part of a resource, for resumable downloads and video."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["range requests", "http range", "partial content"]
 prereqs: ["http", "etag"]
 related: ["conditional-request", "streaming-large-files", "cdn-caching"]

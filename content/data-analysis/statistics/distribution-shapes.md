@@ -1,7 +1,7 @@
 ---
 title: "Distribution Shapes"
 summary: "Symmetry, tails and peaks \u2014 the shape that tells you which summary is honest."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["distribution shape", "skew", "data distribution"]
 prereqs: ["descriptive-statistics", "histogram"]
 related: ["central-tendency", "long-tail-distribution", "normal-distribution", "histogram", "box-plot", "percentile"]

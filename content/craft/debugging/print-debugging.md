@@ -1,7 +1,7 @@
 ---
 title: "Print Debugging"
 summary: "Adding temporary output to see what code is doing."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["printf debugging", "console.log debugging", "log debugging"]
 prereqs: ["debugging"]
 related: ["debugger", "breakpoint", "logging", "binary-search-debugging", "reading-error-messages"]

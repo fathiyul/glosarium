@@ -1,7 +1,7 @@
 ---
 title: "IoT and Sensor Data"
 summary: "High-frequency readings from devices, with gaps, clock drift and duplicates."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["sensor data", "IoT data", "device telemetry"]
 prereqs: ["data-ingestion", "event-streaming"]
 related: ["time-series-database", "telemetry-pipeline", "late-arriving-data", "deduplication", "data-quality", "event-time-vs-processing-time"]

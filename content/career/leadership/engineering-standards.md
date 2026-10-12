@@ -1,7 +1,7 @@
 ---
 title: "Setting Engineering Standards"
 summary: "Defining practices that many teams follow."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 Engineering standards are shared expectations for how teams design, build, review, secure, and operate software. They can cover code conventions, API compatibility, accessibility, testing, data handling, or production readiness. A useful standard reduces repeated decisions or prevents a meaningful class of failure.

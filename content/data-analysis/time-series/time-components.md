@@ -1,7 +1,7 @@
 ---
 title: "Trend, Seasonality and Noise"
 summary: "Splitting a series into direction, repeating pattern and leftover."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["time series decomposition", "trend-seasonality-noise", "decomposing a series"]
 prereqs: ["time-series", "trend", "seasonality"]
 related: ["trend", "seasonality", "moving-average", "stationarity"]

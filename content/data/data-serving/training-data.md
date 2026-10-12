@@ -1,7 +1,7 @@
 ---
 title: "Training Data"
 summary: "Labeled examples prepared for machine learning."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["ML training set", "training dataset", "labeled data", "training examples"]
 prereqs: ["machine-learning", "dataset"]
 related: ["feature-store", "overfitting", "data-cleaning", "sampling-data", "data-versioning", "model-serving"]

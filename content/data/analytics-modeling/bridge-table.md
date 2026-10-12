@@ -1,7 +1,7 @@
 ---
 title: "Bridge Table"
 summary: "Handling many-to-many relationships in a dimensional model."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["bridge tables", "many-to-many table", "associative table", "weighting table"]
 prereqs: ["fact-table", "dimension-table"]
 related: ["dimensional-modeling", "grain", "surrogate-key-dw", "star-schema", "slowly-changing-dimension", "conformed-dimension"]

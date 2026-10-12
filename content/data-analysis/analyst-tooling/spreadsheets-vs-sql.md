@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheets vs SQL"
 summary: "When the spreadsheet is the right tool and when it quietly stops being one."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["spreadsheet vs SQL", "SQL or spreadsheet", "when to use SQL", "spreadsheet versus SQL"]
 prereqs: ["sql", "spreadsheet-formulas"]
 related: ["query-version-control", "ad-hoc-analysis", "self-service-analytics", "data-warehouse", "pivot-table"]

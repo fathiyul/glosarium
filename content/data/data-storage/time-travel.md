@@ -1,7 +1,7 @@
 ---
 title: "Time Travel"
 summary: "Querying a table as it was at an earlier point in time."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["AS OF queries", "temporal queries", "table versioning"]
 prereqs: ["data-warehouse", "data-retention"]
 related: ["mvcc", "snapshot-isolation", "backups", "data-retention-tiers", "lakehouse"]

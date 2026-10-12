@@ -1,7 +1,7 @@
 ---
 title: "HTTP/3"
 summary: "HTTP running over QUIC."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["http/3", "http3", "http over quic"]
 prereqs: ["http-2", "quic"]
 related: ["quic", "head-of-line-blocking", "tls-handshake"]

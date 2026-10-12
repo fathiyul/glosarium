@@ -1,7 +1,7 @@
 ---
 title: "Psychological Safety"
 summary: "Feeling safe to take risks and admit mistakes on a team."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Psychological safety is a team climate where people can raise questions, admit mistakes, and disagree without expecting humiliation or retaliation. It is about interpersonal risk in the team, not about comfort at all times or freedom from accountability.

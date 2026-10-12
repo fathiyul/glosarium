@@ -1,7 +1,7 @@
 ---
 title: "Boolean Flag Arguments"
 summary: "Passing true/false to switch a function's behavior, and why it hurts readability."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["boolean parameter", "flag parameter", "boolean flag argument", "boolean trap"]
 prereqs: ["boolean", "function"]
 related: ["readability", "naming", "single-responsibility-principle", "default-parameter"]

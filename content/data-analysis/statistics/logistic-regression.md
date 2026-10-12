@@ -1,7 +1,7 @@
 ---
 title: "Logistic Regression"
 summary: "Predicting yes-or-no outcomes with a linear model and a cutoff."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["logistic regression", "logit model", "binary classifier"]
 prereqs: ["linear-regression", "classification-vs-regression"]
 related: ["linear-regression", "classification-vs-regression", "overfitting", "train-test-split"]

@@ -1,7 +1,7 @@
 ---
 title: "Regular Expression"
 summary: "A pattern language for matching and extracting text."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["regex", "regexp"]
 prereqs: ["string"]
 related: ["string", "pattern-matching", "regex-tools", "input-validation", "redos"]

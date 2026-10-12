@@ -1,7 +1,7 @@
 ---
 title: "Lookup Functions"
 summary: "Pulling a value from another table by key, in a spreadsheet or in SQL."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["lookup", "lookup table", "table lookup", "approximate match lookup"]
 prereqs: ["join", "spreadsheet-formulas"]
 related: ["join", "join-types", "data-cleaning", "spreadsheet-formulas", "data-quality-check"]

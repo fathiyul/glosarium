@@ -1,7 +1,7 @@
 ---
 title: "Compliance as Code"
 summary: "Automated checks that systems meet policies."
-levels: { backend: staff, data-engineer: staff }
+levels: { backend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 Compliance as code expresses selected policy requirements as machine-checkable rules, configuration, or tests. Examples include checking that storage is encrypted, access logs are enabled, a deployment uses approved regions, or a repository contains required metadata.

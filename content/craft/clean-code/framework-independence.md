@@ -1,7 +1,7 @@
 ---
 title: "Keep Framework Code at the Edges"
 summary: "Keeping business logic free of framework details so it survives framework changes."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["framework independence", "framework at the edges", "decouple from framework"]
 prereqs: ["separation-of-concerns", "hexagonal-architecture"]
 related: ["clean-architecture", "dependency-injection", "layered-architecture", "domain-driven-design"]

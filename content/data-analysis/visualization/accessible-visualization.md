@@ -1,7 +1,7 @@
 ---
 title: "Accessible Visualization"
 summary: "Charts that survive color blindness, small screens, greyscale printing and screen readers."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["accessible charts", "chart accessibility", "colour-blind-safe charts"]
 prereqs: ["data-visualization", "color-scales"]
 related: ["accessibility", "wcag", "alt-text", "color-contrast", "chart-selection"]

@@ -1,11 +1,11 @@
 ---
 title: "Star vs Snowflake Schema"
 summary: "Simpler queries vs less duplication."
-levels: { data-engineer: mid-level , data-analyst: mid-level }
+levels: { data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["star schema vs snowflake schema", "snowflake vs star", "star or snowflake", "normalized dimensions vs denormalized dimensions"]
 prereqs: ["star-schema", "normalization"]
 related: ["star-schema", "snowflake-schema", "normalization", "denormalization", "dimension-table", "one-big-table"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 Both are dimensional models: a central fact table with dimension tables around it. The difference is whether the **dimensions are denormalized (star)** or **normalized into sub-tables (snowflake)**.

@@ -1,7 +1,7 @@
 ---
 title: "String"
 summary: "A sequence of characters, usually immutable."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["text", "str", "string literal"]
 prereqs: ["data-type"]
 related: ["character-encoding", "string-interpolation", "regular-expression", "unicode", "mutable-vs-immutable"]

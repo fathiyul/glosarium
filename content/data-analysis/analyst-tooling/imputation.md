@@ -1,7 +1,7 @@
 ---
 title: "Imputation"
 summary: "Filling blanks with a stand-in value, and what that costs you in certainty."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["imputation", "imputing missing values", "filling missing values", "mean imputation"]
 prereqs: ["missing-data", "statistics-basics"]
 related: ["missing-data", "train-test-split", "data-cleaning", "central-tendency", "outliers", "correlation-coefficient"]

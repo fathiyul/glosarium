@@ -1,7 +1,7 @@
 ---
 title: "Array"
 summary: "An ordered, indexed collection of elements."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["arrays", "array data structure"]
 prereqs: ["variable", "data-type"]
 related: ["list", "indexing", "slicing", "tuple", "dictionary", "iteration"]

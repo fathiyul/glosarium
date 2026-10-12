@@ -1,11 +1,11 @@
 ---
 title: "Data Governance"
 summary: "The policies and roles that decide how data is managed and used."
-levels: { data-engineer: mid-level , data-analyst: senior }
+levels: { data-engineer: mid-level , data-analyst: senior , data-scientist: mid-level }
 aliases: ["data governance framework", "data management policies", "governing data", "data stewardship policy"]
 prereqs: ["data-ownership", "data-classification"]
 related: ["data-ownership", "data-catalog", "data-classification", "data-quality", "data-lineage", "gdpr"]
-core: [data-analyst]
+core: [data-analyst, data-scientist]
 ---
 
 Data governance is the set of policies, roles and processes that decide how data is managed and used across an organisation: who can access it, what it means, how good it must be, how long it is kept, and who is accountable when something goes wrong. It is more organisational than technical, though tooling makes it practical.

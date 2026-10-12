@@ -1,7 +1,7 @@
 ---
 title: "Root Mean Squared Error"
 summary: "Forecast error that punishes big misses more than small ones."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["RMSE", "root mean squared error", "root mean square error"]
 prereqs: ["forecast-accuracy", "statistical-variance"]
 related: ["forecast-accuracy", "mape", "naive-forecast", "outliers"]

@@ -1,7 +1,7 @@
 ---
 title: "Breakpoint"
 summary: "A place where the debugger pauses execution."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["breakpoints", "debugger breakpoint", "set breakpoint"]
 prereqs: ["debugger"]
 related: ["debugger", "conditional-breakpoint", "step-over-into-out", "print-debugging", "browser-devtools"]

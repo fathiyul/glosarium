@@ -1,7 +1,7 @@
 ---
 title: "Deprecating Tables"
 summary: "Retiring datasets without breaking hidden downstream users."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["table deprecation", "deprecating a table", "retiring datasets", "sunsetting tables"]
 prereqs: ["deprecation", "data-lineage"]
 related: ["data-lineage", "data-catalog", "data-contract", "data-ownership", "handling-schema-changes", "data-sharing"]

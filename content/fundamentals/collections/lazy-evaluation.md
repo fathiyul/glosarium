@@ -1,7 +1,7 @@
 ---
 title: "Lazy Evaluation"
 summary: "Computing values only when they're actually needed."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["lazy", "deferred evaluation", "call by need"]
 prereqs: ["generator"]
 related: ["generator", "iterator", "memoization", "immutability"]

@@ -1,7 +1,7 @@
 ---
 title: "Short-Circuit Evaluation"
 summary: "&& and || stopping as soon as the result is known."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["short circuit", "lazy evaluation of boolean operators", "and or short-circuit"]
 prereqs: ["boolean"]
 related: ["boolean", "truthy-falsy", "conditional", "operator", "null"]

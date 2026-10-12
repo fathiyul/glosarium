@@ -1,7 +1,7 @@
 ---
 title: "Effective Meetings"
 summary: "Agendas, notes, clear decisions, and fewer meetings."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 An effective meeting has a purpose that benefits from people discussing something together, a clear set of participants, and an outcome such as a decision, plan, or shared understanding. If the purpose is only to distribute information, a written update may work better.

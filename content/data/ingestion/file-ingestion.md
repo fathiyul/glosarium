@@ -1,7 +1,7 @@
 ---
 title: "File-Based Ingestion"
 summary: "Loading CSV, JSON or Parquet files dropped in storage or SFTP."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["file-based ingestion", "file ingestion", "SFTP ingestion", "file drops", "batch file loads"]
 prereqs: ["data-ingestion", "csv-format"]
 related: ["landing-zone", "schema-drift", "csv-import-export", "deduplication", "full-vs-incremental-load", "row-vs-columnar-formats"]

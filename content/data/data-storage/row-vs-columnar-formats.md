@@ -1,7 +1,7 @@
 ---
 title: "Row vs Columnar File Formats"
 summary: "CSV and Avro store rows together; Parquet and ORC store columns together."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["row-oriented vs column-oriented", "columnar storage", "Parquet vs CSV", "Avro vs Parquet", "columnar file formats"]
 prereqs: ["csv-format"]
 related: ["orc", "arrow", "compression-codecs", "predicate-pushdown", "json-lines", "hive-partitioning"]

@@ -1,7 +1,7 @@
 ---
 title: "HIPAA"
 summary: "US rules for protecting health information."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 HIPAA is a United States law that includes rules for protecting certain health information handled by covered entities and their business associates. Whether an organization, dataset, or service is covered depends on specific legal relationships and information, not simply on whether the product involves health.

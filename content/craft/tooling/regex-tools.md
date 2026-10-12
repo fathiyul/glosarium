@@ -1,7 +1,7 @@
 ---
 title: "Regex Testers"
 summary: "Tools for building and testing regular expressions interactively."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["regex tester", "regex101", "regexr"]
 prereqs: ["regular-expression"]
 related: ["regular-expression", "grep-ripgrep", "input-validation", "searching-effectively"]

@@ -1,7 +1,7 @@
 ---
 title: "Right to Erasure"
 summary: "Deleting a user's data on request, across every system."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 A right-to-erasure request asks an organization to delete personal data when applicable law and circumstances grant that right. The request may have exceptions, so systems should support a reviewable process rather than assuming every request means immediate removal of every record.

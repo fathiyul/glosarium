@@ -1,11 +1,11 @@
 ---
 title: "JOIN"
 summary: "Combining rows from several tables."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["SQL JOIN", "joining tables", "INNER JOIN", "join clause"]
 prereqs: ["foreign-key", "select-query"]
 related: ["join-types", "foreign-key", "group-by", "self-join", "cross-join", "junction-table"]
-core: [backend, data-engineer]
+core: [backend, data-engineer, data-scientist]
 ---
 
 A **join** combines rows from two tables into one result by matching a column in each. It's how relational databases bring

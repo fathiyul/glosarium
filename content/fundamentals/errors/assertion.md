@@ -1,7 +1,7 @@
 ---
 title: "Assertion"
 summary: "A check that crashes when an assumption turns out to be false."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["assert", "assert statement", "sanity check"]
 prereqs: ["boolean", "exception"]
 related: ["exception", "fail-fast", "defensive-programming", "error-handling", "unit-test"]

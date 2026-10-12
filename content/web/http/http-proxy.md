@@ -1,7 +1,7 @@
 ---
 title: "HTTP Proxy"
 summary: "An intermediary that forwards HTTP requests."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["http proxy", "proxy server", "forward proxy"]
 prereqs: ["http", "tls"]
 related: ["reverse-proxy", "load-balancer", "api-gateway"]

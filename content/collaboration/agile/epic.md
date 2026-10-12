@@ -1,7 +1,7 @@
 ---
 title: "Epic"
 summary: "A large body of work split into smaller stories."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["epics", "initiative"]
 prereqs: ["backlog"]
 related: ["backlog", "backlog-refinement", "sprint", "user-story"]

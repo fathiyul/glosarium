@@ -1,7 +1,7 @@
 ---
 title: "Bitwise Operation"
 summary: "Operating on individual bits: AND, OR, XOR and shifts."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["bit manipulation", "bitwise operators"]
 prereqs: ["binary-number"]
 related: ["integer-overflow", "data-type", "character-encoding"]

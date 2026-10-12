@@ -1,11 +1,11 @@
 ---
 title: "Structured, Semi-Structured and Unstructured Data"
 summary: "Tables, JSON-like records, and free-form text, images or audio."
-levels: { data-engineer: junior, backend: junior , data-analyst: junior }
+levels: { data-engineer: junior, backend: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["structured data", "semi-structured data", "unstructured data", "data structure types"]
 prereqs: ["data-engineering"]
 related: ["source-systems", "dataset", "data-volume-velocity-variety", "json", "schema-drift"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 Data comes in three broad shapes, based on how much structure it has.

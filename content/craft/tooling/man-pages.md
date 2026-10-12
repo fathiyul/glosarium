@@ -1,7 +1,7 @@
 ---
 title: "Getting Help (man, --help, tldr)"
 summary: "Reading a command's built-in documentation."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["man", "--help", "tldr", "manual pages"]
 prereqs: ["basic-shell-commands"]
 related: ["basic-shell-commands", "reading-docs", "searching-effectively", "shell", "grep-ripgrep"]

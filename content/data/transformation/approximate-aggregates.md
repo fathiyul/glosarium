@@ -1,7 +1,7 @@
 ---
 title: "Approximate Aggregates"
 summary: "Fast, nearly exact counts and percentiles on huge data."
-levels: { data-engineer: senior , data-analyst: senior }
+levels: { data-engineer: senior , data-analyst: senior , data-scientist: senior }
 aliases: ["approximate distinct count", "APPROX_COUNT_DISTINCT", "sketches", "approximate percentile"]
 prereqs: ["hyperloglog", "group-by"]
 related: ["hyperloglog", "percentile", "bloom-filter", "cardinality", "group-by", "query-cost"]

@@ -1,7 +1,7 @@
 ---
 title: "Non-Parametric Tests"
 summary: "Tests that fall back to ranks when the data does not meet the assumptions of a t-test."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: mid-level }
 aliases: ["non-parametric test", "distribution-free test", "rank test"]
 prereqs: ["t-test", "hypothesis-testing"]
 related: ["t-test", "outliers", "hypothesis-testing", "p-value", "quartiles-and-iqr", "ab-testing"]

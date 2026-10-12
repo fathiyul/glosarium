@@ -1,7 +1,7 @@
 ---
 title: "Trend"
 summary: "The long-run direction underneath the noise."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["trend line", "upward trend", "trend direction"]
 prereqs: ["time-series", "line-chart"]
 related: ["time-series", "seasonality", "moving-average", "line-chart"]

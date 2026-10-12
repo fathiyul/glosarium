@@ -1,7 +1,7 @@
 ---
 title: "Cyclomatic Complexity"
 summary: "A count of independent paths through code; a rough complexity measure."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["McCabe complexity", "cyclomatic number"]
 prereqs: ["conditional"]
 related: ["code-smell", "unit-test", "feature-envy", "broken-windows"]

@@ -1,7 +1,7 @@
 ---
 title: "Binary Search Tree"
 summary: "A binary tree ordered so each lookup can halve the search."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["BST", "ordered binary tree"]
 prereqs: ["tree-traversal"]
 related: ["b-tree", "tree-traversal", "heap", "big-o-notation"]

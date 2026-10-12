@@ -1,7 +1,7 @@
 ---
 title: "Explaining to Non-Engineers"
 summary: "Translating technical trade-offs into business terms."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level , tech-entrepreneur: idea }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level , tech-entrepreneur: idea , data-scientist: mid-level }
 aliases: ["communicating with non-technical stakeholders", "explaining technical concepts", "translating tech to business", "technical communication for non-technical people"]
 prereqs: ["status-updates"]
 related: ["stakeholder-management", "writing-clearly", "saying-no", "technical-debt", "presenting", "giving-a-demo"]

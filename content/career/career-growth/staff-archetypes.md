@@ -1,7 +1,7 @@
 ---
 title: "Staff Archetypes"
 summary: "Tech lead, architect, solver and right hand."
-levels: { backend: staff, frontend: staff, data-engineer: staff }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-scientist: staff }
 ---
 
 Staff engineer archetypes are patterns describing different ways senior technical contributors create leverage across an organization. Common descriptions include a technical lead guiding a team, an architect shaping systems, a solver tackling a difficult problem, or a right hand supporting a leader. These are lenses, not official job categories or a fixed taxonomy.

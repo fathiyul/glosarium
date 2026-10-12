@@ -1,7 +1,7 @@
 ---
 title: "Clone"
 summary: "Copying a remote repository, with its full history, to your machine."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git clone", "clone a repository", "cloning"]
 prereqs: ["git", "repository"]
 related: ["remote", "push-pull-fetch", "fork", "branch", "repository"]

@@ -1,7 +1,7 @@
 ---
 title: "Red, Green, Refactor"
 summary: "The three-step TDD cycle."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["TDD cycle", "red-green-refactor cycle"]
 prereqs: ["unit-test"]
 related: ["given-when-then", "deterministic-tests", "over-mocking", "bdd"]

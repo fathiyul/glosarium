@@ -1,7 +1,7 @@
 ---
 title: "Data Engineering"
 summary: "Building the systems that collect, move, store and prepare data for analysis and ML."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["DE", "data engineer", "data platform engineering"]
 prereqs: ["data-pipeline"]
 related: ["data-engineering-lifecycle", "data-hierarchy-of-needs", "data-pipeline", "etl", "data-warehouse", "data-lake", "data-roles"]

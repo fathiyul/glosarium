@@ -1,7 +1,7 @@
 ---
 title: "Null / None / nil"
 summary: "A value meaning \"nothing here\", and the source of countless crashes."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["None", "nil", "NULL", "null pointer"]
 prereqs: [variable]
 related: [undefined, optional-chaining, option-type, null-object-pattern, truthy-falsy]

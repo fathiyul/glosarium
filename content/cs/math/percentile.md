@@ -1,12 +1,12 @@
 ---
 title: "Percentiles (p50, p95, p99)"
 summary: "The value below which a given share of measurements fall; the right way to read latency."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: junior , data-analyst: junior }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["percentiles", "p50", "p95", "p99", "quantile", "median latency"]
 prereqs: ["statistics-basics"]
 related: ["tail-latency", "latency", "slo", "statistics-basics", "data-profiling"]
 also: [observability, performance]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 A **percentile** answers: *what value do X% of the measurements fall below?*

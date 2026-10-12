@@ -1,11 +1,11 @@
 ---
 title: "NULL in SQL"
 summary: "Three-valued logic, and why NULL = NULL isn't true."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["NULL", "IS NULL", "three-valued logic", "NULL handling", "NULL comparison"]
 prereqs: ["select-query"]
 related: ["coalesce-nullif", "case-expression", "group-by", "join-types", "constraint"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 In SQL, **`NULL` means "unknown or missing"**, not zero and not an empty string. Because it's unknown, comparing anything to it gives

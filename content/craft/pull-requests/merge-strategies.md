@@ -1,7 +1,7 @@
 ---
 title: "Merge Commit vs Squash vs Rebase Merge"
 summary: "How a PR lands on main and what history it leaves behind."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["squash merge", "rebase merge", "merge commit"]
 prereqs: ["fast-forward-merge"]
 related: ["fast-forward-merge", "rewriting-history", "git-flow", "branching-strategy"]

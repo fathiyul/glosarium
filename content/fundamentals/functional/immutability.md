@@ -1,7 +1,7 @@
 ---
 title: "Immutability"
 summary: "Never changing data after creation, producing new values instead."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["immutable", "immutable data"]
 prereqs: ["variable"]
 related: ["functional-programming", "mutable-vs-immutable", "referential-transparency", "memoization"]

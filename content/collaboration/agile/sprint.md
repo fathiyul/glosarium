@@ -1,7 +1,7 @@
 ---
 title: "Sprint"
 summary: "A fixed period, often two weeks, to deliver planned work."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["iteration"]
 prereqs: ["backlog"]
 related: ["scrum", "backlog", "standup", "retrospective"]

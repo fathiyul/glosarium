@@ -1,7 +1,7 @@
 ---
 title: "SOLID Principles"
 summary: "Five object-oriented design principles for maintainable code."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["SOLID principles", "SOLID design principles", "object-oriented design principles", "S.O.L.I.D."]
 prereqs: ["inheritance", "interface"]
 related: ["single-responsibility-principle", "open-closed-principle", "liskov-substitution-principle", "interface-segregation-principle", "dependency-inversion-principle", "coupling"]

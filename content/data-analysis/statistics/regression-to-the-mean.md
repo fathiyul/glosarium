@@ -1,7 +1,7 @@
 ---
 title: "Regression to the Mean"
 summary: "Why the worst week of the year is almost always followed by a better one."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["regression to the mean", "RTM", "mean reversion"]
 prereqs: ["outliers", "statistics-basics"]
 related: ["outliers", "experiment-design", "decision-rule", "peeking-problem", "treatment-effect", "period-over-period"]

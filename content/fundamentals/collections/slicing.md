@@ -1,7 +1,7 @@
 ---
 title: "Slicing"
 summary: "Taking a sub-range of a sequence."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["slice", "sublist", "substring"]
 prereqs: ["indexing"]
 related: ["indexing", "list", "string", "off-by-one-error", "array"]

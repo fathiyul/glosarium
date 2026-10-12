@@ -1,7 +1,7 @@
 ---
 title: "Data Tests"
 summary: "Automated checks like not-null, unique and accepted values on tables."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["data quality tests", "dbt tests", "not null unique accepted values", "table tests", "data assertions"]
 prereqs: ["data-quality-dimensions", "select-query"]
 related: ["data-expectations", "write-audit-publish", "data-observability", "data-freshness", "data-contract", "circuit-breaker-data"]

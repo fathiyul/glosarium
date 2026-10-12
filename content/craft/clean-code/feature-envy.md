@@ -1,7 +1,7 @@
 ---
 title: "Feature Envy"
 summary: "A method more interested in another class's data than its own."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["feature envy smell"]
 prereqs: ["code-smell"]
 related: ["encapsulate-what-varies", "cyclomatic-complexity", "broken-windows", "command-query-separation"]

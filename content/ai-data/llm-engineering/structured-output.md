@@ -1,7 +1,7 @@
 ---
 title: "Structured Output"
 summary: "Getting models to return valid JSON matching a schema."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["structured output", "JSON output", "constrained output"]
 prereqs: ["prompt-engineering", "json-schema"]
 related: ["json-schema", "tool-calling", "llm-evals"]

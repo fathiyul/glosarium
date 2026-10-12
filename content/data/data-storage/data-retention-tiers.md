@@ -1,7 +1,7 @@
 ---
 title: "Data Retention and Tiering"
 summary: "Expiring or moving old data to cheaper storage on purpose."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["retention policy", "data tiering", "storage tiering"]
 prereqs: ["data-retention", "storage-lifecycle"]
 related: ["object-storage", "s3", "data-governance", "backups", "time-series-database"]

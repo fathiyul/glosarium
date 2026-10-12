@@ -1,7 +1,7 @@
 ---
 title: "Story Points"
 summary: "Relative effort estimates instead of hours."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["story point", "points"]
 prereqs: ["estimation"]
 related: ["planning-poker", "estimation", "user-story", "sprint-planning"]

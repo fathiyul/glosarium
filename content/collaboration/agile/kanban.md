@@ -1,7 +1,7 @@
 ---
 title: "Kanban"
 summary: "Visualizing work on a board and limiting work in progress."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["kanban board"]
 prereqs: ["agile"]
 related: ["agile", "backlog", "sprint", "scrum"]

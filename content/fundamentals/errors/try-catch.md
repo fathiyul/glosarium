@@ -1,7 +1,7 @@
 ---
 title: "try / catch / finally"
 summary: "Catching exceptions and running cleanup code regardless."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["try except", "try catch finally", "try/except", "catch block"]
 prereqs: ["exception"]
 related: ["exception", "throw", "error-handling", "error-swallowing", "custom-exception"]

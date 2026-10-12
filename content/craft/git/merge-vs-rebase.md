@@ -1,7 +1,7 @@
 ---
 title: "Merge vs Rebase"
 summary: "Preserving history as it happened vs rewriting it to be linear."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["merge vs rebase", "rebase vs merge", "git merge or rebase", "linear history vs merge commits"]
 prereqs: ["merge", "rebase"]
 related: ["fast-forward-merge", "merge-strategies", "squash", "interactive-rebase", "force-push", "rewriting-history"]

@@ -1,7 +1,7 @@
 ---
 title: "LLM Cost and Latency"
 summary: "Managing tokens, model choice and caching."
-levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: pmf }
+levels: { backend: senior, frontend: senior, data-engineer: senior , tech-entrepreneur: pmf , data-scientist: senior }
 aliases: ["LLM cost and latency", "cost and latency", "LLM economics"]
 prereqs: ["llm-token", "model-serving"]
 related: ["llm-token", "prompt-caching", "model-selection"]

@@ -1,7 +1,8 @@
 ---
 title: "Quasi-Experiment"
 summary: "Measuring an effect without randomisation, using groups that were naturally separated."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["quasi experiment", "natural experiment", "non-randomised comparison"]
 prereqs: ["causal-inference", "experiment-design", "difference-in-differences"]
 related: ["causal-inference", "difference-in-differences", "randomized-controlled-trial", "confounding-variable", "experiment-design"]

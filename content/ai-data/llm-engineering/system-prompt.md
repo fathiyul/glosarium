@@ -1,7 +1,7 @@
 ---
 title: "System Prompt"
 summary: "Instructions that set a model's behavior for a conversation."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["system prompt", "system message", "system instructions"]
 prereqs: ["prompt-engineering", "how-llms-work"]
 related: ["prompt-engineering", "prompt-injection", "prompt-caching"]

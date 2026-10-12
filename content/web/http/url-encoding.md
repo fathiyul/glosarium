@@ -1,7 +1,7 @@
 ---
 title: "URL Encoding"
 summary: "Escaping special characters in URLs as %XX."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["percent-encoding", "URL escaping", "%20", "encodeURIComponent"]
 prereqs: ["url"]
 related: ["query-string", "url", "character-encoding", "path-vs-query-parameters", "xss"]

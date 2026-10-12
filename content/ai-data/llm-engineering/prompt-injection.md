@@ -1,7 +1,7 @@
 ---
 title: "Prompt Injection"
 summary: "Untrusted text hijacking a model's instructions."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 also: [web-security]
 aliases: ["prompt injection", "indirect prompt injection", "instruction injection"]
 prereqs: ["how-llms-work", "system-prompt"]

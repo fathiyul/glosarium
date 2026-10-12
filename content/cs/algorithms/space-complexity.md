@@ -1,7 +1,7 @@
 ---
 title: "Space Complexity"
 summary: "How memory use grows with input size."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["memory complexity", "auxiliary space"]
 prereqs: ["big-o-notation"]
 related: ["time-complexity", "big-o-notation", "recursion", "dynamic-array", "stack-overflow"]

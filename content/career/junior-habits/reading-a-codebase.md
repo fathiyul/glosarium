@@ -1,7 +1,7 @@
 ---
 title: "Reading an Unfamiliar Codebase"
 summary: "Starting from entry points, tests and data flow."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["reading unfamiliar code", "understanding a codebase", "code exploration", "navigating a codebase", "onboarding to a codebase"]
 prereqs: ["git-clone"]
 related: ["understand-before-changing", "onboarding-yourself", "first-weeks", "go-to-definition", "grep-ripgrep", "reading-source-code"]

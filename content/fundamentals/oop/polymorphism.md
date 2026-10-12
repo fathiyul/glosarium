@@ -1,7 +1,7 @@
 ---
 title: "Polymorphism"
 summary: "One interface with many implementations chosen at runtime."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["subtype polymorphism", "dynamic dispatch"]
 prereqs: ["inheritance", "method-overriding"]
 related: ["inheritance", "interface", "method-overriding", "duck-typing", "program-to-interface"]

@@ -1,7 +1,7 @@
 ---
 title: "Pattern Matching"
 summary: "Branching on the shape of data and destructuring it at the same time."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["match expression", "destructuring match"]
 prereqs: ["conditional"]
 related: ["conditional", "switch-statement", "destructuring", "data-type"]

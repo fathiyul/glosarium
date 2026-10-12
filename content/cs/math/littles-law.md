@@ -1,7 +1,7 @@
 ---
 title: "Little's Law"
 summary: "Items in a system = arrival rate \u00d7 time each spends in it."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["Little's law", "littles law", "L = λW"]
 prereqs: ["queue", "throughput"]
 related: ["latency", "backpressure", "capacity-planning"]

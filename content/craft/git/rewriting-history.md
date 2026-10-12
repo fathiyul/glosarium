@@ -1,7 +1,7 @@
 ---
 title: "Rewriting Shared History"
 summary: "Why rebasing or force-pushing shared branches breaks teammates."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["rewrite history", "history rewriting"]
 prereqs: ["rebase"]
 related: ["force-push", "rebase", "git-reflog", "cherry-pick", "removing-secrets-from-history"]

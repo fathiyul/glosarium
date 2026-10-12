@@ -1,7 +1,7 @@
 ---
 title: "Table Design"
 summary: "Laying out rows and columns so the important number is found before everything else."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["table layout", "designing tables", "table formatting"]
 prereqs: ["chart-selection", "data-visualization"]
 related: ["sparkline", "bar-chart", "pivot-table", "data-freshness", "visual-hierarchy"]

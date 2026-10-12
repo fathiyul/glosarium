@@ -1,7 +1,7 @@
 ---
 title: "Watermark"
 summary: "A stream's estimate of how far event time has progressed, used to close windows."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["watermarks", "event-time watermark", "stream watermark", "late data watermark", "watermark in Flink"]
 prereqs: ["event-time-vs-processing-time", "stream-windowing"]
 related: ["late-arriving-data", "event-time-vs-processing-time", "stream-windowing", "stateful-stream-processing", "apache-flink", "real-time-vs-near-real-time"]

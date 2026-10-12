@@ -1,7 +1,7 @@
 ---
 title: "Lakehouse"
 summary: "Warehouse-style tables and transactions on top of cheap lake storage."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["data lakehouse", "lakehouse architecture", "lake house"]
 prereqs: ["data-lake", "data-warehouse"]
 related: ["open-table-format", "data-lake", "data-warehouse", "medallion-architecture", "compute-storage-separation", "data-catalog-metastore"]

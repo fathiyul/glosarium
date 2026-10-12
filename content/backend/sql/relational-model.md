@@ -1,7 +1,7 @@
 ---
 title: "Relational Model"
 summary: "The theory behind SQL: relations, tuples, attributes and keys."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["relational model", "relational theory", "codds model"]
 prereqs: ["sql", "database"]
 related: ["normalization", "primary-key", "relational-algebra", "schema"]

@@ -1,7 +1,8 @@
 ---
 title: "Unsupervised Learning"
 summary: "Finding structure in unlabeled data."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+core: [data-scientist]
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: junior }
 aliases: ["unsupervised learning", "unsupervised", "pattern discovery"]
 prereqs: ["machine-learning", "supervised-learning"]
 related: ["supervised-learning", "clustering-zorder", "recommendation-system"]

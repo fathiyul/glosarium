@@ -1,7 +1,7 @@
 ---
 title: "Embedded Analytics"
 summary: "Showing charts and reports inside your product to customers."
-levels: { data-engineer: senior, backend: senior }
+levels: { data-engineer: senior, backend: senior , data-scientist: senior }
 aliases: ["embedded BI", "customer-facing analytics", "in-product analytics", "embedded dashboards"]
 prereqs: ["business-intelligence", "data-serving"]
 related: ["data-api", "bi-dashboard", "row-level-security", "data-sharing", "semantic-layer"]

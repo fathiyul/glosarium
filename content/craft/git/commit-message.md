@@ -1,7 +1,7 @@
 ---
 title: "Commit Message"
 summary: "A summary line plus a body explaining why a change was made."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git commit message", "commit messages", "commit subject"]
 prereqs: ["commit"]
 related: ["conventional-commits", "atomic-commit", "git-log", "pr-description", "squash"]

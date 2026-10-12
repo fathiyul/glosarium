@@ -1,7 +1,7 @@
 ---
 title: "Testcontainers"
 summary: "Spinning up real databases and services in Docker for tests."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["testcontainers library", "docker tests"]
 prereqs: ["test-database"]
 related: ["test-database", "fake", "integration-test", "docker-image"]

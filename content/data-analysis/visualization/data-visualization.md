@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization"
 summary: "Turning numbers into marks a person can read in a few seconds."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["data viz", "dataviz", "charting"]
 prereqs: ["chart-selection", "metrics"]
 related: ["chart-selection", "exploratory-data-analysis", "metric-definitions", "dashboard-design", "chartjunk"]

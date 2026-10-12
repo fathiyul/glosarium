@@ -1,7 +1,7 @@
 ---
 title: "Acceptance Criteria"
 summary: "The conditions a story must meet to be done."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["AC", "acceptance criteria for user stories", "story acceptance criteria", "done criteria for a story"]
 prereqs: ["user-story"]
 related: ["definition-of-done", "user-story", "given-when-then", "bdd", "definition-of-ready", "acceptance-test"]

@@ -1,7 +1,7 @@
 ---
 title: "Developer Experience"
 summary: "How easy and pleasant it is for engineers to do their work."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Developer experience (DX) is how easy and effective it is for engineers to build, test, deploy, and operate software in a particular environment. It includes tools and documentation, but also waiting time, unclear ownership, and the number of steps needed to complete routine work.

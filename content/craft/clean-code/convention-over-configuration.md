@@ -1,7 +1,7 @@
 ---
 title: "Convention over Configuration"
 summary: "Sensible defaults so you only configure what's unusual."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["CoC", "convention over config"]
 related: ["web-framework", "principle-of-least-astonishment"]
 ---

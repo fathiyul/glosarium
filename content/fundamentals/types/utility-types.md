@@ -1,7 +1,7 @@
 ---
 title: "Utility Types"
 summary: "Built-in TypeScript type transformers like Partial, Pick and Record."
-levels: { frontend: mid-level }
+levels: { frontend: mid-level , data-scientist: junior }
 aliases: ["TypeScript utility types", "Partial", "Pick", "Omit", "Record", "Readonly", "mapped types"]
 prereqs: ["typescript", "generics"]
 related: ["generics", "type-alias", "intersection-type", "union-type", "type-inference", "type-narrowing"]

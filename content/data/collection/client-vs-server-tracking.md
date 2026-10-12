@@ -1,7 +1,7 @@
 ---
 title: "Client-Side vs Server-Side Tracking"
 summary: "Recording events in the browser or app vs on your servers, and what each misses."
-levels: { data-engineer: mid-level, backend: mid-level }
+levels: { data-engineer: mid-level, backend: mid-level , data-scientist: mid-level }
 aliases: ["client-side tracking", "server-side tracking", "client vs server analytics"]
 prereqs: ["instrumentation"]
 related: ["instrumentation", "analytics-event-tracking", "tracking-plan", "consent-at-collection", "bot-filtering", "telemetry-pipeline"]

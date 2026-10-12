@@ -1,7 +1,7 @@
 ---
 title: "Composition over Inheritance"
 summary: "Building behavior by combining objects instead of deep class hierarchies."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["favor composition over inheritance", "has-a vs is-a", "composition vs inheritance"]
 prereqs: ["inheritance", "interface"]
 related: ["inheritance", "polymorphism", "interface", "mixin", "program-to-interface", "liskov-substitution-principle", "dependency-injection"]

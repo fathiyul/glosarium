@@ -1,7 +1,7 @@
 ---
 title: "Sequential Scan vs Index Scan"
 summary: "Reading the whole table vs jumping in through an index."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["sequential scan", "index scan", "seq scan vs index scan"]
 prereqs: ["db-index", "query-plan"]
 related: ["index-selectivity", "cardinality", "query-plan"]

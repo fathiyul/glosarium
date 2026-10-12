@@ -1,7 +1,7 @@
 ---
 title: "Presenting"
 summary: "Communicating ideas to a group."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level , tech-entrepreneur: mvp }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level , tech-entrepreneur: mvp , data-scientist: senior }
 core: [tech-entrepreneur]
 ---
 

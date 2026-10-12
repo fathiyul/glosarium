@@ -1,7 +1,7 @@
 ---
 title: "Currying"
 summary: "Turning a multi-argument function into a chain of single-argument ones."
-levels: { backend: senior, frontend: mid-level, data-engineer: senior }
+levels: { backend: senior, frontend: mid-level, data-engineer: senior , data-scientist: senior }
 aliases: ["curried function"]
 prereqs: ["higher-order-function"]
 related: ["partial-application", "function-composition", "closure"]

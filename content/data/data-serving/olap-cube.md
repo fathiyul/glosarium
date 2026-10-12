@@ -1,7 +1,7 @@
 ---
 title: "OLAP Cube"
 summary: "Pre-aggregated data for fast slicing by dimensions."
-levels: { data-engineer: senior , data-analyst: mid-level }
+levels: { data-engineer: senior , data-analyst: mid-level , data-scientist: senior }
 aliases: ["OLAP", "multidimensional cube", "data cube", "online analytical processing"]
 prereqs: ["dimensional-modeling", "aggregate-tables"]
 related: ["aggregate-tables", "dimensional-modeling", "star-schema", "materialized-view", "rollup-cube"]

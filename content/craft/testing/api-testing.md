@@ -1,7 +1,7 @@
 ---
 title: "API Testing"
 summary: "Calling endpoints and checking status codes, bodies and side effects."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["REST API testing", "endpoint testing", "testing APIs"]
 prereqs: ["endpoint", "http-status-codes"]
 related: ["integration-test", "test-database", "contract-testing", "mock-server", "end-to-end-test"]

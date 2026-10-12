@@ -1,7 +1,7 @@
 ---
 title: "Batch Processing"
 summary: "Processing a bounded chunk of data in one run."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["batch jobs", "batch pipeline", "batch data processing", "bounded data processing"]
 prereqs: ["etl"]
 related: ["batch-vs-stream", "apache-spark", "single-node-engines", "distributed-computing", "data-partitions-compute", "transformations-vs-actions"]

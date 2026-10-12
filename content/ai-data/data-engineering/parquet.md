@@ -1,7 +1,7 @@
 ---
 title: "Parquet"
 summary: "A columnar file format for analytics."
-levels: { backend: senior, data-engineer: junior }
+levels: { backend: senior, data-engineer: junior , data-scientist: junior }
 aliases: ["Apache Parquet", ".parquet", "parquet files", "parquet format"]
 prereqs: ["columnar-storage"]
 related: ["row-vs-columnar-formats", "orc", "compression-codecs", "predicate-pushdown", "hive-partitioning", "small-files-problem"]

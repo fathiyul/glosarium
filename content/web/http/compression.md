@@ -1,7 +1,7 @@
 ---
 title: "HTTP Compression"
 summary: "gzip and Brotli shrinking responses on the wire."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["http compression", "gzip", "brotli", "content encoding"]
 prereqs: ["http", "content-negotiation"]
 related: ["throughput", "cdn-caching", "content-negotiation"]

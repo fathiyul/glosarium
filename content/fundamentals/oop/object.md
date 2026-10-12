@@ -1,7 +1,7 @@
 ---
 title: "Object"
 summary: "An instance of a class holding its own state."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["instance", "objects", "object instance"]
 prereqs: ["class", "variable"]
 related: ["class", "attribute", "method", "mutable-vs-immutable", "equality-vs-identity"]

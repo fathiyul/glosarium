@@ -1,7 +1,7 @@
 ---
 title: "jq"
 summary: "A command-line JSON processor."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["jq tool", "JSON processor"]
 prereqs: ["shell-scripting"]
 related: ["shell-scripting", "http-headers", "json-lines", "api-documentation"]

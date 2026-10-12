@@ -1,7 +1,7 @@
 ---
 title: "IDE / Code Editor"
 summary: "Your main tool for editing, navigating, refactoring and debugging."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["IDE", "code editor", "VS Code", "IntelliJ", "text editor"]
 prereqs: ["basic-shell-commands"]
 related: ["keyboard-shortcuts", "go-to-definition", "automated-refactoring", "debugger", "language-server"]

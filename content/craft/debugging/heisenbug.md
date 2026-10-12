@@ -1,7 +1,7 @@
 ---
 title: "Heisenbug"
 summary: "A bug that disappears when you try to observe it."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["heisenbug", "observer effect bug"]
 prereqs: ["debugger"]
 related: ["race-condition", "deterministic-tests", "check-then-act", "profiler"]

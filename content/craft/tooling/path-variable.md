@@ -1,7 +1,7 @@
 ---
 title: "PATH"
 summary: "The list of directories the shell searches for commands."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["PATH environment variable", "$PATH", "command not found"]
 prereqs: ["environment-variable", "shell"]
 related: ["environment-variable", "shell", "basic-shell-commands", "version-manager", "virtual-environment"]

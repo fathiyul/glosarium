@@ -1,7 +1,8 @@
 ---
 title: "Machine Learning"
 summary: "Software that learns patterns from data instead of following explicit rules."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
+core: [data-scientist]
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-analyst: mid-level , data-scientist: junior }
 aliases: ["machine learning", "ML", "statistical learning"]
 prereqs: ["supervised-learning", "train-test-split"]
 related: ["supervised-learning", "unsupervised-learning", "deep-learning"]

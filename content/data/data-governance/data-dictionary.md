@@ -1,11 +1,11 @@
 ---
 title: "Data Dictionary / Business Glossary"
 summary: "Definitions of tables, columns and business terms."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["business glossary", "data glossary", "column definitions", "metadata documentation", "data definitions"]
 prereqs: ["documenting-datasets"]
 related: ["data-catalog", "metric-definitions", "metadata-types", "data-ownership", "data-classification", "documenting-datasets"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 A **data dictionary** describes the tables and columns in your data: what each one means, its type, allowed values and where it comes from.

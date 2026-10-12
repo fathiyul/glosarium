@@ -1,7 +1,7 @@
 ---
 title: "Balanced Tree"
 summary: "Trees like AVL or red-black that stay shallow for guaranteed O(log n)."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["balanced tree", "self-balancing tree", "red-black tree"]
 prereqs: ["binary-search-tree", "tree-traversal"]
 related: ["b-tree", "heap"]

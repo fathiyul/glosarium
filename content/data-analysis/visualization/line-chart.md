@@ -1,7 +1,7 @@
 ---
 title: "Line Chart"
 summary: "Showing how a measure moves over an ordered scale, usually time."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["line graph", "line plot", "trend chart"]
 prereqs: ["chart-selection", "time-series"]
 related: ["chart-selection", "small-multiples", "chart-annotation", "axis-truncation", "moving-average"]

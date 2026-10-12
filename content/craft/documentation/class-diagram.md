@@ -1,7 +1,7 @@
 ---
 title: "Class Diagram"
 summary: "A diagram of classes, their fields and relationships."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["UML class diagram", "class relationship diagram"]
 prereqs: ["class"]
 related: ["architecture-diagram", "inheritance", "interface", "composition-over-inheritance"]

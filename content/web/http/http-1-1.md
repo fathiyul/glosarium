@@ -1,7 +1,7 @@
 ---
 title: "HTTP/1.1"
 summary: "The text-based HTTP version with one request at a time per connection."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["http/1.1", "http1", "http 1.1"]
 prereqs: ["http", "tcp"]
 related: ["http-2", "keep-alive", "http-proxy"]

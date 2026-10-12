@@ -1,7 +1,7 @@
 ---
 title: "Context Switching Cost"
 summary: "Why jumping between tasks destroys productivity."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["task switching", "multitasking cost"]
 prereqs: ["deep-work"]
 related: ["deep-work", "done-over-perfect", "standup"]

@@ -1,7 +1,7 @@
 ---
 title: "Apache Spark"
 summary: "The most widely used engine for distributed batch and streaming processing."
-levels: { data-engineer: mid-level , data-analyst: senior }
+levels: { data-engineer: mid-level , data-analyst: senior , data-scientist: mid-level }
 aliases: ["Spark", "PySpark", "Spark SQL", "Spark Structured Streaming", "Apache Spark"]
 prereqs: ["dataframe", "batch-processing"]
 related: ["spark-driver-executor", "shuffle", "transformations-vs-actions", "data-skew", "data-partitions-compute", "single-node-engines"]

@@ -1,7 +1,8 @@
 ---
 title: "Survival Analysis"
 summary: "Modelling time until an event: churn, failure, conversion."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["survival analysis", "time-to-event analysis", "churn modelling"]
 prereqs: ["regression-analysis", "cohort-analysis"]
 related: ["cohort-analysis", "retention-analysis", "regression-analysis", "survivorship-bias"]

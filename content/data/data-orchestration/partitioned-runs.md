@@ -1,7 +1,7 @@
 ---
 title: "Partitioned Pipeline Runs"
 summary: "Each run processing one time slice, like one day of data."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["partitioned pipeline runs", "date-partitioned runs", "logical date runs", "run per partition", "data interval runs"]
 prereqs: ["scheduling-pipelines", "hive-partitioning"]
 related: ["idempotent-pipeline", "catchup-reruns", "backfill", "scheduling-pipelines", "hive-partitioning", "late-arriving-data"]

@@ -1,7 +1,7 @@
 ---
 title: "Open/Closed Principle (O)"
 summary: "Open for extension, closed for modification."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["OCP", "open closed"]
 prereqs: ["interface", "solid"]
 related: ["solid", "replace-conditional-with-polymorphism", "liskov-substitution-principle", "encapsulate-what-varies"]

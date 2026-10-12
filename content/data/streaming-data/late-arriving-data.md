@@ -1,7 +1,7 @@
 ---
 title: "Late-Arriving Data"
 summary: "Events that show up after their window was already computed."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["late data", "out-of-order events", "late events", "late-arriving facts", "late-arriving dimensions"]
 prereqs: ["event-time-vs-processing-time"]
 related: ["watermark", "event-time-vs-processing-time", "stream-windowing", "backfill", "partitioned-runs", "surrogate-key-dw"]

@@ -1,7 +1,8 @@
 ---
 title: "Scenario Analysis"
 summary: "Testing decisions against several plausible futures instead of one forecast."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["scenario analysis", "what-if analysis", "scenario planning"]
 prereqs: ["forecasting", "sensitivity-analysis"]
 related: ["forecasting", "sensitivity-analysis", "forecast-interval", "run-rate"]

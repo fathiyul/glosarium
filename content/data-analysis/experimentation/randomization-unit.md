@@ -1,7 +1,8 @@
 ---
 title: "Randomization Unit"
 summary: "Whether you randomize by user, session or device, and how much it changes what you can conclude."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["randomisation unit", "unit of randomisation", "experiment unit"]
 prereqs: ["ab-testing", "experiment-design", "sampling-methods"]
 related: ["ab-testing", "experiment-design", "standard-error", "sample-ratio-mismatch", "feature-flags"]

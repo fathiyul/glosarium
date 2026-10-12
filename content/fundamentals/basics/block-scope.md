@@ -1,7 +1,7 @@
 ---
 title: "Block Scope vs Function Scope"
 summary: "Whether a variable lives until the end of its block or of the whole function."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["function scope", "block scoped variables", "scope of a variable"]
 prereqs: ["variable", "scope"]
 related: ["scope", "var-let-const", "shadowing", "global-variable"]

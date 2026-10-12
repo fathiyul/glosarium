@@ -1,7 +1,7 @@
 ---
 title: "Guardrails"
 summary: "Checks on model inputs and outputs for safety and correctness."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["guardrails", "LLM guardrails", "safety layer"]
 prereqs: ["prompt-injection", "input-validation"]
 related: ["prompt-injection", "ai-agent", "output-encoding"]

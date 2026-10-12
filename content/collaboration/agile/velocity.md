@@ -1,7 +1,7 @@
 ---
 title: "Velocity"
 summary: "How much work a team finishes per sprint, and how it gets misused."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 ---
 
 Velocity is the amount of work a team says it completed in a sprint, often represented using its own estimation units. Teams sometimes use recent velocity to help forecast how much work they might finish in a future sprint, but the number is specific to that team and estimation practice.

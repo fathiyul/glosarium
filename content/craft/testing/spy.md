@@ -1,7 +1,7 @@
 ---
 title: "Spy"
 summary: "A test double that records calls to a real or fake function."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["test spy", "spy object"]
 prereqs: ["stub-double"]
 related: ["stub-double", "mock", "test-double", "fake"]

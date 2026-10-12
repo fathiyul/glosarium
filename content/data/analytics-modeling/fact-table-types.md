@@ -1,7 +1,7 @@
 ---
 title: "Transaction, Snapshot and Accumulating Facts"
 summary: "Three kinds of fact table for events, periodic states and processes."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["fact table types", "transaction fact table", "periodic snapshot fact table", "accumulating snapshot fact table"]
 prereqs: ["fact-table", "grain"]
 related: ["dimensional-modeling", "factless-fact-table", "slowly-changing-dimension", "date-dimension", "star-schema", "surrogate-key-dw"]

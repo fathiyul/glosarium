@@ -1,7 +1,7 @@
 ---
 title: "Mock"
 summary: "A test double that verifies how it was called."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["mock object", "mocking", "mocks", "test mock"]
 prereqs: ["unit-test"]
 related: ["test-double", "stub-double", "fake", "spy", "over-mocking"]

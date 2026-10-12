@@ -1,7 +1,7 @@
 ---
 title: "Dependency"
 summary: "External code your project relies on."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["dependencies", "library dependency", "third-party package"]
 prereqs: ["package-manager"]
 related: ["package-manager", "lockfile", "transitive-dependency", "dependency-hell", "supply-chain-security"]

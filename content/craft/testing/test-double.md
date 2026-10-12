@@ -1,7 +1,7 @@
 ---
 title: "Test Double"
 summary: "Any stand-in for a real dependency in tests."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["test doubles", "mocks stubs fakes", "stub vs mock", "dummy stub spy mock fake"]
 prereqs: ["unit-test", "mock"]
 related: ["mock", "stub-double", "fake", "spy", "over-mocking", "dependency-injection"]

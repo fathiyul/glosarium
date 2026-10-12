@@ -1,7 +1,7 @@
 ---
 title: "HTTP Headers"
 summary: "Metadata attached to requests and responses."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["headers", "request headers", "response headers", "header fields"]
 prereqs: ["http"]
 related: ["http-request", "http-response", "content-type", "cache-control", "cors", "user-agent"]

@@ -1,7 +1,7 @@
 ---
 title: "Timestamp With vs Without Time Zone"
 summary: "Storing moments in time correctly in the database."
-levels: { backend: mid-level, data-engineer: mid-level , data-analyst: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["timestamp with time zone", "timestamptz", "timestamp vs timestamptz"]
 prereqs: ["date-time-handling", "timezone"]
 related: ["schema", "timezone"]

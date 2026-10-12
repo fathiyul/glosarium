@@ -1,7 +1,7 @@
 ---
 title: "Vibe Coding"
 summary: "Accepting AI code without reading it: fine for prototypes, risky in production."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["vibecoding", "AI-generated prototype coding"]
 prereqs: ["ai-coding-assistant", "reviewing-ai-code"]
 related: ["ai-coding-assistant", "ai-learning-pitfalls", "reviewing-ai-code", "technical-debt", "mvp"]

@@ -1,7 +1,7 @@
 ---
 title: "HTTP Client Tools"
 summary: "curl, HTTPie, Postman or Bruno for calling APIs by hand."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["Postman", "Insomnia", "HTTPie", "Bruno", "API client"]
 prereqs: ["http", "curl"]
 related: ["curl", "api-testing", "openapi", "rest", "network-tab"]

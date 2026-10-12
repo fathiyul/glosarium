@@ -1,7 +1,7 @@
 ---
 title: "Synchronous vs Asynchronous APIs"
 summary: "Returning the result in the response vs accepting work and reporting later."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["sync vs async api", "synchronous api", "asynchronous api"]
 prereqs: ["http", "job-queue"]
 related: ["long-running-operations", "webhooks", "polling"]

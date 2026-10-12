@@ -1,7 +1,7 @@
 ---
 title: "DataOps"
 summary: "Applying DevOps practices like CI, testing and monitoring to data."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Data Ops", "data operations", "DataOps practices", "data engineering operations"]
 prereqs: ["data-ci-cd", "data-observability"]
 related: ["data-ci-cd", "data-observability", "dev-prod-data-environments", "data-tests", "data-platform-team"]

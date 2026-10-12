@@ -1,7 +1,7 @@
 ---
 title: "Monorepo"
 summary: "Many projects living in one repository."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["mono repo", "monolithic repository"]
 prereqs: ["repository"]
 related: ["git-lfs", "submodule", "ci-pipeline", "monolith"]

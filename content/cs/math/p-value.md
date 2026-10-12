@@ -1,7 +1,7 @@
 ---
 title: "P-value"
 summary: "How surprising data is if nothing is going on."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["p value", "p-value significance", "p-value threshold"]
 prereqs: ["null-hypothesis", "probability-basics"]
 related: ["statistical-significance", "hypothesis-testing", "null-hypothesis", "effect-size", "bayes-theorem", "peeking-problem"]

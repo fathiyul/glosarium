@@ -1,7 +1,7 @@
 ---
 title: "CI/CD for Data Pipelines"
 summary: "Testing and deploying pipeline and model changes automatically."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["CI/CD for data", "data pipeline CI", "dbt CI", "testing data pipelines in CI", "analytics CI/CD"]
 prereqs: ["continuous-integration", "data-tests"]
 related: ["dataops", "dev-prod-data-environments", "data-tests", "dbt", "pipeline-orchestration", "continuous-delivery"]

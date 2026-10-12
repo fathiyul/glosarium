@@ -1,7 +1,7 @@
 ---
 title: "Di\u00e1taxis"
 summary: "Organizing docs into tutorials, how-to guides, reference and explanation."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["diátaxis", "diataxis", "documentation framework"]
 prereqs: ["readme", "writing-clearly"]
 related: ["readme", "api-documentation", "docs-as-code"]

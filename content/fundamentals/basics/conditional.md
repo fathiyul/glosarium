@@ -1,7 +1,7 @@
 ---
 title: "Conditional (if/else)"
 summary: "Running different code depending on a condition."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["if else", "if statement", "conditional statement", "branching", "if/else"]
 prereqs: ["boolean"]
 related: ["control-flow", "switch-statement", "ternary-operator", "guard-clause", "short-circuit-evaluation"]

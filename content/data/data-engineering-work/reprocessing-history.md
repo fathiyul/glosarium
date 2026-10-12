@@ -1,7 +1,7 @@
 ---
 title: "Reprocessing History"
 summary: "Recomputing past data after a logic fix, safely and affordably."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["reprocessing data", "historical reprocessing", "recomputing history", "backfilling after a fix", "rebuild history"]
 prereqs: ["backfill", "idempotent-pipeline"]
 related: ["backfill", "catchup-reruns", "partitioned-runs", "idempotent-pipeline", "query-cost", "data-incident"]

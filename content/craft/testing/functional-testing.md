@@ -1,7 +1,7 @@
 ---
 title: "Functional Testing"
 summary: "Testing that features do what the requirements say, from the outside."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["functional tests", "black-box testing", "requirements testing"]
 prereqs: ["software-testing"]
 related: ["acceptance-test", "end-to-end-test", "integration-test", "unit-test", "api-testing"]

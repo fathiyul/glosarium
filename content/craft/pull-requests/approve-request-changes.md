@@ -1,7 +1,7 @@
 ---
 title: "Approve vs Request Changes"
 summary: "The review states and what each one signals."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["approve", "request changes", "review states"]
 prereqs: ["code-review", "pull-request"]
 related: ["code-review", "giving-code-review", "review-comment-nits", "protected-branch", "receiving-code-review"]

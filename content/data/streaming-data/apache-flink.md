@@ -1,7 +1,7 @@
 ---
 title: "Apache Flink"
 summary: "A stream-first processing engine with strong event-time support."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["Flink", "Apache Flink", "Flink SQL"]
 prereqs: ["stream-processing", "stateful-stream-processing"]
 related: ["stream-processing", "event-time-vs-processing-time", "watermark", "exactly-once", "stream-table-duality", "apache-spark"]

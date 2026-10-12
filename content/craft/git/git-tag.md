@@ -1,7 +1,7 @@
 ---
 title: "Tag"
 summary: "A named pointer to a commit, usually marking a release."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["git tag", "release tag", "version tag"]
 prereqs: ["commit"]
 related: ["semantic-versioning", "changelog", "branch", "push-pull-fetch", "deployment"]

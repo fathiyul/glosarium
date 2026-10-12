@@ -1,7 +1,7 @@
 ---
 title: "Law of Large Numbers"
 summary: "Averages settle toward the true value as you gather more observations."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["LLN", "law of averages", "law of large numbers"]
 prereqs: ["probability-basics", "sampling-methods"]
 related: ["central-limit-theorem", "standard-error", "regression-to-the-mean", "confidence-interval", "sampling-bias"]

@@ -1,7 +1,7 @@
 ---
 title: "Analysis Notebooks"
 summary: "Cells of code, output and notes run in order, and the out-of-order execution that ruins them."
-levels: { data-analyst: junior }
+levels: { data-analyst: junior , data-scientist: junior }
 aliases: ["analysis notebook", "notebooks", "computational notebook", "notebook analysis"]
 prereqs: ["exploratory-data-analysis", "reproducible-analysis"]
 related: ["reproducible-analysis", "query-version-control", "exploratory-data-analysis", "ad-hoc-analysis", "data-storytelling"]

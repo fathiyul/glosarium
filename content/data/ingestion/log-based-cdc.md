@@ -1,7 +1,7 @@
 ---
 title: "Log-Based CDC"
 summary: "Capturing changes from a database's write-ahead log instead of querying tables."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["log-based change data capture", "WAL-based CDC", "binlog CDC", "logical decoding", "transaction log CDC"]
 prereqs: ["change-data-capture", "wal"]
 related: ["change-data-capture", "wal", "kafka", "transactional-outbox", "full-vs-incremental-load", "schema-evolution"]

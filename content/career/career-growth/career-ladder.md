@@ -1,7 +1,7 @@
 ---
 title: "Career Ladder"
 summary: "The levels and expectations from junior to principal."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["career levels", "engineering levels"]
 prereqs: ["junior-engineer"]
 related: ["junior-engineer", "promotion", "senior-engineer", "performance-review"]

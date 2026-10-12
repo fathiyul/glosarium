@@ -1,7 +1,7 @@
 ---
 title: "Design Document"
 summary: "A written proposal of how to build something, reviewed before building it."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: mid-level , data-scientist: senior }
 aliases: ["design document", "technical design document", "tech spec", "technical spec", "engineering design doc", "RFC"]
 prereqs: ["technical-writing", "architecture-decision-record"]
 related: ["rfc-process", "architecture-decision-record", "one-way-two-way-doors", "architectural-trade-offs", "architecture-review", "technical-writing"]

@@ -1,7 +1,7 @@
 ---
 title: "Data Ingestion"
 summary: "Moving data from source systems into storage you control."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["ingestion", "data loading", "data ingest", "ingesting data"]
 prereqs: ["source-systems"]
 related: ["batch-vs-streaming-ingestion", "landing-zone", "full-vs-incremental-load", "schema-drift", "deduplication", "ingestion-connectors"]

@@ -1,7 +1,7 @@
 ---
 title: "Premature Abstraction"
 summary: "Generalizing before you have enough examples, creating the wrong abstraction."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["wrong abstraction", "premature generalization"]
 prereqs: ["solid"]
 related: ["wet-code", "solid", "yagni", "kiss"]

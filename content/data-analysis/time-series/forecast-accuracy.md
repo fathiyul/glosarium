@@ -1,7 +1,7 @@
 ---
 title: "Forecast Accuracy"
 summary: "Judging forecasts on held-out data, against a baseline."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["forecast accuracy", "forecast evaluation", "backtesting"]
 prereqs: ["forecasting", "naive-forecast"]
 related: ["mape", "rmse", "naive-forecast", "forecast-interval"]

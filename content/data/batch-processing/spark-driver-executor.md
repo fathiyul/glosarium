@@ -1,7 +1,7 @@
 ---
 title: "Driver and Executors"
 summary: "The process that plans a job and the workers that run its tasks."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Spark driver", "Spark executor", "driver and executor", "driver vs executor"]
 prereqs: ["apache-spark", "cluster"]
 related: ["data-partitions-compute", "shuffle", "transformations-vs-actions", "cluster-resource-manager", "data-skew", "dataframe"]

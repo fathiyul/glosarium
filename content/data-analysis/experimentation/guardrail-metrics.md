@@ -1,7 +1,8 @@
 ---
 title: "Guardrail Metrics"
 summary: "The numbers that must not get worse while you chase a win somewhere else."
-levels: { data-analyst: mid-level }
+core: [data-scientist]
+levels: { data-analyst: mid-level , data-scientist: senior }
 aliases: ["guardrail metrics", "guardrails", "counter metrics", "health metrics"]
 prereqs: ["ab-testing", "metric-definitions", "kpi-design"]
 related: ["ab-testing", "decision-rule", "metric-definitions", "kpi-design", "retention-analysis"]

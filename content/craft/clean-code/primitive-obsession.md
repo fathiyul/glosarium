@@ -1,7 +1,7 @@
 ---
 title: "Primitive Obsession"
 summary: "Using raw strings and ints where a small domain type belongs."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["primitive obsession smell", "stringly typed"]
 prereqs: ["data-type"]
 related: ["data-type", "value-object", "god-object", "shotgun-surgery"]

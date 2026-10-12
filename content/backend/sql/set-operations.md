@@ -1,7 +1,7 @@
 ---
 title: "UNION, INTERSECT, EXCEPT"
 summary: "Combining the results of several queries."
-levels: { backend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["UNION", "INTERSECT", "EXCEPT", "set operators"]
 prereqs: ["crud"]
 related: ["sql-sublanguages", "self-join", "table-row-column"]

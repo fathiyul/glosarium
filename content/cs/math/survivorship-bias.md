@@ -1,7 +1,7 @@
 ---
 title: "Survivorship Bias"
 summary: "Conclusions drawn only from the winners that survived."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: mid-level }
 aliases: ["survivorship bias", "survivor bias", "survival bias", "selection effect"]
 prereqs: ["sampling-bias", "descriptive-statistics"]
 related: ["sampling-bias", "retention-analysis", "cohort-analysis", "metric-definitions", "segmentation", "correlation-vs-causation"]

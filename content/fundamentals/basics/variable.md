@@ -1,7 +1,7 @@
 ---
 title: "Variable"
 summary: "A named reference to a value stored in memory."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["variables", "identifier"]
 prereqs: ["data-type"]
 related: ["constant", "scope", "data-type", "naming", "mutable-vs-immutable"]

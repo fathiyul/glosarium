@@ -1,7 +1,7 @@
 ---
 title: "Full vs Incremental Load"
 summary: "Reloading everything each time vs only what changed."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["full load", "incremental load", "delta load", "incremental extract", "full refresh"]
 prereqs: ["data-ingestion"]
 related: ["high-water-mark", "log-based-cdc", "upsert", "merge-statement", "append-vs-merge", "backfill"]

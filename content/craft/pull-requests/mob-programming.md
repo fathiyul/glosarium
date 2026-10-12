@@ -1,7 +1,7 @@
 ---
 title: "Mob Programming"
 summary: "A whole team working on one problem together."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["mob programming", "ensemble programming"]
 prereqs: ["pull-request"]
 related: ["pull-request", "review-turnaround", "onboarding-yourself", "code-review"]

@@ -1,7 +1,7 @@
 ---
 title: "Project Kickoff"
 summary: "Aligning everyone on goals, scope and roles at the start."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 A project kickoff aligns the people involved on why the work matters, what outcome is intended, who owns decisions, and which constraints or dependencies shape the plan. It can be a meeting, a written brief, or a combination; the purpose is alignment, not ceremony.

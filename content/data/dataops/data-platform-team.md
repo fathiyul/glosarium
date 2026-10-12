@@ -1,7 +1,7 @@
 ---
 title: "Data Platform Team"
 summary: "A team that builds infrastructure other data teams depend on."
-levels: { data-engineer: staff }
+levels: { data-engineer: staff , data-scientist: staff }
 aliases: ["platform team", "data infrastructure team", "central data platform team", "data platform engineering"]
 prereqs: ["dataops", "data-engineering"]
 related: ["self-serve-data-platform", "data-product", "data-mesh", "data-ownership", "build-vs-buy-data-tools", "data-roles"]

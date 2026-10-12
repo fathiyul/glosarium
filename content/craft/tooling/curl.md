@@ -1,7 +1,7 @@
 ---
 title: "curl"
 summary: "The command-line tool for making HTTP requests."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["cURL", "curl command"]
 prereqs: ["http", "basic-shell-commands"]
 related: ["http-client-tools", "http-methods", "http-headers", "json", "fetch-api"]

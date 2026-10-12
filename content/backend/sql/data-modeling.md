@@ -1,7 +1,7 @@
 ---
 title: "Data Modeling"
 summary: "Designing how your data is structured and related."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["database design", "schema design", "data model", "designing a data model", "entity modeling"]
 prereqs: ["relational-database", "primary-key", "foreign-key"]
 related: ["er-diagram", "normalization", "relationship-types", "denormalization", "junction-table", "natural-vs-surrogate-key"]

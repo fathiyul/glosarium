@@ -1,7 +1,7 @@
 ---
 title: "HEAD"
 summary: "Git's pointer to the commit you currently have checked out."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["Git HEAD", "HEAD~1", "HEAD pointer"]
 prereqs: ["commit", "branch"]
 related: ["detached-head", "branch", "git-reset", "git-reflog", "git-log"]

@@ -1,7 +1,7 @@
 ---
 title: "SSH"
 summary: "Securely logging into and running commands on remote machines."
-levels: { backend: junior, frontend: mid-level, data-engineer: junior }
+levels: { backend: junior, frontend: mid-level, data-engineer: junior , data-scientist: junior }
 aliases: ["Secure Shell", "ssh client", "remote login"]
 prereqs: ["terminal", "shell"]
 related: ["ssh-keys", "port", "firewall", "dev-containers"]

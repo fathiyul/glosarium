@@ -1,7 +1,7 @@
 ---
 title: "Self-Serve Data Platform"
 summary: "Shared tooling that lets many teams build their own pipelines safely."
-levels: { data-engineer: staff }
+levels: { data-engineer: staff , data-scientist: staff }
 aliases: ["self-service data platform", "internal data platform", "data platform as a product", "self-serve platform"]
 prereqs: ["dataops", "self-service-analytics"]
 related: ["data-platform-team", "data-mesh", "data-product", "data-contract", "data-ci-cd", "dev-prod-data-environments"]

@@ -1,7 +1,7 @@
 ---
 title: "String Searching"
 summary: "Algorithms like KMP and Rabin-Karp for finding substrings."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["string searching", "substring search", "KMP algorithm", "Rabin-Karp"]
 prereqs: ["string", "algorithm"]
 related: ["suffix-array", "regular-expression", "diffing-algorithm"]

@@ -1,7 +1,7 @@
 ---
 title: "Single Responsibility Principle (S)"
 summary: "A module should have one reason to change."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["SRP", "single responsibility", "one reason to change", "S in SOLID"]
 prereqs: ["cohesion", "class"]
 related: ["solid", "cohesion", "separation-of-concerns", "god-object", "open-closed-principle", "interface-segregation-principle"]

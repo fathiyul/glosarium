@@ -1,7 +1,7 @@
 ---
 title: "Minimal Reproducible Example"
 summary: "The smallest code that still shows the bug."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["MRE", "minimal reproducible example", "MCVE", "minimal repro", "reproducible example", "SSCCE"]
 prereqs: ["reproduce-bug"]
 related: ["debugging", "rubber-duck-debugging", "binary-search-debugging", "reproduce-bug"]

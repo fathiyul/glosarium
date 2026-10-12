@@ -1,7 +1,7 @@
 ---
 title: "Stateful Stream Processing"
 summary: "Keeping running state like counts or sessions across events."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["stateful streaming", "stream state", "state in stream processing", "keyed state", "Flink state", "checkpointing"]
 prereqs: ["stream-processing", "event-time-vs-processing-time"]
 related: ["apache-flink", "watermark", "stream-windowing", "exactly-once", "stream-joins", "stream-table-duality"]

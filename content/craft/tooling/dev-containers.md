@@ -1,7 +1,7 @@
 ---
 title: "Dev Containers"
 summary: "A reproducible development environment defined as a container."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["devcontainer", "development container"]
 prereqs: ["docker-image"]
 related: ["docker-image", "dockerfile", "container", "onboarding-yourself"]

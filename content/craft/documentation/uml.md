@@ -1,7 +1,7 @@
 ---
 title: "UML"
 summary: "A standard visual language for software diagrams."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Unified Modeling Language", "UML diagrams"]
 prereqs: ["class-diagram"]
 related: ["class-diagram", "sequence-diagram", "state-diagram", "architecture-diagram"]

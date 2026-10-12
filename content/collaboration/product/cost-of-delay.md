@@ -1,7 +1,7 @@
 ---
 title: "Cost of Delay"
 summary: "What it costs to ship something later."
-levels: { backend: staff, frontend: staff, data-engineer: staff , tech-entrepreneur: growth }
+levels: { backend: staff, frontend: staff, data-engineer: staff , tech-entrepreneur: growth , data-scientist: staff }
 ---
 
 Cost of delay is the value or harm associated with delivering an outcome later rather than sooner. It helps teams compare timing-sensitive work, such as a compliance deadline, a seasonal launch, or removing a reliability risk, with work that can wait with little change.

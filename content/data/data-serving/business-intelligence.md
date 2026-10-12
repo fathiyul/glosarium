@@ -1,7 +1,7 @@
 ---
 title: "Business Intelligence (BI)"
 summary: "Dashboards and reports that help people make decisions."
-levels: { data-engineer: junior , data-analyst: junior }
+levels: { data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["BI", "analytics reporting", "business analytics"]
 prereqs: ["data-warehouse"]
 related: ["bi-dashboard", "data-serving", "semantic-layer", "self-service-analytics", "data-warehouse", "metric-definitions"]

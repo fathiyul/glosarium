@@ -1,7 +1,7 @@
 ---
 title: "Push, Pull, Fetch"
 summary: "Sending commits, downloading and merging, or only downloading."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["git push", "git pull", "git fetch"]
 prereqs: ["remote", "commit"]
 related: ["remote", "branch", "git-clone", "merge", "rebase", "force-push"]

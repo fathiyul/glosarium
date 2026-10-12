@@ -1,7 +1,7 @@
 ---
 title: "Function Composition"
 summary: "Combining functions so the output of one feeds the next."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["compose", "pipe"]
 prereqs: ["higher-order-function"]
 related: ["currying", "partial-application", "functional-programming", "map-filter-reduce"]

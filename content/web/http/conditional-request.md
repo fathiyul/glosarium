@@ -1,7 +1,7 @@
 ---
 title: "Conditional Request"
 summary: "If-None-Match and If-Match for caching and concurrency control."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["conditional request", "conditional get", "if-none-match"]
 prereqs: ["etag", "cache-control"]
 related: ["etag", "cache-control", "cdn-caching"]

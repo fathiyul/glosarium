@@ -1,7 +1,7 @@
 ---
 title: "Monad"
 summary: "A pattern for chaining computations that carry context, like Option or Promise."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["monad", "flatMap", "bind"]
 prereqs: ["higher-order-function", "option-type"]
 related: ["result-type", "promise", "function-composition", "lazy-evaluation"]

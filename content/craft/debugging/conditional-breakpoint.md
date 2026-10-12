@@ -1,7 +1,7 @@
 ---
 title: "Conditional Breakpoint"
 summary: "Pausing only when a condition is true."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["breakpoint condition", "conditional break"]
 prereqs: ["debugger"]
 related: ["debugger", "heisenbug", "profiler", "five-whys"]

@@ -1,7 +1,7 @@
 ---
 title: "Partition Pruning"
 summary: "The engine skipping partitions a query doesn't need."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["partition elimination", "partition skipping", "pruning partitions", "static partition pruning"]
 prereqs: ["hive-partitioning"]
 related: ["hive-partitioning", "predicate-pushdown", "partitioning", "small-files-problem", "query-cost", "open-table-format"]

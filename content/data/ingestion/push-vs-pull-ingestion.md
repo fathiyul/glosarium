@@ -1,7 +1,7 @@
 ---
 title: "Push vs Pull Ingestion"
 summary: "The source sending data to you vs you fetching it."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["push ingestion", "pull ingestion", "push vs pull", "webhook vs polling ingestion"]
 prereqs: ["data-ingestion", "source-systems"]
 related: ["api-ingestion", "file-ingestion", "webhooks", "webhooks-vs-polling", "messages-vs-streams", "batch-vs-streaming-ingestion"]

@@ -1,7 +1,7 @@
 ---
 title: "Trie"
 summary: "A tree of characters for fast prefix lookups."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["prefix tree", "digital tree"]
 prereqs: ["tree-traversal"]
 related: ["hash-collision", "tree-traversal", "binary-search-tree", "big-o-notation"]

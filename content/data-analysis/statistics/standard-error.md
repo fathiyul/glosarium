@@ -1,7 +1,7 @@
 ---
 title: "Standard Error"
 summary: "How much your estimate would wobble if you repeated the measurement on new data."
-levels: { data-analyst: senior }
+levels: { data-analyst: senior , data-scientist: junior }
 aliases: ["SE", "standard error of the mean", "SEM"]
 prereqs: ["standard-deviation", "central-limit-theorem", "sampling-methods"]
 related: ["confidence-interval", "margin-of-error", "standard-deviation", "sample-size-calculation", "law-of-large-numbers"]

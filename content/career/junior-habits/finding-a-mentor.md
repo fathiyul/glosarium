@@ -1,7 +1,7 @@
 ---
 title: "Finding a Mentor"
 summary: "Getting guidance from someone more experienced."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["mentorship", "mentor"]
 prereqs: ["one-on-one"]
 related: ["one-on-one", "receiving-feedback", "career-conversations"]

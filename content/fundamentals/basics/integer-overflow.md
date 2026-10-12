@@ -1,7 +1,7 @@
 ---
 title: "Integer Overflow"
 summary: "A value exceeding its type's range and wrapping around or failing."
-levels: { backend: mid-level, frontend: senior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: senior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["overflow", "integer wraparound"]
 prereqs: ["data-type"]
 related: ["data-type", "bitwise-operation", "sql-data-types", "truthy-falsy"]

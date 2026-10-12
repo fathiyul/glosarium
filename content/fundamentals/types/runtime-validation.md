@@ -1,7 +1,7 @@
 ---
 title: "Runtime Validation"
 summary: "Checking that untrusted data matches a type at runtime, e.g. with Zod or Pydantic."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Zod", "Pydantic", "schema validation", "validating at runtime", "runtime type checking", "parsing untrusted data"]
 prereqs: ["typescript", "input-validation"]
 related: ["json-schema", "never-trust-the-client", "input-validation", "type-guard", "structured-output", "dto"]

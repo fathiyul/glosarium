@@ -1,7 +1,7 @@
 ---
 title: "Glue Work"
 summary: "Essential but invisible work that keeps teams running."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 ---
 
 Glue work is the coordination and maintenance work that helps a team function but may be difficult to see in feature counts. Examples include connecting teams, improving onboarding, documenting a fragile process, resolving recurring handoff problems, or organizing a release.

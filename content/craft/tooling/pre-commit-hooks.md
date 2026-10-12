@@ -1,7 +1,7 @@
 ---
 title: "Pre-commit Hooks"
 summary: "Running linters and formatters automatically before each commit."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["pre-commit", "git hooks", "commit hooks"]
 prereqs: ["git", "linter"]
 related: ["git-hooks", "formatter", "linter", "continuous-integration", "secrets-in-git"]

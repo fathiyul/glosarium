@@ -1,7 +1,7 @@
 ---
 title: "Rule of Three"
 summary: "Tolerating duplication until the third time, to avoid the wrong abstraction."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["WET code", "write everything twice", "rule of three"]
 prereqs: ["premature-abstraction"]
 related: ["premature-abstraction", "dry", "shotgun-surgery", "yagni"]

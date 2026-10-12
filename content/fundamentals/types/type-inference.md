@@ -1,7 +1,7 @@
 ---
 title: "Type Inference"
 summary: "The compiler working out types without annotations."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["type inference", "inferred types"]
 prereqs: ["variable"]
 related: ["structural-vs-nominal-typing", "type-guard", "duck-typing"]

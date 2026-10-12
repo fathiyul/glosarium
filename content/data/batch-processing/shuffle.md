@@ -1,7 +1,7 @@
 ---
 title: "Shuffle"
 summary: "Redistributing data across machines by key, often the slowest step."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["data shuffle", "shuffle stage", "shuffle operation", "exchange", "repartition shuffle"]
 prereqs: ["apache-spark", "data-partitions-compute"]
 related: ["data-skew", "broadcast-join", "spill-to-disk", "apache-spark", "distributed-computing", "data-partitions-compute"]

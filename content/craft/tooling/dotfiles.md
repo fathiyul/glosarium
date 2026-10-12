@@ -1,7 +1,7 @@
 ---
 title: "Dotfiles"
 summary: "Your personal config files, often kept in Git."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["dot files", "dotfile repository"]
 related: ["shell-scripting", "git-hooks", "dev-containers", "convention-over-configuration"]
 ---

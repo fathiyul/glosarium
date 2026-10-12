@@ -1,7 +1,7 @@
 ---
 title: "Closure"
 summary: "A function that remembers variables from the place it was defined."
-levels: { backend: mid-level, frontend: junior, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: junior, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["closures", "lexical closure"]
 prereqs: ["function", "scope", "first-class-function"]
 related: ["higher-order-function", "arrow-function", "memoization", "scope", "callback"]

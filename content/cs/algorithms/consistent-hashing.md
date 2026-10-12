@@ -1,7 +1,7 @@
 ---
 title: "Consistent Hashing"
 summary: "Hashing that moves only a few keys when servers are added or removed."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 also: [system-design, caching]
 aliases: ["consistent hashing", "hash ring", "consistent hash"]
 prereqs: ["hash-function", "sharding"]

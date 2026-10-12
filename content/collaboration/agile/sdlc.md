@@ -1,7 +1,7 @@
 ---
 title: "Software Development Lifecycle"
 summary: "The stages from idea to production to maintenance."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["SDLC", "software lifecycle"]
 prereqs: ["agile"]
 related: ["agile", "scrum", "ci-pipeline", "backlog"]

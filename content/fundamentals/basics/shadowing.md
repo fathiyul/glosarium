@@ -1,7 +1,7 @@
 ---
 title: "Shadowing"
 summary: "An inner variable hiding an outer one with the same name."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["variable shadowing", "name shadowing"]
 prereqs: ["scope"]
 related: ["scope", "block-scope", "global-variable", "var-let-const", "naming"]

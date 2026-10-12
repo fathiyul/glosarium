@@ -1,7 +1,7 @@
 ---
 title: "Shell Scripting"
 summary: "Automating tasks with shell scripts."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["bash scripting", "shell script"]
 prereqs: ["process"]
 related: ["makefile", "dotfiles", "jq", "static-analysis"]

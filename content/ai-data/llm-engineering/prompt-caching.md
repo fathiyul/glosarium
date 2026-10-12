@@ -1,7 +1,7 @@
 ---
 title: "Prompt Caching"
 summary: "Reusing processed prompt prefixes to save cost and time."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["prompt caching", "context caching", "prefix caching"]
 prereqs: ["llm-cost-latency", "system-prompt"]
 related: ["llm-cost-latency", "system-prompt", "cache-hit-miss"]

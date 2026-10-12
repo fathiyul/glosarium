@@ -1,7 +1,7 @@
 ---
 title: "Skip List"
 summary: "A layered linked list with O(log n) search."
-levels: { backend: senior, data-engineer: senior }
+levels: { backend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["skip list", "skiplist", "probabilistic search structure"]
 prereqs: ["linked-list", "binary-search-tree"]
 related: ["balanced-tree", "redis"]

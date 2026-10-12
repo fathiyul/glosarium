@@ -1,7 +1,7 @@
 ---
 title: "Type Narrowing"
 summary: "Refining a broad type to a specific one through checks."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["narrowing", "type guards in TypeScript", "control flow analysis", "refining types"]
 prereqs: ["union-type", "typescript"]
 related: ["type-guard", "discriminated-union", "nullable-type", "union-type", "runtime-validation", "any-type"]

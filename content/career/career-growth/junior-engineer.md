@@ -1,7 +1,7 @@
 ---
 title: "Junior Engineer"
 summary: "Learning to deliver well-defined tasks with guidance."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["junior developer", "entry-level engineer"]
 prereqs: ["career-ladder"]
 related: ["career-ladder", "mid-level-engineer", "finding-a-mentor", "clarifying-tickets"]

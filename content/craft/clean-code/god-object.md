@@ -1,7 +1,7 @@
 ---
 title: "God Object"
 summary: "A class that knows and does too much."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["God class", "blob"]
 prereqs: ["single-responsibility-principle"]
 related: ["single-responsibility-principle", "extract-class", "feature-envy", "shotgun-surgery"]

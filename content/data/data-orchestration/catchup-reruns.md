@@ -1,7 +1,7 @@
 ---
 title: "Reruns and Catch-Up"
 summary: "Re-running past intervals after a failure or code change."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["catch-up", "catchup", "backfills in orchestrators", "rerunning past runs", "clearing task runs", "Airflow catchup"]
 prereqs: ["partitioned-runs", "idempotent-pipeline"]
 related: ["backfill", "idempotent-pipeline", "partitioned-runs", "pipeline-retries", "scheduling-pipelines", "debugging-failed-pipeline"]

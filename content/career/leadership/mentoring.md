@@ -1,7 +1,7 @@
 ---
 title: "Mentoring"
 summary: "Helping less experienced engineers grow."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["mentorship", "being a mentor", "mentoring junior engineers", "coaching engineers", "growing others"]
 prereqs: ["giving-feedback", "one-on-one"]
 related: ["giving-feedback", "productive-struggle", "finding-a-mentor", "one-on-one", "pairing", "delegation"]

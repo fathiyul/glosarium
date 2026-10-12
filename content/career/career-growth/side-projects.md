@@ -1,7 +1,7 @@
 ---
 title: "Side Projects"
 summary: "Building outside work to learn and to show your skills."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["personal projects", "pet projects"]
 prereqs: ["tutorial-hell"]
 related: ["tutorial-hell", "open-source-contribution", "job-search", "learning-how-to-learn"]

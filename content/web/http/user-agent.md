@@ -1,7 +1,7 @@
 ---
 title: "User-Agent"
 summary: "The header identifying the client software."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["User-Agent header", "UA string", "browser string"]
 prereqs: ["http-headers"]
 related: ["http-headers", "http-request", "bot-protection", "content-negotiation", "browser-compatibility"]

@@ -1,7 +1,7 @@
 ---
 title: "Heap"
 summary: "A tree that keeps the min or max at the root; backs priority queues."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["binary heap", "min heap", "max heap"]
 prereqs: ["binary-search-tree"]
 related: ["priority-queue", "binary-search-tree", "tree-traversal", "big-o-notation"]

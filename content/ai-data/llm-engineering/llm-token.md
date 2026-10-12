@@ -1,7 +1,7 @@
 ---
 title: "Token"
 summary: "The unit of text a model reads and writes, and what you pay for."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["token", "tokens", "LLM token"]
 prereqs: ["how-llms-work", "embeddings"]
 related: ["how-llms-work", "llm-cost-latency", "context-window"]

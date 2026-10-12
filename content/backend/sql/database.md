@@ -1,7 +1,7 @@
 ---
 title: "Database"
 summary: "Organized, persistent storage for data."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 prereqs: ["variable"]
 related: ["relational-database", "schema", "database-client", "crud"]
 ---

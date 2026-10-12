@@ -1,7 +1,7 @@
 ---
 title: "Bisect"
 summary: "Binary-searching history to find the commit that introduced a bug."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["git bisect", "bisecting", "bisect a bug", "finding the commit that broke it"]
 prereqs: ["git-log", "reproduce-bug"]
 related: ["binary-search-debugging", "git-log", "regression-test", "git-blame", "git-revert", "debugging"]

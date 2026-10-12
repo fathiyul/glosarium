@@ -1,7 +1,7 @@
 ---
 title: "Tuning a Slow Pipeline"
 summary: "Finding the slow step and fixing it: partitions, joins, skew, file sizes."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["pipeline tuning", "slow pipeline", "pipeline optimization", "speeding up pipelines"]
 prereqs: ["data-transformation", "partitioning"]
 related: ["query-optimization", "data-skew", "broadcast-join", "small-files-problem", "file-compaction", "spill-to-disk"]

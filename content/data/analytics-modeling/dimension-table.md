@@ -1,11 +1,11 @@
 ---
 title: "Dimension Table"
 summary: "A table describing the who, what, where of facts, like customers or products."
-levels: { data-engineer: junior , data-analyst: mid-level }
+levels: { data-engineer: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["dimension", "dimension tables", "dim table", "dim_customer", "dimensions"]
 prereqs: ["fact-table"]
 related: ["fact-table", "dimensional-modeling", "date-dimension", "conformed-dimension", "slowly-changing-dimension", "role-playing-dimension"]
-core: [data-engineer]
+core: [data-engineer, data-scientist]
 ---
 
 In [dimensional modeling](/t/dimensional-modeling), a **dimension table** describes the **who, what, where, when and how** around the

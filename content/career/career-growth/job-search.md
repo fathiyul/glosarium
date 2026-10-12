@@ -1,7 +1,7 @@
 ---
 title: "Job Search"
 summary: "Resumes, portfolios, applications and referrals."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["job hunting", "applying for jobs"]
 prereqs: ["junior-engineer"]
 related: ["technical-interview", "behavioral-interview", "brag-document", "side-projects"]

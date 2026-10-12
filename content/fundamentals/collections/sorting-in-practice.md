@@ -1,7 +1,7 @@
 ---
 title: "Sorting with a Key or Comparator"
 summary: "Sorting by a custom key or comparison function."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["sort by key", "custom sort", "comparator"]
 prereqs: ["list"]
 related: ["list", "big-o-notation", "sorting-algorithms", "stable-sort", "lambda"]

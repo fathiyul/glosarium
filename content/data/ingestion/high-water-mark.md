@@ -1,7 +1,7 @@
 ---
 title: "High-Water Mark"
 summary: "Remembering the last loaded timestamp or ID to know where to resume."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["watermark column", "incremental load watermark", "last loaded timestamp", "checkpoint", "bookmark"]
 prereqs: ["full-vs-incremental-load"]
 related: ["full-vs-incremental-load", "log-based-cdc", "backfill", "deduplication", "append-vs-merge", "schema-drift"]

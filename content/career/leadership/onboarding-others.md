@@ -1,7 +1,7 @@
 ---
 title: "Onboarding New Engineers"
 summary: "Helping new teammates become productive."
-levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: senior , tech-entrepreneur: growth }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-analyst: senior , tech-entrepreneur: growth , data-scientist: senior }
 ---
 
 Onboarding new engineers is helping someone learn the product, systems, people, and working practices they need to contribute safely. It starts before their first task and continues as they encounter unfamiliar parts of the organization.

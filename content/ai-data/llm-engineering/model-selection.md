@@ -1,7 +1,7 @@
 ---
 title: "Choosing a Model"
 summary: "Trading off quality, speed and cost across model sizes and providers."
-levels: { backend: senior, frontend: senior, data-engineer: senior }
+levels: { backend: senior, frontend: senior, data-engineer: senior , data-scientist: senior }
 aliases: ["choosing a model", "model selection", "picking an LLM"]
 prereqs: ["llm-evals", "llm-cost-latency"]
 related: ["llm-evals", "llm-cost-latency", "fine-tuning"]

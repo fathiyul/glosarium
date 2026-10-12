@@ -1,7 +1,7 @@
 ---
 title: "Compaction"
 summary: "Merging small files into fewer, larger ones."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["compaction", "small file compaction", "compacting files", "file compaction", "OPTIMIZE", "bin-packing"]
 prereqs: ["small-files-problem", "parquet"]
 related: ["small-files-problem", "open-table-format", "hive-partitioning", "row-vs-columnar-formats", "partition-pruning", "data-retention-tiers"]

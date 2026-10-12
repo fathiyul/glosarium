@@ -1,7 +1,7 @@
 ---
 title: "Telemetry Pipeline"
 summary: "The path from emitted logs, metrics and events to where they're stored and queried."
-levels: { data-engineer: senior, backend: senior }
+levels: { data-engineer: senior, backend: senior , data-scientist: senior }
 aliases: ["observability pipeline", "telemetry collection", "telemetry ingestion"]
 prereqs: ["logs-metrics-traces", "observability"]
 related: ["opentelemetry", "telemetry-sampling", "log-aggregation", "cardinality", "data-retention-tiers", "backpressure"]

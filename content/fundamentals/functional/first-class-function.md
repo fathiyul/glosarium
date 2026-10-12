@@ -1,7 +1,7 @@
 ---
 title: "First-Class Functions"
 summary: "Functions treated as values that can be stored, passed and returned."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["first-class functions", "functions as values", "functions as first class citizens"]
 prereqs: ["function", "variable"]
 related: ["higher-order-function", "arrow-function", "closure", "lambda", "callback"]

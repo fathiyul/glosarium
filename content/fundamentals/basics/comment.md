@@ -1,7 +1,7 @@
 ---
 title: "Code Comment"
 summary: "Text for humans in code, best used to explain why rather than what."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["code comments", "comments", "inline comment", "docstring"]
 prereqs: ["readability"]
 related: ["naming", "readability", "clean-code", "magic-number", "technical-writing"]

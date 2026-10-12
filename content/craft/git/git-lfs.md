@@ -1,7 +1,7 @@
 ---
 title: "Git LFS"
 summary: "Storing large binary files outside normal Git history."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["Git Large File Storage", "git lfs"]
 prereqs: ["commit"]
 related: ["monorepo", "git-hooks", "rewriting-history", "object-storage"]

@@ -1,7 +1,7 @@
 ---
 title: "Idempotent Pipelines"
 summary: "Pipelines that produce the same result when rerun, so retries and backfills are safe."
-levels: { data-engineer: mid-level }
+levels: { data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["idempotent pipelines", "idempotent jobs", "idempotent data pipeline", "rerunnable pipeline", "safe to rerun"]
 prereqs: ["pipeline-dag", "upsert"]
 related: ["pipeline-retries", "backfill", "partitioned-runs", "upsert", "deduplication", "catchup-reruns"]

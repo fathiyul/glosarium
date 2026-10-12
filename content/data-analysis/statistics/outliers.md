@@ -1,7 +1,7 @@
 ---
 title: "Outliers"
 summary: "Values far from the rest of the data, and when to keep, cap or exclude them."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["outlier", "extreme value", "anomaly"]
 prereqs: ["quartiles-and-iqr", "data-quality"]
 related: ["long-tail-distribution", "data-cleaning", "data-anomaly-detection", "box-plot", "data-quality-check", "central-tendency"]

@@ -1,7 +1,7 @@
 ---
 title: "Broken Windows Theory"
 summary: "Small neglected messes invite bigger ones."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["broken windows", "broken window effect"]
 prereqs: ["code-smell"]
 related: ["chestertons-fence", "cyclomatic-complexity", "technical-debt", "boy-scout-rule"]

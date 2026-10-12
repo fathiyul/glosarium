@@ -1,7 +1,7 @@
 ---
 title: "Behavioral Interview (STAR)"
 summary: "Answering with Situation, Task, Action and Result."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["STAR method", "STAR"]
 prereqs: ["technical-interview"]
 related: ["technical-interview", "job-search", "brag-document", "career-conversations"]

@@ -1,7 +1,7 @@
 ---
 title: "Dataset"
 summary: "A named collection of related data, like a table or a set of files."
-levels: { data-engineer: junior, backend: junior , data-analyst: junior }
+levels: { data-engineer: junior, backend: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["data set", "table", "data collection"]
 prereqs: ["database"]
 related: ["data-pipeline", "structured-semi-unstructured", "documenting-datasets", "data-catalog", "data-product", "schema"]

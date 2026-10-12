@@ -1,7 +1,8 @@
 ---
 title: "Multivariate Testing"
 summary: "Changing several things at once and using the design to separate their effects."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["mvt", "multivariate test", "factorial experiment"]
 prereqs: ["ab-testing", "experiment-design", "statistical-power"]
 related: ["ab-testing", "experiment-design", "statistical-power", "minimum-detectable-effect", "sample-size-calculation"]

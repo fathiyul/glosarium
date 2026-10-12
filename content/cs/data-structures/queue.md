@@ -1,7 +1,7 @@
 ---
 title: "Queue"
 summary: "A first-in, first-out collection."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["FIFO", "queue data structure", "deque"]
 prereqs: ["list"]
 related: ["stack", "linked-list", "message-queue", "priority-queue", "ring-buffer"]

@@ -1,7 +1,7 @@
 ---
 title: "Stream Joins"
 summary: "Joining streams with each other or with tables, within time bounds."
-levels: { data-engineer: senior }
+levels: { data-engineer: senior , data-scientist: senior }
 aliases: ["stream-stream join", "stream-table join", "windowed join", "temporal join"]
 prereqs: ["stream-processing", "join-types", "stateful-stream-processing"]
 related: ["stream-windowing", "stream-table-duality", "watermark", "late-arriving-data", "stateful-stream-processing", "broadcast-join"]

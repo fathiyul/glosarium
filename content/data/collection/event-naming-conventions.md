@@ -1,7 +1,7 @@
 ---
 title: "Event Naming Conventions"
 summary: "Consistent names like order_completed so events are findable and comparable."
-levels: { data-engineer: junior, backend: junior , data-analyst: mid-level }
+levels: { data-engineer: junior, backend: junior , data-analyst: mid-level , data-scientist: junior }
 aliases: ["event naming", "analytics event names", "tracking event names", "naming events"]
 prereqs: ["instrumentation"]
 related: ["tracking-plan", "instrumentation", "client-vs-server-tracking", "naming", "data-product"]

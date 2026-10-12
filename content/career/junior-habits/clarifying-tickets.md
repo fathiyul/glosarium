@@ -1,7 +1,7 @@
 ---
 title: "Clarifying Tickets"
 summary: "Asking questions before building the wrong thing."
-levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-analyst: junior , data-scientist: mid-level }
 aliases: ["clarifying requirements", "asking about tickets", "refining tickets", "unclear requirements"]
 prereqs: ["ticket", "asking-good-questions"]
 related: ["acceptance-criteria", "user-story", "working-with-product", "backlog-refinement", "definition-of-ready", "saying-no"]

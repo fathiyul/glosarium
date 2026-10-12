@@ -1,7 +1,7 @@
 ---
 title: "Shotgun Surgery"
 summary: "One change requiring edits in many scattered places."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["shotgun surgery smell"]
 prereqs: ["single-responsibility-principle"]
 related: ["god-object", "feature-envy", "single-responsibility-principle", "primitive-obsession"]

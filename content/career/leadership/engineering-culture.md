@@ -1,7 +1,7 @@
 ---
 title: "Engineering Culture"
 summary: "The shared values and habits that shape how a team builds."
-levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff , tech-entrepreneur: growth }
+levels: { backend: staff, frontend: staff, data-engineer: staff , data-analyst: staff , tech-entrepreneur: growth , data-scientist: staff }
 ---
 
 Engineering culture is the collection of shared habits, expectations, and behaviors that shape how a team builds and operates software. It appears in how people review changes, respond to incidents, share context, make decisions, and treat one another—not only in stated values.

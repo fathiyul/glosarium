@@ -1,7 +1,7 @@
 ---
 title: "Panic"
 summary: "An unrecoverable error that aborts the program or thread."
-levels: { backend: mid-level, data-engineer: mid-level }
+levels: { backend: mid-level, data-engineer: mid-level , data-scientist: mid-level }
 aliases: ["panic!", "unrecoverable error"]
 prereqs: ["exception"]
 related: ["fail-fast", "error-codes-vs-exceptions", "checked-vs-unchecked-exception"]

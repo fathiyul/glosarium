@@ -1,7 +1,8 @@
 ---
 title: "Difference-in-Differences"
 summary: "Estimating an effect by comparing a treated group's change with an untreated group's change."
-levels: { data-analyst: senior }
+core: [data-scientist]
+levels: { data-analyst: senior , data-scientist: senior }
 aliases: ["difference in differences", "diff-in-diff", "double difference"]
 prereqs: ["quasi-experiment", "causal-inference", "regression-analysis"]
 related: ["quasi-experiment", "causal-inference", "confounding-variable", "randomized-controlled-trial", "seasonality"]

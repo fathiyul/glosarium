@@ -1,7 +1,7 @@
 ---
 title: "Variance and Standard Deviation"
 summary: "How spread out numbers are, and why the average alone misleads."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["variance", "standard deviation", "spread", "dispersion"]
 prereqs: ["descriptive-statistics", "central-tendency"]
 related: ["standard-deviation", "central-tendency", "outliers", "confidence-interval"]

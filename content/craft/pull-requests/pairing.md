@@ -1,7 +1,7 @@
 ---
 title: "Pair Programming"
 summary: "Two people working on the same code at the same time."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["pair programming", "pairing session", "mob programming"]
 prereqs: ["code-review", "asking-good-questions"]
 related: ["mob-programming", "mentoring", "giving-feedback", "rubber-duck-debugging", "code-review"]

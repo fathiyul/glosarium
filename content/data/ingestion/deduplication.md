@@ -1,7 +1,7 @@
 ---
 title: "Deduplication"
 summary: "Removing duplicate records that at-least-once delivery and retries create."
-levels: { data-engineer: junior }
+levels: { data-engineer: junior , data-scientist: junior }
 aliases: ["dedupe", "dedup", "removing duplicates", "duplicate records", "deduplicating data"]
 prereqs: ["data-ingestion", "window-function"]
 related: ["upsert", "high-water-mark", "idempotence", "merge-statement", "append-vs-merge", "window-function"]

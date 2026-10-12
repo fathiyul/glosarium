@@ -1,7 +1,7 @@
 ---
 title: "Box Plot"
 summary: "Summarising a whole distribution with a median box, whiskers and the outliers left outside."
-levels: { data-analyst: mid-level }
+levels: { data-analyst: mid-level , data-scientist: junior }
 aliases: ["boxplot", "box and whisker plot", "box-and-whisker diagram"]
 prereqs: ["descriptive-statistics", "quartiles-and-iqr"]
 related: ["histogram", "outliers", "distribution-shapes", "quartiles-and-iqr", "exploratory-data-analysis"]

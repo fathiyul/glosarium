@@ -1,7 +1,7 @@
 ---
 title: "Stub"
 summary: "A test double that returns canned answers."
-levels: { backend: junior, frontend: junior, data-engineer: junior }
+levels: { backend: junior, frontend: junior, data-engineer: junior , data-scientist: junior }
 aliases: ["stub", "test stub", "stubbing"]
 prereqs: ["test-double", "unit-test"]
 related: ["test-double", "mock", "fake", "spy", "dependency-injection"]

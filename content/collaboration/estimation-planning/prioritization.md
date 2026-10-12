@@ -1,7 +1,7 @@
 ---
 title: "Prioritization"
 summary: "Deciding what to do first: impact vs effort, urgent vs important."
-levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp }
+levels: { backend: mid-level, frontend: mid-level, data-engineer: mid-level , tech-entrepreneur: mvp , data-scientist: mid-level }
 aliases: ["prioritising", "prioritizing work", "priority setting", "what to work on first"]
 prereqs: ["estimation"]
 related: ["prioritization-frameworks", "cost-of-delay", "saying-no", "timeboxing", "roadmap", "scope-creep"]

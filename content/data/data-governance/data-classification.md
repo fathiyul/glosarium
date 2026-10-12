@@ -1,7 +1,7 @@
 ---
 title: "Data Classification"
 summary: "Labeling data by sensitivity: public, internal, confidential, restricted."
-levels: { data-engineer: mid-level , data-analyst: senior }
+levels: { data-engineer: mid-level , data-analyst: senior , data-scientist: mid-level }
 aliases: ["data sensitivity classification", "sensitivity labels", "data sensitivity levels", "classifying data"]
 prereqs: ["data-governance", "data-catalog"]
 related: ["data-governance", "pii", "data-masking", "column-level-security", "data-catalog", "data-retention"]
